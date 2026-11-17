@@ -1,0 +1,242 @@
+{
+  "id": "day-09",
+  "day": 9,
+  "title": "Socrates and the Examined Life",
+  "subtitle": "The barefoot questioner who claimed to know nothing and changed philosophy forever",
+  "philosophers": ["Socrates"],
+  "era": "469–399 BCE",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "Describe Socrates’ life and explain the “Socratic problem” of reconstructing a thinker who wrote nothing",
+    "Retell the story of the Delphic oracle and explain what Socratic ignorance means",
+    "Explain how the Socratic method (elenchus) works, using an example from Plato’s dialogues",
+    "Explain the claims that virtue is knowledge and that no one does wrong willingly, and the strongest objection to them",
+    "Explain why Socrates thought the unexamined life is not worth living, and evaluate that claim for yourself"
+  ],
+  "hook": "Picture the agora, the bustling marketplace at the heart of Athens, around 420 BCE. Merchants shout, politicians gossip, young men gather in the shade of the colonnades. Into this crowd walks a strange figure: middle-aged, stocky, snub-nosed, with bulging eyes, wearing the same shabby cloak in summer and winter, usually barefoot. He stops a respected general and asks, with what seems like genuine curiosity, “What is courage?” The general gives a confident answer. A few questions later, the general is tangled in contradictions and has to admit he does not know what he is talking about. A crowd of young men watches, delighted.\n\nThis was Socrates. He wrote nothing, founded no school, charged no fees and claimed to have no wisdom. Yet nearly every philosopher since has been influenced by him, and Greek philosophy is often divided into the thinkers who came before him, the Presocratics you have studied for five days, and those who came after. How did a man who only asked questions become the most famous philosopher in history? And why did his questions eventually cost him his life?",
+  "sections": [
+    {
+      "heading": "The Man in the Marketplace",
+      "body": "**Socrates** was born in Athens in 469 BCE and died there in 399 BCE. His father, Sophroniscus, is said to have been a stonemason or sculptor, and his mother, Phaenarete, a midwife, a fact Socrates would later turn into a famous metaphor. He was a citizen of modest means. He married Xanthippe, who in later anecdotes became a stock figure of the nagging wife, a caricature that tells us more about the storytellers than about her. They had three sons.\n\nSocrates did his duty as a citizen-soldier, fighting as a heavily armed infantryman (a hoplite) in at least three campaigns of the Peloponnesian War between Athens and Sparta: at Potidaea, Delium and Amphipolis. Plato’s *Symposium* records the testimony of the brilliant and notorious politician Alcibiades, who says that Socrates saved his life at Potidaea, endured the freezing winter barefoot, and showed remarkable calm during the retreat from Delium. His physical toughness was legendary; so was his ugliness. Alcibiades compares him to the statues of satyrs sold in shops, ugly on the outside but which open up to reveal little images of gods inside.\n\nMost of his time, however, he spent talking. He questioned anyone willing: politicians, poets, craftsmen, generals, Sophists and especially young men from wealthy families, who followed him around and enjoyed seeing the powerful made to look foolish. He also reported something unusual about himself: a **daimonion**, a divine sign or inner voice, which he said had come to him since childhood. It never told him what to do, only occasionally held him back from doing something wrong.\n\nIt is important to see how Socrates differed from the Sophists you met on Day 8, even though many Athenians lumped them together. He took no fees. He did not claim to teach success. He did not give long display speeches, preferring short questions and answers. And he did not travel; except for military service, he rarely left Athens. Unlike the natural philosophers of Days 2 to 7, he was not interested in the composition of the cosmos. According to the later Roman writer Cicero, Socrates was the first to call philosophy down from the heavens and place it in cities and homes, making it ask about life, morals, good and evil."
+    },
+    {
+      "heading": "Which Socrates? The Problem of Sources",
+      "body": "Socrates wrote nothing. Everything we know about him comes from others, and they paint different pictures. Scholars call this the **Socratic problem**.\n\nOur main sources are:\n\n- **Plato** (c. 427–347 BCE), his most brilliant follower, who wrote dozens of philosophical dialogues, almost all starring Socrates. Plato was a great writer and an original philosopher, and in his later works, “Socrates” clearly becomes a mouthpiece for Plato’s own theories, such as the theory of Forms you will meet on Day 11.\n- **Xenophon** (c. 430–c. 354 BCE), a soldier and writer who also knew Socrates and wrote several works about him, including the *Memorabilia*. His Socrates is wise and pious, a dispenser of practical advice, but less philosophically daring than Plato’s.\n- **Aristophanes**, the comic playwright, whose *Clouds* (423 BCE) caricatures Socrates as a fraud who runs a school of dishonest argument and studies the heavens. It is satire, not biography.\n- **Aristotle**, born fifteen years after Socrates died, who reports a few philosophical claims as Socrates’ own and tries to distinguish them from Plato’s.\n\nMost scholars use Plato’s early dialogues, works like the *Apology*, *Crito*, *Euthyphro*, *Laches* and *Charmides*, as the best evidence for the historical Socrates’ method and concerns, while recognizing that even these are Plato’s literary creations. That is the approach we will take, with caution. When we say “Socrates believed,” we often mean “the Socrates of Plato’s early dialogues.” Remember the similar problem with Pythagoras on Day 3: when a teacher writes nothing, his students inevitably shape him in their own image."
+    },
+    {
+      "heading": "The Oracle and the Wisest Man",
+      "body": "Why did Socrates spend his life questioning people? In Plato’s *Apology*, the speech Socrates gave at his trial (which you will study closely on Day 10), he explains with a story.\n\nHis friend Chaerephon, an impulsive man, once went to the oracle of Apollo at Delphi, the most sacred source of prophecy in the Greek world, and asked whether anyone was wiser than Socrates. The priestess answered that no one was wiser. Socrates says he was baffled. He was conscious of having no wisdom, great or small. Yet the god could not lie. What could the riddle mean?\n\nSo he set out to test it. He went to a politician with a great reputation for wisdom, questioned him, and found that the man thought he knew a great deal but did not. Socrates concluded that he himself was wiser in one small respect: neither of them knew anything really fine and good, but the politician thought he knew when he did not, while Socrates, not knowing, did not think he knew (*Apology* 21d). He tried the poets next, and found they wrote beautiful works through inspiration, not understanding, and could not explain their own poems. The craftsmen did know their crafts, but because of this they thought they knew about the most important matters too.\n\nThe meaning of the oracle, Socrates decided, was that human wisdom is worth little or nothing, and the wisest human is the one who, like Socrates, recognizes that his wisdom is worthless. This attitude is called **Socratic ignorance**. It is often summed up as “I know that I know nothing,” but that exact phrase does not appear in Plato; it is a later slogan. Socrates’ actual claim is more careful. He did not say he knew nothing at all. He said he lacked knowledge of the most important things, such as what virtue is, and that he did not pretend otherwise.\n\nHe came to see questioning as a mission from the god: to examine himself and others, and to expose false claims to wisdom. Naturally, this made him enemies. People rarely thank you for showing them, in public, that they do not know what they are talking about."
+    },
+    {
+      "heading": "The Socratic Method in Action",
+      "body": "Socrates’ way of questioning is called the **elenchus**, a Greek word meaning examination, test or refutation. It usually has a recognizable pattern:\n\n1. Socrates asks a question of the form “What is X?”, where X is a moral quality such as courage, piety, justice or self-control.\n2. The other person offers a definition.\n3. Socrates asks further questions, getting agreement to other statements that seem obvious.\n4. He shows that these agreed statements contradict the original definition.\n5. The person tries a new definition, and the process repeats, until everyone ends in **aporia**: puzzlement, being at a loss, with no way forward.\n\nHere is a condensed example from Plato’s *Laches*. Socrates asks Laches, an experienced Athenian general, what courage is. Laches answers confidently: courage is standing your ground in battle and not running away. Socrates points out that some soldiers win battles by retreating and then turning to fight, as the Scythian cavalry did, and as the Spartans did at Plataea. Laches agrees that his definition is too narrow; there is courage in illness, poverty and politics too.\n\nSo Laches tries again: courage is a kind of endurance of the soul. Socrates asks whether courage is always something fine and good. Laches agrees. But is foolish endurance fine? No, Laches admits, foolish endurance is harmful. So courage must be *wise* endurance. Then Socrates offers examples: a man who endures in spending money because he knows he will profit later, or a doctor who refuses to give in to a patient’s pleas. Are they courageous? Surely not. And a soldier who holds his position knowing reinforcements are coming seems *less* courageous than one who holds out without that knowledge. So courage cannot simply be wise endurance either. Laches, frustrated, says he feels he knows what courage is but cannot put it into words. The dialogue ends without an answer.\n\nNotice what Socrates wants. Not examples, but a definition that captures what all cases have in common, the single feature that makes every courageous act courageous. This search for the essence of a thing will lead directly to Plato’s Forms on Day 11.\n\nWhy does Socrates claim not to know the answer? Many readers have seen **Socratic irony** at work: pretending to be ignorant in order to draw others out and expose their errors. The Greek *eironeia* meant something like sly dissembling. Was his ignorance a pose? Scholars disagree. Perhaps he had beliefs, even strong ones, but did not think they amounted to the kind of certain, explanatory knowledge he was looking for.\n\nIn Plato’s *Theaetetus*, Socrates describes himself as a **midwife**, like his mother. He has no ideas of his own to give birth to, but he helps others deliver theirs, and then tests whether the newborn idea is genuine or a mere “wind-egg” that should be discarded. The method is not designed to give answers; it is designed to clear away false confidence so that real inquiry can begin."
+    },
+    {
+      "heading": "Virtue Is Knowledge",
+      "body": "Although he claimed ignorance, Socrates did hold some striking views, often called the **Socratic paradoxes** because they go against common sense.\n\nThe first is that **virtue is knowledge**. The Greek word *aretē*, usually translated “virtue,” means excellence: the quality that makes something good at being what it is. A knife’s aretē is cutting well; a human being’s aretē is living well. Socrates held that if you truly know what is good, you will do it. Courage, justice, self-control and piety are not separate talents but forms of a single wisdom about what is truly good and bad.\n\nThe second follows from the first: **no one does wrong willingly**. Everyone wants what is good for themselves. If a person does wrong, it must be because they are mistaken about what is truly good, for instance thinking that money or power will make them happy when it actually harms their soul. Wrongdoing is a form of ignorance, so the cure is education, not punishment alone.\n\nThis view faces an obvious objection. Haven’t you ever known that something was bad for you and done it anyway? Eaten the third slice of cake, stayed up too late, snapped at someone you love? The Greeks called this **akrasia**, weakness of will: acting against your own better judgment. Socrates, in Plato’s *Protagoras*, seems to deny that it really happens. What looks like weakness of will is really a momentary mistake: the pleasure close at hand appears larger, like a nearby object, and distorts our judgment. Aristotle later found this unconvincing and offered a more complex account (Day 20). Medieval thinkers like Augustine (Day 30) would place weakness of will at the center of the human condition.\n\nA third claim is just as startling: it is better to suffer injustice than to do it (Plato, *Gorgias*). Doing wrong damages the most valuable thing you have, your soul, while suffering wrong can only harm your body or property. For Socrates, the most important task in life is **care for the soul**: making yourself as good and wise as possible.\n\nAll of this comes together in his most famous saying, spoken at his trial:\n\n> The unexamined life is not worth living for a human being. (Plato, *Apology* 38a)\n\nWhy such a strong claim? Because if virtue is knowledge, and we lack knowledge of what is good, then our only hope of living well is to keep examining our beliefs, testing them, discarding the false ones and refining the rest. A life that never does this is drifting, governed by unexamined opinions borrowed from others. Socrates believed such a life fell short of what a human being can be.\n\nThis mission made Socrates admired and hated in equal measure. Some of the young men who followed him became notorious, including Alcibiades, who betrayed Athens to Sparta, and Critias, a leader of the brutal regime of the Thirty Tyrants. In 399 BCE, Socrates was put on trial. Tomorrow, on Day 10, you will follow him into the courtroom."
+    }
+  ],
+  "keyQuote": {
+    "text": "The unexamined life is not worth living for a human being.",
+    "source": "Socrates, in Plato’s Apology 38a"
+  },
+  "modernConnection": {
+    "title": "Socratic Questioning in Classrooms, Courtrooms and Therapy",
+    "body": "Socrates’ method lives on in some surprising places. In the 1870s, Christopher Columbus Langdell, dean of Harvard Law School, introduced a style of teaching in which professors question students closely about legal cases rather than lecturing. It became known as the Socratic method and spread through American law schools, made famous by the demanding professor in the 1973 film *The Paper Chase*. Critics note that it can become a performance of humiliation, which some of Socrates’ victims might say was true of the original as well.\n\nIn psychology, cognitive therapy, developed by Aaron Beck in the 1960s, uses what therapists call Socratic questioning. Instead of telling a patient that a belief such as “I am a total failure” is false, the therapist asks questions: What is the evidence? Is there another way to see it? What would you say to a friend who thought this? The aim, as with Socrates, is to help people discover for themselves that a confidently held belief does not survive examination. You will see a related idea with the Stoics in Unit 4.\n\nSocratic ignorance has a modern counterpart too. Psychologists study “intellectual humility,” the willingness to recognize the limits of one’s knowledge. Research suggests that people who score higher on measures of it tend to evaluate evidence more carefully. A widely cited 1999 study by David Dunning and Justin Kruger suggested that people with the least skill in a domain often overestimate their ability, though later researchers have debated how much of that effect is a statistical artifact.\n\nThe comparison has limits. Modern Socratic questioning is usually gentle and aimed at helping individuals feel better or learn law; Socrates aimed at truth about how to live, and did not care whether his questions made people comfortable. He often left people more confused than before. And Socrates believed there really are objective answers about justice and courage, even if no one yet knew them. In an age of instant opinions and online arguments, his deepest lesson may be the hardest: before trying to win, find out whether you actually know what you are talking about."
+  },
+  "vocabulary": [
+    {
+      "term": "Elenchus",
+      "definition": "The Socratic method of examination: questioning someone’s belief, drawing out its consequences and showing that it conflicts with other things they accept.",
+      "example": "Through elenchus, Socrates showed Laches that his definition of courage was too narrow."
+    },
+    {
+      "term": "Aporia",
+      "definition": "Puzzlement or being at a loss; the state in which many Socratic dialogues end, with no satisfactory answer found.",
+      "example": "After three failed definitions, the conversation ended in aporia."
+    },
+    {
+      "term": "Socratic ignorance",
+      "definition": "Socrates’ awareness that he lacked knowledge of the most important matters, combined with his refusal to pretend otherwise.",
+      "example": "Socratic ignorance made him wiser than the politician, who thought he knew what he did not."
+    },
+    {
+      "term": "Socratic irony",
+      "definition": "Socrates’ habit of professing ignorance and praising others’ wisdom, sometimes seen as a pose to draw them out and expose their errors.",
+      "example": "When Socrates begged the expert to teach him, many readers suspect Socratic irony."
+    },
+    {
+      "term": "Virtue (aretē)",
+      "definition": "Excellence; the quality that makes something good at being what it is. For humans, the qualities that make a person live well, such as courage, justice and wisdom.",
+      "example": "For Socrates, virtue is a kind of knowledge of what is truly good."
+    },
+    {
+      "term": "Akrasia",
+      "definition": "Weakness of will: knowingly acting against one’s own better judgment.",
+      "example": "Scrolling your phone at 2 a.m. while knowing you need sleep looks like a case of akrasia."
+    },
+    {
+      "term": "Daimonion",
+      "definition": "The divine sign or inner voice that Socrates said occasionally warned him against doing something.",
+      "example": "Socrates said his daimonion never urged him forward, only held him back."
+    },
+    {
+      "term": "Socratic problem",
+      "definition": "The difficulty of reconstructing the views of the historical Socrates, who wrote nothing, from differing accounts by Plato, Xenophon, Aristophanes and Aristotle.",
+      "example": "Because of the Socratic problem, scholars debate whether the theory of Forms belongs to Socrates or to Plato."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Examine One of Your Beliefs",
+    "prompt": "Socrates thought the unexamined life is not worth living. Put one of your own convictions through a Socratic examination, with yourself playing both roles. Spend 10 to 15 minutes writing.",
+    "steps": [
+      "Choose a value word you use often and care about: for example fairness, friendship, success or kindness. Write a one-sentence definition: “X is ...”",
+      "Now play Socrates. Think of one case that fits your definition but is clearly not X, or one case of X that your definition leaves out. Write it down.",
+      "Revise your definition to handle the counterexample. Then look for a new counterexample. Repeat at least twice.",
+      "Reflect: did you reach a satisfying definition, or end in aporia? Did the exercise change how you understand the word, even if you could not define it?",
+      "Finally, think of one action you know is good for you but often fail to do. Write whether you think Socrates is right that this is really a kind of ignorance, or whether it is genuine weakness of will."
+    ]
+  },
+  "summary": [
+    "Socrates (469–399 BCE) was an Athenian citizen, soldier and relentless questioner who wrote nothing, took no fees and turned philosophy from the cosmos to how we should live.",
+    "We know him through Plato, Xenophon, Aristophanes and Aristotle, whose differing pictures create the “Socratic problem”; Plato’s early dialogues are the usual guide.",
+    "The Delphic oracle said no one was wiser; Socrates concluded that his wisdom lay in recognizing his own ignorance about the most important things.",
+    "The elenchus tests definitions of moral qualities by drawing out contradictions, often ending in aporia; its goal is to remove false confidence and seek the essence of things.",
+    "Socrates held that virtue is knowledge, no one does wrong willingly, and it is better to suffer injustice than to do it; critics point to weakness of will (akrasia).",
+    "For Socrates the most important task is care for the soul through constant self-examination: the unexamined life is not worth living."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What is the “Socratic problem”?",
+      "options": [
+        "The question of how Socrates could be wise if he knew nothing",
+        "The difficulty of knowing what the historical Socrates thought, since he wrote nothing and our sources differ",
+        "The puzzle of why Socrates refused to escape from prison",
+        "The paradox that no one does wrong willingly"
+      ],
+      "answer": 1,
+      "explanation": "Since Socrates left no writings, we must reconstruct him from Plato, Xenophon, Aristophanes and Aristotle, who give different portraits."
+    },
+    {
+      "type": "mc",
+      "question": "How did Socrates interpret the oracle’s statement that no one was wiser than him?",
+      "options": [
+        "He was the wisest because he knew more facts than anyone else",
+        "The oracle was mistaken, and he set out to prove it wrong",
+        "He was wiser only in that he did not think he knew what he did not know",
+        "The god meant that Socrates should become a teacher of rhetoric"
+      ],
+      "answer": 2,
+      "explanation": "After questioning politicians, poets and craftsmen, he concluded his only advantage was recognizing his own ignorance about the most important matters."
+    },
+    {
+      "type": "tf",
+      "question": "The exact phrase “I know that I know nothing” appears in Plato’s Apology.",
+      "answer": false,
+      "explanation": "It is a later summary. In the Apology, Socrates says more carefully that he does not think he knows what he does not know."
+    },
+    {
+      "type": "mc",
+      "question": "In the Laches, why does Socrates reject the definition of courage as “standing your ground in battle”?",
+      "options": [
+        "Because courage also appears in retreats that turn to fight, and in illness, poverty and politics",
+        "Because Socrates believed courage is not a virtue",
+        "Because Laches had never fought in a battle",
+        "Because the oracle at Delphi had given a different definition"
+      ],
+      "answer": 0,
+      "explanation": "The definition is too narrow: it excludes courageous tactical retreats and the many forms of courage outside battle."
+    },
+    {
+      "type": "mc",
+      "question": "What does a typical Socratic elenchus aim to find?",
+      "options": [
+        "A list of examples of a virtue",
+        "A persuasive speech that wins over a jury",
+        "The physical substance from which the soul is made",
+        "A definition stating what all cases of a quality have in common"
+      ],
+      "answer": 3,
+      "explanation": "Socrates wanted the essence of courage or piety, the single feature shared by every instance, not examples. This search leads to Plato’s Forms."
+    },
+    {
+      "type": "mc",
+      "question": "According to the Socratic paradox that no one does wrong willingly, why do people do wrong?",
+      "options": [
+        "Because they are born evil",
+        "Because the gods compel them",
+        "Because they are mistaken about what is truly good for them",
+        "Because laws are mere conventions"
+      ],
+      "answer": 2,
+      "explanation": "Everyone wants what is good for themselves, so wrongdoing must stem from ignorance about what that good really is."
+    },
+    {
+      "type": "tf",
+      "question": "Akrasia, or weakness of will, poses a challenge to Socrates’ claim that virtue is knowledge.",
+      "answer": true,
+      "explanation": "If people sometimes knowingly act against their better judgment, then knowing the good does not guarantee doing it."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern practice most closely resembles the Socratic method?",
+      "options": [
+        "A lecturer reading notes to a silent audience",
+        "A therapist asking a patient what evidence supports the belief “I am a total failure”",
+        "A salesperson using flattery to close a deal",
+        "A scientist publishing data in a journal"
+      ],
+      "answer": 1,
+      "explanation": "Socratic questioning in cognitive therapy helps people examine and test their own beliefs, rather than simply being told what to think."
+    },
+    {
+      "type": "tf",
+      "question": "Unlike the Sophists, Socrates charged no fees for his conversations.",
+      "answer": true,
+      "explanation": "Plato stresses this difference: Socrates took no money and claimed no wisdom to sell, even though many Athenians confused him with the Sophists."
+    },
+    {
+      "type": "mc",
+      "question": "Why did Socrates believe the unexamined life is not worth living?",
+      "options": [
+        "Because examining life is the best way to gain wealth and fame",
+        "Because the gods punish those who do not study philosophy",
+        "Because living well requires knowledge of the good, which we can only approach by constantly testing our beliefs",
+        "Because he thought most people should become professional philosophers"
+      ],
+      "answer": 2,
+      "explanation": "If virtue is knowledge and we lack it, then examining our beliefs is the only route to caring for the soul and living well."
+    }
+  ],
+  "goDeeper": {
+    "body": "What, exactly, does the elenchus prove? This is one of the most debated questions in Socratic scholarship. In a famous 1983 paper, “The Socratic Elenchus,” Gregory Vlastos pointed out a puzzle. The elenchus can show only that a person’s beliefs are inconsistent: that the definition conflicts with other beliefs they hold. It cannot show which belief is false. Yet Socrates often speaks as though he has refuted the definition, as though the other beliefs are secure. Vlastos suggested that Socrates assumed that anyone’s moral beliefs, if examined, would always contain true beliefs that contradict the false ones, so that the elenchus gradually filters toward truth. Others, like Richard Kraut and Hugh Benson, have proposed alternative accounts, some arguing that the elenchus is mainly a tool for exposing false claims to knowledge rather than for establishing positive truths.\n\nVlastos also argued that Socrates used “knowledge” in two senses: certain, explanatory knowledge, which he disclaimed, and a more modest, fallible justified belief, which he could claim. This would explain how Socrates could profess ignorance and still hold firm convictions, such as that it is better to suffer injustice than to do it.\n\nAnother debate concerns intellectualism, the view that knowing the good is sufficient for doing it. Some recent scholars, such as Terry Penner and Christopher Rowe, defend a strict intellectualist reading of Socrates, while others think he left more room for desire and emotion. The question matters well beyond ancient philosophy: modern psychology and behavioral economics have studied at length the gap between what we know is good for us and what we actually do, a gap Socrates seemed to deny.",
+    "readings": [
+      {
+        "title": "Apology",
+        "author": "Plato",
+        "note": "Short and essential; read 20c–23c for the oracle story and 38a for the examined life, and prepare for Day 10."
+      },
+      {
+        "title": "Laches",
+        "author": "Plato",
+        "note": "A brief, entertaining dialogue on courage that shows the elenchus in full, ending in aporia."
+      },
+      {
+        "title": "Socrates: Ironist and Moral Philosopher",
+        "author": "Gregory Vlastos",
+        "note": "An influential scholarly book on the historical Socrates, his irony and his method; demanding but rewarding."
+      },
+      {
+        "title": "Socrates: A Very Short Introduction",
+        "author": "C. C. W. Taylor",
+        "note": "A clear, brief overview of Socrates’ life, the sources and his philosophy."
+      }
+    ],
+    "questions": [
+      "Is Socratic ignorance a genuine virtue, or can too much doubt keep us from acting when we need to?",
+      "Do you think anyone ever knowingly does what they believe is bad for them? What would Socrates say about your examples?",
+      "Is Socrates’ claim that the unexamined life is not worth living too harsh on people who never have the time or opportunity to philosophize?"
+    ]
+  }
+}
