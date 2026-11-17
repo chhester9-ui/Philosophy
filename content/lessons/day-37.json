@@ -1,0 +1,227 @@
+{
+  "id": "day-37",
+  "day": 37,
+  "title": "Review: Medieval Philosophy",
+  "subtitle": "A thousand years of arguing with God, Aristotle and each other",
+  "philosophers": ["Augustine", "Boethius", "al-Kindi", "al-Farabi", "Avicenna", "al-Ghazali", "Averroes", "Maimonides", "Anselm", "Abelard", "Thomas Aquinas", "William of Ockham"],
+  "era": "c. 400–1350 CE",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to trace the main storyline of medieval philosophy from Augustine to Ockham.",
+    "Compare how Christian, Muslim and Jewish thinkers handled the relationship between faith and reason.",
+    "Explain and contrast the major arguments for God's existence covered this week: Avicenna's necessary being, Anselm's ontological argument and Aquinas' Five Ways.",
+    "Connect medieval debates about evil, free will, universals and natural law to questions we still argue about.",
+    "Test yourself on the whole unit with a 15-question cumulative quiz."
+  ],
+  "hook": "Imagine a single long conversation that lasts a thousand years. It begins in a garden in Milan in 386, when a restless African professor of rhetoric hears a child's voice chanting “take up and read.” It passes through a prison cell in Pavia, a library in Baghdad, a madrasa in Nishapur, a courtroom in Córdoba, a monastery in Normandy, a lecture hall in Paris, and ends with an English friar on the run from the Pope, sheltering at the court of a German emperor.\n\nThe people in this conversation spoke Latin, Arabic, Hebrew and Greek. They prayed in churches, mosques and synagogues. Yet they were reading many of the same books, above all Plato and Aristotle, and asking many of the same questions. Can reason prove that God exists? If God is good, why is there evil? If God knows the future, am I free? Do general things like “humanity” really exist? And when faith and reason seem to collide, which one gives way? Today we step back from the details of Days 30 to 36 and look at the shape of the whole conversation.",
+  "sections": [
+    {
+      "heading": "The Big Question: Athens and Jerusalem",
+      "body": "Around the year 200, the Christian writer Tertullian asked a famous rhetorical question: what has Athens to do with Jerusalem? Athens stood for Greek philosophy, Jerusalem for revealed religion. Tertullian's answer was roughly “nothing,” but almost every thinker we met this unit gave a different answer: a great deal.\n\nThe shared problem was this. Medieval thinkers inherited two sources of authority. One was **revelation**: truths believed to be disclosed by God through scripture (the Bible, the Torah, the Qur'an). The other was **reason**: what the human mind can work out on its own through argument and observation, with Aristotle as its supreme teacher. Most of the time the two agreed. But sometimes they seemed to clash. Aristotle taught that the world had always existed; scripture said it was created. Aristotle's God seemed to think only about itself; the God of scripture knows every sparrow that falls.\n\nWe can sort the thinkers of this unit by how they handled these clashes:\n\n- **Faith first, then understanding.** Augustine (Day 30) believed that we must believe in order to understand. Faith is the door; reason then explores the house. Anselm (Day 34) put this as the motto *fides quaerens intellectum*, “faith seeking understanding.”\n- **Reason has limits that faith must patrol.** Al-Ghazali (Day 33) argued that philosophers overreached when they claimed to prove things about God and the world that reason cannot actually establish.\n- **Two routes to one truth.** Averroes (Day 33) and Aquinas (Days 35–36) held that truth cannot contradict truth. If reason and scripture seem to disagree, we have misread one of them.\n- **Reason should be modest.** Maimonides (Day 33) and later Ockham (Day 36) were sharply aware of how little the human mind can say about God, and both pushed philosophy toward humility.\n\nKeep this map in mind as we revisit each figure."
+    },
+    {
+      "heading": "Augustine and Boethius: The Inner Life and the Problem of Evil",
+      "body": "**Augustine** (354–430) gave the Middle Ages its starting point. His *Confessions* (written c. 397–400) is the first great autobiography of an inner life, and it opens with the line that sums up his whole outlook: “you have made us for yourself, and our heart is restless until it rests in you.” Human beings are not neutral calculators; we are lovers, and what matters most is what we love.\n\nAugustine's struggle with evil shaped Western thought for centuries. As a young man he followed the Manichaeans, who believed in two rival cosmic powers, one good and one evil. He came to reject this. Drawing on Plotinus (Day 28), he argued that evil is not a thing at all but a **privation**: an absence or lack of a good that should be there, like blindness in an eye or rot in a piece of fruit. God created only good things; evil is what happens when good things fall away from their proper order.\n\nWhere does that falling away come from? From the misuse of **free will**. God gave creatures the power to choose, which is a great good, and they can turn away from the highest good toward lesser goods. This is the **free will defense**: moral evil comes from creatures, not from God. Critics ask about earthquakes and diseases, which nobody chooses.\n\nOn Day 31 we met two more of Augustine's legacies. In *Confessions* Book XI he admitted that he knows what time is until someone asks him to explain it. He suggested that past and future exist only in the mind, as memory and expectation, a startlingly modern, psychological view. In *City of God* (413–426), written after the Goths sacked Rome in 410, he distinguished the earthly city, built on love of self, from the heavenly city, built on love of God. No political order, not even Rome, is ultimate.\n\n**Boethius** (c. 477–524) brings us the most moving scene of the unit. A Roman statesman under the Ostrogothic king Theodoric, he was accused of treason, imprisoned and executed. In his cell he wrote *The Consolation of Philosophy*, in which Lady Philosophy visits him and reminds him that Fortune turns her wheel for everyone, so that wealth and fame were never truly his. Real happiness lies in the one good that cannot be taken away.\n\nBoethius also tackled the puzzle of divine **foreknowledge**: if God already knows what I will do tomorrow, how can I be free to do otherwise? His answer was that God is eternal, outside time, seeing all moments in a single present, the way you might watch someone walking without forcing their steps. God's knowing does not cause our choices."
+    },
+    {
+      "heading": "The Islamic Golden Age and Its Great Debate",
+      "body": "While Latin Europe had lost much of Greek learning, the Abbasid caliphate in Baghdad was translating it. In what tradition calls the **House of Wisdom**, especially under the caliph al-Ma'mun (reigned 813–833), scholars, many of them Syriac-speaking Christians, rendered Aristotle, Plato, Galen and Euclid into Arabic. Philosophy in Arabic, called *falsafa*, grew from this soil.\n\n**Al-Kindi** (c. 801–873), the “philosopher of the Arabs,” argued that truth should be welcomed whatever its source, even from foreign peoples. **Al-Farabi** (c. 870–950), honored as the “Second Teacher” after Aristotle, wrote about the virtuous city, a Platonic vision of a community led by a wise ruler toward true happiness.\n\n**Avicenna** (Ibn Sina, 980–1037) was the system-builder. Two ideas stood out on Day 32. First, the **floating man**: imagine a person created in mid-air, blindfolded, limbs spread so they touch nothing, with no sensations at all. Would they still know that they exist? Avicenna said yes, which suggests that the self is something distinct from the body (Descartes runs a similar experiment on Day 43). Second, the distinction between **essence and existence**: knowing *what* something is (a unicorn, a triangle) does not tell you *whether* it is. Everything in the world merely might exist; its existence must come from elsewhere. Following that chain leads to a **necessary being**, one whose essence just is to exist: God.\n\nThen came the backlash. **Al-Ghazali** (1058–1111), in *The Incoherence of the Philosophers*, accused the falasifa of claiming more than their arguments could prove, and he singled out three doctrines (the eternity of the world, God's knowing only universals, and the denial of bodily resurrection) as incompatible with Islam. His most famous move concerned causation. When cotton touches fire and burns, we see the two events together, but we never see a necessary connection between them. God could, in principle, let the cotton touch the flame and not burn. (Remember this when you meet David Hume on Day 49; the parallel is remarkable.)\n\n**Averroes** (Ibn Rushd, 1126–1198), a judge in Córdoba and the great commentator on Aristotle, replied with *The Incoherence of the Incoherence*. Denying real causes, he argued, destroys knowledge itself. In his *Decisive Treatise* he argued that the Qur'an actually commands those who are able to study philosophy, and that demonstrated truth cannot conflict with scripture rightly interpreted.\n\nThe Jewish philosopher **Maimonides** (1138–1204), born in Córdoba and later a court physician in Egypt, wrote *The Guide for the Perplexed* for readers torn between the Torah and Aristotle. His **negative theology** held that we can say only what God is *not*. Calling God “wise” or “powerful” risks treating God as a bigger version of us; the safer path is to strip away every limitation until we stand in respectful silence."
+    },
+    {
+      "heading": "Proving God: Three Kinds of Argument",
+      "body": "One of the best ways to review this unit is to line up the arguments for God's existence side by side. They work in very different ways.\n\n**Avicenna's argument from contingency.** Things in the world are **contingent**: they could have failed to exist. A contingent thing needs a cause outside itself. Even an infinite collection of contingent things would still be contingent as a whole and still need explaining. So there must be a necessary being that explains it all.\n\n**Anselm's ontological argument** (Day 34), from his *Proslogion* (1077–78), is entirely different because it uses no observation at all. God is defined as “that than which nothing greater can be thought.” Even the fool who denies God understands this phrase, so God exists at least in the mind. But a being that exists in reality as well as in the mind would be greater than one that exists only in the mind. So if God existed only in the mind, we could think of something greater, which contradicts the definition. Therefore God exists in reality. The monk **Gaunilo** replied with a parody: imagine the greatest possible island; by the same logic it must exist. Anselm answered that his reasoning only works for a being whose greatness is unlimited, not for islands. Philosophers are still arguing; Descartes will revive the argument (Day 44), and Kant will attack it (Day 55).\n\n**Aquinas' Five Ways** (Day 35), set out briefly near the start of his *Summa Theologiae*, start from features of the world we observe:\n\n1. Things change (Aquinas says “move”), so there must be a first unmoved mover.\n2. Things are caused, so there must be a first efficient cause.\n3. Things are contingent, so there must be a necessary being.\n4. Things have degrees of goodness and perfection, so there must be a maximum that is the source of them.\n5. Things without intelligence act for ends, so there must be an intelligence directing them.\n\nNotice the family resemblance. The first three echo Aristotle and Avicenna; the fifth anticipates the later “design argument.” Notice also what Aquinas did *not* do: he rejected Anselm's ontological argument, insisting that we must reason from effects we can see up to their hidden cause.\n\nA common objection to all the causal arguments is this: why can't the chain of causes go back forever? Aquinas' reply is subtle. His chains are mainly about causes that hold things up *right now*, like a chain of hands holding a lamp, not a series stretching back through time. An endless series of holders, none of which holds anything by itself, would explain nothing."
+    },
+    {
+      "heading": "Universals, Natural Law and the Razor",
+      "body": "Not every medieval debate was about God directly. On Day 34 we met the **problem of universals**. When we say Socrates and Plato are both “human,” is there some real thing, humanity, that they share? **Realists** said yes: universals exist, either as Platonic Forms or as real natures in things. **Nominalists** said no: only individual things exist, and “human” is just a name (Latin *nomen*) we apply to many of them. **Peter Abelard** (1079–1142), the brilliant and quarrelsome Paris teacher remembered for his tragic love affair with Heloise, took a middle path often called **conceptualism**: universals are concepts in our minds, grounded in real likenesses between things. Abelard's *Sic et Non* (“Yes and No”) lined up authorities that seemed to contradict each other, helping to create the **scholastic method** of question, objection, reply.\n\nAquinas used that method to build an ethics as well as a theology. His **natural law** theory (Day 36) holds that human beings, simply by reason, can grasp basic precepts built into our nature. The first is that good is to be done and pursued and evil avoided; from our natural inclinations to preserve life, raise children, know the truth and live in society follow further precepts. A human law that flatly contradicts natural law is, in an important sense, not a true law at all, an idea Martin Luther King Jr. drew on in his 1963 *Letter from Birmingham Jail*.\n\nAquinas also gave us the seed of the **doctrine of double effect**: in defending yourself you may foresee that your attacker will die, but if you intend only to save your life and use proportionate force, the death is a side effect rather than your aim. And he summarized three conditions for a **just war**: legitimate authority, a just cause, and right intention.\n\nFinally, **William of Ockham** (c. 1287–1347) took nominalism to its sharpest form and, in a sense, brought the high medieval synthesis to an end. His principle of parsimony, later called **Ockham's razor**, says that we should not posit more entities than necessary. (The famous wording “entities must not be multiplied beyond necessity” comes from later writers; Ockham's own phrasings say that a plurality should not be posited without necessity.) Shave away universals, shave away many of Aquinas' metaphysical distinctions, and you are left with individual things and a God whose absolute power is not bound by our theories. Some historians see in Ockham the seeds of modern empiricism and science; others see a shift that weakened the confident union of faith and reason. Either way, he points us toward the next unit."
+    },
+    {
+      "heading": "How They Answered the Same Questions",
+      "body": "Let's pull everything together by asking four questions and seeing how the thinkers line up.\n\n**Can reason reach God?** Avicenna, Anselm and Aquinas said yes, though by different roads: from contingency, from a definition, and from observed features of the world. Maimonides said reason can show *that* God exists but can say almost nothing about *what* God is. Al-Ghazali allowed philosophy a role but denied that the philosophers' particular proofs about God's nature succeeded. Ockham doubted that many of the traditional proofs were truly demonstrative.\n\n**Why is there evil?** Augustine: evil is privation, and moral evil comes from free will. Boethius: apparent misfortunes are Fortune's wheel turning, and true goods cannot be lost. Aquinas largely followed Augustine.\n\n**Are we free if God knows everything?** Boethius: yes, because God sees all of time in one eternal present. Augustine argued similarly that foreknowledge is not compulsion.\n\n**What exists?** Realists filled the world with real natures; Abelard placed universals in the mind; Ockham kept only individuals.\n\nA useful exam tip: medieval philosophy is not one position but a family argument. Notice that Christian, Muslim and Jewish thinkers read each other. Aquinas cites Avicenna, Averroes (simply as “the Commentator”) and Maimonides (as “Rabbi Moses”). Remember too that the label “Dark Ages” is misleading. The period produced universities (Bologna, Paris and Oxford all emerge around 1100–1200), sophisticated logic, and the debates on which the Renaissance, which begins tomorrow on Day 38, would build, even when it claimed to be rejecting them."
+    }
+  ],
+  "keyQuote": {
+    "text": "You have made us for yourself, and our heart is restless until it rests in you.",
+    "source": "Augustine, Confessions, Book I, chapter 1"
+  },
+  "modernConnection": {
+    "title": "Faith, Science and Two Kinds of Authority Today",
+    "body": "The medieval question of how revelation and reason fit together has not gone away; it has changed costume. Today the most common version is the relationship between religion and science, and you can find every medieval position alive and well.\n\nSome people hold something like the Averroes-Aquinas view: truth cannot contradict truth. The geneticist Francis Collins, who led the Human Genome Project, is a well-known example of a scientist who argues that faith and evolutionary biology are compatible, and that apparent conflicts come from misreading either nature or scripture. The Catholic Church officially takes a similar line: Pope John Paul II said in 1996 that evolution was “more than a hypothesis.”\n\nOthers echo al-Ghazali in a new key, insisting that reason and science have limits and should not overreach into questions of meaning and value. The paleontologist Stephen Jay Gould proposed that science and religion are “non-overlapping magisteria,” two domains of authority that should not trespass on each other, a modern relative of the idea that reason and revelation each have their own territory.\n\nAnd some, like the biologist Richard Dawkins, reject the medieval synthesis altogether, arguing that faith is not a source of knowledge at all. Interestingly, his favorite tool is Ockham's razor: if the universe can be explained without God, why posit God? Theists reply that the razor tells us not to multiply entities *beyond necessity*, and that whether God is necessary is exactly the question in dispute.\n\nThe comparison has limits. Medieval thinkers did not have a separate thing called “science” standing over against religion; their natural philosophy was itself saturated with theology, and the people we now call scientists, like Galileo (Day 41), often saw themselves as reading God's second book, nature. Also, the medieval argument was mostly an internal argument among believers about how to believe intelligently. Today the debate often happens between believers and non-believers. Still, when you hear someone say “science and religion answer different questions” or “if they conflict, one side has misunderstood,” you are hearing echoes of Córdoba, Baghdad and Paris."
+  },
+  "vocabulary": [
+    {
+      "term": "Privation",
+      "definition": "Augustine's view that evil is not a substance but the absence or lack of a good that ought to be present.",
+      "example": "On Augustine's view, blindness is a privation: not a thing that exists in the eye, but the missing power of sight."
+    },
+    {
+      "term": "Free will defense",
+      "definition": "The argument that moral evil results from the misuse of free will by creatures, so that God, who gave freedom as a good, is not its author.",
+      "example": "The free will defense explains cruelty as a human choice, but critics ask whether it can explain earthquakes."
+    },
+    {
+      "term": "Foreknowledge",
+      "definition": "God's knowledge of future events, which raises the puzzle of how future choices can be free if they are already known.",
+      "example": "Boethius answered the problem of foreknowledge by saying God sees all times in one eternal present."
+    },
+    {
+      "term": "Necessary being",
+      "definition": "A being whose essence includes existence, so that it cannot fail to exist; used by Avicenna and Aquinas to describe God.",
+      "example": "Avicenna argued that a world of contingent things must ultimately depend on a necessary being."
+    },
+    {
+      "term": "Ontological argument",
+      "definition": "Anselm's argument that God, defined as that than which nothing greater can be thought, must exist in reality and not only in the mind.",
+      "example": "Gaunilo tried to refute the ontological argument by imagining the greatest possible island."
+    },
+    {
+      "term": "Negative theology",
+      "definition": "The approach, central to Maimonides, that we can speak truly of God only by saying what God is not.",
+      "example": "Negative theology says that calling God “not limited” is safer than calling God “big.”"
+    },
+    {
+      "term": "Nominalism",
+      "definition": "The view that only individual things exist and that universals like “humanity” are only names or concepts.",
+      "example": "Ockham's nominalism denied that a real thing called “redness” exists over and above individual red things."
+    },
+    {
+      "term": "Natural law",
+      "definition": "Aquinas' theory that basic moral precepts are built into human nature and knowable by reason, so that unjust human laws lack full authority.",
+      "example": "King appealed to natural law when he argued that an unjust law is no law at all."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Convene a Medieval Panel",
+    "prompt": "Imagine you are hosting a panel discussion with Augustine, Avicenna, al-Ghazali, Maimonides, Aquinas and Ockham. The question for the panel is: “How far can human reason go in understanding the ultimate nature of reality?” Your task is to write a short script of their exchange and then add your own closing statement.",
+    "steps": [
+      "Write one or two sentences in each thinker's voice giving their answer, using at least one key idea from this unit (for example privation, necessary being, the cotton and fire, negative theology, the Five Ways, the razor).",
+      "Choose two panelists who disagree most sharply and write a brief exchange in which one challenges the other and the other replies.",
+      "Identify which panelist you find most persuasive and explain why in a short paragraph.",
+      "Finally, write your own closing statement: where do you think the limits of reason lie, and has anything in this unit changed your mind?"
+    ]
+  },
+  "summary": [
+    "Medieval philosophy was a long, multi-faith conversation about how revelation and reason fit together, with Plato and Aristotle as shared reference points.",
+    "Augustine made evil a privation, defended free will, and turned philosophy inward; Boethius consoled himself with the eternal and reconciled foreknowledge with freedom.",
+    "Islamic and Jewish philosophers preserved and transformed Greek thought: Avicenna's necessary being and floating man, al-Ghazali's critique of causation, Averroes' defense of philosophy, Maimonides' negative theology.",
+    "Anselm argued for God from a definition; Aquinas argued from features of the world in the Five Ways and built a natural law ethics.",
+    "The problem of universals ran from realism to Abelard's conceptualism to Ockham's nominalism, and Ockham's razor helped open the road to modern thought."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "According to Augustine, what is evil?",
+      "options": ["An independent cosmic power at war with the good", "The absence or lack of a good that ought to be present", "An illusion created by the senses", "Whatever a society disapproves of"],
+      "answer": 1,
+      "explanation": "Augustine rejected the Manichaean idea of two rival powers and argued that evil is a privation, a lack of due good. It is not an illusion or a social convention."
+    },
+    {
+      "type": "mc",
+      "question": "How did Boethius reconcile God's foreknowledge with human freedom?",
+      "options": ["He denied that God knows the future", "He argued that human beings are not really free", "He said God is outside time and sees all moments in one eternal present, so knowing does not cause our choices", "He said Fortune decides everything, so neither God nor humans are responsible"],
+      "answer": 2,
+      "explanation": "In the Consolation of Philosophy, God's eternity means seeing all of time at once, like watching someone walk without forcing their steps."
+    },
+    {
+      "type": "tf",
+      "question": "Augustine's City of God was written in response to the sack of Rome in 410.",
+      "answer": true,
+      "explanation": "Pagans blamed Christianity for Rome's fall; Augustine replied by distinguishing the earthly city from the heavenly city."
+    },
+    {
+      "type": "mc",
+      "question": "What was Avicenna's floating man thought experiment meant to suggest?",
+      "options": ["That the soul's awareness of itself does not depend on bodily sensation", "That the world is eternal", "That all knowledge comes from the senses", "That God cannot know particulars"],
+      "answer": 0,
+      "explanation": "A person suspended without any sensations would still know they exist, suggesting self-awareness is distinct from the body. It foreshadows Descartes on Day 43."
+    },
+    {
+      "type": "mc",
+      "question": "Al-Ghazali's example of cotton and fire was used to argue that:",
+      "options": ["Fire is a necessary cause of burning", "We never observe a necessary connection between cause and effect, only events occurring together", "The world must be eternal", "Philosophy should be banned entirely"],
+      "answer": 1,
+      "explanation": "Al-Ghazali argued we see only conjunction, not necessity, so God could let cotton touch fire without burning. He did not reject all philosophy, especially logic."
+    },
+    {
+      "type": "tf",
+      "question": "Averroes argued that philosophy contradicts the Qur'an and should be avoided by the faithful.",
+      "answer": false,
+      "explanation": "In the Decisive Treatise Averroes argued the opposite: scripture encourages those able to study philosophy, and demonstrated truth cannot conflict with scripture rightly interpreted."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best captures Maimonides' negative theology?",
+      "options": ["God does not exist", "We can describe God's positive attributes exactly like human ones", "Theology should be based only on experiments", "We speak most truly of God by saying what God is not"],
+      "answer": 3,
+      "explanation": "Maimonides held that positive descriptions risk making God like a creature; denying limitations is the safer path toward understanding."
+    },
+    {
+      "type": "mc",
+      "question": "Gaunilo's “lost island” objection was aimed at:",
+      "options": ["Aquinas' fifth way", "Avicenna's necessary being", "Anselm's ontological argument", "Ockham's razor"],
+      "answer": 2,
+      "explanation": "Gaunilo argued that if Anselm's reasoning worked, we could prove the existence of the greatest possible island, which is absurd."
+    },
+    {
+      "type": "mc",
+      "question": "What do Aquinas' Five Ways have in common?",
+      "options": ["They start from features of the observed world and reason back to God as their cause or source", "They derive God's existence from the definition of God alone", "They rely on mystical experience", "They show that God is identical with nature"],
+      "answer": 0,
+      "explanation": "Aquinas reasoned from motion, causation, contingency, degrees of perfection and order in nature. He rejected the purely definitional ontological argument."
+    },
+    {
+      "type": "tf",
+      "question": "Aquinas accepted Anselm's ontological argument as his main proof of God.",
+      "answer": false,
+      "explanation": "Aquinas rejected it, insisting that we must reason from effects in the world to God as their cause."
+    },
+    {
+      "type": "mc",
+      "question": "Abelard's position on universals is often called conceptualism. What does it hold?",
+      "options": ["Universals are real Forms existing in a separate realm", "Universals are mere sounds with no basis in reality", "Universals are concepts in the mind grounded in real likenesses among individual things", "Universals are physical objects"],
+      "answer": 2,
+      "explanation": "Abelard took a middle path between realism and extreme nominalism: universals are mental concepts, but they track real resemblances."
+    },
+    {
+      "type": "mc",
+      "question": "A hospital doctor gives a dying patient enough morphine to relieve severe pain, foreseeing that it may slightly hasten death but not intending death. Which medieval principle is most often used to analyze such a case?",
+      "options": ["Ockham's razor", "The doctrine of double effect", "The free will defense", "Negative theology"],
+      "answer": 1,
+      "explanation": "Double effect, with roots in Aquinas' discussion of self-defense, distinguishes intended effects from foreseen side effects."
+    },
+    {
+      "type": "mc",
+      "question": "Ockham's razor recommends that we:",
+      "options": ["Accept every theory that tradition hands down", "Always choose the most complicated explanation", "Doubt everything until proven by God", "Not posit more entities than are needed to explain something"],
+      "answer": 3,
+      "explanation": "The principle of parsimony favors the simpler explanation when it does the job equally well."
+    },
+    {
+      "type": "tf",
+      "question": "Aquinas cited Muslim and Jewish philosophers, including Avicenna, Averroes and Maimonides, in his own work.",
+      "answer": true,
+      "explanation": "Aquinas refers to Averroes as “the Commentator” and to Maimonides as “Rabbi Moses,” showing how interconnected medieval thought was."
+    },
+    {
+      "type": "mc",
+      "question": "Which pairing of thinker and idea is correct?",
+      "options": ["Al-Farabi: the virtuous city", "Boethius: the ontological argument", "Anselm: the House of Wisdom", "Ockham: the Consolation of Philosophy"],
+      "answer": 0,
+      "explanation": "Al-Farabi wrote on the virtuous city. The ontological argument is Anselm's, the House of Wisdom was in Baghdad, and the Consolation is by Boethius."
+    }
+  ],
+  "goDeeper": {
+    "body": "One of the liveliest scholarly debates about this period concerns the so-called “Latin Averroists” and the theory of “double truth.” In the 1260s and 1270s, some masters in the Paris arts faculty, notably Siger of Brabant, taught Aristotle's views (for example, that the world is eternal) as the conclusions of natural reason, while also affirming the Christian faith. Their opponents accused them of holding that something could be true in philosophy and false in theology at the same time. In 1277 the Bishop of Paris, Étienne Tempier, condemned 219 propositions, a few of which arguably touched positions associated with Aquinas.\n\nDid anyone actually believe in “double truth”? Most historians now think not: it was largely a polemical caricature. Siger and others were more plausibly saying that philosophy, working only from its own principles, reaches certain conclusions, while revelation tells us what is actually so. That is a claim about the limits of reason, not a claim that contradictions can both be true.\n\nA second debate concerns the 1277 condemnation itself. The historian and physicist Pierre Duhem argued in the early twentieth century that, by insisting God could do anything not logically contradictory (for instance, move the whole universe in a straight line, leaving a vacuum), the condemnation freed thinkers from Aristotle's physics and helped birth modern science. Many later historians think Duhem overstated the case, but the idea that emphasis on God's absolute power, which Ockham also stressed, encouraged thinkers to test rather than deduce how nature works remains debated.\n\nWhen you reach Galileo on Day 41, ask yourself how much of the Scientific Revolution was a revolt against the Middle Ages and how much grew out of it.",
+    "readings": [
+      { "title": "Confessions", "author": "Augustine (trans. Henry Chadwick)", "note": "Books I–IX tell the story of his life; Book XI is the famous meditation on time." },
+      { "title": "The Consolation of Philosophy", "author": "Boethius (trans. Victor Watts)", "note": "Short and moving; Book V contains the argument about foreknowledge and eternity." },
+      { "title": "Philosophy in the Islamic World: A Very Short Introduction", "author": "Peter Adamson", "note": "An accessible guide to al-Kindi, al-Farabi, Avicenna, al-Ghazali, Averroes and beyond." },
+      { "title": "Medieval Philosophy: A Very Short Introduction", "author": "John Marenbon", "note": "A compact overview arguing against stereotypes of the period and covering Latin, Arabic and Jewish thought." }
+    ],
+    "questions": [
+      "Is it possible for something to be true in philosophy but false in religion, or vice versa? What would that even mean?",
+      "Which medieval argument for God do you find strongest, and what is the best objection to it?",
+      "Did the medieval habit of debating authorities through objection and reply help or hinder the growth of independent thinking?"
+    ]
+  }
+}

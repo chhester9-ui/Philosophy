@@ -1,0 +1,240 @@
+{
+  "id": "day-83",
+  "day": 83,
+  "title": "Applied Ethics: Singer, Trolleys and Bioethics",
+  "subtitle": "When moral theory leaves the seminar room and walks into the hospital",
+  "philosophers": ["Peter Singer", "Philippa Foot", "Judith Jarvis Thomson", "Tom Beauchamp", "James Childress"],
+  "era": "1967–present",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to reconstruct Peter Singer's drowning child argument and explain why it is so demanding.",
+    "By the end you will be able to explain speciesism and the case for animal liberation.",
+    "By the end you will be able to describe the trolley problem in its main versions and the doctrine of double effect.",
+    "By the end you will be able to explain Thomson's violinist argument and what it is designed to show.",
+    "By the end you will be able to name and apply the four principles of biomedical ethics."
+  ],
+  "hook": "You are walking to work in your best clothes when you pass a shallow pond. A small child has fallen in and is drowning. You could wade in and pull her out easily, but your shoes and trousers would be ruined. Should you save her?\n\nEveryone says yes, instantly. Anyone who walked on to protect their shoes would be a moral monster. But now the philosopher who invented this scenario springs his trap. Right now, children are dying of preventable diseases, and a donation costing about as much as those shoes could help save one of them. If you must ruin your shoes for the child in the pond, why may you buy new shoes instead of giving the money away?\n\nToday we follow philosophy out of the library and into everyday decisions about charity, food, medicine and life and death. This is **applied ethics**: the use of moral reasoning on concrete, practical questions. It is where the theories you have studied, from Aristotle's virtues to Kant's duties to Mill's utility, are put to the test.",
+  "sections": [
+    {
+      "heading": "The Turn to Practice",
+      "body": "For much of the twentieth century, English-speaking moral philosophy concentrated on **metaethics**: the meaning of words like \"good\" and whether moral statements can be true at all (you met the emotivists on Day 71). Practical questions about what to actually do were often left to preachers and politicians.\n\nThat changed around 1970. The Vietnam War, the civil rights movement, the legalization of abortion in several countries, and dramatic advances in medicine such as organ transplants and life-support machines made practical questions impossible to ignore. In 1971 a new journal, *Philosophy and Public Affairs*, began publishing philosophers arguing directly about war, abortion and equality. Within a decade, applied ethics was a booming field, and new specialties emerged: bioethics, business ethics, environmental ethics (Day 88), and, more recently, the ethics of technology (Day 89).\n\nApplied ethicists use a characteristic method. They test general principles against **considered intuitions** about cases, often imaginary ones designed to isolate a single morally relevant feature. If a principle implies something we are confident is wrong, the principle must be revised; if an intuition cannot survive scrutiny, perhaps the intuition must go. Rawls (Day 82) called the resulting back-and-forth search for balance **reflective equilibrium**. You will see this method at work in every argument today.\n\nOne more thing to notice before we begin. Applied ethicists rarely ask you to accept a whole theory first. Instead they find a case on which almost everyone agrees, extract the principle that seems to explain the agreement, and then show that the same principle reaches somewhere surprising. That is a powerful technique, and a slippery one. As you read, keep asking: is the new case really like the old one in every way that matters? Learning to spot where an analogy breaks is half the skill of applied ethics."
+    },
+    {
+      "heading": "Peter Singer: The Drowning Child and the Circle of Concern",
+      "body": "**Peter Singer** (born 1946 in Melbourne, to Jewish parents who had fled Nazi-occupied Vienna) is probably the most influential living utilitarian. His essay \"Famine, Affluence, and Morality\" was written in 1971, during the humanitarian catastrophe in East Bengal (now Bangladesh), and published in 1972. The drowning child comes from that essay.\n\nThe argument rests on a principle that seems hard to deny: if it is in our power to prevent something very bad from happening, without thereby sacrificing anything of comparable moral importance, we ought to do it. Singer then adds two claims. First, distance makes no moral difference: a child dying far away matters as much as one in front of you. Second, it makes no difference that many other people could also help. If ten people stand around the pond doing nothing, you are not excused.\n\nThe conclusion is radical. Most of what comfortable people spend on luxuries is not of comparable moral importance to a human life. So, Singer argued, giving to relieve extreme poverty is not charity, a nice extra, but duty. The traditional line between duty and **supererogation**, actions that are good but beyond what duty requires, is drawn in the wrong place.\n\nSinger applied the same impartial reasoning to animals. In *Animal Liberation* (1975), he argued that what matters morally is the capacity to suffer, an idea he traced back to Bentham (Day 61), who wrote that the question is not whether animals can reason or talk, but whether they can suffer. Giving less weight to the suffering of a pig than to equal suffering of a human, simply because the pig belongs to another species, is **speciesism**, a term coined by the British psychologist Richard Ryder in 1970. Singer compared it to racism and sexism: an arbitrary preference for one's own group. His main targets were factory farming and painful animal experiments. Notice that Singer does not claim animals and humans must be treated identically, only that equal suffering deserves equal consideration.\n\nThe objections are serious. Critics say Singer's ethics is too **demanding**: it would leave no room for personal projects, hobbies or special love for one's own family (Bernard Williams pressed this worry about utilitarianism generally). Others argue that aid can be ineffective or that systemic political change, not individual donations, is what ends poverty. Singer's later views on severe disability and infanticide have also provoked fierce protests, especially from disability-rights activists. His ideas helped inspire the effective altruism movement, explored in the Ethics track."
+    },
+    {
+      "heading": "The Trolley Problem",
+      "body": "In 1967 the Oxford philosopher **Philippa Foot** published an article on abortion and the **doctrine of double effect**. To test that doctrine she described a driver of a runaway tram who can steer from one track, where five workers will be killed, onto another, where one worker will be killed. Most people think he should steer. Yet Foot contrasted this with a judge who could stop a murderous riot by framing and executing one innocent person. Most people think the judge must not do it. Why the difference, when in both cases one dies instead of five?\n\nThe American philosopher **Judith Jarvis Thomson** gave the puzzle its name, \"the trolley problem\", in 1976, and in 1985 added a famous variation. You are standing on a footbridge over the track beside a very large man. The only way to stop the trolley is to push him off the bridge into its path; he will die, but the five will be saved. Most people who would pull the lever to divert the trolley say they would not push the man. Again, one dies instead of five. What explains the difference?\n\nThe proposed answers are a tour of ethical theory:\n\n- **The doctrine of double effect**, rooted in Aquinas (Day 36), distinguishes harm you *intend* as a means from harm you merely *foresee* as a side effect. Diverting the trolley kills one as a side effect; pushing the man uses his death as the means.\n- **Doing versus allowing**: perhaps killing is worse than letting die.\n- **Kantian respect** (Day 56): pushing the man treats him merely as a means, a human brake.\n\nEach answer has trouble with further variations, such as Thomson's \"loop\" case, where the side track curves back so that the one person's body is what stops the trolley. Psychologists have since studied trolley cases using brain imaging, and Joshua Greene has argued that our reluctance to push reflects quick emotional responses rather than reasoning. That claim is itself controversial. Some philosophers worry the whole genre is too artificial, but its defenders reply that simplified cases are to ethics what controlled experiments are to science."
+    },
+    {
+      "heading": "Thomson's Violinist",
+      "body": "Thomson's most famous contribution came in her 1971 article \"A Defense of Abortion.\" It is a model of philosophical argument because it grants the opponent's strongest premise and still tries to reach its conclusion.\n\nMany arguments against abortion run like this: the fetus is a person from conception; every person has a right to life; therefore abortion is wrong. Thomson said: suppose, for the sake of argument, that the fetus is a person. Does the conclusion follow?\n\nShe asked readers to imagine waking up back to back in bed with a famous unconscious violinist. He has a fatal kidney ailment, and a society of music lovers has kidnapped you and plugged his circulatory system into yours, because only your blood type can keep him alive. If you unplug him, he will die; in nine months he will recover. The hospital director apologizes but says that all persons have a right to life, and the violinist is a person, so you must stay plugged in.\n\nMost people feel that you are not obliged to remain connected, even though it would be kind. Thomson concluded that a **right to life** is not a right to use another person's body to stay alive. It would be generous, perhaps admirable, to stay, but not required. So even if the fetus is a person, it does not automatically follow that abortion is impermissible, at least in some cases, such as pregnancy resulting from rape, which the kidnapping most closely resembles.\n\nCritics answer that the analogy breaks down. In most pregnancies the woman's own actions played a role in creating the dependence; a parent arguably has special duties to a child that a stranger lacks toward a violinist; and unplugging may be letting die while many abortion procedures are killing. Thomson responded to versions of these points herself, but the debate continues. Whatever you conclude, the violinist shows how a single well-built analogy can shift the terms of an entire public controversy."
+    },
+    {
+      "heading": "Bioethics and the Four Principles",
+      "body": "Modern **bioethics** emerged from scandal and from new technology. After the Second World War, the Nuremberg trials exposed horrific Nazi medical experiments, and the resulting Nuremberg Code (1947) established that voluntary consent is essential to research on human beings. In the United States, the Tuskegee study, in which Black men with syphilis were observed but left untreated from 1932 to 1972, even after penicillin became the standard cure, provoked outrage when it was exposed in 1972. The 1979 Belmont Report followed, setting principles for research ethics. Meanwhile dialysis machines, ventilators and transplants raised new questions: who gets scarce treatment, and when is someone dead?\n\nIn 1979 **Tom Beauchamp** and **James Childress** published *Principles of Biomedical Ethics*, now in many editions, which offered four principles that have become a kind of common language in hospitals around the world:\n\n1. **Respect for autonomy:** competent patients have the right to make informed decisions about their own care. This is the root of informed consent.\n2. **Nonmaleficence:** do not inflict harm (an echo of the old medical maxim often summarized as \"first, do no harm\").\n3. **Beneficence:** act for the patient's good.\n4. **Justice:** distribute benefits, risks and costs fairly.\n\nThe approach is deliberately pluralistic: rather than deriving everything from one master theory, it asks clinicians to weigh principles that every major theory can accept. Consider a Jehovah's Witness who refuses a blood transfusion. Beneficence says transfuse; autonomy says respect the refusal. In most countries the law sides with the competent adult's autonomy.\n\nCritics call this **principlism** too vague, since it doesn't tell you how to weigh principles when they clash. Others say its emphasis on autonomy reflects an individualistic Western outlook, and care ethicists (Day 85) argue that sick people are embedded in families and relationships, not isolated choosers. Still, the four principles show applied ethics doing what it does best: turning abstract theory into tools for people facing hard decisions on an ordinary Tuesday."
+    }
+  ],
+  "keyQuote": {
+    "text": "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?",
+    "source": "Jeremy Bentham, An Introduction to the Principles of Morals and Legislation (1789), quoted by Peter Singer in Animal Liberation"
+  },
+  "modernConnection": {
+    "title": "Trolleys on the Highway: Self-Driving Cars",
+    "body": "For decades, critics mocked the trolley problem as an armchair game. Then engineers started building cars that drive themselves, and the game began to look like a design specification.\n\nSuppose an autonomous vehicle's brakes fail. It can continue straight and hit several pedestrians, or swerve and kill its own passenger. Somebody has to decide in advance, in code, how the car should respond to dilemmas like that. In 2016 researchers at MIT launched the Moral Machine, an online game presenting millions of people around the world with such choices. The results, published in *Nature* in 2018, showed broad agreement on some preferences (sparing more lives, sparing humans over animals, sparing the young) but also striking cultural variation in how strongly people held them.\n\nThe comparison is illuminating. It forces us to make explicit what intuition usually handles in a split second. Should a car be programmed to minimize total deaths, as a utilitarian would recommend? Would anyone buy a car willing to sacrifice its owner? Does it matter that a programmer decides ahead of time, coldly, rather than a panicking driver in the moment? This is the doctrine of double effect and the doing/allowing distinction moved into an engineering meeting.\n\nBut the comparison also breaks down in revealing ways. Real crashes rarely present clean choices between certain outcomes; they involve uncertainty, split-second sensor errors and probabilities. Many engineers argue that the real ethical questions about self-driving cars are less dramatic: how safe is safe enough to release them, who is liable when they fail, and whether their benefits will be shared fairly. Some ethicists warn that crowd-sourced opinion polls cannot settle what is right, any more than a vote could settle whether the judge in Foot's riot case should frame an innocent man. Applied ethics, like the Moral Machine, can collect intuitions, but it still has to ask which ones survive reflection."
+  },
+  "vocabulary": [
+    {
+      "term": "Applied ethics",
+      "definition": "The branch of ethics that uses moral reasoning to address concrete practical questions, such as euthanasia, animal welfare or global poverty.",
+      "example": "A hospital ethics committee deciding who receives a scarce organ is doing applied ethics."
+    },
+    {
+      "term": "Speciesism",
+      "definition": "Giving less moral weight to a being's interests simply because it belongs to a different species; a term coined by Richard Ryder and popularized by Peter Singer.",
+      "example": "Singer would call it speciesism to accept painful experiments on monkeys that we would never accept on humans with similar capacities for suffering."
+    },
+    {
+      "term": "Supererogation",
+      "definition": "Action that is morally good but goes beyond what duty requires.",
+      "example": "Donating a kidney to a stranger is usually considered supererogatory: admirable, but not obligatory."
+    },
+    {
+      "term": "Doctrine of double effect",
+      "definition": "The principle that it can be permissible to cause harm as a foreseen side effect of pursuing a good end, but not to intend that harm as a means.",
+      "example": "A doctor giving pain relief that may hasten death appeals to double effect: the aim is relieving pain, not killing."
+    },
+    {
+      "term": "Trolley problem",
+      "definition": "A family of thought experiments, introduced by Philippa Foot and named by Judith Jarvis Thomson, asking why it seems permissible to divert a threat that kills one to save five but not to push someone into its path.",
+      "example": "The trolley problem shows that most people do not judge actions by the number of lives saved alone."
+    },
+    {
+      "term": "Respect for autonomy",
+      "definition": "The bioethical principle that competent people have the right to make informed decisions about their own lives and medical care.",
+      "example": "Out of respect for autonomy, the surgeon explained the risks and let the patient decide whether to have the operation."
+    },
+    {
+      "term": "Nonmaleficence",
+      "definition": "The bioethical principle that one should not inflict harm.",
+      "example": "Nonmaleficence counsels against prescribing a drug whose side effects outweigh its benefits."
+    },
+    {
+      "term": "Reflective equilibrium",
+      "definition": "Rawls' term for the method of adjusting general principles and particular judgments against each other until they fit together coherently.",
+      "example": "After the footbridge case, she revised her principle about saving the most lives to reach reflective equilibrium."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Your Own Pond",
+    "prompt": "Test Singer's drowning child argument against your own life and see where, if anywhere, you get off the train.",
+    "steps": [
+      "Write Singer's argument as numbered premises and a conclusion. Which premise do you find weakest?",
+      "List three things you spent money on in the past month that were not necessities. For each, ask honestly: is it 'of comparable moral importance' to preventing serious suffering?",
+      "Name one morally relevant difference between the pond and distant poverty (for example, certainty of success, being the only one who can help, or the role of governments). Does that difference really change your obligation, or does it only make it feel less pressing?",
+      "Write a short policy for yourself: a rule about giving (money, time or attention) you could actually live by and defend to Singer. Explain why you set the line where you did."
+    ]
+  },
+  "summary": [
+    "Applied ethics emerged around 1970 as philosophers turned theory toward urgent practical questions, testing principles against intuitions about cases.",
+    "Singer's drowning child argument claims that if we can prevent great suffering without sacrificing anything comparably important, we must; he extended equal consideration to animals and attacked speciesism.",
+    "Foot's and Thomson's trolley cases probe the difference between intending and foreseeing harm, killing and letting die, and using people as means.",
+    "Thomson's violinist grants that the fetus is a person and argues that a right to life does not include a right to use another's body.",
+    "Beauchamp and Childress' four principles (autonomy, nonmaleficence, beneficence, justice) give clinicians a shared language for hard medical decisions."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What is the central point of Singer's drowning child example?",
+      "options": [
+        "People should learn to swim",
+        "Distance and the presence of other potential helpers do not reduce our obligation to prevent serious suffering when we can do so at modest cost",
+        "We only have obligations to people we can see",
+        "Charity is always optional and beyond the call of duty"
+      ],
+      "answer": 1,
+      "explanation": "Singer uses the pond to show that we accept a duty to rescue at small cost, then argues that distance and the number of bystanders make no moral difference."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best describes speciesism as Singer uses the term?",
+      "options": [
+        "The belief that all species are exactly equal in every respect",
+        "The scientific classification of animals into species",
+        "Discounting a being's suffering merely because it belongs to another species",
+        "The view that animals have no feelings"
+      ],
+      "answer": 2,
+      "explanation": "Speciesism is giving less weight to equal suffering because of species membership. Singer explicitly does not claim all beings must be treated identically."
+    },
+    {
+      "type": "mc",
+      "question": "In the footbridge version of the trolley problem, many people refuse to push the large man even though they would pull the lever. Which principle most directly explains this difference?",
+      "options": [
+        "The doctrine of double effect: pushing uses the man's death as a means, while diverting causes a merely foreseen death",
+        "The difference principle",
+        "The principle of beneficence",
+        "Hume's is-ought gap"
+      ],
+      "answer": 0,
+      "explanation": "Double effect distinguishes intended means from foreseen side effects, which matches the contrast between pushing and diverting."
+    },
+    {
+      "type": "mc",
+      "question": "What does Thomson's violinist argument assume for the sake of argument?",
+      "options": [
+        "That abortion should be illegal",
+        "That violinists have special rights",
+        "That nobody has a right to life",
+        "That the fetus is a person with a right to life"
+      ],
+      "answer": 3,
+      "explanation": "Thomson grants her opponents' strongest premise, that the fetus is a person, and argues that the right to life still does not entitle anyone to use another's body."
+    },
+    {
+      "type": "mc",
+      "question": "A competent adult refuses a life-saving blood transfusion on religious grounds. Which two bioethical principles are most directly in tension?",
+      "options": [
+        "Justice and nonmaleficence",
+        "Respect for autonomy and beneficence",
+        "Supererogation and speciesism",
+        "Justice and double effect"
+      ],
+      "answer": 1,
+      "explanation": "Beneficence favors giving the transfusion for the patient's good; respect for autonomy favors honoring the patient's informed refusal."
+    },
+    {
+      "type": "mc",
+      "question": "Who first described the runaway tram case, in a 1967 article on abortion and double effect?",
+      "options": [
+        "Judith Jarvis Thomson",
+        "Peter Singer",
+        "Tom Beauchamp",
+        "Philippa Foot"
+      ],
+      "answer": 3,
+      "explanation": "Foot introduced the case in 1967; Thomson named it the trolley problem in 1976 and added the footbridge variant."
+    },
+    {
+      "type": "mc",
+      "question": "Which of these is the most common objection to Singer's view on giving?",
+      "options": [
+        "It is too demanding, leaving little room for personal projects and special relationships",
+        "It ignores the consequences of actions",
+        "It depends on belief in God",
+        "It applies only to animals"
+      ],
+      "answer": 0,
+      "explanation": "Critics such as Bernard Williams argued that impartial utilitarian demands crowd out the personal commitments that give life meaning."
+    },
+    {
+      "type": "tf",
+      "question": "The Tuskegee study, which left Black men with syphilis untreated for decades, helped prompt the development of formal research ethics principles in the United States.",
+      "answer": true,
+      "explanation": "Exposure of the study in 1972 contributed directly to the 1979 Belmont Report and modern research protections."
+    },
+    {
+      "type": "tf",
+      "question": "Singer's argument for animal liberation claims that animals and humans must always be treated in exactly the same way.",
+      "answer": false,
+      "explanation": "Singer argues for equal consideration of comparable interests, especially suffering, not identical treatment."
+    },
+    {
+      "type": "tf",
+      "question": "Reflective equilibrium is a method in which general principles and particular intuitions are adjusted against each other until they cohere.",
+      "answer": true,
+      "explanation": "Rawls' term describes the back-and-forth testing of principles against cases that applied ethicists use constantly."
+    }
+  ],
+  "goDeeper": {
+    "body": "Applied ethics raises a methodological question that philosophers still argue about: how much should we trust our intuitions about strange cases? The **moral psychology** of the last three decades complicates the picture. Joshua Greene's brain-imaging studies suggested that \"personal\" dilemmas such as pushing the man engage emotional processing more than \"impersonal\" ones such as pulling a lever. Greene argued, in *Moral Tribes* (2013), that deontological intuitions are often rationalizations of gut reactions, and that utilitarian reasoning deserves more trust. Critics, including Selim Berker, replied that you cannot get a normative conclusion (which intuitions to trust) from neuroscience alone without smuggling in moral premises, an echo of Hume's is-ought gap from Day 50.\n\nA second debate concerns **moral luck**. Thomas Nagel and Bernard Williams pointed out in 1976 that we blame a drunk driver who kills a child far more than an equally drunk driver who happens to get home safely, though both did the same thing. Should luck affect blame? The Ethics track has a full lesson on it.\n\nA third concerns the demandingness objection to Singer. Some philosophers bite the bullet. Others propose a \"fair share\" view (Liam Murphy): you must do only what would be required if everyone did their part. Still others argue that obligations to fix global poverty fall mainly on institutions, a theme connecting to Thomas Pogge's work on global justice, which the Political Philosophy track covers. Singer himself, in *The Life You Can Save* (2009), proposed a more modest, graduated giving standard as a practical public guideline while keeping his more demanding theoretical view.",
+    "readings": [
+      {
+        "title": "Famine, Affluence, and Morality",
+        "author": "Peter Singer",
+        "note": "The original 1972 essay, short and easy to find, later published as a small book with a new introduction."
+      },
+      {
+        "title": "A Defense of Abortion",
+        "author": "Judith Jarvis Thomson",
+        "note": "The 1971 article in Philosophy and Public Affairs containing the violinist; a model of careful argument whatever your view."
+      },
+      {
+        "title": "Would You Kill the Fat Man?",
+        "author": "David Edmonds",
+        "note": "An entertaining history of the trolley problem and the philosophers and psychologists who have studied it."
+      },
+      {
+        "title": "Principles of Biomedical Ethics",
+        "author": "Tom L. Beauchamp and James F. Childress",
+        "note": "The standard textbook of principlism; the opening chapters explain the four principles and how to balance them."
+      }
+    ],
+    "questions": [
+      "If our intuitions about trolley cases can be explained by emotional brain processes, does that make them less trustworthy, or are emotions part of moral perception?",
+      "Is there a principled way to set a limit on how much morality can demand of us, or is any limit a convenient excuse?",
+      "Should hospitals in different cultures weigh autonomy and family decision-making differently, or should the four principles apply the same way everywhere?"
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "id": "day-48",
+  "day": 48,
+  "title": "Berkeley: To Be Is to Be Perceived",
+  "subtitle": "An Irish bishop argues that matter does not exist, and almost nobody can refute him",
+  "philosophers": ["George Berkeley"],
+  "era": "1685–1753",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to state Berkeley's immaterialism and explain the slogan esse est percipi",
+    "Reconstruct Berkeley's main arguments against material substance, including the likeness principle and the master argument",
+    "Explain how Berkeley used God to answer the question of what happens to unperceived objects",
+    "Evaluate common objections, including Samuel Johnson's stone-kicking, and say why they miss or hit the target",
+    "Show how Berkeley develops and radicalises Locke's empiricism"
+  ],
+  "hook": "Look at the nearest solid object, a table, a mug, a wall. You can see its colour, feel its hardness, perhaps hear it when you tap it. Now try a strange experiment of thought. Subtract everything you see, everything you feel, everything you hear, every way the thing appears to anyone. What is left? Most of us answer: the thing itself, the matter that has those qualities. But try to say what that matter is like, without mentioning any way it looks, feels or sounds. You will find you have nothing to say at all.\n\nIn 1710 a twenty-five-year-old Irish clergyman named George Berkeley drew the conclusion that seemed obvious to him and outrageous to almost everyone else. There is no such thing as matter. The table is real; it is just not made of an unperceivable stuff. It is made of what is perceived. Berkeley thought this was not a wild paradox but simple common sense, and the cure for atheism and scepticism besides. Today we will see why he was so hard to answer.",
+  "sections": [
+    {
+      "heading": "A Young Man in a Hurry",
+      "body": "George Berkeley was born in 1685 near Kilkenny in Ireland and studied at Trinity College Dublin, where he was soon reading Locke, Newton and Malebranche. By his mid-twenties he had published the two books that made his name: *An Essay towards a New Theory of Vision* (1709), on how we learn to judge distance and size by sight, and *A Treatise Concerning the Principles of Human Knowledge* (1710), which set out his denial of matter. When the *Principles* was greeted with ridicule or silence, he rewrote its arguments in livelier form as the *Three Dialogues between Hylas and Philonous* (1713). Hylas (from the Greek for matter) defends common-sense materialism; Philonous (lover of mind) gently takes it apart.\n\nBerkeley's life was not spent only in the study. He travelled in Europe, and in the 1720s he devised an ambitious plan to found a college in Bermuda to educate the sons of English colonists and Native Americans. He sailed to America in 1728 and lived for nearly three years in Newport, Rhode Island, waiting for promised government money that never arrived. He returned, and in 1734 became Bishop of Cloyne in County Cork, where he worked on poverty, public health and the economy of Ireland. In later life he became an enthusiast for tar-water, a mixture of pine tar and water that he promoted as a near-universal medicine in a curious book called *Siris* (1744).\n\nOne of his poems about the westward spread of learning contains the line 'Westward the course of empire takes its way'. More than a century later, in 1866, that line inspired the founders of a new college town in California to name it Berkeley.\n\nBerkeley's stated aims were religious as well as philosophical. He believed that the doctrine of material substance, an independent stuff that exists without any mind, was the root of both scepticism and atheism. If matter can exist and run by itself, who needs God? And if all we perceive are our own ideas, and matter lies forever behind them, how can we know anything about the world? Remove matter, and both problems vanish."
+    },
+    {
+      "heading": "Esse Est Percipi",
+      "body": "Berkeley's central claim fits in three Latin words: **esse est percipi**, to be is to be perceived. For any ordinary sensible object, a table, an apple, a cloud, its existence consists in its being perceived. The full formula, which matters, is *esse est percipi aut percipere*: to be is to be perceived or to perceive. There are two kinds of things in the world: minds (or spirits), which perceive, and ideas, which are perceived. That is all.\n\nThe view is called **immaterialism**, or **idealism**, because it says reality consists of minds and their ideas. Be careful with the second word: here 'idealism' has nothing to do with having high ideals. It means the view that reality is fundamentally mental.\n\nBerkeley starts from the empiricist premises we met yesterday with Locke (Day 47). What do we perceive? Ideas: colours, shapes, sounds, tastes, textures. What is an apple? Berkeley's answer is a collection of ideas that regularly go together: a certain colour, taste, smell, figure and consistency, which, having been observed to go together, are given one name. Now, ideas cannot exist except in a mind that perceives them. A pain that no one feels is no pain at all. So an apple, being a collection of ideas, cannot exist unperceived.\n\nWhat about the claim that the apple is really made of matter, and the ideas merely represent it? Berkeley thinks this is the great mistake of modern philosophy. The word matter is supposed to name something that is not perceived, not perceivable, and has no colour, taste or sound, yet somehow causes our ideas. Look closely, he says, and you will find you have no idea of it at all. It is literally an empty word. When you remove it, nothing in your experience changes. The apple still tastes sweet and nourishes you. You have lost only a philosopher's fiction."
+    },
+    {
+      "heading": "Taking Apart Locke's Matter",
+      "body": "Berkeley's arguments against matter are mostly aimed at Locke, and they work by turning Locke's own tools against him.\n\nFirst, the **likeness principle**. Locke said our ideas of primary qualities resemble qualities in material objects. But, Berkeley replies, an idea can be like nothing but an idea (*Principles* §8). Could a colour be like something invisible? Could a feeling of hardness be like something that cannot be felt? If the original is unperceivable, it cannot resemble anything we perceive. If it is perceivable, then it is just another idea.\n\nSecond, Berkeley collapses the distinction between primary and secondary qualities. Locke argued that warmth, colour and taste are in us because they vary with the observer: the same water feels hot and cold to different hands. Berkeley points out that primary qualities vary in exactly the same way. The same object looks large close up and small far away. A coin looks round from above and oval from an angle. Speed seems fast or slow depending on the observer. If variation proves that secondary qualities are mind-dependent, it proves the same of primary ones. Besides, try to imagine a shape that has no colour or texture at all. You cannot. Extension and colour come together, so if colour is in the mind, so is extension.\n\nThird, Berkeley attacks **abstract ideas**, in the introduction to the *Principles*. Locke thought we could form the idea of a triangle that is neither equilateral nor scalene nor any particular size, or of matter in general, stripped of all sensible qualities. Berkeley says he simply cannot do this, and suspects no one can. We use particular ideas to stand for others of the same kind, but there is no idea of matter in general, existing apart from all perception. The concept of matter, he concludes, rests on an illusion of abstraction.\n\nThe result is striking. Locke had left us behind a veil of ideas, wondering whether anything lay beyond it. Berkeley says: there is nothing beyond the veil, and that is good news, because then the veil is the world, and we see it directly. Scepticism is defeated by removing the thing we were sceptical about."
+    },
+    {
+      "heading": "The Master Argument",
+      "body": "Berkeley thought one argument was so strong that he would rest his whole case on it. Scholars have nicknamed it the **master argument**. It appears in the *Principles* (§§22–23) and in the first of the *Three Dialogues*.\n\nIt runs like this. You say a tree can exist unperceived? Very well: try to conceive of a tree existing with no one perceiving it. Picture it standing alone in a park at night, with no one around. But what are you doing as you picture it? You are perceiving it in your imagination. The tree you are conceiving is conceived by you, so you have not succeeded in conceiving an unconceived tree. The very attempt defeats itself.\n\nMany philosophers think this argument contains a confusion. There is a difference between conceiving of a tree that is unperceived and conceiving of an unperceived tree in a way that makes it perceived. When I imagine a house that no one is thinking about, the house I imagine does not need to have the property of being thought about in the story I imagine; it only needs to be thought about by me, outside the story. Compare: I can imagine a world in which I was never born, even though I am the one doing the imagining. The content of a thought is different from the act of thinking it.\n\nDefenders reply that Berkeley's point is subtler: we have no positive conception of what a tree would be like if it were not appearing in any way to anyone. Every feature we can give it is a way it would look or feel. Whether that rescues the argument is still debated. But the exercise is worth doing yourself, because it shows how hard it is to think about reality without smuggling in a point of view."
+    },
+    {
+      "heading": "The Tree in the Quad and the Mind of God",
+      "body": "The obvious objection: if to be is to be perceived, do things blink out of existence when no one is looking? Does your sofa vanish when you leave the room, and pop back when you return? Berkeley has two answers.\n\nThe first is that saying the sofa exists in the empty room can mean that if you went into the room, you would perceive it. Talk of unperceived objects is really talk of possible perceptions. The second, and for Berkeley the deeper answer, is God. Our ideas of sense are not under our control: I cannot choose what I see when I open my eyes. They must therefore be caused by some other mind. Their vast order, regularity and beauty show that this mind is wise, powerful and good. The ideas we call the real world are ideas God causes in us according to fixed rules, which we call the laws of nature. And objects that no finite creature perceives continue to exist because they are perceived by God.\n\nThis was captured in a famous limerick, usually attributed to the twentieth-century priest and writer Ronald Knox, about a man who finds it extremely odd that a tree should continue to be when there is no one about in the Quad, with a reply signed 'God' assuring him that the tree continues to be, since observed by yours faithfully. Note that the quad is Oxford's, not Berkeley's, and Berkeley never posed the question about a tree falling in a forest with no one to hear it, though that later puzzle grows from his ideas.\n\nWhat becomes of science? Berkeley's answer is elegant. Science does not discover hidden mechanisms in matter; it discovers the regular patterns in which God presents ideas to us. Fire does not literally cause heat; rather, the idea of fire is reliably followed by the idea of heat, so the first is a sign of the second. Nature is a kind of divine language. Berkeley even used this view to criticise Newton's absolute space as an empty abstraction, an argument later admired by the physicist Ernst Mach.\n\nBerkeley also offers useful advice about language: we should think with the learned and speak with the vulgar (*Principles* §51). Keep saying the sun rises and the fire warms the room; just understand what you really mean."
+    },
+    {
+      "heading": "Kicking the Stone",
+      "body": "The most famous response to Berkeley is not an argument at all. In 1763 James Boswell and Samuel Johnson came out of church discussing Berkeley's ingenious sophistry to prove the non-existence of matter. Boswell remarked that though they were satisfied it was not true, it was impossible to refute. Johnson, Boswell reports in his *Life of Johnson*, struck his foot with mighty force against a large stone, till he rebounded from it, and answered: 'I refute it thus.'\n\nIt is a wonderful scene, and it captures how most people feel. But as a refutation it misses entirely. Berkeley never denied that stones are hard or that kicking them hurts. On his view, the stone is a collection of ideas including visible greyness and felt solidity, and Johnson's experience of resistance is exactly what Berkeley's theory predicts. The question is not whether stones are solid, but what solidity consists in.\n\nBetter objections exist. Berkeley's theory makes God do an enormous amount of work, and if you do not already believe in God, the system collapses into something much stranger. How do different people perceive the same tree if each has their own ideas? Berkeley says they perceive ideas caused by the same divine archetype, but the details are thin. And what about minds? Berkeley says we know our own mind not by an idea but by a 'notion'. Hume, on Day 50, will ask why Berkeley's arguments against unperceived matter do not also work against an unperceived self.\n\nThese objections show that the strength of Berkeley's position is also its weakness. He follows empiricism with ruthless consistency, and in doing so shows how difficult it is for an empiricist to justify belief in the external world at all. He hoped to defeat scepticism; many readers concluded instead that he had shown how deep scepticism goes. Hume will take that lesson and run with it."
+    }
+  ],
+  "keyQuote": {
+    "text": "Esse est percipi.",
+    "source": "George Berkeley, A Treatise Concerning the Principles of Human Knowledge (1710), §3"
+  },
+  "modernConnection": {
+    "title": "Virtual Worlds, Rendering and the Brain's Model",
+    "body": "Video game designers face Berkeley's question every day. A large open-world game does not compute every leaf and rock in its vast landscape all the time. It renders only what the player can see, a technique known as culling, and loads distant areas only as the player approaches. In a sense, in the game world, to be is to be rendered for a player. What keeps the world consistent when no one is looking is the underlying code, which plays the role Berkeley assigned to God: a source of rules that guarantees the tree will be there when you turn around.\n\nVirtual reality makes the parallel sharper. In a good VR headset, your experience of a solid table can be produced with no table at all, just patterns of light and, with haptic gloves, pressure on your fingers. The philosopher David Chalmers, in *Reality+* (2022), argues that virtual objects are real objects, made of digital processes rather than ordinary matter, a view with a distinctly Berkeleyan flavour: what makes something real is the stable, shared, law-like structure of experience, not some hidden stuff underneath.\n\nNeuroscience offers a third echo. Many researchers now describe perception as the brain's best guess, a model built from sensory signals, rather than a window onto the world. Everything you see is in some sense constructed by your brain. This sounds Berkeleyan, but it actually supports Locke more than Berkeley: the neuroscientist assumes a physical world and a physical brain causing the experiences, exactly the material substance Berkeley denied.\n\nThe analogies also show Berkeley's limits. A game world needs computers, made of silicon and electricity. Berkeley would say those, too, are only ideas in minds. Whether that is a profound insight or a step too far is the question his philosophy forces on us."
+  },
+  "vocabulary": [
+    {
+      "term": "Esse est percipi",
+      "definition": "Latin for 'to be is to be perceived'; Berkeley's thesis that the existence of sensible things consists in their being perceived.",
+      "example": "By esse est percipi, the apple's existence just is its being seen, tasted and touched."
+    },
+    {
+      "term": "Immaterialism",
+      "definition": "Berkeley's view that there is no material substance; only minds and their ideas exist.",
+      "example": "Immaterialism does not deny that tables are real, only that they are made of unperceivable matter."
+    },
+    {
+      "term": "Idealism (metaphysical)",
+      "definition": "The view that reality is fundamentally mental or mind-dependent.",
+      "example": "Berkeley's idealism has nothing to do with being idealistic about politics."
+    },
+    {
+      "term": "Likeness principle",
+      "definition": "Berkeley's claim that an idea can be like nothing but an idea, so ideas cannot resemble unperceivable material things.",
+      "example": "Using the likeness principle, Berkeley denied that our idea of a shape could copy a shape in insensible matter."
+    },
+    {
+      "term": "Abstract idea",
+      "definition": "A supposed general idea formed by stripping away all particular features, such as a triangle of no particular kind; Berkeley denied we have them.",
+      "example": "Berkeley argued that matter in general is an abstract idea no one can actually form."
+    },
+    {
+      "term": "Master argument",
+      "definition": "Berkeley's argument that we cannot conceive of an unperceived object, since conceiving it is already a kind of perceiving.",
+      "example": "The master argument challenges you to picture a tree that no one is picturing."
+    },
+    {
+      "term": "Material substance",
+      "definition": "Matter understood as a mind-independent stuff that supports sensible qualities and causes our ideas; the target of Berkeley's attack.",
+      "example": "Hylas defends material substance and Philonous argues it is an empty word."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Refute Berkeley (Better Than Johnson)",
+    "prompt": "Samuel Johnson's stone-kick missed the point. Can you do better? Try to construct a genuine argument against immaterialism.",
+    "steps": [
+      "Write down Berkeley's position in your own words in three sentences, as charitably as possible.",
+      "List what Berkeley can explain: the hardness of stones, the regularity of nature, the agreement of different observers. How does he explain each?",
+      "Now find what he struggles to explain. Consider: why does God bother with the elaborate inner workings of a watch, or the brain, if nothing material does anything?",
+      "Write a short argument (four or five premises) against Berkeley, then write his best reply.",
+      "Decide: is the existence of matter something we know, something we reasonably assume, or something we cannot settle?"
+    ]
+  },
+  "summary": [
+    "George Berkeley (1685–1753), Irish philosopher and later Bishop of Cloyne, argued that material substance does not exist.",
+    "To be is to be perceived (or to perceive): there are only minds and the ideas they perceive; ordinary objects are collections of ideas.",
+    "He used Locke's empiricism against Locke: an idea can be like nothing but an idea, primary qualities are as mind-dependent as secondary ones, and abstract ideas are illusions.",
+    "Unperceived objects continue to exist because God perceives them; the laws of nature are the regular way God gives us ideas.",
+    "Johnson's stone-kick does not touch Berkeley's view, but serious questions remain about other minds, the self and dependence on God."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What does Berkeley's full formula esse est percipi aut percipere mean?",
+      "options": [
+        "To exist is to be material or to be mental",
+        "To exist is to be perceived or to perceive",
+        "To exist is to be thought by God alone",
+        "To exist is to be useful to a perceiver"
+      ],
+      "answer": 1,
+      "explanation": "Ideas exist by being perceived; minds exist by perceiving. These are the only two kinds of being in Berkeley's world."
+    },
+    {
+      "type": "mc",
+      "question": "How does Berkeley argue against Locke's distinction between primary and secondary qualities?",
+      "options": [
+        "He shows that secondary qualities are actually in objects",
+        "He points out that Locke never defined primary qualities",
+        "He argues that only secondary qualities are measurable",
+        "He argues that primary qualities like size and shape also vary with the observer and cannot be conceived without secondary qualities"
+      ],
+      "answer": 3,
+      "explanation": "If perceptual variation shows colour is mind-dependent, it shows the same of size and shape; and no one can imagine a shape with no colour or texture."
+    },
+    {
+      "type": "mc",
+      "question": "Why did Johnson's stone-kicking fail to refute Berkeley?",
+      "options": [
+        "Berkeley never denied that stones are solid or that kicking them hurts; he gave a different account of what solidity is",
+        "Johnson missed the stone",
+        "Berkeley believed stones were imaginary and could not be kicked",
+        "Kicking is a primary quality"
+      ],
+      "answer": 0,
+      "explanation": "On Berkeley's view the felt resistance is an idea of touch, exactly what his theory predicts. The debate is about what objects are, not whether they feel solid."
+    },
+    {
+      "type": "mc",
+      "question": "According to Berkeley, why does a tree in an empty park continue to exist?",
+      "options": [
+        "Because it is made of matter",
+        "Because trees have souls that perceive themselves",
+        "Because it is perceived by God",
+        "It does not; it ceases to exist until someone returns"
+      ],
+      "answer": 2,
+      "explanation": "God's perception sustains objects that no finite mind perceives, and God's regular causing of ideas is what we call the laws of nature."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best expresses the likeness principle?",
+      "options": [
+        "Like causes produce like effects",
+        "An idea can be like nothing but an idea",
+        "Two things that are alike in every respect are identical",
+        "Secondary qualities resemble primary qualities"
+      ],
+      "answer": 1,
+      "explanation": "Berkeley used this principle to deny that our ideas could resemble an unperceivable material world. Option C is Leibniz's identity of indiscernibles."
+    },
+    {
+      "type": "mc",
+      "question": "A game engine only draws the parts of a landscape the player can currently see, yet the world stays consistent because of the underlying code. In this analogy, what plays the role of God in Berkeley's system?",
+      "options": [
+        "The player",
+        "The screen",
+        "The graphics card's colours",
+        "The underlying code that guarantees regular, law-like appearances"
+      ],
+      "answer": 3,
+      "explanation": "For Berkeley, God is the source of the regular order in which ideas are given to us, as the code is for the rendered world."
+    },
+    {
+      "type": "mc",
+      "question": "What was one of Berkeley's main motives for denying matter?",
+      "options": [
+        "To defeat scepticism and atheism, which he thought grew from belief in independent matter",
+        "To support Newton's theory of absolute space",
+        "To show that God does not exist",
+        "To prove that only primary qualities are real"
+      ],
+      "answer": 0,
+      "explanation": "Berkeley believed independent matter made God unnecessary and left us forever unsure whether our ideas matched reality."
+    },
+    {
+      "type": "tf",
+      "question": "Berkeley originally posed the puzzle about whether a tree falling in a forest with no one around makes a sound.",
+      "answer": false,
+      "explanation": "That puzzle comes later; it is inspired by questions Berkeley raised, but it is not in his writings."
+    },
+    {
+      "type": "tf",
+      "question": "In the Three Dialogues, Philonous defends Berkeley's immaterialism against Hylas, who defends matter.",
+      "answer": true,
+      "explanation": "The names are telling: Hylas comes from the Greek for matter, Philonous means lover of mind."
+    },
+    {
+      "type": "tf",
+      "question": "Berkeley held that we should stop saying things like 'the sun rises', since such talk is philosophically false.",
+      "answer": false,
+      "explanation": "He advised that we think with the learned and speak with the vulgar: keep ordinary speech, but understand it correctly."
+    }
+  ],
+  "goDeeper": {
+    "body": "Is Berkeley the most extreme of the empiricists or secretly the most common-sensical? He insisted on the latter. In the *Three Dialogues*, Philonous claims to be the defender of ordinary people, who believe that the things they see and touch are the real things. It is the materialist philosopher, Berkeley says, who tells the plain man that the real apple is a colourless, tasteless something hidden behind his ideas. Some modern readers find this persuasive: Berkeley rescues the reality of the world we actually experience, while Locke leaves it as mere appearance.\n\nA second scholarly question concerns the **continuity of objects** and the role of God. Some passages suggest a 'passive' view (objects exist because God perceives them) and others a 'counterfactual' view (to say an object exists unperceived is to say that we would perceive it under certain conditions). The two views differ in important ways, and commentators such as Kenneth Winkler and Tom Stoneham have argued over which is Berkeley's considered position.\n\nFinally, Berkeley's influence on science was real. His critique of Newton's infinitesimals in *The Analyst* (1734), which mocked the vanishing quantities of calculus as 'the ghosts of departed quantities', exposed a genuine lack of rigour that mathematicians did not fully repair until the nineteenth century. And his critique of absolute motion in *De Motu* (1721) was admired by Ernst Mach, whose relational ideas influenced the young Einstein. Few philosophers who denied the existence of matter had such an effect on physics.",
+    "readings": [
+      { "title": "Three Dialogues between Hylas and Philonous", "author": "George Berkeley", "note": "The most readable introduction to immaterialism; the First Dialogue contains the attack on primary qualities and the master argument." },
+      { "title": "A Treatise Concerning the Principles of Human Knowledge", "author": "George Berkeley", "note": "Read the Introduction on abstract ideas and §§1–33 for the core argument." },
+      { "title": "Berkeley: A Very Short Introduction", "author": "Kenneth P. Winkler", "note": "A fair-minded, accessible guide to the arguments and the life." }
+    ],
+    "questions": [
+      "If you could never tell the difference between a material world and a Berkeleyan one, does it matter which one you live in?",
+      "Does Berkeley's argument against unperceived matter also undermine belief in other minds?",
+      "Is Berkeley's God a philosophical necessity in his system, or a convenient patch?"
+    ]
+  }
+}

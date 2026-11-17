@@ -1,0 +1,234 @@
+{
+  "id": "day-46",
+  "day": 46,
+  "title": "Leibniz: Monads and the Best of All Possible Worlds",
+  "subtitle": "The last universal genius builds a universe of windowless minds, and Voltaire laughs",
+  "philosophers": ["Gottfried Wilhelm Leibniz", "Voltaire"],
+  "era": "1646–1716",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain what a monad is and why Leibniz thought reality must be made of them",
+    "Explain the principle of sufficient reason and the identity of indiscernibles, with an example of each",
+    "Describe pre-established harmony and how it answers the mind-body problem left by Descartes",
+    "Reconstruct Leibniz's argument that this is the best of all possible worlds, and Voltaire's satirical reply in Candide",
+    "Compare Leibniz's picture of God and substance with Spinoza's"
+  ],
+  "hook": "Imagine an orchestra in which no musician can hear any other. There is no conductor in the room, no shared sheet of music being passed around, and every player is locked in a soundproof booth. And yet, when you listen from outside, the result is a perfect symphony: every entry on time, every chord in tune. How could that be? Only if, long before the concert, someone had written each player's part so precisely that, playing alone, each would fit the others exactly.\n\nThat, astonishingly, is how Gottfried Wilhelm Leibniz thought the whole universe works. Every real thing, he argued, is a kind of soundproof booth with a mind inside it, and God is the composer who wrote all the parts at once. It sounds like a fairy tale. But Leibniz arrived at it by careful reasoning from a few principles that most of us accept without thinking, and the principles turn out to be far more durable than the fairy tale.",
+  "sections": [
+    {
+      "heading": "The Man Who Tried to Do Everything",
+      "body": "Leibniz was born in Leipzig in 1646, two years before the end of the Thirty Years' War, which had left the German lands ruined and divided by religion. He was a prodigy who taught himself Latin as a boy from the books in his late father's library, earned a doctorate in law at twenty, and then refused a university post. Instead he spent his life as a diplomat, legal adviser, historian and librarian, mostly in the service of the dukes of Brunswick in Hanover.\n\nHis range is almost absurd. Independently of Isaac Newton, he invented the **calculus** in the mid-1670s, and the notation we still use, the elongated S of the integral sign and the dx of the differential, is his. He designed a calculating machine that could multiply and divide, worked out binary arithmetic (the 0s and 1s of every modern computer), drafted plans to reunite the Catholic and Protestant churches, wrote on mining engineering and Chinese philosophy, and dreamed of a universal symbolic language in which disputes could be settled by calculation. Faced with a disagreement, he imagined, two philosophers would simply sit down and say, in effect, *let us calculate*.\n\nIn 1676 he visited Spinoza in The Hague and talked with him for hours. (Remember Spinoza from Day 45, with his one infinite substance, God or Nature?) Leibniz was fascinated and alarmed. Spinoza's system, he thought, swallowed up individuals and left God without choice or goodness. Much of Leibniz's own philosophy can be read as an attempt to keep what was brilliant in the new rationalism while rescuing individuality, freedom and a God who chooses the good.\n\nHe never wrote a single grand treatise. His philosophy lies scattered across thousands of letters, short essays and two famous summaries: the *Discourse on Metaphysics* (1686) and the *Monadology* (1714), a compressed set of ninety numbered paragraphs. The only philosophical book he published in his lifetime was the *Theodicy* (1710). He died in Hanover in 1716, out of favour at court and embittered by the priority dispute with Newton over who had invented the calculus."
+    },
+    {
+      "heading": "The Principle of Sufficient Reason",
+      "body": "Two principles, Leibniz said, govern all our reasoning. The first is the **principle of contradiction**: nothing can be both true and false at once (you met this as Aristotle's law of non-contradiction on Day 17). The second is his own signature idea, the **principle of sufficient reason**: nothing happens, and nothing is the case, without a reason why it is so and not otherwise. In the *Monadology* (§32) he puts it roughly this way: no fact can be real and no statement true unless there is a sufficient reason why it is thus and not otherwise, even if we usually cannot know those reasons.\n\nThis sounds like common sense. If your car will not start, you do not accept the answer that there is simply no reason. Science itself seems to run on the assumption that things have explanations. But Leibniz pushes the principle all the way. Why does the universe exist at all? Why this universe rather than some other? Why is there something rather than nothing? (That last question is Leibniz's, posed in his 1714 essay on the principles of nature and grace.) Every chain of explanations inside the world points to further things inside the world, so the complete reason for the whole series must lie outside it, in a being that contains its own reason for existing. That being is God.\n\nThe principle also does surprising work in physics. In his famous exchange of letters with Samuel Clarke, Newton's ally, in 1715–16, Leibniz attacked Newton's idea of absolute space, an infinite empty container in which the universe sits. If space were like that, he argued, God could have placed the whole universe three feet to the left, or created it a year earlier. But those alternatives would differ in nothing observable, so God could have had no reason to prefer one over the other. Since God never acts without reason, the alternatives must not be real alternatives at all. Space is not a container; it is just the system of relations among things. Physicists still debate versions of this **relational** view of space and time today."
+    },
+    {
+      "heading": "No Two Leaves Alike: The Identity of Indiscernibles",
+      "body": "A close cousin of sufficient reason is the **identity of indiscernibles**: if two things share every single property, they are not two things but one. There cannot be two perfectly identical drops of water or two perfectly identical atoms, because God would have no reason to put one here and the other there.\n\nLeibniz told a charming story to illustrate it, in his fourth letter to Clarke. At the palace gardens of Herrenhausen, in the presence of the Electress Sophia, a clever gentleman thought he could easily find two leaves exactly alike. He searched and searched and failed. Leibniz's point was not that the man was unlucky; it was that he was bound to fail, because nature never repeats itself perfectly.\n\nBe careful to separate this from the much less controversial principle that runs the other way, sometimes called the indiscernibility of identicals: if A and B are one and the same thing, then whatever is true of A is true of B. If Mark Twain is Samuel Clemens, and Twain wrote *Huckleberry Finn*, then Clemens wrote it too. Almost everyone accepts that. Leibniz's principle is bolder: sameness of properties guarantees sameness of thing.\n\nCritics have pushed back. In 1952 the philosopher Max Black imagined a universe containing nothing but two iron spheres, each a mile across, identical in every respect, a fixed distance apart. Isn't that possible? If so, there are two things with all the same properties, and Leibniz is wrong. Modern physics adds a twist: electrons really do seem to be perfectly indistinguishable, which some take as a refutation of Leibniz and others as evidence that electrons are not little individual things at all. The debate is very much alive."
+    },
+    {
+      "heading": "Monads: The Atoms of Mind",
+      "body": "Now for the strangest part. Leibniz reasoned like this. Anything made of parts is a compound, and compounds are just collections. But collections must ultimately be collections of something that is not itself a collection. So there must be simple things, without parts. Things without parts have no shape and no size, because anything extended in space can be divided. So the ultimate building blocks of reality cannot be material atoms like those of Democritus (Day 7). They must be something more like points of force or life. Leibniz called them **monads**, from the Greek *monas*, a unit.\n\nWhat can a partless, sizeless thing be like? The only partless things we know from the inside, Leibniz suggests, are minds. So every monad has two features: **perception**, an inner representation of the rest of the universe from its own point of view, and **appetition**, a striving that moves it from one perception to the next. Most monads perceive only dimly, like us in a dreamless sleep or a faint. Animal souls perceive more clearly and have memory. Human souls, which Leibniz calls spirits, have reason and self-awareness. God is the supreme monad, perceiving everything perfectly.\n\nTo show why perception cannot be explained mechanically, Leibniz offers a famous thought experiment (*Monadology* §17). Imagine a machine that could think and feel, and imagine it enlarged to the size of a mill so you could walk inside. You would find only parts pushing against parts, gears and levers, and nowhere anything that explains a perception. This **mill argument** is a direct ancestor of debates about consciousness you will meet on Day 84.\n\nAnd then the most famous line of all: monads have no windows through which anything could come in or go out (*Monadology* §7). Nothing outside a monad can affect it. Each one unfolds its whole history from within, like a program running on its own. Each is a living mirror of the entire universe, reflecting everything from one unique perspective, the way one city looks different from every hill around it."
+    },
+    {
+      "heading": "Pre-established Harmony: Clocks in Perfect Agreement",
+      "body": "If monads cannot affect each other, why does the world look like a place full of causes? When I decide to raise my arm, my arm goes up. When a needle pricks my finger, I feel pain. Recall Elisabeth of Bohemia's challenge to Descartes on Day 44: how can an unextended mind push an extended body? Descartes had no good answer, and the pineal gland only relocated the mystery.\n\nLeibniz offers a breathtaking solution. Mind and body never interact at all. Imagine two clocks that always show the same time. There are three ways this could happen. They could be physically connected so that one drives the other (that is interaction, which Leibniz thinks is impossible). A clockmaker could constantly adjust them by hand (that was the view of occasionalists such as Nicolas Malebranche, who held that God produces every event on the occasion of another). Or the clocks could have been built so perfectly at the start that they keep time together forever without any further help. That third option is **pre-established harmony**. God, in creating the world, set every monad running so that its inner states correspond exactly to those of every other. My will and my arm agree not because one causes the other but because both follow their scores perfectly, like the musicians in their soundproof booths.\n\nMany readers find this bizarre, and Leibniz's contemporaries did too. It seems to make the world a vast puppet show. But consider its virtues by Leibniz's lights. It respects the mechanical laws of physics, which govern bodies without exception. It keeps minds genuinely active, unfolding from their own inner principle. And it makes God a supremely skilled designer rather than a repairman who must keep tinkering. Leibniz mocked Newton's suggestion that God might occasionally need to correct the solar system, as though God were a clockmaker whose work kept running down."
+    },
+    {
+      "heading": "The Best of All Possible Worlds",
+      "body": "Leibniz's picture of God brings us to his most famous and most mocked claim. Before creation, God's infinite intellect surveyed every possible world, every complete and consistent way things could have gone. There are infinitely many. Being perfectly good, God wanted the best. Being all-powerful, God could create whichever one was chosen. Being perfectly wise, God knew which one was best. By the principle of sufficient reason, God needed a reason to choose, and the only reason fit for a perfect being is that one world is better than all the rest. So the actual world must be the **best of all possible worlds**.\n\nThis is a **theodicy**, a word Leibniz coined from the Greek for God and justice: an attempt to justify God's ways in the face of evil. It continues the project of Augustine on Day 30, who treated evil as a privation and defended free will. Leibniz does not say there is no evil, nor that every event is pleasant. His claim is that the best world overall may contain evils, because removing them would make the whole worse. A world with free creatures who sometimes sin may be better than a world of automata. A painting needs shadows; music needs dissonance that resolves. Best does not mean perfect in every detail; it means the greatest variety of things achieved with the greatest simplicity of laws.\n\nThe strongest objection is obvious. Could God not have created a world with exactly the same good things and slightly less pain, say one fewer child dying of disease? Leibniz answers that everything in a world is connected to everything else, so you cannot change one detail without changing the whole. We see only a tiny fragment, and cannot judge. Critics reply that this makes the claim unfalsifiable: no amount of suffering could ever count against it."
+    },
+    {
+      "heading": "Voltaire's Laughter: Candide",
+      "body": "On the morning of 1 November 1755, All Saints' Day, a massive earthquake struck Lisbon, followed by a tsunami and fires. Tens of thousands died, many of them in churches at Mass. Across Europe the disaster forced a question: was this, too, part of the best possible world? Voltaire, whom you will meet properly on Day 54, answered first with a furious *Poem on the Lisbon Disaster* (1756) and then, in 1759, with one of the funniest books ever written about philosophy, *Candide*.\n\nIts hero, the innocent young Candide, is tutored by Dr Pangloss, who teaches that all is for the best in this best of all possible worlds. Candide is then flogged, shipwrecked, caught in the Lisbon earthquake, and made to witness war, rape, slavery and the Inquisition, while Pangloss, even after catching syphilis and being nearly hanged, cheerfully finds a sufficient reason for everything. Noses, he explains, were made to support spectacles. At the end, Candide stops arguing and declares that we must cultivate our garden: stop theorising about the cosmos and do useful work.\n\nIs this fair to Leibniz? Not entirely. Pangloss says every evil is good in itself or locally useful, which Leibniz never claimed; Voltaire was also aiming at a broader popular optimism, captured in Alexander Pope's line in *An Essay on Man* (1733–34) that whatever is, is right. But the satire lands one real blow. A theory that can explain away any horror risks becoming a way of not looking at suffering at all. That tension between cosmic justification and human compassion will return with Hume on Day 50."
+    }
+  ],
+  "keyQuote": {
+    "text": "The monads have no windows, through which anything could come in or go out.",
+    "source": "Leibniz, Monadology §7 (1714), Latta translation"
+  },
+  "modernConnection": {
+    "title": "Simulations, Code and the Search for Reasons",
+    "body": "Leibniz would have been at home in a software company. His dream of a universal symbolic language in which arguments could be settled by calculation is an ancestor of formal logic and computer science, and his binary arithmetic is the language every chip speaks. When engineers today write tests that check whether a program's output follows from its inputs, they are applying something like a local principle of sufficient reason: every bug has a cause, and if you cannot find it, you have not looked hard enough.\n\nThe monadology itself has a surprising modern echo in the simulation hypothesis, the idea, popularised by Nick Bostrom in 2003, that we might be living inside a computer simulation. In a simulated world, characters seem to push and pull each other, but in fact every event is computed by an underlying program. Nothing truly passes between them; they merely appear in coordinated ways because the code was written that way. That is pre-established harmony with a programmer in the place of God. Multiplayer video games make the analogy even sharper: each player's console runs its own copy of the world, and the illusion of a shared space depends on the copies staying in sync.\n\nThe best-of-all-possible-worlds debate is also alive in a modern form. Economists and engineers constantly optimise under constraints, and they know that the best overall design may contain local flaws: a bridge strong enough for every storm would be too expensive to build, and a medicine with no side effects might not work. Leibniz's claim was that God solved the ultimate optimisation problem.\n\nBut the analogies have limits. A simulation's programmer might be indifferent, careless or malicious, whereas Leibniz's whole argument depends on a perfectly good creator. And optimisation in engineering is open to inspection: we can check the trade-offs. Leibniz admits we can never check God's. That is exactly why Voltaire found the theory so maddening, and why, after an earthquake or a pandemic, telling grieving people that everything is optimal still sounds less like philosophy than like Pangloss."
+  },
+  "vocabulary": [
+    {
+      "term": "Monad",
+      "definition": "For Leibniz, a simple, partless, unextended substance with perception and appetition; the ultimate constituent of reality.",
+      "example": "Leibniz held that your soul is a monad that mirrors the entire universe from its own point of view."
+    },
+    {
+      "term": "Principle of sufficient reason",
+      "definition": "The principle that nothing is or happens without a reason why it is so and not otherwise.",
+      "example": "Asking why there is something rather than nothing is the principle of sufficient reason pushed to its limit."
+    },
+    {
+      "term": "Identity of indiscernibles",
+      "definition": "The principle that if two things share all their properties, they are really one and the same thing.",
+      "example": "The failed search for two identical leaves at Herrenhausen illustrated the identity of indiscernibles."
+    },
+    {
+      "term": "Pre-established harmony",
+      "definition": "Leibniz's doctrine that substances do not causally interact, but God set them up at creation so their states correspond perfectly.",
+      "example": "On pre-established harmony, my decision and my arm's movement agree like two perfectly built clocks."
+    },
+    {
+      "term": "Theodicy",
+      "definition": "An attempt to justify the goodness and justice of God in the face of evil; also the title of Leibniz's 1710 book.",
+      "example": "Augustine's free will defense and Leibniz's best-possible-world argument are both forms of theodicy."
+    },
+    {
+      "term": "Appetition",
+      "definition": "The inner striving in a monad that drives it from one perception to the next.",
+      "example": "Because of appetition, a monad changes from within rather than being pushed by anything outside it."
+    },
+    {
+      "term": "Calculus",
+      "definition": "The mathematics of continuous change (derivatives and integrals), developed independently by Newton and Leibniz.",
+      "example": "The dx and integral sign in a calculus textbook come from Leibniz's notation."
+    },
+    {
+      "term": "Optimism (philosophical)",
+      "definition": "In the eighteenth-century sense, the doctrine that this is the best of all possible worlds; the target of Voltaire's Candide, subtitled Optimism.",
+      "example": "Pangloss's optimism survives shipwreck, earthquake and the gallows without a dent."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Could God Have Done Better?",
+    "prompt": "Test Leibniz's theodicy against a real case by trying to design a better world, and then see how Leibniz would reply.",
+    "steps": [
+      "Choose one specific evil from history or your own life: a disease, a disaster, a cruelty.",
+      "Describe in a few sentences a world that is exactly like ours except that this evil does not happen. Be as concrete as you can.",
+      "Now play Leibniz: list at least three things that might also change if that evil were removed (connected events, lost goods, altered choices). Is his claim that everything is connected persuasive here?",
+      "Play Voltaire: write a short reply to your Leibniz, as sharp as you like. What does the theory ask you to stop feeling or noticing?",
+      "Finally, decide: is the claim that this is the best possible world testable at all? If not, does that count against it?"
+    ]
+  },
+  "summary": [
+    "Leibniz (1646–1716), co-inventor of the calculus, built a rationalist system meant to rescue individuality and divine choice from Spinoza's one-substance universe.",
+    "The principle of sufficient reason says nothing is so without a reason; it leads Leibniz to God, to relational space, and to the identity of indiscernibles.",
+    "Reality is made of monads: partless, perceiving, windowless substances, each mirroring the universe from its own point of view.",
+    "Pre-established harmony replaces mind-body interaction: God synchronised all substances at creation like perfectly made clocks.",
+    "God, choosing the best, created the best of all possible worlds, which may contain evils necessary for the greatest overall good.",
+    "Voltaire's Candide (1759), written after the Lisbon earthquake, satirised this optimism, not always fairly, but with a lasting moral point."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What does Leibniz mean when he says monads have no windows?",
+      "options": [
+        "Monads cannot perceive anything at all",
+        "Monads are made of opaque matter",
+        "Nothing outside a monad can enter or causally affect it; it unfolds from within",
+        "Only God can see inside a monad, while other monads are blind"
+      ],
+      "answer": 2,
+      "explanation": "Windowlessness means no causal influence passes between monads. They do perceive (they mirror the universe), but their changes come from their own inner principle."
+    },
+    {
+      "type": "mc",
+      "question": "Which question is the principle of sufficient reason most directly designed to raise?",
+      "options": [
+        "Why is there something rather than nothing?",
+        "How many angels can dance on a pin?",
+        "Is pleasure the only good?",
+        "Can we trust the senses at all?"
+      ],
+      "answer": 0,
+      "explanation": "Leibniz himself posed the question of why there is something rather than nothing, demanding a reason even for existence as a whole."
+    },
+    {
+      "type": "mc",
+      "question": "Max Black's thought experiment of two perfectly identical iron spheres in an otherwise empty universe is meant to challenge which principle?",
+      "options": [
+        "The principle of contradiction",
+        "Pre-established harmony",
+        "The mill argument",
+        "The identity of indiscernibles"
+      ],
+      "answer": 3,
+      "explanation": "If two spheres can share every property and still be two, then sameness of properties does not guarantee sameness of thing, contrary to Leibniz."
+    },
+    {
+      "type": "mc",
+      "question": "In the clock analogy, which option corresponds to pre-established harmony?",
+      "options": [
+        "The clocks are linked by a rod so one drives the other",
+        "The clocks were built so perfectly that they keep time together with no further intervention",
+        "A clockmaker constantly adjusts both clocks by hand",
+        "The clocks only seem to agree because we never check them closely"
+      ],
+      "answer": 1,
+      "explanation": "Leibniz rejects real interaction (the rod) and occasionalism (constant adjustment) in favour of a single perfect setup at creation."
+    },
+    {
+      "type": "mc",
+      "question": "What is the point of Leibniz's mill argument?",
+      "options": [
+        "Perception cannot be explained by the mechanical arrangement of parts",
+        "Machines will one day think like humans",
+        "The mind is located in the pineal gland",
+        "All change in the universe is caused by grinding forces"
+      ],
+      "answer": 0,
+      "explanation": "Walk inside a thinking machine enlarged to the size of a mill and you find only parts pushing parts, nothing that explains a perception."
+    },
+    {
+      "type": "mc",
+      "question": "A friend says after a disaster: everything happens for a reason and it was all for the best, right down to this. Which character does this most resemble?",
+      "options": [
+        "Candide at the end of the novel",
+        "Elisabeth of Bohemia",
+        "Pangloss",
+        "Samuel Clarke"
+      ],
+      "answer": 2,
+      "explanation": "Pangloss finds a cheerful justification for every horror. Candide, by contrast, ends by rejecting such theorising in favour of cultivating his garden."
+    },
+    {
+      "type": "mc",
+      "question": "How did Leibniz use the principle of sufficient reason against Newton's absolute space?",
+      "options": [
+        "He argued that space must be infinite because God is infinite",
+        "He argued that God would have no reason to place the universe in one location of empty space rather than another, so space must be relational",
+        "He argued that space is an illusion created by the senses",
+        "He argued that space is identical with God, as Spinoza claimed"
+      ],
+      "answer": 1,
+      "explanation": "Indistinguishable alternatives give God no reason to choose; so, Leibniz concluded, space is only a system of relations among things."
+    },
+    {
+      "type": "tf",
+      "question": "Leibniz claimed that every single event, taken by itself, is good, so that there is really no evil in the world.",
+      "answer": false,
+      "explanation": "Leibniz accepted that evil is real; his claim was that the best world overall may include evils whose removal would make the whole worse. The every-event-is-good view is closer to Pangloss's caricature."
+    },
+    {
+      "type": "tf",
+      "question": "Leibniz developed the calculus independently of Newton, and much of our modern notation comes from him.",
+      "answer": true,
+      "explanation": "Both men developed calculus independently in the later seventeenth century; Leibniz's notation, including dx and the integral sign, became standard."
+    },
+    {
+      "type": "tf",
+      "question": "Voltaire wrote Candide shortly before the Lisbon earthquake, and it predicted the disaster.",
+      "answer": false,
+      "explanation": "The earthquake struck in 1755; Candide appeared in 1759 and includes the earthquake as one of its hero's misfortunes."
+    }
+  ],
+  "goDeeper": {
+    "body": "Scholars have long argued about whether Leibniz really believed in a world of windowless minds, or whether the *Monadology* was a simplified popular presentation. His correspondence, especially with the Jesuit Bartholomew Des Bosses, shows him experimenting with a 'substantial chain' (*vinculum substantiale*) that might bind monads into real bodies, which suggests he was less settled than the tidy ninety paragraphs suggest.\n\nA second debate concerns freedom. If every truth about you is contained in your complete concept from the beginning, so that, as Leibniz says in the *Discourse on Metaphysics*, the concept of Julius Caesar already includes his crossing the Rubicon, how can Caesar's choice be free? Leibniz's answer turns on a distinction between necessary truths, whose denial is a contradiction, and contingent truths, whose analysis would require infinitely many steps that only God can complete. Caesar's not crossing is logically possible, even though it was certain he would cross. Whether this saves real freedom or just relabels determinism remains disputed; it is worth comparing with Spinoza's frank determinism on Day 45.\n\nFinally, Leibniz's possible worlds have had a spectacular afterlife. In the twentieth century, logicians such as Saul Kripke and David Lewis used possible-worlds semantics to make sense of words like 'necessarily' and 'possibly'. Lewis went further than Leibniz ever did, arguing that all possible worlds are equally real, and ours is just the one we happen to inhabit. Leibniz would have been horrified: for him, only one world was chosen, and that choice was the whole point.",
+    "readings": [
+      { "title": "Monadology", "author": "G. W. Leibniz", "note": "Only about twenty pages; read it in one sitting, ideally in an annotated edition such as Nicholas Rescher's." },
+      { "title": "Candide, or Optimism", "author": "Voltaire", "note": "Short, savage and very funny; chapters 1–6 cover Pangloss's teaching and the Lisbon earthquake." },
+      { "title": "Leibniz: A Very Short Introduction", "author": "Maria Rosa Antognazza", "note": "A clear, reliable overview by the author of the standard modern biography." },
+      { "title": "The Courtier and the Heretic", "author": "Matthew Stewart", "note": "A lively, opinionated account of Leibniz's meeting with Spinoza and what it meant for both." }
+    ],
+    "questions": [
+      "Is the principle of sufficient reason something we discover to be true, or an assumption we cannot help making?",
+      "If God could foresee every evil in this world, does choosing it anyway make God responsible for them?",
+      "Is Voltaire's advice to cultivate our garden a philosophical position, or a refusal to do philosophy?"
+    ]
+  }
+}

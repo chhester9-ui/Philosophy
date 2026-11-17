@@ -1,0 +1,210 @@
+{
+  "id": "day-01",
+  "day": 1,
+  "title": "What Is Philosophy?",
+  "subtitle": "Where the oldest questions came from, and how we will chase them",
+  "philosophers": ["Thales", "Plato", "Aristotle"],
+  "era": "c. 600 BCE to the present",
+  "estimatedMinutes": 45,
+  "objectives": [
+    "Explain what the word “philosophy” means and why wonder is often called its starting point",
+    "Describe the shift from mythos to logos and why historians now treat that slogan with care",
+    "Give several reasons why philosophy in the Western tradition began in the Greek cities of Ionia around 600 BCE",
+    "Name the main branches of philosophy and match a question to each one",
+    "Describe how this 90-day course is organized and how to get the most out of it"
+  ],
+  "hook": "Late at night, a child asks a parent a chain of questions. Why is the sky dark? Because the sun has gone. Where did it go? Around the other side of the Earth. Why does the Earth go round? Because of gravity. But why is there gravity? Why is there anything at all? At some point the parent says, “That’s just the way it is. Go to sleep.”\n\nPhilosophy is what happens when you refuse to go to sleep. It is the stubborn habit of pressing on past “that’s just the way it is” and asking whether it really is, and why, and how we could ever know. Around 2,600 years ago, in a busy Greek port on the coast of what is now Turkey, a handful of people began doing this in a new and organized way. Over the next ninety days you will follow the conversation they started, from those first questioners to thinkers who are alive today. This first lesson is your map.",
+  "sections": [
+    {
+      "heading": "A Love of Wisdom",
+      "body": "The word **philosophy** comes from two Greek words: *philia*, love or friendship, and *sophia*, wisdom. A philosopher is literally a “lover of wisdom.” Notice what the word does *not* say. It does not say “owner of wisdom” or “expert in wisdom.” A lover is someone who wants and pursues something they do not fully have. Later writers told a story that Pythagoras (whom you will meet on Day 3) invented the word because only the gods are truly wise, while humans can at best love wisdom. That story comes from much later sources such as Cicero and Diogenes Laertius, so treat it as a charming legend rather than a fact. But it captures a real attitude: philosophy begins with humility about what we know.\n\nTwo of the greatest Greek thinkers agreed about where the pursuit starts. In Plato’s dialogue *Theaetetus*, Socrates tells a puzzled young mathematician that wonder is the feeling of a philosopher, and philosophy begins in wonder. A generation later, Aristotle wrote in his *Metaphysics* that “it is owing to their wonder that men both now and at first began to philosophize.”\n\nWonder here does not mean vague dreaminess. It means the specific jolt you feel when something you took for granted suddenly looks strange. How can a thing change and still be the same thing? How do I know I am not dreaming right now? Why should I keep a promise when breaking it would help me? If you have ever felt that jolt, you have already started doing philosophy.\n\nWhat makes philosophy different from simply wondering is what you do next. A philosopher tries to answer the question with **reasons**: claims that other people can inspect, test, challenge and improve. That is the thread running through this entire course."
+    },
+    {
+      "heading": "From Mythos to Logos",
+      "body": "Before philosophy, people already had answers to the big questions. They came in the form of **mythos**, the Greek word for a story or tale. In the poems of Homer and Hesiod (composed around 750 to 650 BCE), the world has a history told through the births, marriages and wars of gods. Hesiod’s *Theogony* says that first of all came Chaos, a yawning gap, then broad-breasted Earth, then Eros (Love), and from them a whole family tree of divine beings. Thunder happens because Zeus is angry. The sea storms because Poseidon is offended.\n\nAround 600 BCE, in the city of Miletus, something new appeared. A man named Thales (you will study him tomorrow) is reported to have said that everything comes from water, and that the Earth rests on water like a floating log. That sounds odd to us, but notice what kind of answer it is. It does not mention any god’s mood. It points to something ordinary and observable, and it suggests a general principle that could explain many things at once. The Greek word for this new style of account is **logos**: a word that can mean speech, reason, explanation, or rational account.\n\nHistorians once summed up this change with the neat slogan “from mythos to logos,” made famous by the German scholar Wilhelm Nestle in a 1940 book of that title. The idea was that the Greeks marched in a straight line from superstition to reason. Modern scholars are more careful, for three good reasons:\n\n- The early philosophers did not abandon the divine. Thales reportedly said that “all things are full of gods” (reported by Aristotle in *On the Soul*).\n- Myth never went away. Plato, one of the greatest champions of reason, deliberately invented myths to make his points (you will meet several, including the Cave on Day 12).\n- Babylonian and Egyptian scholars had already built sophisticated astronomy and mathematics that the Greeks learned from.\n\nSo the shift was not from stupidity to intelligence. It was a change in the *kind of answer people were willing to accept*. A myth is accepted because of who tells it: the poet inspired by the Muses, the priest, the tradition. A rational account is supposed to be accepted because of the reasons given for it, which means anyone can challenge it. That is the revolutionary part. Thales’ own student Anaximander disagreed with him, and his student Anaximenes disagreed with both. Disagreement, argued out in the open, became a method rather than a sin."
+    },
+    {
+      "heading": "Why There? Why Then?",
+      "body": "Why should this happen in Greek cities on the coast of Asia Minor, a region the Greeks called **Ionia**, rather than in the great empires of Egypt or Mesopotamia? No single cause explains it, but historians point to a cluster of conditions.\n\n1. **Trade and travel.** Miletus was a wealthy port with colonies around the Black Sea and contacts with Egypt, Phoenicia, Lydia and Babylon. Merchants met people with very different gods, customs and stories. When you discover that your neighbor’s sacred story contradicts yours, it becomes natural to ask which, if either, is true.\n2. **Borrowed knowledge.** Contact with older civilizations brought practical geometry from Egypt and astronomical records from Babylon. The Greeks had material to think with.\n3. **No ruling priesthood or sacred book.** Greek religion had priests and rituals, but no single scripture that everyone had to accept and no powerful priestly class with a monopoly on explaining the world. There was room to speculate.\n4. **The alphabet and writing.** The Greeks adapted the Phoenician alphabet around the 8th century BCE. A simple alphabet made it easier for more people to read, write and pass on arguments, which could then be checked and answered.\n5. **The city-state and public debate.** Greek life was organized in independent cities, each called a **polis**. Citizens argued in assemblies and law courts. A culture that settles questions by argument in public is fertile ground for a discipline that settles questions by argument.\n6. **Leisure.** Aristotle observed in his *Metaphysics* that the theoretical sciences arose where people had leisure, noting that mathematics began in Egypt because the priests there had time for it. Wealthy cities gave some people time to think about questions that had no immediate practical payoff.\n\nOne honest caveat. Philosophy did not only begin in Greece. At roughly the same time, the Upanishads in India explored the nature of the self and ultimate reality, the Buddha taught in northern India, and Confucius and Laozi were associated with new ways of thinking in China. The philosopher Karl Jaspers called this period, roughly 800 to 200 BCE, the “Axial Age.” This course mainly follows the Western tradition that grew from Greece, because it forms one long, connected conversation, but on Day 87 we will deliberately step into that global dialogue."
+    },
+    {
+      "heading": "The Branches of Philosophy",
+      "body": "Philosophy is less a single subject than a family of questions. Over the centuries those questions have sorted themselves into several main branches. Learning their names now will help you find your bearings every day of this course.\n\n- **Metaphysics** asks what is ultimately real. What is the world made of? Does time really pass? Is the mind something separate from the body? Do we have free will? (The word comes from the title editors gave to the books Aristotle wrote “after the *Physics*.”)\n- **Epistemology** asks about knowledge. What is the difference between knowing something and merely believing it? Can we trust our senses? Can we be certain of anything? (From *episteme*, Greek for knowledge.)\n- **Ethics** asks how we should live and what we owe one another. What makes an action right or wrong? What is a good life? Is morality objective, or does it vary from culture to culture?\n- **Logic** studies reasoning itself. What makes an argument good? When does a conclusion really follow from the evidence? Logic is the toolkit every other branch borrows.\n- **Aesthetics** asks about beauty and art. Is beauty in the eye of the beholder? What makes something a work of art? Why do tragic stories move us?\n- **Political philosophy** asks about power and society. Why should anyone obey the state? What is justice? Who should rule, and how?\n\nThese branches constantly overlap. The question “Should we punish people for crimes if their choices were determined by their brains?” is metaphysics (free will), ethics (desert and punishment) and political philosophy (the law) all at once. As you read each lesson, try to notice which branches are in play. The early Greeks you will meet in Unit 1 were mostly doing metaphysics, asking what reality is made of. With the Sophists and Socrates (Days 8 and 9), the spotlight swings toward ethics and politics."
+    },
+    {
+      "heading": "Thinking With Arguments",
+      "body": "If philosophy is about giving reasons, it helps to know what a reason looks like. Philosophers use the word **argument** in a special sense. It does not mean a shouting match. It means a set of statements, called **premises**, offered as support for another statement, called the **conclusion**.\n\nHere is a classic example:\n\n1. All humans are mortal.\n2. Socrates is a human.\n3. Therefore, Socrates is mortal.\n\nIf the first two lines are true, the third simply has to be true. When the conclusion follows from the premises in this airtight way, logicians call the argument **valid**. You will study this properly on Day 17 with Aristotle, who invented formal logic.\n\nYou can challenge an argument in two basic ways. You can deny a premise (“Wait, is that really true?”), or you can deny that the conclusion follows (“Even if all that is true, it doesn’t show what you claim”). Almost every philosophical debate you meet in this course boils down to one of these two moves.\n\nTwo more habits will serve you well:\n\n- **Charity.** Before criticizing a view, state it in its strongest form, the way its best defender would. Refuting a weak version (a “straw man”) teaches nobody anything.\n- **Counterexamples.** A single well-chosen case can sink a general claim. If someone says “Every action is selfish,” one clear case of genuine self-sacrifice is enough to force them to refine the theory.\n\nPhilosophy rarely produces final proofs about the big questions. As Bertrand Russell wrote in *The Problems of Philosophy* (1912), philosophy is to be studied “not for the sake of any definite answers to its questions,” but for the sake of the questions themselves, which enlarge our sense of what is possible. What it does produce is clearer thinking: you learn which answers are confused, which hidden assumptions drive a debate, and what you would have to accept in order to believe something."
+    },
+    {
+      "heading": "How This Course Works",
+      "body": "Over the next 90 days you will travel roughly in historical order, because philosophers are always answering earlier philosophers. Heraclitus says everything changes; Parmenides replies that change is impossible; the atomists try to reconcile them. If you skip the earlier moves, the later ones make little sense.\n\nThe journey runs through thirteen units: the first Greek thinkers, Socrates and Plato, Aristotle, the schools of the Hellenistic and Roman world (Cynics, Epicureans, Stoics, Skeptics), medieval philosophy in the Christian, Islamic and Jewish worlds, the Renaissance and Scientific Revolution, the great debates of the 17th and 18th centuries, the 19th century from Hegel to Nietzsche, and finally the analytic, continental and contemporary traditions of the last 120 years. Several days are marked **Review**: these pull the threads of a unit together and test you cumulatively.\n\nEach daily lesson has the same shape. You read the main lesson, then a **modern connection** that brings the idea into today’s world. You learn a handful of key terms, try a short **thinking exercise**, and finish with a quiz. An optional “Go Deeper” section points you toward real books if a topic grabs you.\n\nA few tips:\n\n- **Argue back.** Philosophers want to be challenged. If something seems wrong, write down why.\n- **Keep a notebook.** Your answers to the thinking exercises will become a record of how your own views change over 90 days. On Day 90 you will use it.\n- **Do not rush.** Thirty to sixty minutes a day is plenty. Understanding one idea deeply beats skimming five.\n- **Expect discomfort.** Good philosophy sometimes unsettles beliefs you care about. That is a sign it is working, not a sign you are doing it wrong.\n\nTomorrow we go back to Miletus and meet the first three philosophers whose ideas survive: Thales, Anaximander and Anaximenes."
+    }
+  ],
+  "keyQuote": {
+    "text": "For it is owing to their wonder that men both now and at first began to philosophize.",
+    "source": "Aristotle, Metaphysics I.2, 982b (trans. W. D. Ross)"
+  },
+  "modernConnection": {
+    "title": "Philosophy Is Hiding in Your News Feed",
+    "body": "It is tempting to think philosophy is an antique hobby, interesting but irrelevant. Scroll through a single day’s news, though, and you will find every branch on the list hard at work.\n\nA self-driving car must be programmed to decide what to do in an unavoidable crash. Should it protect its passengers first, or minimize total harm? That is **ethics**, and engineers have had to write the answer into code. A video circulates of a politician saying something outrageous, and nobody is sure whether it is a deepfake. How can we know what is real when seeing is no longer believing? That is **epistemology**. A chatbot holds a fluent conversation, and people argue about whether it understands anything or could ever be conscious. That is **metaphysics** and philosophy of mind. Arguments about social media moderation (who gets to decide what may be said in public?) are **political philosophy**. Debates over whether AI-generated images count as art are **aesthetics**. And every comment thread is a crash course in bad **logic**.\n\nThe shift from mythos to logos also has a modern echo. Much of what circulates online succeeds the way myths once did: because of who says it, how vivid the story is, and whether it flatters our group. The Milesian move was to ask instead, “What is the reason? Could someone check it?” That habit is exactly what fact-checkers, scientists and careful readers try to practice today.\n\nThe comparison has limits. The early Greeks were not facing algorithmic feeds, and their rational accounts were often wildly wrong; Thales’ water theory would not survive a fact-check. And modern societies still rely heavily on trust in experts, which is not the same as superstition, since nobody can personally check everything. The real lesson is not “trust no one” but “know what kind of reason you are being offered.” Philosophy will not tell you whether to trust a particular video or a particular expert, but it trains you to ask the right questions about why you believe what you believe."
+  },
+  "vocabulary": [
+    {
+      "term": "Philosophy",
+      "definition": "From Greek philia (love) and sophia (wisdom): the reasoned investigation of fundamental questions about reality, knowledge, value and meaning.",
+      "example": "Asking whether we could ever prove that other people have minds is a question for philosophy, not for a laboratory."
+    },
+    {
+      "term": "Mythos",
+      "definition": "A traditional story, often about gods or heroes, that explains the world and is accepted largely because of tradition or the authority of the teller.",
+      "example": "Hesiod’s account of the world beginning with Chaos and Earth is mythos."
+    },
+    {
+      "term": "Logos",
+      "definition": "Greek for word, speech, reason or rational account; an explanation offered with reasons that others can examine and dispute.",
+      "example": "Thales’ claim that everything comes from water was an early attempt at logos rather than myth."
+    },
+    {
+      "term": "Metaphysics",
+      "definition": "The branch of philosophy that asks what is ultimately real: the nature of being, time, causes, mind and matter.",
+      "example": "Wondering whether time truly flows or only seems to is a metaphysical question."
+    },
+    {
+      "term": "Epistemology",
+      "definition": "The branch of philosophy that studies knowledge: what it is, how we get it, and what its limits are.",
+      "example": "Asking how you know a news video is genuine rather than a deepfake is an epistemological question."
+    },
+    {
+      "term": "Ethics",
+      "definition": "The branch of philosophy that asks how we ought to live, what makes actions right or wrong, and what a good life is.",
+      "example": "Deciding whether it is ever right to lie to protect a friend is a question in ethics."
+    },
+    {
+      "term": "Argument",
+      "definition": "In philosophy, a set of statements (premises) offered as reasons to accept another statement (the conclusion).",
+      "example": "“All humans are mortal; Socrates is human; so Socrates is mortal” is an argument with two premises and a conclusion."
+    },
+    {
+      "term": "Polis",
+      "definition": "An independent Greek city-state, a self-governing community whose citizens often debated public matters openly.",
+      "example": "Miletus and Athens were each a polis with its own laws, assemblies and gods."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Your Wonder Inventory",
+    "prompt": "Philosophy starts when something ordinary suddenly seems strange. Spend 10 to 15 minutes collecting and sorting your own philosophical questions. This list will be useful again on Day 90.",
+    "steps": [
+      "Write down five questions that have genuinely puzzled you at some point in your life (for example: Is there life after death? Why should I be moral? Is my red the same as your red?).",
+      "Label each question with the branch or branches of philosophy it belongs to: metaphysics, epistemology, ethics, logic, aesthetics or political philosophy.",
+      "Choose one question and write the answer you currently believe, in one sentence.",
+      "Now write down the best reason you have for that answer, and then the strongest objection someone might raise against it.",
+      "Finally, note whether your reason is a mythos-style reason (tradition, authority, a story you were told) or a logos-style reason (something anyone could examine). Neither is automatically worthless, but notice which you rely on."
+    ]
+  },
+  "summary": [
+    "Philosophy means “love of wisdom”: the pursuit of understanding through reasons rather than the possession of final answers.",
+    "Plato and Aristotle both said philosophy begins in wonder, the moment the familiar becomes puzzling.",
+    "Around 600 BCE, thinkers in Miletus began offering rational accounts (logos) instead of stories about the gods (mythos), though the shift was gradual and messy rather than a clean break.",
+    "Trade, borrowed knowledge, the lack of a ruling priesthood, alphabetic writing, public debate in the polis and leisure all helped philosophy flourish in Greek Ionia, while other traditions arose independently in India and China.",
+    "The main branches are metaphysics, epistemology, ethics, logic, aesthetics and political philosophy, and real questions usually involve several at once.",
+    "Philosophers work with arguments, premises and conclusions, which can be challenged by questioning a premise or questioning whether the conclusion follows."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What does the Greek word “philosophia” literally mean?",
+      "options": ["Knowledge of the gods", "Study of nature", "Love of wisdom", "Art of argument"],
+      "answer": 2,
+      "explanation": "Philosophia combines philia (love) and sophia (wisdom). The word suggests pursuing wisdom rather than already possessing it."
+    },
+    {
+      "type": "mc",
+      "question": "According to both Plato and Aristotle, philosophy begins with which experience?",
+      "options": ["Fear of death", "Wonder", "Political conflict", "Religious revelation"],
+      "answer": 1,
+      "explanation": "Plato’s Theaetetus and Aristotle’s Metaphysics both identify wonder, the sense that something familiar is puzzling, as the starting point of philosophy."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best captures what was new about the Milesian thinkers compared with Hesiod?",
+      "options": [
+        "They denied that gods existed at all",
+        "They wrote in verse rather than prose",
+        "They relied on priests to interpret natural events",
+        "They explained the world through general natural principles that others could debate"
+      ],
+      "answer": 3,
+      "explanation": "The key change was the kind of explanation: natural principles open to criticism. They did not all reject the gods; Thales reportedly said all things are full of gods."
+    },
+    {
+      "type": "tf",
+      "question": "Modern historians generally accept that the Greeks moved in a clean, sudden break from myth to pure reason.",
+      "answer": false,
+      "explanation": "Scholars now see the “mythos to logos” story as an oversimplification: early philosophers kept ideas of the divine, Plato used myths, and Greeks borrowed from Babylonian and Egyptian learning."
+    },
+    {
+      "type": "mc",
+      "question": "A friend asks, “How can I be sure that my memories are accurate?” Which branch of philosophy does this question mainly belong to?",
+      "options": ["Epistemology", "Aesthetics", "Political philosophy", "Ethics"],
+      "answer": 0,
+      "explanation": "Questions about how we know things and whether our sources of belief are reliable belong to epistemology, the theory of knowledge."
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following was NOT one of the conditions historians link to the rise of philosophy in Ionia?",
+      "options": [
+        "Contact with other cultures through trade",
+        "A single sacred scripture enforced by a powerful priesthood",
+        "Public debate within independent city-states",
+        "Leisure time for some members of wealthy cities"
+      ],
+      "answer": 1,
+      "explanation": "Greek religion had no single authoritative scripture or ruling priestly class, which left room for speculation. The other three were genuine contributing conditions."
+    },
+    {
+      "type": "mc",
+      "question": "In philosophy, an argument is best described as:",
+      "options": [
+        "A heated disagreement between two people",
+        "A story that explains how the world began",
+        "A list of a philosopher’s opinions",
+        "Premises offered as reasons to accept a conclusion"
+      ],
+      "answer": 3,
+      "explanation": "Philosophers use “argument” to mean a structure of premises supporting a conclusion, not a quarrel."
+    },
+    {
+      "type": "tf",
+      "question": "The story that Pythagoras coined the word “philosopher” comes from much later sources and should be treated with caution.",
+      "answer": true,
+      "explanation": "The anecdote is reported by later writers such as Cicero and Diogenes Laertius, centuries after Pythagoras, so it is best treated as a legend."
+    },
+    {
+      "type": "mc",
+      "question": "Debating whether a government may censor false information online most clearly involves which branch?",
+      "options": ["Aesthetics", "Logic", "Political philosophy", "Metaphysics"],
+      "answer": 2,
+      "explanation": "Questions about the legitimate use of power, the state and public speech are central to political philosophy (with ethics and epistemology close by)."
+    },
+    {
+      "type": "tf",
+      "question": "Philosophy in this period arose only in Greece; no other culture asked similar questions until much later.",
+      "answer": false,
+      "explanation": "Around the same era, the Upanishads and the Buddha in India and Confucius in China were exploring deep questions, part of what Karl Jaspers called the Axial Age."
+    }
+  ],
+  "goDeeper": {
+    "body": "What exactly is philosophy for? Two very different answers run through its history, and you will meet both repeatedly.\n\nOn the first view, philosophy is a theoretical enterprise: the attempt to get the most general truths about reality and knowledge right, in the way physics tries to get the truths about matter right. On this view the ideal philosopher is something like a scientist of concepts. Much modern academic philosophy, especially in the analytic tradition (Unit 11), understands itself this way.\n\nOn the second view, championed by the French historian Pierre Hadot, ancient philosophy was above all a **way of life**. Joining a school such as Plato’s Academy or the Stoic Porch meant adopting spiritual exercises, ways of training attention, desire and fear, aimed at transforming who you are. Theories mattered, but they served the goal of living well. Hadot argued that we misread ancient texts when we treat them as mere bundles of doctrines. Unit 4 will test his idea directly.\n\nThere is also a lively debate about the “Greek miracle” story itself. Some historians, such as G. E. R. Lloyd, have tried to explain early Greek science by its social setting, especially the competitive, adversarial culture of the polis, where you had to defend claims publicly against rivals. Others emphasize the Near Eastern sources the Greeks borrowed from, and caution against treating Greece as uniquely rational. Asking why philosophy arose where it did is itself a philosophical question about the relationship between ideas and the societies that produce them, a question Marx (Day 63) and Foucault (Day 81) will push hard.",
+    "readings": [
+      { "title": "The Problems of Philosophy", "author": "Bertrand Russell", "note": "A short classic from 1912. Read the final chapter, “The Value of Philosophy,” for a moving defense of studying questions without final answers." },
+      { "title": "What Does It All Mean? A Very Short Introduction to Philosophy", "author": "Thomas Nagel", "note": "A brief, beautifully clear tour of the main questions, ideal for a complete beginner." },
+      { "title": "What Is Ancient Philosophy?", "author": "Pierre Hadot", "note": "The classic statement of the view that ancient philosophy was a way of life rather than a set of theories." },
+      { "title": "Early Greek Science: Thales to Aristotle", "author": "G. E. R. Lloyd", "note": "A compact, scholarly account of how Greek rational inquiry emerged and how it related to its society." }
+    ],
+    "questions": [
+      "Is philosophy closer to science, to religion, or to art? What would each comparison get right and wrong?",
+      "Can an idea be accepted on authority and still be rational to believe? When is trusting experts the reasonable thing to do?",
+      "Which of the six branches of philosophy do you think matters most for living well, and why?"
+    ]
+  }
+}

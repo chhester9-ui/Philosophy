@@ -1,0 +1,13 @@
+{
+  "name": "philosophy-in-90-days",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A 90-day beginner philosophy course as an installable mobile web app.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/build.mjs && node scripts/serve.mjs",
+    "test": "node scripts/validate.mjs && node scripts/build.mjs && node scripts/smoke-test.mjs"
+  }
+}

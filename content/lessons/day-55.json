@@ -1,0 +1,234 @@
+{
+  "id": "day-55",
+  "day": 55,
+  "title": "Kant I: The Copernican Revolution in Philosophy",
+  "subtitle": "What if the mind does not copy the world, but helps to build it?",
+  "philosophers": ["Immanuel Kant", "David Hume"],
+  "era": "1724–1804",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to explain why Hume's skepticism woke Kant from his “dogmatic slumber”.",
+    "By the end you will be able to define the analytic/synthetic and a priori/a posteriori distinctions and say why “synthetic a priori” knowledge was Kant's central puzzle.",
+    "By the end you will be able to describe Kant's “Copernican revolution”: space and time as forms of intuition and the categories as rules of the understanding.",
+    "By the end you will be able to distinguish phenomena from noumena and explain what Kant thought we can and cannot know.",
+    "By the end you will be able to state at least two serious objections to Kant's theory."
+  ],
+  "hook": "Put on a pair of rose-tinted glasses and the whole world turns pink. Now imagine you were born wearing them, that they cannot be removed, and that everyone else wears exactly the same pair. Would you ever discover that the pinkness came from the glasses and not from the world? You could not take them off to check. But you could notice something odd: you know in advance, before you look at anything, that whatever you see next will be pink. That advance knowledge is a clue. It tells you something about the glasses, not about the things.\n\nThis is, very roughly, the thought that turned a quiet professor in a Baltic port city into the most influential philosopher of modern times. Immanuel Kant asked how we can know some things about the world before we ever experience it — that every event will have a cause, that every triangle will have angles summing to two right angles, that whatever we meet will be somewhere in space and some time in time. His answer was startling: we can know these things in advance because our own minds supply them. Today we follow the argument that ended the war between the Rationalists and the Empiricists, and that changed what philosophy thought it was doing.",
+  "sections": [
+    {
+      "heading": "The Clockwork Professor of Königsberg",
+      "body": "Immanuel Kant was born in 1724 in Königsberg, then a busy trading city in East Prussia (today it is Kaliningrad, in Russia). His father was a harness-maker, and his family belonged to Pietism, a strict and heartfelt form of Lutheran Christianity that stressed inner moral seriousness over outward ritual. Kant won a place at the university of his home town, worked for years as a private tutor and then as a poorly paid lecturer, and only became a full professor of logic and metaphysics in 1770, at the age of 46. He almost never left the region around Königsberg in his whole life.\n\nBecause of this, Kant is often pictured as a dry, timid creature of routine. There is a famous story that his afternoon walk was so punctual that the neighbors set their clocks by it. Treat that as a legend: it comes from later anecdote collectors and may be exaggerated. What is well attested is that in middle age he followed a careful daily schedule, and that he was also a sociable host who loved long dinners with friends, talked about geography, wine and politics, and was considered witty company. He lectured on everything from logic to physical geography.\n\nFor the first half of his career Kant was a respected but fairly conventional thinker in the tradition of Leibniz (Day 46) and his follower Christian Wolff. Then came what scholars call the “silent decade” of the 1770s, when he published almost nothing. In 1781, at 57, he released the *Critique of Pure Reason*, a long, difficult book that he revised in a second edition in 1787. It was followed by the *Critique of Practical Reason* (1788), about morality, and the *Critique of the Power of Judgment* (1790), about beauty and purpose. We will spend three days on this “critical philosophy”: today knowledge, tomorrow ethics (Day 56), and then politics and art (Day 57)."
+    },
+    {
+      "heading": "Woken by Hume",
+      "body": "Why the long silence, and why such a radical book? Kant himself pointed to one reader who changed everything. In the *Prolegomena to Any Future Metaphysics* (1783), a shorter guide he wrote because people found the *Critique* so hard, he confessed that the memory of David Hume was what first interrupted his **dogmatic slumber** many years before, and gave his investigations a completely new direction.\n\nRemember Hume on Day 49? Hume argued that we never actually perceive a necessary connection between a cause and its effect. We see one billiard ball strike another and the second one move, and we see this again and again. But the “must” — the idea that the second ball *had* to move — is not in the experience at all. It is a habit of expectation that our minds form after repeated **constant conjunction**. And if that is so, we have no rational guarantee that the future will resemble the past. That is the problem of induction.\n\nKant took this as a crisis, not a curiosity. The whole of Newtonian physics, which he greatly admired, depended on causal laws that were supposed to hold necessarily and universally. If Hume was right, physics was just organized habit. On the other side stood the Rationalists — Descartes, Spinoza, Leibniz (Days 43–46) — who claimed that pure reason could prove grand truths about God, the soul and the universe. But they disagreed with one another endlessly, and Kant had come to think that metaphysics was a battlefield where no ground was ever permanently won.\n\nSo Kant faced two failures. The Empiricists could not explain how we know anything *necessary*. The Rationalists claimed to know far too much. His project was to examine reason itself — to put it on trial, which is what “critique” means here — and determine exactly what it can and cannot know. He did not want to pick a side. He wanted to show what each side had got right."
+    },
+    {
+      "heading": "Four Labels for Knowledge",
+      "body": "To understand Kant's puzzle, we need two pairs of terms. They sound technical, but the ideas are simple.\n\nThe first pair is about *how we come to know* something. A judgment is **a priori** (Latin for “from what comes before”) if we can know it is true without checking experience. “All bachelors are unmarried” is a priori: you do not need to survey bachelors. A judgment is **a posteriori** (“from what comes after”) if we can only know it through experience. “Some swans are black” is a posteriori: someone had to go to Australia and look.\n\nThe second pair is about *what the judgment says*. A judgment is **analytic** if the predicate is already contained in the subject, so that denying it would be a contradiction. “All bodies are extended” (take up space) is Kant's own example: the idea of a body already includes extension. Analytic judgments just unpack what our concepts already contain. A judgment is **synthetic** if the predicate adds something new. “All bodies are heavy” was Kant's example: nothing in the bare concept of a body tells you it has weight. Synthetic judgments genuinely extend our knowledge.\n\nNow put the two pairs together. Analytic judgments are always a priori — you only need to analyze the concept. Most synthetic judgments are a posteriori — you have to go and look. Hume had more or less assumed that this exhausts the options, which is what Day 49 called **Hume's fork**: either “relations of ideas” (analytic, certain, but empty) or “matters of fact” (informative, but never necessary).\n\nKant's bombshell was to claim that there is a third category: the **synthetic a priori**. These are judgments that genuinely tell us something new about the world, yet that we know with necessity and in advance of experience. His examples:\n\n- Mathematics. Kant argued that 7 + 5 = 12 is synthetic: no amount of staring at the concept “the sum of seven and five” contains the concept “twelve”; you have to construct the sum, for instance by counting on your fingers. Yet we know it necessarily. Geometry — “a straight line is the shortest distance between two points” — was likewise synthetic a priori.\n- The foundations of physics. “Every event has a cause” is not analytic, and it cannot be learned from experience, since experience only shows what *has* happened, never what *must* happen. Yet without it, science collapses.\n- Metaphysics, if it is possible at all, would also have to consist of synthetic a priori judgments.\n\nSo the guiding question of the *Critique* became: **how are synthetic a priori judgments possible?** How can we know, before looking, something substantive about a world that exists outside our heads?"
+    },
+    {
+      "heading": "The Copernican Turn",
+      "body": "Kant's answer is one of the great reversals in intellectual history. In the preface to the second edition of the *Critique* (1787) he compared himself to Copernicus (Day 41). Astronomers had failed to explain the motions of the heavens while assuming that the stars revolved around a stationary observer. Copernicus tried the opposite hypothesis: perhaps the observer moves and the stars stand still. Kant proposed the same kind of experiment for knowledge.\n\nUp to now, he said, everyone had assumed that our knowledge must conform to objects. But then a priori knowledge is a mystery: how could I know ahead of time what properties an independent object must have? So let us try the reverse assumption: that objects must conform to our knowledge. If the basic structure of experience is supplied by the mind itself, then of course we can know that structure in advance. We are not discovering a fact about the world out there; we are discovering the shape of the window through which any world must appear to us. This is Kant's **Copernican revolution**.\n\nKant called his position **transcendental idealism**. “Idealism” because the structure of the world as we experience it depends on the mind. “Transcendental” is Kant's special word for investigating the conditions that make experience possible in the first place. A transcendental argument asks: given that we do have experience of an orderly world, what must be true for that to be possible? This is not psychology: Kant is asking what any finite mind would need in order to have experience at all.\n\nThe point is that Kant is not Berkeley (Day 48). He insists that he is also an **empirical realist**: within experience, tables and planets are perfectly real, they exist when unobserved, and science studies them properly. What the mind supplies is the form of experience, not its content. We do not invent the redness of the apple or the fact that it fell; we supply the framework of space, time and causality that lets an apple be experienced at all."
+    },
+    {
+      "heading": "The Mind's Equipment: Intuitions and Categories",
+      "body": "So what exactly does the mind contribute? Kant divides our cognitive powers into two main parts.\n\nThe first is **sensibility**, our capacity to be affected by things, to receive what he calls **intuitions** (immediate, particular presentations, such as seeing this red patch now). Kant argued that space and time are not things out there, nor properties of things in themselves, but **forms of intuition**: the built-in format in which anything at all is given to us. Everything outer appears in space; everything whatsoever, including our own thoughts, appears in time. This, Kant said, is why geometry (the science of space) and arithmetic (connected to the succession of time) can be known a priori and yet apply to every object we will ever meet. We are not lucky that the world fits Euclid; anything that appears to us must fit the form of our intuition.\n\nThe second power is the **understanding**, our capacity to think with concepts. Here Kant identified twelve pure concepts, which he called the **categories**, arranged in four groups of three: quantity (unity, plurality, totality), quality (reality, negation, limitation), relation (substance, cause and effect, community or interaction), and modality (possibility, existence, necessity). You do not need to memorize the table. The key idea is that these concepts are not learned from experience. They are the rules by which the mind organizes raw sensations into a world of lasting objects that interact causally.\n\nThis is Kant's answer to Hume. Hume was right that we never *see* necessary connection. But Kant replies that causality is not something we passively find; it is a rule we bring. Without the category of cause and effect, we could not distinguish an objective sequence of events (a ship moving downstream) from a merely subjective sequence of perceptions (my eyes scanning a house from roof to basement). Since we *do* experience an objective world in time, the causal rule must apply to everything we experience. Every event has a cause — not because we have checked them all, but because nothing could count as an event in our experience otherwise.\n\nKant summed up the partnership in one of his best-known lines:\n\n> Thoughts without content are empty, intuitions without concepts are blind.\n\nThe Empiricists had overvalued sensation, and the Rationalists had overvalued pure thought. Knowledge, for Kant, needs both working together."
+    },
+    {
+      "heading": "Phenomena, Noumena and the Limits of Reason",
+      "body": "If the mind shapes all experience, a question becomes unavoidable: what are things like apart from how they appear to us? Kant distinguished **phenomena** — things as they appear, structured by space, time and the categories — from **noumena**, or **things in themselves**, things as they might be independent of our way of knowing. (“Noumenon” comes from the Greek for “what is thought”, as opposed to what is sensed.)\n\nHis conclusion was humbling. We can have genuine knowledge only of phenomena. Of things in themselves we can know nothing at all, not even whether they are in space and time. Back to our glasses: we know everything we see will be pink, but we can never know the true colors behind the lenses.\n\nThis has dramatic consequences for traditional metaphysics. Questions about God, the immortal soul, and the universe as a whole go beyond any possible experience. When reason tries to answer them using the categories, it overreaches and tangles itself in illusions. Kant showed this most strikingly with the **antinomies**: pairs of opposed arguments, each apparently airtight. One proves the world had a beginning in time; the other proves it did not. One proves there is freedom; the other proves everything is causally determined. For Kant, this deadlock is a symptom that reason has wandered outside its proper territory. It is a fitting end to the battlefield he had complained about.\n\nBut the limit also protects something. Since we cannot know the noumenal world, we cannot disprove God, freedom or immortality either. Science reigns over phenomena, where everything is causally determined; but we may still think of ourselves, as noumenal beings, as free. In the second-edition preface Kant wrote that he had to deny knowledge in order to make room for faith. This is the door through which tomorrow's ethics will enter (Day 56).\n\nThe objections came quickly, and some still bite. Kant's contemporary Friedrich Heinrich Jacobi complained that without the thing in itself one cannot enter Kant's system, yet with it one cannot stay inside: if the categories apply only to phenomena, how can things in themselves *cause* our sensations? Others note that the nineteenth century discovered consistent non-Euclidean geometries, and Einstein's physics found that the space of our universe is not Euclidean at large scales — awkward for Kant's claim that Euclid's geometry is necessarily true of all possible experience. Defenders reply that Kant's core insight survives: our experience is structured by the mind, even if he got the details wrong. Others, such as P. F. Strawson in the twentieth century, tried to keep Kant's analysis of experience while discarding the idealism. Hegel (Day 59) and Schopenhauer (Day 60) both started from Kant and argued, in very different ways, that the thing in itself could not stay hidden. Much of nineteenth-century philosophy replies to this book."
+    }
+  ],
+  "keyQuote": {
+    "text": "Thoughts without content are empty, intuitions without concepts are blind.",
+    "source": "Immanuel Kant, Critique of Pure Reason (1781/1787), A51/B75"
+  },
+  "modernConnection": {
+    "title": "Your Brain as a Prediction Machine",
+    "body": "Modern cognitive science has, in its own way, rediscovered something Kantian. A popular approach in neuroscience called **predictive processing** holds that the brain does not passively record the world like a camera. Instead, it constantly generates predictions about what it is about to sense and uses incoming signals mainly to correct those predictions. What you experience is the brain's best guess, shaped by built-in expectations. Optical illusions are the tell-tale sign: in the famous checker-shadow illusion, two squares of exactly the same gray look completely different, because your visual system “knows” in advance how shadows work and corrects for them.\n\nThat sounds like Kant's claim that the mind supplies the form of experience. And there is a direct historical bridge. In 1941 the biologist Konrad Lorenz argued that Kant's a priori forms were real but were products of evolution: our ancestors' brains came pre-structured with space, time and causality because creatures who represented the world that way survived. What is a priori for the individual, Lorenz said, is a posteriori for the species.\n\nBut the comparison breaks down in revealing ways. Kant's question was not how brains happen to work. The brain, after all, is itself a phenomenon in space and time; Kant would say that using neuroscience to explain the forms of experience already assumes them. Kant also wanted *necessity*: he thought every finite knower must experience a causally ordered world. The evolutionary reading gives us only contingent, useful habits — which is uncomfortably close to Hume's view, the very view Kant was trying to defeat. If our categories are just survival tools, why trust them in quantum physics or cosmology, far from anything our ancestors faced?\n\nThere is also a tech version of the question. When you look at a photo through a filter, or when an AI system classifies images, its output is shaped by its built-in architecture and training. Asking “what would the world look like with no filter at all?” may be like asking what the glasses look like from the inside. Kant's lesson is that some filters cannot be removed — and that recognizing them is the beginning of intellectual humility."
+  },
+  "vocabulary": [
+    {
+      "term": "A priori",
+      "definition": "Knowable independently of experience, by reason alone.",
+      "example": "That 7 + 5 = 12 is known a priori: you don't need to count apples to confirm it."
+    },
+    {
+      "term": "A posteriori",
+      "definition": "Knowable only through experience or observation.",
+      "example": "That water boils at a lower temperature in the mountains is known a posteriori, by measurement."
+    },
+    {
+      "term": "Analytic judgment",
+      "definition": "A judgment whose predicate is already contained in its subject, so denying it is a contradiction.",
+      "example": "“All triangles have three sides” is analytic; it just unpacks the word “triangle”."
+    },
+    {
+      "term": "Synthetic a priori",
+      "definition": "Kant's term for judgments that add real information about the world yet are known necessarily and in advance of experience.",
+      "example": "Kant held that “every event has a cause” is synthetic a priori: informative, yet not learned from experience."
+    },
+    {
+      "term": "Copernican revolution",
+      "definition": "Kant's reversal of the assumption that knowledge conforms to objects, proposing instead that objects (as experienced) conform to the structure of our minds.",
+      "example": "After Kant's Copernican revolution, the question became not “what is the world like?” but “what must any experienced world be like?”"
+    },
+    {
+      "term": "Categories",
+      "definition": "Kant's twelve pure concepts of the understanding, such as substance and cause, which the mind uses to organize experience.",
+      "example": "For Kant, causality is not seen in the world but is one of the categories we bring to it."
+    },
+    {
+      "term": "Phenomena / Noumena",
+      "definition": "Phenomena are things as they appear to us, shaped by our forms of experience; noumena (things in themselves) are things as they are independently of how we know them.",
+      "example": "Science gives us real knowledge of phenomena, Kant said, but the noumenal world remains forever beyond its reach."
+    },
+    {
+      "term": "Transcendental idealism",
+      "definition": "Kant's view that space, time and the categories are forms the mind contributes to experience, not features of things in themselves.",
+      "example": "Transcendental idealism let Kant say both that tables are real and that their spatial form comes from us."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Finding the Glasses",
+    "prompt": "Kant claims that some features of experience are contributed by the mind and can be known in advance. Test this on yourself. Spend 10–15 minutes trying to sort features of your experience into “supplied by me” and “supplied by the world”.",
+    "steps": [
+      "Write down five things you are certain will be true of the next thing you see, before you see it (for example: it will be somewhere; it will last some amount of time). How do you know these in advance?",
+      "Now try to imagine an experience with no space at all, or an event with absolutely no cause. Write down what happens when you try. Is it hard, impossible, or merely unfamiliar?",
+      "Pick one item on your list and give Hume's explanation of it (habit) and Kant's explanation of it (a necessary form of the mind). Which explanation seems stronger to you, and why?",
+      "Finally, consider the evolutionary reading (our brains were shaped by natural selection). Does it support Kant, support Hume, or replace both? Write a short paragraph defending your answer."
+    ]
+  },
+  "summary": [
+    "Hume's attack on causation and induction woke Kant from his “dogmatic slumber” and made him ask how necessary knowledge of the world is possible.",
+    "Kant distinguished analytic from synthetic and a priori from a posteriori judgments, and argued that mathematics and the foundations of physics are synthetic a priori.",
+    "His Copernican revolution proposed that objects conform to our knowledge: space and time are forms of intuition, and the categories (like causality) are rules of the understanding.",
+    "We can know phenomena (things as they appear), but never noumena (things in themselves); metaphysics that tries to go beyond experience collapses into antinomies.",
+    "Critics question the coherence of the thing in itself and the necessity of Euclidean geometry, but Kant's idea that the mind structures experience reshaped all later philosophy."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Which thinker did Kant credit with interrupting his “dogmatic slumber”?",
+      "options": ["Leibniz", "Berkeley", "David Hume", "Isaac Newton"],
+      "answer": 2,
+      "explanation": "In the Prolegomena (1783) Kant said it was the memory of David Hume, especially Hume's critique of causation, that woke him. Leibniz was the tradition he was dozing in."
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following did Kant regard as a synthetic a priori judgment?",
+      "options": ["All bachelors are unmarried.", "Every event has a cause.", "Some swans are black.", "The coffee is cold."],
+      "answer": 1,
+      "explanation": "Kant held that “every event has a cause” tells us something about the world yet is known necessarily, not from experience. The first is analytic; the last two are synthetic a posteriori."
+    },
+    {
+      "type": "mc",
+      "question": "What was the core idea of Kant's “Copernican revolution” in philosophy?",
+      "options": [
+        "The Earth goes around the Sun, so humans are not the center of the universe.",
+        "Knowledge comes only from sense experience.",
+        "Pure reason can prove the existence of God and the soul.",
+        "Instead of knowledge conforming to objects, objects as experienced conform to the structure of our minds."
+      ],
+      "answer": 3,
+      "explanation": "Kant reversed the usual assumption, just as Copernicus reversed the assumption about the observer. The other options describe astronomy, empiricism and rationalist metaphysics."
+    },
+    {
+      "type": "mc",
+      "question": "For Kant, space and time are best described as…",
+      "options": [
+        "forms of intuition supplied by the mind",
+        "physical substances that exist independently of minds",
+        "illusions that the wise learn to see through",
+        "concepts learned by observing many objects"
+      ],
+      "answer": 0,
+      "explanation": "Space and time are the built-in format in which anything is given to us. They are not things in themselves, not mere illusions, and not learned from experience."
+    },
+    {
+      "type": "tf",
+      "question": "Kant agreed with Berkeley that tables and planets exist only while someone perceives them.",
+      "answer": false,
+      "explanation": "Kant called himself an empirical realist: within experience, objects are fully real and persist unobserved. The mind supplies the form of experience, not the existence of particular objects."
+    },
+    {
+      "type": "mc",
+      "question": "“Thoughts without content are empty, intuitions without concepts are blind.” What is Kant's point?",
+      "options": [
+        "Reason alone is sufficient for knowledge.",
+        "Knowledge requires both sensory input and the concepts of the understanding.",
+        "Feelings are more reliable than thoughts.",
+        "We should trust our eyes over our concepts."
+      ],
+      "answer": 1,
+      "explanation": "Kant combines empiricism (we need sensory content) and rationalism (we need concepts). Neither on its own produces knowledge."
+    },
+    {
+      "type": "tf",
+      "question": "According to Kant, we can have knowledge of things in themselves if we reason carefully enough.",
+      "answer": false,
+      "explanation": "Things in themselves (noumena) lie beyond all possible experience; for Kant no amount of reasoning gives us knowledge of them."
+    },
+    {
+      "type": "mc",
+      "question": "Kant's antinomies — paired arguments proving, for example, that the world both had and did not have a beginning — are meant to show that…",
+      "options": [
+        "the universe is self-contradictory",
+        "logic is unreliable",
+        "reason produces illusions when it tries to go beyond possible experience",
+        "Hume was right that we know nothing"
+      ],
+      "answer": 2,
+      "explanation": "The antinomies reveal that reason overreaches when applied to questions beyond experience. Kant did not conclude that logic fails or that knowledge is impossible."
+    },
+    {
+      "type": "mc",
+      "question": "A scientist argues: “Our brains evolved to represent cause and effect because that helped our ancestors survive.” Why might Kant be uneasy with this as a defense of his view?",
+      "options": [
+        "Because Kant denied that humans evolved from other animals.",
+        "Because Kant believed causality is an illusion.",
+        "Because it treats causality as something learned by each individual child.",
+        "Because it makes the categories contingent survival tools rather than necessary conditions of any experience."
+      ],
+      "answer": 3,
+      "explanation": "Kant wanted necessity. An evolutionary story gives only useful, contingent habits — which is close to the Humean view he was trying to overcome."
+    },
+    {
+      "type": "tf",
+      "question": "The discovery of consistent non-Euclidean geometries is often raised as a problem for Kant's claim that Euclidean geometry is necessarily true of all possible experience.",
+      "answer": true,
+      "explanation": "Kant treated Euclid's geometry as synthetic a priori. Later mathematics and Einstein's physics made that claim look doubtful, though defenders argue the deeper insight survives."
+    }
+  ],
+  "goDeeper": {
+    "body": "One of the liveliest debates in Kant scholarship concerns how to read the phenomena/noumena distinction. On the “two-worlds” reading, there really are two sets of entities: appearances in our minds and hidden things in themselves that cause them. This makes Kant look like a cousin of Berkeley, and it invites Jacobi's objection: how can noumena cause anything if causality applies only to phenomena?\n\nThe rival “two-aspect” reading, defended influentially by Henry Allison in *Kant's Transcendental Idealism* (1983), says there is only one world, considered in two ways: as it appears under the conditions of our knowledge, and as it would be considered apart from those conditions. On this reading, “thing in itself” is not a mysterious second object but a limiting concept, a reminder that our knowledge is perspectival. Critics reply that this reading makes Kant's idealism too tame, and that Kant often speaks as if things in themselves really do affect us.\n\nA second debate concerns whether Kant's central argument, the Transcendental Deduction of the categories, actually works. In *The Bounds of Sense* (1966), P. F. Strawson argued that one can extract a powerful, purely analytic argument from Kant — that any self-conscious experience must be experience of an objective world — while throwing away the “transcendental psychology” and the idealism as unnecessary. This inspired a generation of “transcendental arguments” against skepticism, which Barry Stroud then criticized for proving at most how we must think, not how the world must be.\n\nFinally, Kant's influence on the philosophy of science is enormous. The neo-Kantians of the late nineteenth century, and later thinkers like Hans Reichenbach and Michael Friedman, argued for a “relativized a priori”: frameworks that function as necessary within a scientific theory but can change when theories change. In that form, Kant's idea foreshadows Kuhn's paradigms (Day 72).",
+    "readings": [
+      {
+        "title": "Prolegomena to Any Future Metaphysics",
+        "author": "Immanuel Kant",
+        "note": "Kant's own short introduction to the Critique; read the Preface for the “dogmatic slumber” passage and the account of Hume."
+      },
+      {
+        "title": "Kant: A Very Short Introduction",
+        "author": "Roger Scruton",
+        "note": "A brisk, readable overview of all three Critiques; chapters 2–3 cover today's material."
+      },
+      {
+        "title": "Kant: A Biography",
+        "author": "Manfred Kuehn",
+        "note": "The standard modern biography; corrects the myth of Kant as a bloodless clockwork recluse."
+      },
+      {
+        "title": "Kant's Transcendental Idealism",
+        "author": "Henry E. Allison",
+        "note": "Advanced; the classic defense of the two-aspect reading."
+      }
+    ],
+    "questions": [
+      "Is the idea of a thing in itself coherent if we can know nothing about it — not even that it exists?",
+      "If evolution explains why we think in terms of space, time and cause, does that vindicate Kant, refute him, or simply change the subject?",
+      "Kant said he denied knowledge to make room for faith. Is limiting reason a way of protecting belief, or of protecting reason from overreach — or both?"
+    ]
+  }
+}

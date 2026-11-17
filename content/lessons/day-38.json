@@ -1,0 +1,189 @@
+{
+  "id": "day-38",
+  "day": 38,
+  "title": "Renaissance Humanism: Pico, Erasmus and Human Dignity",
+  "subtitle": "Back to the sources, and forward to a new picture of what a human being can be",
+  "philosophers": ["Francesco Petrarca (Petrarch)", "Giovanni Pico della Mirandola", "Desiderius Erasmus", "Thomas More"],
+  "era": "c. 1340–1536",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain what Renaissance humanism was and why its motto was “back to the sources.”",
+    "Summarize Pico della Mirandola's argument in the Oration that human beings have no fixed place in the order of creation.",
+    "Describe Erasmus' contributions as a scholar and satirist, and his clash with Luther over free will.",
+    "Explain the purpose and ambiguity of Thomas More's Utopia.",
+    "Evaluate the strengths and blind spots of the humanist picture of human dignity."
+  ],
+  "hook": "In 1486 a twenty-three-year-old count from a small town in northern Italy did something outrageous. Giovanni Pico della Mirandola published 900 theses, propositions drawn from Greek, Latin, Arabic, Hebrew and even magical and Kabbalistic sources, and offered to defend every one of them in a public debate in Rome. He even promised to pay the travel expenses of any scholar who came to argue against him. For the opening of this grand event he wrote a speech that later readers would call the *Oration on the Dignity of Man*.\n\nThe debate never happened. Pope Innocent VIII suspended it and a papal commission found some of the theses heretical. Pico fled to France and was briefly arrested. But the speech survived, and its central idea has echoed ever since: that human beings are not stuck in any fixed place in the universe, that we are, in a sense, the authors of ourselves. How did a culture that had spent a thousand years seeing humans as fallen creatures in a God-ordered hierarchy arrive at such a confident claim? That is today's story.",
+  "sections": [
+    {
+      "heading": "What Was the Renaissance, and What Was Humanism?",
+      "body": "The word **Renaissance** means “rebirth.” It names the period, roughly from the 1300s to the 1500s, when Italian and then northern European scholars and artists set out to revive the language, literature and art of ancient Greece and Rome. The label was popularized by nineteenth-century historians, especially Jacob Burckhardt, and modern scholars warn against taking it too literally. As we saw on Day 37, the Middle Ages were not intellectually dead, and many Renaissance figures stood on medieval shoulders while claiming to reject them.\n\nStill, something genuinely shifted, and its engine was **humanism**. Be careful: Renaissance humanism did not mean what “humanism” often means today, a non-religious worldview. Almost all Renaissance humanists were sincere Christians. The word comes from the *studia humanitatis*, the “humane studies”: grammar, rhetoric, poetry, history and moral philosophy, studied from classical texts. A humanist was originally a teacher of these subjects.\n\nThe humanists' rallying cry was **ad fontes**, Latin for “to the sources.” Instead of reading Aristotle through layers of medieval commentary, read Aristotle, or better yet Plato and Cicero, in the original. Instead of the technical Latin of the universities, write elegant Latin modeled on Cicero. Instead of disputing abstract questions, cultivate eloquence and practical wisdom that could serve a city.\n\nThe usual starting figure is **Petrarch** (1304–1374), poet and collector of ancient manuscripts, who described the centuries since Rome's fall as a time of darkness, an image that gave us the misleading phrase “Dark Ages.” Petrarch's famous letter about climbing Mont Ventoux in 1336 tells how, at the summit, he opened Augustine's *Confessions* and read a passage rebuking people who marvel at mountains but neglect their own souls. (Some scholars suspect the letter is more literary composition than diary.) Notice the pattern: classical learning in service of inner, Christian self-examination. That blend runs through the whole movement."
+    },
+    {
+      "heading": "The Engines of Rebirth: Manuscripts, Greeks and Printing",
+      "body": "Several historical forces fed the humanist movement.\n\n- **Recovered texts.** Humanists like Poggio Bracciolini hunted through monastery libraries and found lost works; in 1417 Poggio recovered Lucretius' poem *On the Nature of Things*, the great Latin presentation of Epicurean atomism (remember Epicurus on Day 24 and the atomists on Day 7).\n- **Greek learning.** Western Europe had largely lost the ability to read Greek. Byzantine scholars began teaching it in Italy around 1400, and after the Ottoman conquest of Constantinople in 1453 more Greek scholars and manuscripts came west.\n- **Plato reborn.** In Florence, under the patronage of the Medici family, Marsilio Ficino (1433–1499) translated the complete works of Plato into Latin (printed in 1484) as well as Plotinus. For the first time in centuries, Western readers had all of Plato rather than just a fragment of the *Timaeus*.\n- **The printing press.** Johannes Gutenberg's movable-type press, developed in Mainz around 1450, made books cheaper and texts standard. A scholar's edition could now reach thousands of readers.\n\nHumanist methods could be explosive. Around 1440 the scholar Lorenzo Valla showed through careful study of its Latin that the *Donation of Constantine*, a document supposedly granting the popes authority over the western Roman empire, was a forgery written centuries after Constantine. The style and vocabulary simply did not belong to the fourth century. This was a new kind of critical reading: the philological method of judging a text by its language and history. It would later be turned on the Bible itself."
+    },
+    {
+      "heading": "Pico's Oration: The Chameleon and the Ladder",
+      "body": "Now back to **Giovanni Pico della Mirandola** (1463–1494). His *Oration* opens by rejecting the usual reasons people praise human beings, such as that we are the link between the spiritual and material worlds. Those reasons, he says, do not explain why humans should be admired above even the angels.\n\nHis answer comes in the form of a story about creation. When God had finished making the world, every slot in the great hierarchy of being, often called the **great chain of being**, was already filled: angels above, animals and plants below, each with a fixed nature. So God made the human being as a creature of no fixed form and spoke to Adam roughly as follows. You have been given no fixed seat, no form of your own, no special function, so that you may have and possess whatever seat, form and function you choose. Other creatures are bound by laws I have prescribed; you, bound by no limits, will determine your own nature by your free will. You can degenerate into the lower forms, the brutes, or be reborn into the higher forms, the divine.\n\nPico then calls the human being a kind of chameleon, a creature who can become what it chooses to cultivate. The vegetable life in us can make us plants; the sensual life can make us beasts; the rational life can make us heavenly; and the intellectual life can make us like angels.\n\nThis is a remarkable idea, and it is easy to read too much into it. Pico was not a modern secular individualist saying “be whatever you want.” The point of the Oration is that we should use our freedom to climb upward, through moral philosophy, then natural philosophy, then theology, toward union with God. Pico drew on Plato, Plotinus (Day 28), Arabic philosophers and the Jewish Kabbalah, because he believed that all wisdom traditions shared a hidden common truth. Scholars call this ambitious harmonizing project **syncretism**.\n\nStill, the shift in emphasis is real. For Augustine (Day 30), human freedom was above all the freedom to fall, and grace was needed to rise. For Pico, freedom is the very essence of human **dignity**, the special worth that sets us apart. Notice the line running forward from here to the existentialist Jean-Paul Sartre (Day 77), who would say that for human beings existence precedes essence, that we have no fixed nature and must make ourselves. Sartre, an atheist, would draw very different conclusions, but the structure of the thought is surprisingly close.\n\nPico's own life was short. He later fell under the influence of the fiery preacher Savonarola and died in 1494, aged thirty-one, possibly of poisoning, as a modern study of his remains has suggested."
+    },
+    {
+      "heading": "Erasmus: The Prince of Humanists",
+      "body": "If Pico was the movement's brilliant comet, **Desiderius Erasmus** of Rotterdam (c. 1466–1536) was its steady sun. Born illegitimate, the son of a priest, he became an Augustinian canon, then a wandering scholar who lived in Paris, England, Italy, Leuven and Basel. He wrote in Latin to a European network of friends, and became perhaps the most famous intellectual of his age.\n\nThree contributions stand out.\n\nFirst, scholarship. In 1516 Erasmus published the first printed Greek New Testament to be put on sale, with his own fresh Latin translation alongside it. He wanted Christians to read the gospels in the original language, not just through the medieval Latin Vulgate, and he hoped that one day ordinary farmers and weavers would read scripture in their own languages. This was *ad fontes* applied to the Bible.\n\nSecond, satire. In *The Praise of Folly* (1511), written partly at Thomas More's house, Folly herself gives a speech praising her followers: vain scholars, quarrelsome theologians, greedy clergy, warlike princes and popes. The book is funny and biting, and it ends on a surprising note: the highest folly is the “foolishness” of Christian love, which looks mad to the worldly.\n\nThird, a program of reform. Erasmus called his ideal the *philosophia Christi*, the philosophy of Christ: a simple, inward, ethical Christianity of peace and charity, rather than ritual, relic-worship and scholastic hair-splitting. He was a lifelong critic of war; his essay on the proverb “war is sweet to those who have not tried it” is one of the great early anti-war texts.\n\nBecause he criticized abuses in the Church, people said that Erasmus laid the egg that Luther hatched. But when the Reformation came, Erasmus refused to leave the Catholic Church, and in 1524 he clashed openly with Martin Luther. In *On Free Will* he argued, cautiously, that human beings have some power to cooperate with God's grace. Luther replied furiously in *The Bondage of the Will* (1525) that fallen human will is enslaved and salvation is entirely God's work. Here the humanist faith in human capacity collided with a revived Augustinian pessimism. Erasmus' hope for gentle reform through learning was overtaken by decades of religious war."
+    },
+    {
+      "heading": "Thomas More's Utopia: The Best Place That Is No Place",
+      "body": "Erasmus' close friend **Thomas More** (1478–1535) was a London lawyer who rose to become Lord Chancellor of England under Henry VIII. In 1516 he published, in Latin, a short book called *Utopia*. The name is a Greek pun: *ou-topos* means “no place,” while the similar-sounding *eu-topos* means “good place.”\n\nBook One is a sharp conversation about England's problems. A traveler named Raphael Hythloday (whose surname roughly means “speaker of nonsense”) criticizes the hanging of thieves, pointing out that poverty drives people to steal, and attacks the enclosure of common land for sheep farming, saying that in England sheep have become so greedy that they devour men. The characters also argue about whether a wise person should serve as a royal counselor, where he would have to compromise, or stay out of politics to keep his integrity.\n\nBook Two describes the island of Utopia. There is no private property; goods are held in common, and everyone works about six hours a day. Gold is so despised that it is used for chamber pots and slaves' chains. There is broad religious tolerance (though atheists are barred from public office). Officials are elected. Utopians pursue pleasure, but rightly understood: mostly the pleasures of the mind and of a healthy, virtuous life, echoing Epicurus (Day 24).\n\nSo is *Utopia* a blueprint, a satire, or a thought experiment? Scholars disagree. Some aspects look admirable; others, like slavery as punishment and the strict regulation of daily life, look oppressive. More's own spokesman in the dialogue says at the end that many Utopian customs seem absurd, though he wishes some could be adopted in Europe. The safest reading is that *Utopia* uses an imaginary society as a mirror to make European habits look strange, a technique that Montaigne will use brilliantly on Day 40.\n\nMore's life ended in a way that tested his own principles. He refused to swear the oath recognizing Henry VIII as supreme head of the Church in England and was beheaded in 1535. He is remembered as a Catholic saint and martyr, but historians also note that as Chancellor he harshly pursued Protestants, a reminder that the humanist ideal of tolerance had limits even among its champions."
+    },
+    {
+      "heading": "Assessing Humanism: Dignity, Freedom and Blind Spots",
+      "body": "What did Renaissance humanism change?\n\nFirst, it shifted attention from abstract metaphysics toward the human world: history, politics, language, ethics and the self. Tomorrow's thinker, Machiavelli (Day 39), is a humanist in this sense, studying Roman history to learn how states actually work.\n\nSecond, it taught a new critical habit. Valla's exposure of a forgery and Erasmus' Greek New Testament treated old texts as historical documents written by fallible people, a method that would eventually reshape religion, law and scholarship.\n\nThird, it gave Western culture a vocabulary of **human dignity** grounded in freedom and creativity, which eventually fed into ideas of human rights.\n\nBut we should be honest about its limits. The humanists' “man” often meant educated, male, wealthy and European. The same decades that produced Pico's Oration saw the beginning of the Atlantic slave trade and the conquest of the Americas. Women humanists such as Christine de Pizan (an earlier figure, c. 1364–c. 1430, who wrote *The Book of the City of Ladies*) and the Venetian scholar Laura Cereta had to argue hard that women shared in human dignity at all. And the humanists' worship of the classics could be just as authority-bound as the scholastics' reverence for Aristotle; they had swapped one set of authorities for another.\n\nFinally, humanism carried a tension it never resolved. If human beings can make themselves, are we fundamentally good and capable, as Pico and Erasmus hoped, or fundamentally fallen, as Luther and Augustine insisted? Machiavelli and Hobbes (Day 42) will take a darker view still. That question, how much to trust human nature, runs through the rest of this course."
+    }
+  ],
+  "modernConnection": {
+    "title": "Self-Invention in the Age of the Personal Brand",
+    "body": "Pico's chameleon, the creature with no fixed form who becomes whatever it cultivates, sounds remarkably like the ideal of modern life. We are told we can reinvent ourselves through education, careers, fitness, therapy, even changing our names, religions or countries. Social media gives everyone a stage on which to curate a self. Self-help books promise that you can be anything you choose. In this sense Pico's Oration reads like a founding document of modern individualism.\n\nThe idea of human dignity also anchors modern law. The 1948 Universal Declaration of Human Rights begins by recognizing the “inherent dignity” of all members of the human family, and the German constitution of 1949 opens by declaring human dignity inviolable. Those documents emerged from the horrors of the Second World War, not from the Renaissance, but they speak the language of special human worth that humanists made central.\n\nBut look carefully and the comparison breaks down in revealing ways. Pico's freedom had a direction: upward, toward the divine, through disciplined study and moral effort. Choosing to become a beast was a real possibility but a failure. Modern self-invention often treats every choice as equally valid, with the only goal being authenticity or self-expression. Pico would have asked: what are you making of yourself, and is it higher or lower?\n\nThere is also the question of who really gets to choose. Sociologists point out that the freedom to reinvent oneself depends heavily on money, education and social connections, which echoes the humanists' own blind spot: their dignified, self-fashioning man was usually a wealthy, educated European male. Algorithms that shape our feeds may also nudge us toward the “lower” forms Pico warned about, the purely sensual and reactive, rather than the reflective life.\n\nFinally, Erasmus offers another modern parallel. His Greek New Testament and his dream of scripture in every language were bets on the democratization of knowledge through a new technology, the printing press. The internet carried similar hopes. As in the 1500s, the result has been both a flowering of learning and an explosion of polemics, propaganda and division."
+  },
+  "vocabulary": [
+    {
+      "term": "Renaissance",
+      "definition": "Literally “rebirth”: the period, roughly the 1300s to 1500s, in which European scholars and artists sought to revive classical Greek and Roman culture.",
+      "example": "The Renaissance began in Italian cities like Florence before spreading north."
+    },
+    {
+      "term": "Humanism",
+      "definition": "In the Renaissance sense, an educational and cultural movement centered on the study of classical grammar, rhetoric, poetry, history and moral philosophy; not necessarily non-religious.",
+      "example": "Erasmus' humanism combined classical scholarship with a deep commitment to Christian reform."
+    },
+    {
+      "term": "Ad fontes",
+      "definition": "Latin for “to the sources”: the humanist call to read original texts in their original languages rather than relying on later commentaries.",
+      "example": "In the spirit of ad fontes, Erasmus edited the Greek New Testament."
+    },
+    {
+      "term": "Great chain of being",
+      "definition": "The traditional picture of the universe as a fixed hierarchy of creatures from God and angels down through humans, animals, plants and minerals.",
+      "example": "Pico's Oration pictures human beings as having no fixed place on the great chain of being."
+    },
+    {
+      "term": "Dignity",
+      "definition": "The special, inherent worth of a being; for Pico, grounded in the human capacity freely to shape one's own nature.",
+      "example": "Modern human rights documents speak of the inherent dignity of every person."
+    },
+    {
+      "term": "Syncretism",
+      "definition": "The attempt to combine or reconcile different religious and philosophical traditions, often by claiming they share a hidden common truth.",
+      "example": "Pico's syncretism drew on Plato, Aristotle, Arabic philosophy and Kabbalah at once."
+    },
+    {
+      "term": "Philology",
+      "definition": "The study of texts and languages in their historical development, used to establish authentic readings and detect forgeries.",
+      "example": "Valla used philology to show that the Donation of Constantine could not date from Constantine's time."
+    },
+    {
+      "term": "Utopia",
+      "definition": "From Thomas More's 1516 book: an imagined ideal society, the name punning on Greek for “no place” and “good place.”",
+      "example": "Many later writers created utopias, and dystopias, to criticize their own societies."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Write Your Own Utopia Report",
+    "prompt": "Thomas More used an imaginary island to make his readers see their own society with fresh eyes. In this exercise you will do the same for your society, and test Pico's idea of self-making against your own life.",
+    "steps": [
+      "List three customs or institutions in your own society that a visitor from an imaginary well-ordered island might find absurd or cruel (as Hythloday found the hanging of thieves). For each, write a sentence explaining how the visitor would describe it.",
+      "Describe three customs of your imaginary island that solve those problems. Then ask: what would be the cost or danger of each solution? (Remember that some Utopian customs look oppressive.)",
+      "Now turn to Pico. Name one way in which you have shaped yourself by your own choices, and one way in which your nature or circumstances shaped you without your choosing.",
+      "In a short paragraph, decide whether Pico was right that human beings have no fixed nature. What would Augustine or Luther say to you?"
+    ]
+  },
+  "summary": [
+    "Renaissance humanism was a movement to revive classical learning through the studia humanitatis; its motto was ad fontes, back to the sources, and most humanists were sincere Christians.",
+    "Recovered manuscripts, Greek learning, Ficino's Plato translations and the printing press fed the movement, and Valla's exposure of a forgery showed the power of critical philology.",
+    "Pico's Oration pictured human beings as chameleons without a fixed place in creation, free to sink to the beasts or rise toward God, making freedom the heart of human dignity.",
+    "Erasmus edited the Greek New Testament, satirized corruption in The Praise of Folly, promoted a peaceful philosophy of Christ, and clashed with Luther over free will.",
+    "Thomas More's Utopia used an imaginary society to criticize Europe; its meaning remains debated, and its author died for refusing Henry VIII's oath."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What did “humanism” mean in the Renaissance?",
+      "options": ["A rejection of religion in favor of science", "A belief that animals and humans are equal", "A movement devoted to studying classical grammar, rhetoric, poetry, history and moral philosophy", "A political movement for democracy"],
+      "answer": 2,
+      "explanation": "Renaissance humanism came from the studia humanitatis; nearly all its leading figures were Christians, unlike many modern secular humanists."
+    },
+    {
+      "type": "mc",
+      "question": "The humanist slogan “ad fontes” means:",
+      "options": ["To the sources", "Faith seeking understanding", "Know thyself", "Seize the day"],
+      "answer": 0,
+      "explanation": "Ad fontes urged scholars to read original texts in their original languages rather than relying on later commentary."
+    },
+    {
+      "type": "mc",
+      "question": "In Pico's Oration, why do human beings deserve special admiration?",
+      "options": ["Because they are physically the strongest creatures", "Because they have been given no fixed nature and can shape themselves by free choice", "Because they occupy a fixed place exactly in the middle of the chain of being", "Because they are the only creatures without souls"],
+      "answer": 1,
+      "explanation": "Pico rejected the traditional reasons and argued that our dignity lies in our freedom to determine our own nature, sinking to the beasts or rising toward the divine."
+    },
+    {
+      "type": "tf",
+      "question": "Pico's planned public debate of his 900 theses in Rome took place in 1487 and was a great success.",
+      "answer": false,
+      "explanation": "The pope suspended the debate, a commission condemned some theses, and Pico fled to France. The Oration was never delivered as planned."
+    },
+    {
+      "type": "mc",
+      "question": "How did Lorenzo Valla show that the Donation of Constantine was a forgery?",
+      "options": ["He found the original forger's confession", "He used carbon dating", "He relied on a vision from God", "He analyzed its Latin and showed it used language that did not belong to Constantine's era"],
+      "answer": 3,
+      "explanation": "Valla's philological analysis revealed vocabulary and style from centuries later, a landmark in critical reading of texts."
+    },
+    {
+      "type": "mc",
+      "question": "What was the central issue in the 1524–1525 dispute between Erasmus and Luther?",
+      "options": ["Whether the earth moves around the sun", "Whether human will can cooperate with God's grace or is enslaved", "Whether Latin or Greek is the better language", "Whether the printing press should be banned"],
+      "answer": 1,
+      "explanation": "Erasmus' On Free Will defended a modest human role; Luther's Bondage of the Will denied it, reviving Augustinian pessimism about fallen human nature."
+    },
+    {
+      "type": "tf",
+      "question": "The word “utopia” is a pun: in Greek it can suggest both “no place” and “good place.”",
+      "answer": true,
+      "explanation": "Ou-topos means no place; eu-topos means good place. More's title signals both an ideal and an impossibility."
+    },
+    {
+      "type": "mc",
+      "question": "Which feature belongs to More's island of Utopia?",
+      "options": ["Private property is protected above all else", "Gold is prized and hoarded by the rulers", "Goods are held in common and gold is used for chamber pots and chains", "Only one religion is allowed and dissenters are executed"],
+      "answer": 2,
+      "explanation": "Utopians abolish private property and show their contempt for gold by using it for degrading purposes; they also practice broad religious tolerance."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern idea is closest in structure to Pico's picture of human beings?",
+      "options": ["Sartre's claim that for humans existence precedes essence", "The idea that personality is fixed at birth by genes", "Aristotle's view that each species has a fixed nature and function", "The belief that fate determines every life"],
+      "answer": 0,
+      "explanation": "Like Pico, Sartre held that humans have no pre-given nature and must make themselves, though Sartre was an atheist and Pico aimed at union with God."
+    },
+    {
+      "type": "tf",
+      "question": "Erasmus left the Catholic Church to join Luther's Reformation.",
+      "answer": false,
+      "explanation": "Although he criticized Church abuses, Erasmus remained Catholic and broke publicly with Luther over free will."
+    }
+  ],
+  "goDeeper": {
+    "body": "Was the Renaissance really a break with the Middle Ages? This is one of the classic debates in intellectual history. Jacob Burckhardt's *The Civilization of the Renaissance in Italy* (1860) presented the period as the birth of the modern individual, when people first saw themselves as unique selves rather than members of a group. Twentieth-century historians pushed back. Charles Homer Haskins wrote of a “Renaissance of the twelfth century,” pointing to the revival of Roman law, the rediscovery of Aristotle and the founding of universities long before Petrarch. Paul Oskar Kristeller argued that humanism was mainly an educational and literary program, not a new philosophy at all, and that scholastic Aristotelianism remained dominant in the universities throughout the Renaissance.\n\nThe Oration itself has been reread. Some scholars argue that its famous passage on freedom was much less central to Pico's purposes than later readers assumed; the speech is mostly an introduction to his project of harmonizing all philosophies, and its praise of freedom is a launching pad for ascetic, mystical ascent. The title *On the Dignity of Man* was added after his death.\n\nAnother rich line of inquiry concerns Stephen Greenblatt's notion of “Renaissance self-fashioning”: the idea that sixteenth-century people became newly conscious of identity as something crafted through rhetoric, role-play and power. Greenblatt's popular book *The Swerve* (2011), about Poggio's rediscovery of Lucretius, won major prizes but was sharply criticized by specialists for exaggerating medieval darkness and the poem's role in making the modern world. That controversy is itself a good lesson in how stories about rebirth can flatter the present.",
+    "readings": [
+      { "title": "Oration on the Dignity of Man", "author": "Giovanni Pico della Mirandola", "note": "Read the first several pages, containing the chameleon passage; widely available in translation." },
+      { "title": "The Praise of Folly", "author": "Desiderius Erasmus", "note": "Short, funny and still sharp; notice how the tone changes in the final section on Christian folly." },
+      { "title": "Utopia", "author": "Thomas More", "note": "Read Book One's debate on counsel and capital punishment before the description of the island." },
+      { "title": "Renaissance Thought and Its Sources", "author": "Paul Oskar Kristeller", "note": "A classic scholarly account of what humanism was and was not." }
+    ],
+    "questions": [
+      "Is human dignity better grounded in our freedom, our reason, our capacity to suffer, or something else?",
+      "Was More's Utopia a society you would want to live in? What does your answer reveal about your values?",
+      "Did the humanists' reverence for the classics free thought from medieval authority, or simply replace one authority with another?"
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "title": "Philosophy in 90 Days",
+  "units": [
+    {"id": 1, "title": "Beginnings: From Myth to Reason", "days": [
+      {"day": 1, "title": "What Is Philosophy?", "focus": "From mythos to logos; why ancient Greece (Miletus, trade, leisure, debate); the main branches (metaphysics, epistemology, ethics, logic, aesthetics, political philosophy); how this course works"},
+      {"day": 2, "title": "The Milesians: Thales, Anaximander, Anaximenes", "focus": "The search for the arche (first principle); water, the apeiron, air; naturalistic explanation; first scientific thinking"},
+      {"day": 3, "title": "Pythagoras: Number, Harmony and the Soul", "focus": "Pythagorean community, number as reality, musical harmony, transmigration of souls, mathematics as the language of nature"},
+      {"day": 4, "title": "Heraclitus: Flux and Logos", "focus": "Everything flows, the river fragment, unity of opposites, fire, the logos"},
+      {"day": 5, "title": "Parmenides and Zeno: Being and Paradox", "focus": "Way of Truth vs Way of Opinion, what-is cannot not be, change as illusion, Zeno's paradoxes (Achilles, dichotomy, arrow), reason vs senses"},
+      {"day": 6, "title": "The Pluralists: Empedocles and Anaxagoras", "focus": "Four roots, Love and Strife, Anaxagoras' nous (Mind), reconciling change with Parmenides"},
+      {"day": 7, "title": "The Atomists: Leucippus and Democritus", "focus": "Atoms and void, mechanism, primary vs secondary qualities preview, cheerfulness ethics"},
+      {"day": 8, "title": "The Sophists: Rhetoric, Relativism and Persuasion", "focus": "Protagoras ('man is the measure'), Gorgias, nomos vs physis, paid teachers of persuasion in Athenian democracy"}
+    ]},
+    {"id": 2, "title": "Socrates and Plato", "days": [
+      {"day": 9, "title": "Socrates and the Examined Life", "focus": "The Socratic method (elenchus), irony, 'I know that I know nothing', the oracle, virtue as knowledge"},
+      {"day": 10, "title": "The Trial and Death of Socrates", "focus": "Apology, Crito, Phaedo death scene; civil disobedience, obedience to law, integrity"},
+      {"day": 11, "title": "Plato's Theory of Forms", "focus": "Forms vs particulars, two worlds, the Form of the Good, recollection (Meno), problems (Third Man)"},
+      {"day": 12, "title": "The Cave and the Divided Line: Plato on Knowledge", "focus": "Allegory of the Cave, Divided Line, knowledge vs opinion, education as turning the soul"},
+      {"day": 13, "title": "The Republic I: Justice and the Tripartite Soul", "focus": "Thrasymachus, Ring of Gyges, reason/spirit/appetite, justice as harmony"},
+      {"day": 14, "title": "The Republic II: Philosopher-Kings and the Critique of Democracy", "focus": "The ideal city, guardians, noble lie, ship of state, decline of regimes, Plato's critique of democracy"},
+      {"day": 15, "title": "Love, Beauty and Immortality: Symposium and Phaedo", "focus": "Diotima's ladder of love, Aristophanes' myth, arguments for immortality of the soul"}
+    ]},
+    {"id": 3, "title": "Aristotle", "days": [
+      {"day": 16, "title": "Aristotle: The Student Who Disagreed", "focus": "Life, Academy to Lyceum, tutor of Alexander, empiricist turn, critique of the Forms"},
+      {"day": 17, "title": "Logic: The Syllogism and the Laws of Thought", "focus": "Categorical syllogism, validity vs truth, non-contradiction, excluded middle, deduction vs induction"},
+      {"day": 18, "title": "Metaphysics: Substance, Form, Matter and the Four Causes", "focus": "Substance, hylomorphism, potentiality/actuality, the four causes, the unmoved mover"},
+      {"day": 19, "title": "Nature, Purpose and the Soul", "focus": "Teleology, biology, De Anima: nutritive, sensitive, rational soul"},
+      {"day": 20, "title": "Ethics: Happiness, Virtue and the Golden Mean", "focus": "Eudaimonia, function argument, virtue as habit, golden mean, practical wisdom (phronesis), friendship"},
+      {"day": 21, "title": "Politics and Poetics: The Political Animal and the Power of Tragedy", "focus": "Humans as political animals, constitutions, slavery critique, Poetics: mimesis, catharsis, tragic flaw"},
+      {"day": 22, "title": "Review: The Greek Foundations", "focus": "REVIEW DAY covering Days 1-21; synthesis, comparison table, cumulative quiz"}
+    ]},
+    {"id": 4, "title": "Hellenistic and Roman Philosophy", "days": [
+      {"day": 23, "title": "The Cynics: Diogenes and Life Against Convention", "focus": "Antisthenes, Diogenes, living by nature, shamelessness, cosmopolitanism"},
+      {"day": 24, "title": "Epicurus: Pleasure, Friendship and Freedom from Fear", "focus": "Ataraxia, kinds of desires, death is nothing to us, the Garden, Lucretius, the swerve"},
+      {"day": 25, "title": "Early Stoicism: Living According to Nature", "focus": "Zeno of Citium, Chrysippus, logos, virtue as the only good, indifferents, passions"},
+      {"day": 26, "title": "Roman Stoicism: Seneca, Epictetus and Marcus Aurelius", "focus": "Dichotomy of control, premeditatio malorum, Meditations, modern CBT roots"},
+      {"day": 27, "title": "The Skeptics: Suspending Judgment", "focus": "Pyrrho, Academic skepticism (Arcesilaus, Carneades), Sextus Empiricus, the modes, epoche and tranquility"},
+      {"day": 28, "title": "Plotinus and Neoplatonism", "focus": "The One, emanation, Intellect, Soul, ascent, influence on Christianity and Islam"},
+      {"day": 29, "title": "Review: Philosophy as a Way of Life", "focus": "REVIEW DAY covering Days 23-28 (and links back to Greek foundations); compare the schools' recipes for a good life"}
+    ]},
+    {"id": 5, "title": "Medieval Philosophy: Faith and Reason", "days": [
+      {"day": 30, "title": "Augustine I: Restless Hearts, Evil and Free Will", "focus": "Confessions, faith seeking understanding, evil as privation, free will defense"},
+      {"day": 31, "title": "Augustine II and Boethius: Time, Two Cities and Consolation", "focus": "Augustine on time, City of God, Boethius' Consolation of Philosophy, Lady Philosophy, wheel of fortune, divine foreknowledge"},
+      {"day": 32, "title": "The Islamic Golden Age: al-Kindi, al-Farabi and Avicenna", "focus": "House of Wisdom translation movement, al-Farabi's virtuous city, Avicenna's floating man and essence/existence, necessary being"},
+      {"day": 33, "title": "Al-Ghazali, Averroes and Maimonides: Debates on Faith and Reason", "focus": "Incoherence of the Philosophers, causation critique, Averroes' reply, Maimonides' Guide for the Perplexed, negative theology"},
+      {"day": 34, "title": "Anselm, Abelard and the Problem of Universals", "focus": "Ontological argument, Gaunilo's reply, scholastic method, realism vs nominalism vs conceptualism"},
+      {"day": 35, "title": "Thomas Aquinas I: The Five Ways", "focus": "Synthesis of Aristotle and Christianity, the five ways, faith and reason as compatible"},
+      {"day": 36, "title": "Aquinas II and William of Ockham: Natural Law and the Razor", "focus": "Natural law, double effect, just war, Ockham's razor, nominalism, seeds of modernity"},
+      {"day": 37, "title": "Review: Medieval Philosophy", "focus": "REVIEW DAY covering Days 30-36"}
+    ]},
+    {"id": 6, "title": "Renaissance and the Birth of the Modern", "days": [
+      {"day": 38, "title": "Renaissance Humanism: Pico, Erasmus and Human Dignity", "focus": "Return to the sources, Oration on the Dignity of Man, Erasmus, Thomas More's Utopia"},
+      {"day": 39, "title": "Machiavelli: Power Without Illusions", "focus": "The Prince, virtu and fortuna, better feared than loved, Discourses on Livy, realism in politics"},
+      {"day": 40, "title": "Montaigne and the Return of Doubt", "focus": "The essay form, 'What do I know?', cultural relativism (On Cannibals), self-examination"},
+      {"day": 41, "title": "Bacon, Galileo and the Scientific Revolution", "focus": "Copernicus, Galileo, Novum Organum, idols of the mind, induction, knowledge is power"},
+      {"day": 42, "title": "Hobbes: The State of Nature and the Leviathan", "focus": "Materialism, state of nature, 'nasty, brutish and short', social contract, sovereign"}
+    ]},
+    {"id": 7, "title": "The Rationalists", "days": [
+      {"day": 43, "title": "Descartes I: Radical Doubt and 'I Think, Therefore I Am'", "focus": "Method of doubt, dream argument, evil demon, cogito, clear and distinct ideas"},
+      {"day": 44, "title": "Descartes II: God, Mind and Body", "focus": "Trademark argument, Cartesian circle, mind-body dualism, Elisabeth of Bohemia's interaction problem, pineal gland"},
+      {"day": 45, "title": "Spinoza: God or Nature", "focus": "Ethics in geometrical order, one substance, Deus sive Natura, determinism, freedom as understanding, excommunication"},
+      {"day": 46, "title": "Leibniz: Monads and the Best of All Possible Worlds", "focus": "Monads, pre-established harmony, principle of sufficient reason, identity of indiscernibles, theodicy, Voltaire's Candide satire"}
+    ]},
+    {"id": 8, "title": "The Empiricists", "days": [
+      {"day": 47, "title": "Locke I: The Blank Slate and the Origin of Ideas", "focus": "Tabula rasa, against innate ideas, simple/complex ideas, primary/secondary qualities, personal identity and memory"},
+      {"day": 48, "title": "Berkeley: To Be Is to Be Perceived", "focus": "Immaterialism, esse est percipi, attack on matter, tree in the quad, God as perceiver"},
+      {"day": 49, "title": "Hume I: Impressions, Causation and the Problem of Induction", "focus": "Impressions and ideas, copy principle, Hume's fork, causation as constant conjunction, problem of induction"},
+      {"day": 50, "title": "Hume II: The Self, Morality and Religion", "focus": "Bundle theory, reason is slave of the passions, is-ought gap, Dialogues on Natural Religion, miracles"},
+      {"day": 51, "title": "Review: Rationalists vs. Empiricists", "focus": "REVIEW DAY covering Days 38-50"}
+    ]},
+    {"id": 9, "title": "Enlightenment and Kant", "days": [
+      {"day": 52, "title": "Locke II: Natural Rights and Government by Consent", "focus": "Second Treatise, life/liberty/property, labor theory of property, right of revolution, toleration, influence on Declaration of Independence"},
+      {"day": 53, "title": "Rousseau: The Social Contract and the General Will", "focus": "Noble savage myth vs actual view, amour-propre, 'born free yet everywhere in chains', general will, Emile"},
+      {"day": 54, "title": "Voltaire, Wollstonecraft and the Enlightenment's Expanding Circle", "focus": "Voltaire on tolerance, Diderot's Encyclopedia, Adam Smith's moral sentiments, Wollstonecraft's Vindication of the Rights of Woman"},
+      {"day": 55, "title": "Kant I: The Copernican Revolution in Philosophy", "focus": "Waking from dogmatic slumber, synthetic a priori, categories, phenomena vs noumena"},
+      {"day": 56, "title": "Kant II: The Categorical Imperative", "focus": "Good will, duty, hypothetical vs categorical imperatives, universal law formula, humanity formula, lying to the murderer"},
+      {"day": 57, "title": "Kant III: Enlightenment, Peace and the Sublime", "focus": "'What is Enlightenment?' (sapere aude), Perpetual Peace, Critique of Judgment, beauty and the sublime"},
+      {"day": 58, "title": "Review: The Age of Reason", "focus": "REVIEW DAY covering Days 52-57"}
+    ]},
+    {"id": 10, "title": "The Nineteenth Century", "days": [
+      {"day": 59, "title": "Hegel: Dialectic, History and Spirit", "focus": "Dialectic (and the thesis-antithesis-synthesis myth), Geist, master-slave dialectic, history as progress of freedom, owl of Minerva"},
+      {"day": 60, "title": "Schopenhauer: The World as Will", "focus": "Will and representation, pessimism, art and compassion as escape, influence on Eastern-Western dialogue"},
+      {"day": 61, "title": "Bentham and Mill: Utilitarianism", "focus": "Greatest happiness principle, hedonic calculus, Mill's higher and lower pleasures, consequentialism, objections"},
+      {"day": 62, "title": "Mill: On Liberty and the Subjection of Women", "focus": "Harm principle, free speech, tyranny of the majority, Harriet Taylor Mill, equality of the sexes"},
+      {"day": 63, "title": "Marx: Alienation, Class and History", "focus": "Historical materialism, alienated labor, class struggle, base and superstructure, critique of capitalism, legacy and failures"},
+      {"day": 64, "title": "Kierkegaard: Faith, Anxiety and the Individual", "focus": "Three stages (aesthetic, ethical, religious), leap of faith, Abraham, anxiety, subjectivity is truth"},
+      {"day": 65, "title": "Nietzsche I: The Death of God and the Genealogy of Morals", "focus": "God is dead, master and slave morality, ressentiment, perspectivism"},
+      {"day": 66, "title": "Nietzsche II: Will to Power, the Übermensch and Eternal Recurrence", "focus": "Will to power, Übermensch, eternal recurrence, amor fati, misuse by Nazis"},
+      {"day": 67, "title": "American Pragmatism: Peirce, James and Dewey", "focus": "Transcendentalist background (Emerson, Thoreau), pragmatic maxim, James' will to believe, Dewey on democracy and education"},
+      {"day": 68, "title": "Review: The Nineteenth Century", "focus": "REVIEW DAY covering Days 59-67"}
+    ]},
+    {"id": 11, "title": "The Analytic Tradition", "days": [
+      {"day": 69, "title": "Frege and Russell: The Logic Revolution", "focus": "Modern logic, sense and reference, Russell's theory of descriptions, Russell's paradox, analysis as method"},
+      {"day": 70, "title": "Early Wittgenstein: The Limits of Language", "focus": "Tractatus, picture theory, what can be shown vs said, 'whereof one cannot speak'"},
+      {"day": 71, "title": "Logical Positivism and the Verification Principle", "focus": "Vienna Circle, A.J. Ayer, verification principle, emotivism, self-refutation problem"},
+      {"day": 72, "title": "Popper and Kuhn: What Makes Science Science?", "focus": "Falsification, demarcation, Kuhn's paradigms and revolutions, normal science"},
+      {"day": 73, "title": "Later Wittgenstein and Ordinary Language", "focus": "Philosophical Investigations, language games, meaning as use, family resemblance, private language, J.L. Austin speech acts"},
+      {"day": 74, "title": "Quine, Gettier and the Puzzle of Knowledge", "focus": "Justified true belief, Gettier cases, Two Dogmas of Empiricism, web of belief, naturalized epistemology"}
+    ]},
+    {"id": 12, "title": "The Continental Tradition", "days": [
+      {"day": 75, "title": "Husserl and Phenomenology", "focus": "Back to the things themselves, intentionality, bracketing (epoche), lived experience"},
+      {"day": 76, "title": "Heidegger: Being and Time", "focus": "Question of Being, Dasein, being-in-the-world, the they (das Man), authenticity, being-toward-death, the Nazi problem"},
+      {"day": 77, "title": "Sartre: Existence Precedes Essence", "focus": "Radical freedom, bad faith (the waiter), anguish, 'hell is other people', responsibility"},
+      {"day": 78, "title": "Simone de Beauvoir: The Second Sex and the Ethics of Ambiguity", "focus": "'One is not born, but becomes, a woman', the Other, ambiguity, freedom requires the freedom of others"},
+      {"day": 79, "title": "Camus and the Absurd", "focus": "The absurd, Myth of Sisyphus, philosophical suicide, revolt, The Stranger, The Rebel"},
+      {"day": 80, "title": "The Frankfurt School and Hannah Arendt", "focus": "Critical theory, culture industry, Habermas' public sphere, Arendt on totalitarianism and the banality of evil"},
+      {"day": 81, "title": "Structuralism and Postmodernism: Foucault, Derrida and Lyotard", "focus": "Saussure, power/knowledge, the panopticon, deconstruction, incredulity toward metanarratives, criticisms"}
+    ]},
+    {"id": 13, "title": "Contemporary Philosophy", "days": [
+      {"day": 82, "title": "Rawls and Nozick: Justice in Modern Society", "focus": "Original position, veil of ignorance, difference principle, Nozick's entitlement theory, Wilt Chamberlain argument, experience machine"},
+      {"day": 83, "title": "Applied Ethics: Singer, Trolleys and Bioethics", "focus": "Drowning child, animal liberation, trolley problem (Foot, Thomson), Thomson's violinist, bioethics principles"},
+      {"day": 84, "title": "Philosophy of Mind: Machines, Bats and the Hard Problem", "focus": "Behaviorism, identity theory, functionalism, Turing test, Chinese Room, Nagel's bat, Mary's room, Chalmers' hard problem"},
+      {"day": 85, "title": "The Return of Virtue and the Ethics of Care", "focus": "Anscombe's 'Modern Moral Philosophy', MacIntyre's After Virtue, Foot, Gilligan and Noddings on care ethics"},
+      {"day": 86, "title": "Voices from the Margins: Race, Gender and Decolonial Thought", "focus": "Du Bois' double consciousness, Fanon, feminist epistemology, standpoint theory, Kwame Anthony Appiah, epistemic injustice (Fricker)"},
+      {"day": 87, "title": "Philosophy in Global Dialogue", "focus": "Confucius, Laozi, the Buddha, Nagarjuna, Ubuntu; parallels and contrasts with Greek philosophy encountered earlier"},
+      {"day": 88, "title": "Environmental Ethics and Obligations to the Future", "focus": "Leopold's land ethic, Naess' deep ecology, climate ethics, Parfit's non-identity problem, longtermism and its critics"},
+      {"day": 89, "title": "Philosophy of Technology and Artificial Intelligence", "focus": "Can machines think revisited, AI ethics, algorithmic bias, privacy, attention economy, personhood, the alignment problem"},
+      {"day": 90, "title": "Final Synthesis: The Great Conversation and Your Philosophy", "focus": "FINAL REVIEW: tour of 2,600 years, recurring questions, building your own worldview, how to keep learning"}
+    ]}
+  ],
+  "tracks": [
+    {"id": "logic", "title": "Logic and Critical Thinking", "description": "Formal tools for clear reasoning, from truth tables to paradoxes.", "recommendedAfterDay": 17, "lessons": [
+      {"order": 1, "title": "Propositional Logic and Truth Tables", "focus": "Connectives, truth tables, validity, modus ponens/tollens, common formal fallacies (affirming the consequent)"},
+      {"order": 2, "title": "Predicate Logic and Quantifiers", "focus": "All/some, quantifier scope, translating English into logic, why Frege's logic beat Aristotle's"},
+      {"order": 3, "title": "Informal Fallacies in the Wild", "focus": "Ad hominem, straw man, slippery slope, false dilemma, appeal to authority, motivated reasoning, steelmanning"},
+      {"order": 4, "title": "Modal Logic and Possible Worlds", "focus": "Necessity and possibility, possible worlds semantics (Kripke, Lewis), counterfactuals"},
+      {"order": 5, "title": "Paradoxes: Liars, Heaps and Incompleteness", "focus": "Liar paradox, sorites, Russell's paradox revisited, Gödel's incompleteness in plain language"}
+    ]},
+    {"id": "ethics", "title": "Ethics and Metaethics", "description": "What, if anything, makes morality true?", "recommendedAfterDay": 61, "lessons": [
+      {"order": 1, "title": "Moral Realism and Its Rivals", "focus": "Realism, error theory (Mackie), relativism, the argument from disagreement and queerness"},
+      {"order": 2, "title": "Expressivism and the Meaning of 'Good'", "focus": "Moore's open question argument, emotivism, Blackburn's quasi-realism, Frege-Geach problem"},
+      {"order": 3, "title": "Moral Luck and Responsibility", "focus": "Williams and Nagel, kinds of moral luck, Strawson's reactive attitudes"},
+      {"order": 4, "title": "Contractualism: What We Owe to Each Other", "focus": "Scanlon, reasonable rejection, Gauthier, comparison with utilitarianism and Kant"},
+      {"order": 5, "title": "Population Ethics and Effective Altruism", "focus": "Parfit's repugnant conclusion, non-identity problem, effective altruism, demandingness objection"}
+    ]},
+    {"id": "mind", "title": "Mind, Self and Free Will", "description": "Consciousness, personal identity and whether we are free.", "recommendedAfterDay": 84, "lessons": [
+      {"order": 1, "title": "Functionalism and the Computational Mind", "focus": "Multiple realizability, Putnam, Fodor, inverted spectrum, absent qualia"},
+      {"order": 2, "title": "Personal Identity: What Makes You You?", "focus": "Locke revisited, ship of Theseus, teleportation and fission cases, Parfit's 'identity is not what matters'"},
+      {"order": 3, "title": "Free Will and Determinism", "focus": "Hard determinism, libertarianism, compatibilism, Frankfurt cases, Libet experiments"},
+      {"order": 4, "title": "The Extended and Embodied Mind", "focus": "Clark and Chalmers' Otto's notebook, enactivism, smartphones as mind extensions"},
+      {"order": 5, "title": "Consciousness at the Frontier: Panpsychism and Illusionism", "focus": "Russellian monism, combination problem, Dennett and Frankish's illusionism, integrated information theory"}
+    ]},
+    {"id": "political", "title": "Political and Social Philosophy", "description": "Power, legitimacy, community and justice in depth.", "recommendedAfterDay": 82, "lessons": [
+      {"order": 1, "title": "Political Legitimacy and Authority", "focus": "Why obey the state? Consent, fair play, anarchism (Wolff), Weber on legitimacy"},
+      {"order": 2, "title": "Liberalism and Its Communitarian Critics", "focus": "Sandel's unencumbered self, Taylor, Walzer, MacIntyre vs Rawls"},
+      {"order": 3, "title": "Democracy: Deliberation, Epistocracy and Its Discontents", "focus": "Deliberative democracy (Habermas), Brennan's epistocracy, Condorcet jury theorem, public reason"},
+      {"order": 4, "title": "Freedom: Negative, Positive and Republican", "focus": "Isaiah Berlin's two concepts, Pettit's freedom as non-domination, markets and freedom"},
+      {"order": 5, "title": "Global Justice and Cosmopolitanism", "focus": "Borders and immigration ethics, Pogge on global poverty, nationalism vs cosmopolitanism, Nussbaum's capabilities approach"}
+    ]},
+    {"id": "world", "title": "Philosophy Beyond the West", "description": "Great traditions of India, China, Africa and beyond.", "recommendedAfterDay": 87, "lessons": [
+      {"order": 1, "title": "Confucianism: Ritual, Virtue and Relationships", "focus": "Confucius, ren and li, junzi, Mencius vs Xunzi on human nature, filial piety"},
+      {"order": 2, "title": "Daoism: The Way and Effortless Action", "focus": "Laozi, Dao De Jing, wu wei, Zhuangzi's butterfly dream, relativism and spontaneity"},
+      {"order": 3, "title": "Buddhist Philosophy: No-Self and Emptiness", "focus": "Four Noble Truths, anatta, dependent origination, Nagarjuna's emptiness, comparison with Hume"},
+      {"order": 4, "title": "Indian Philosophy: Vedanta and Nyaya Logic", "focus": "Upanishads, Atman and Brahman, Shankara's Advaita, Nyaya epistemology and inference, Carvaka materialism"},
+      {"order": 5, "title": "African and Latin American Philosophy", "focus": "Ubuntu, Kwasi Wiredu, Oruka's sage philosophy, Aztec philosophy (Maffie), liberation philosophy (Dussel)"}
+    ]},
+    {"id": "science", "title": "Knowledge, Science and Reality", "description": "Advanced epistemology and the philosophy of science and mathematics.", "recommendedAfterDay": 74, "lessons": [
+      {"order": 1, "title": "Radical Skepticism: Brains in Vats", "focus": "Putnam's brain in a vat, Moore's 'here is a hand', contextualism, simulation argument (Bostrom)"},
+      {"order": 2, "title": "Bayesian Reasoning and Probability", "focus": "Bayes' theorem intuitively, base rate fallacy, priors, updating beliefs, Bayesian epistemology"},
+      {"order": 3, "title": "Scientific Realism and Its Critics", "focus": "No-miracles argument, pessimistic meta-induction, van Fraassen's constructive empiricism, structural realism"},
+      {"order": 4, "title": "Social Epistemology: Testimony, Experts and Echo Chambers", "focus": "Trusting testimony, expert disagreement, echo chambers vs epistemic bubbles (Nguyen), misinformation"},
+      {"order": 5, "title": "Philosophy of Mathematics: Are Numbers Real?", "focus": "Platonism, formalism, intuitionism, indispensability argument, unreasonable effectiveness of mathematics"}
+    ]}
+  ]
+}

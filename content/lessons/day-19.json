@@ -1,0 +1,241 @@
+{
+  "id": "day-19",
+  "day": 19,
+  "title": "Nature, Purpose and the Soul",
+  "subtitle": "The first great biologist asks what living things are for, and what makes them alive",
+  "philosophers": ["Aristotle"],
+  "era": "384–322 BCE",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain what Aristotle meant by teleology and why he thought nature acts 'for the sake of' something",
+    "Describe Aristotle's work as a field biologist and why Darwin admired him",
+    "Explain Aristotle's definition of the soul as the form of a living body, using his own analogies of the wax seal, the axe and the eye",
+    "Distinguish the nutritive, sensitive and rational levels of soul and say which living things have which",
+    "Weigh the strongest objections to teleology, from ancient atomists to modern evolutionary biology"
+  ],
+  "hook": "Look at your own hand for a moment. The thumb sits opposite the fingers so that you can grip. The nails protect the tips. The skin of the palm is ridged so things don't slip. It is almost impossible to describe a hand without saying what each part is *for*. Now look out of the window at a stone, a cloud or a puddle. Nobody asks what a puddle is for.\n\nWhy does that difference feel so natural? Is purpose really out there in living things, or is it something we project onto them because we are creatures who make tools? Around 2,350 years ago, a philosopher spent several years wading through a lagoon on a Greek island, cutting open fish, watching octopuses and counting the chambers of animal stomachs, because he believed this question could only be answered by looking. His answer shaped biology for two thousand years, and it still shapes how you talk about your own body. Today we meet Aristotle the naturalist, and his theory of what it means to be alive.",
+  "sections": [
+    {
+      "heading": "The Philosopher in the Lagoon",
+      "body": "Yesterday (Day 18) we met Aristotle the metaphysician, with his four causes and his theory of form and matter. It is easy to imagine him only at a desk. But a huge share of his surviving writing, roughly a quarter of it, is about animals: the *History of Animals*, *Parts of Animals*, *Generation of Animals* and several shorter works on movement, sleep, memory, youth and old age.\n\nAfter Plato died in 347 BCE, Aristotle left Athens (Day 16). For a few years he lived in Assos on the coast of Asia Minor and then on the island of Lesbos, where his friend and later successor Theophrastus was born. Scholars have noticed that many of the creatures described most vividly in his biology live in the lagoon at Pyrrha on Lesbos, and most think this is where he did much of his fieldwork, around 345–343 BCE.\n\nWhat he did there was astonishing for the time. He described around five hundred kinds of animals. He dissected many of them. He noticed that dolphins breathe air, suckle their young and bear them live, so in key ways they belong with land mammals rather than fish. He described how one arm of the male octopus is used in mating, a claim later naturalists dismissed as a fable until it was confirmed in the nineteenth century. He reported that a certain small shark nourishes its embryo through something like a placenta, another observation that was doubted for centuries and then vindicated by the German anatomist Johannes Müller in 1842.\n\nHe also got many things badly wrong. He thought the heart, not the brain, was the seat of sensation and thought, and that the brain's job was to cool the blood. He claimed men have more teeth than women, which a quick count would have refuted. Most notoriously, he described the female as a kind of incomplete or deformed male, a view that did real damage for centuries. Admiration for Aristotle the observer should not turn into worship.\n\nStill, Charles Darwin, after reading a translation of *Parts of Animals* late in life, wrote to its translator William Ogle in 1882 that the great modern naturalists Linnaeus and Cuvier had been his two gods, “but they were mere school-boys to old Aristotle.” That is high praise from the man who would overturn Aristotle's own picture of fixed species."
+    },
+    {
+      "heading": "Nature Does Nothing in Vain",
+      "body": "Aristotle did not collect facts for their own sake. He wanted to explain them, and for living things the most important explanation was the one we met yesterday as the **final cause**: the end or goal, the 'that for the sake of which'. The view that things in nature are directed toward ends is called **teleology**, from the Greek *telos*, meaning end or goal.\n\nAristotle's slogan, repeated in several works, is that “nature does nothing in vain.” Ducks have webbed feet for swimming. Teeth are sharp at the front for cutting and broad at the back for grinding. Plants send their roots down rather than up for the sake of nourishment. If you want to understand why an animal has the parts it has, ask what those parts do for the animal's way of life.\n\nThis was a deliberate break with his predecessors. Remember Empedocles (Day 6), who imagined that in an early phase of the world, random limbs and organs wandered about and combined by chance, producing monsters such as 'ox-headed men'; only the combinations that happened to work survived. And remember the atomists (Day 7), for whom everything was atoms colliding in the void, with no purpose anywhere.\n\nIn *Physics* Book II, Aristotle takes this challenge seriously. Someone might say, he notes, that rain does not fall *in order to* make the corn grow; it falls because evaporated water cools and comes down, and if the corn happens to grow, that is a coincidence. Why not say the same of teeth? Perhaps they simply came out sharp in front and broad behind, and animals that happened to have them survived.\n\nHis reply is that coincidences are, by definition, rare. But teeth, eyes and roots come out right always or for the most part, in generation after generation. What happens regularly and reliably cannot be mere chance. So nature must act for the sake of something.\n\nNotice how close the rejected view comes to natural selection, and how Aristotle's answer depends on not having any mechanism, like heredity plus variation plus vast spans of time, that could turn chance into reliable regularity. We will come back to this."
+    },
+    {
+      "heading": "Purpose Without a Designer",
+      "body": "When people today hear 'everything in nature has a purpose', they often think of a divine craftsman designing each creature, the picture Plato painted in his dialogue *Timaeus*. Aristotle's teleology is different, and this is one of the most misunderstood points about him.\n\nFor Aristotle, purposes are **immanent**, meaning they are built into the natural thing itself rather than imposed from outside. An acorn grows into an oak not because anyone planned it, and not because the acorn is thinking about oaks, but because being-an-oak is its form, and form is what drives its development. Recall from Day 18 that the formal cause and the final cause often coincide: the mature oak is both what the acorn is becoming and what it is for.\n\nHe uses a striking comparison. Art imitates nature, he says, and if the art of shipbuilding were inside the wood, wood would turn itself into a ship. That is what nature is like: a craft operating from within, without deliberation. A spider spinning its web or a swallow building its nest does not reason about it, yet the result is perfectly suited to an end.\n\nAristotle defines **nature** (*physis*) precisely in these terms: a nature is an internal source of change and rest. A stone falls because of its nature; a bed does not grow because its source of change lies outside it, in the carpenter. Living things are the clearest case of beings with natures, because they grow, repair and reproduce themselves.\n\nHis philosophy does include a god, the unmoved mover we met yesterday, which eternally thinks and which the heavens move in imitation of. But this god does not design animals, notice individual sparrows or answer prayers. Medieval thinkers such as Thomas Aquinas (Day 35) would later combine Aristotle's teleology with a Christian creator, and the result is sometimes read back into Aristotle. It is worth keeping them apart."
+    },
+    {
+      "heading": "What Is a Soul? The Form of a Living Body",
+      "body": "If teleology explains the parts of living things, what explains being alive at all? Aristotle's answer is in his short, difficult masterpiece *De Anima*, Latin for *On the Soul*.\n\nThe Greek word is **psyche**, and it is crucial not to hear it with modern religious or ghostly overtones. For the Greeks, *psyche* was simply whatever makes the difference between a living thing and a dead one. Plants have souls in this sense. So do slugs.\n\nPlato, as we saw on Day 15 in the *Phaedo*, thought the soul was a separate thing, imprisoned in the body and destined to escape it at death. Democritus thought it was made of especially fine, round, fiery atoms. Aristotle rejected both. Using the vocabulary of Day 18, he defined the soul as the **form** of a natural body that has life potentially. In his technical phrase, the soul is the 'first actuality' of such a body: not a thing inside the body but the body's organisation and its capacity to do what living things of its kind do.\n\nHe offers three famous illustrations.\n\n1. If an axe were a natural body, its soul would be its being-an-axe: its capacity to chop. Take that away and you have a lump of metal that is an axe in name only.\n2. If the eye were a whole animal, sight would be its soul. A blind eye, or an eye painted on a statue, is an eye only in name.\n3. We should no more ask whether soul and body are one than ask whether the wax and the shape stamped on it by a seal are one.\n\nThe third image is the key. The shape of a seal impression is not a second thing hiding in the wax; it is the way the wax is. Likewise, your soul is not a ghost in your body; it is the way your body is organised for living, perceiving and thinking. This combination of form and matter is called **hylomorphism**, which you met yesterday, here applied to life itself.\n\nOne consequence follows immediately, and Aristotle draws it himself: for the most part, the soul cannot exist separately from the body, just as a shape cannot exist without something shaped. That puts him far from Plato's hopes for personal immortality."
+    },
+    {
+      "heading": "The Ladder of Life: Nutritive, Sensitive, Rational",
+      "body": "Not all living things do the same things, so not all souls have the same capacities. Aristotle sorts them into nested levels, which later writers called the three 'souls', though he thought of them as capacities of one soul.\n\n- The **nutritive soul** is the capacity to take in nourishment, grow and reproduce. Every living thing has it, and plants have only this. Aristotle calls it the most basic and widely shared power of life.\n- The **sensitive soul** adds perception: at minimum touch, and in most animals sight, hearing, smell and taste too. With perception comes pleasure and pain, and with those comes desire. Most animals can also move themselves from place to place toward what they desire. All animals have this level along with the nutritive.\n- The **rational soul** adds thought: the capacity to reason, deliberate and grasp universals. Among earthly beings, only humans have it, along with the other two.\n\nThe structure is cumulative, like a staircase or, in Aristotle's own geometrical comparison, like a series of figures in which the square contains the triangle. You cannot perceive without being nourished, and you cannot think without perceiving. Aristotle insists that the mind never thinks without an image (*phantasma*) drawn from experience, which makes him, as we saw on Day 16, a far more empirical thinker than his teacher.\n\nHis account of perception itself is subtle. To perceive, he says, is to take on the form of the object without its matter, the way wax takes the shape of a signet ring without taking the gold. When you see a red apple, your eye does not become an apple, but it becomes in some sense 'like' the apple in colour.\n\nThis framework became the basis of the 'great chain of being', the medieval idea of an ordered ladder running from minerals through plants and animals to humans, angels and God. Aristotle himself noticed that nature passes from lifeless things to animals so gradually that the boundaries are blurred: sponges and sea squirts, for instance, seem halfway between plant and animal."
+    },
+    {
+      "heading": "The Mystery of Mind, and the Objections",
+      "body": "There is one notorious exception to the rule that soul cannot exist without body. In a famously compressed passage, *De Anima* Book III, chapter 5, Aristotle speaks of an intellect that 'makes all things', as light makes potential colours actual. This **active intellect**, he says, is separable, unaffected and unmixed, and 'this alone is immortal and eternal'.\n\nThe passage is only a few lines long, and it has generated more commentary than almost any other text in philosophy. Is the active intellect a part of each individual human soul? Is it God? Is it a single intellect shared by all humans? Medieval Islamic philosophers such as Avicenna and Averroes, whom you will meet on Days 32–33, built whole systems on different answers, and the dispute became a flashpoint in medieval Christianity too. Honest scholars admit that we do not know exactly what Aristotle meant.\n\nNow to the wider objections against his biology of purpose.\n\nFirst, the atomist objection never went away. In the seventeenth century, the founders of modern science, including Francis Bacon (Day 41) and Descartes (Day 43), rejected final causes in physics as sterile. Stones do not fall 'in order to' reach their natural place; they obey laws of motion.\n\nSecond, and decisively for biology, Darwin provided what Aristotle lacked: a mechanism by which chance variations, filtered by survival and reproduction over enormous time, produce structures that work 'always or for the most part'. Aristotle's argument that regularity rules out chance does not hold once you see how a chance-plus-selection process can generate regularity.\n\nThird, his fixed, eternal species and his rigid hierarchy, with humans at the top, and in his view men above women and Greeks above 'barbarians', look less like observation than like the prejudices of his society projected onto nature.\n\nYet some philosophers argue that Aristotle was more right than the seventeenth century allowed. Biologists still cannot stop asking what organs are *for*, and his picture of the soul as the organisation of a body, rather than a ghost inside it, sounds strikingly modern. That is where we go next."
+    }
+  ],
+  "keyQuote": {
+    "text": "Nature does nothing in vain.",
+    "source": "Aristotle, a recurring principle stated in Politics I.2 and several biological works"
+  },
+  "modernConnection": {
+    "title": "Function Talk in Biology and the 'Software' Theory of Mind",
+    "body": "Open any biology textbook and you will find Aristotelian sentences everywhere: the heart pumps blood *in order to* deliver oxygen; leaves are flat *so that* they catch light; the immune system exists *to* defend the body. Biologists have never managed to drop the language of purpose, and they have argued about whether they should.\n\nIn 1958 the biologist Colin Pittendrigh coined the word **teleonomy** to describe apparent purposiveness that results from natural selection rather than from any goal-seeking force. Ernst Mayr later championed the term. On this view, saying the heart's function is to pump blood is shorthand for a historical claim: hearts that pumped blood helped their owners' ancestors survive and reproduce, which is why hearts exist. The 'for' has been reinterpreted, but not abandoned. Aristotle would recognise the questions; he would be startled by the answer.\n\nThe second bridge is even more surprising. In the twentieth century, philosophers of mind looking for an alternative to both Descartes' ghostly soul and crude materialism developed **functionalism**: the idea that a mental state is defined by what it does, by its role in a system, rather than by what it is made of. Hilary Putnam and Martha Nussbaum argued in a well-known 1992 essay that Aristotle's hylomorphism anticipated this. A mind is not a separate substance, but neither is it 'just' meat; it is the organisation and activity of a body, as a program is not a separate object inside a computer but is not identical to any particular chip either.\n\nThis matters for questions you will face on Days 84 and 89. If the mind is a form of organisation, could the same form be realised in silicon? Could an AI have something like a 'sensitive' or even 'rational' soul?\n\nBe careful where the analogy breaks. For Aristotle, form is not abstract information that could be copied from one medium to another; the soul is the form of a *particular kind* of living, growing, self-nourishing body, and nutrition comes first. An Aristotelian might well say a computer has no soul at all, because it does not eat, grow or reproduce, however cleverly it calculates."
+  },
+  "vocabulary": [
+    {
+      "term": "Teleology",
+      "definition": "Explanation in terms of ends, goals or purposes (from Greek telos, 'end'); the view that natural things act for the sake of something.",
+      "example": "Saying that a bird's hollow bones exist so that it can fly is a teleological explanation."
+    },
+    {
+      "term": "Final cause",
+      "definition": "In Aristotle, the end or goal of a thing, 'that for the sake of which' it exists or happens; one of the four causes from Day 18.",
+      "example": "The final cause of a root is to draw nourishment for the plant."
+    },
+    {
+      "term": "Nature (physis)",
+      "definition": "For Aristotle, an internal source of change and rest; natural things develop from within, while artefacts are changed from outside.",
+      "example": "A seed grows because of its nature, but a table only gets made because a carpenter acts on wood."
+    },
+    {
+      "term": "Psyche (soul)",
+      "definition": "In Greek thought, whatever makes a living thing alive; for Aristotle, the form or organisation of a living body, not a separate ghost.",
+      "example": "On Aristotle's view even a fern has a psyche, because it nourishes itself and grows."
+    },
+    {
+      "term": "Hylomorphism",
+      "definition": "The theory that things are composites of matter (hyle) and form (morphe); applied to living beings, the soul is the form and the body is the matter.",
+      "example": "Aristotle's wax-and-seal analogy is a picture of hylomorphism: the shape is not a second thing inside the wax."
+    },
+    {
+      "term": "Nutritive, sensitive and rational soul",
+      "definition": "Aristotle's nested levels of life: nourishment and reproduction (all living things), perception and desire (animals), and thought (humans).",
+      "example": "A dog has nutritive and sensitive soul, but on Aristotle's view not rational soul."
+    },
+    {
+      "term": "Active intellect",
+      "definition": "The mysterious 'productive' mind of De Anima III.5 that makes things intelligible, which Aristotle calls separable and immortal; its meaning is fiercely debated.",
+      "example": "Medieval philosophers argued over whether the active intellect belongs to each person or is one intellect shared by all."
+    },
+    {
+      "term": "Teleonomy",
+      "definition": "A modern term (Pittendrigh, 1958) for apparent purposiveness in organisms that is explained by natural selection rather than by real goal-seeking.",
+      "example": "A biologist may speak of teleonomy to keep the word 'function' while denying that evolution aims at anything."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Is Purpose Out There or in Here?",
+    "prompt": "Test Aristotle's teleology on real things around you and decide where the line between 'has a purpose' and 'has no purpose' really falls.",
+    "steps": [
+      "Write down five things: one part of your body, one plant, one animal behaviour, one human-made tool and one natural non-living thing (a river, a cloud, a mountain).",
+      "For each, try to complete the sentence 'It is (or does this) for the sake of...'. Notice which sentences feel natural and which feel forced.",
+      "For the body part and the animal behaviour, rewrite your sentence in Darwinian terms: 'Ancestors with this trait tended to survive and reproduce because...'. Does anything get lost in translation?",
+      "Now ask Aristotle's soul question about yourself: if your mind is the organisation of your body, what would it mean for 'you' to survive death? Write a short paragraph explaining whether this conclusion troubles you.",
+      "Finally, decide in two or three sentences: is purpose a real feature of living things, a useful way of speaking, or a projection of our tool-making habits?"
+    ]
+  },
+  "summary": [
+    "Aristotle was the first great field biologist, describing and dissecting hundreds of animals, probably on Lesbos; Darwin called the great moderns 'school-boys' compared to him, though Aristotle also made serious errors.",
+    "His biology is teleological: 'nature does nothing in vain', and parts of organisms are best explained by what they are for.",
+    "Aristotle's purposes are built into nature itself, not imposed by a designer; nature is an internal source of change, like a craft working from within.",
+    "The soul (psyche) is the form of a living body, its organisation for living, not a separate ghost; hence, for the most part, it cannot exist without the body.",
+    "Souls come in nested levels: nutritive (plants), sensitive (animals) and rational (humans), with the puzzling 'active intellect' as a possible immortal exception.",
+    "Darwin undercut Aristotle's argument from regularity, but function-talk in biology and functionalist theories of mind keep his questions alive."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What did Aristotle mean by calling the soul the 'form' of a living body?",
+      "options": [
+        "The soul is a ghostly copy of the body that leaves it at death",
+        "The soul is made of fine, fiery atoms spread through the body",
+        "The soul is the body's organisation and its capacity to perform the activities of life",
+        "The soul is a perfect Form existing in a separate world, as Plato taught"
+      ],
+      "answer": 2,
+      "explanation": "Aristotle defined the soul as the form, or first actuality, of a natural body that has life potentially: its organisation for living. The atomic view is Democritus's, and the separate-Form view is Plato's."
+    },
+    {
+      "type": "mc",
+      "question": "Which living things, according to Aristotle, have ONLY the nutritive soul?",
+      "options": [
+        "Plants",
+        "Sponges and insects",
+        "All animals except humans",
+        "Infants who cannot yet reason"
+      ],
+      "answer": 0,
+      "explanation": "Plants have only the nutritive capacities of nourishment, growth and reproduction. All animals add perception (the sensitive soul), and humans add reason."
+    },
+    {
+      "type": "mc",
+      "question": "How did Aristotle respond to the suggestion that useful teeth, like rain helping corn, arise by coincidence?",
+      "options": [
+        "He agreed, and said only humans act for purposes",
+        "He argued that what happens always or for the most part cannot be a coincidence, so nature acts for an end",
+        "He argued that the gods design each tooth individually",
+        "He said the question could not be answered without dissecting the teeth"
+      ],
+      "answer": 1,
+      "explanation": "In Physics II, Aristotle argues that chance events are rare, while useful structures appear reliably generation after generation, so they must be for the sake of something. Darwin later showed how selection can turn chance variation into regularity."
+    },
+    {
+      "type": "mc",
+      "question": "Aristotle compared the relation of soul and body to which of the following?",
+      "options": [
+        "A pilot steering a ship",
+        "A prisoner locked in a cell",
+        "A rider on a horse",
+        "The shape stamped into wax by a seal"
+      ],
+      "answer": 3,
+      "explanation": "The wax-and-seal image shows that soul and body are not two things: the shape is simply how the wax is. The prisoner image fits Plato's Phaedo far better."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern situation best illustrates Aristotle's idea of 'immanent' purpose?",
+      "options": [
+        "An engineer designing a bridge to carry heavy traffic",
+        "A sunflower seedling growing toward the light without any plan or designer",
+        "A government planning the route of a new railway",
+        "A child deciding to study medicine to become a doctor"
+      ],
+      "answer": 1,
+      "explanation": "Immanent purpose is built into a natural thing and drives it from within, without deliberation. The other options all involve conscious planning from outside or by a reasoning agent."
+    },
+    {
+      "type": "mc",
+      "question": "Which of Aristotle's biological claims was long dismissed but later confirmed?",
+      "options": [
+        "That the brain exists to cool the blood",
+        "That men have more teeth than women",
+        "That one arm of the male octopus is used in mating",
+        "That the heart is the seat of thought"
+      ],
+      "answer": 2,
+      "explanation": "His description of the octopus's mating arm was confirmed in the nineteenth century. The other three are among his well-known errors."
+    },
+    {
+      "type": "mc",
+      "question": "What is 'teleonomy'?",
+      "options": [
+        "Apparent purposiveness in organisms explained by natural selection rather than real goals",
+        "Aristotle's term for the rational soul",
+        "The study of the active intellect",
+        "The belief that a divine craftsman designed each species"
+      ],
+      "answer": 0,
+      "explanation": "Pittendrigh coined 'teleonomy' in 1958 so biologists could keep function-talk while grounding it in evolutionary history, not in goals or design."
+    },
+    {
+      "type": "tf",
+      "question": "Aristotle's teleology depends on a god who designs each species, as in Plato's Timaeus.",
+      "answer": false,
+      "explanation": "Aristotle's purposes are internal to natural things. His unmoved mover thinks eternally but does not design animals; combining teleology with a creator came later, notably with Aquinas."
+    },
+    {
+      "type": "tf",
+      "question": "According to Aristotle, human thinking never occurs without some image drawn from perception.",
+      "answer": true,
+      "explanation": "Aristotle held that the mind never thinks without a phantasma (image), which reflects his empirical approach: reason builds on perception."
+    },
+    {
+      "type": "tf",
+      "question": "Scholars broadly agree on what Aristotle meant by the 'active intellect' in De Anima III.5.",
+      "answer": false,
+      "explanation": "The passage is only a few lines long and has been interpreted as part of each soul, as God, or as a single shared intellect. It remains one of the most debated texts in philosophy."
+    }
+  ],
+  "goDeeper": {
+    "body": "Was Darwin the end of Aristotle's biology, or its vindication? The standard story says the Scientific Revolution and then evolution banished final causes. But a number of philosophers and historians have pushed back. Allan Gotthelf argued that Aristotle's teleology is not a mysterious extra force but an irreducible 'potential for form' carried in the organism, which some readers have compared to genetic information. The physicist-turned-biologist Max Delbrück, a Nobel laureate, half-jokingly suggested in 1971 that Aristotle deserved a posthumous Nobel Prize for recognising that what passes from parent to offspring is not a tiny pre-formed animal but a 'form', a programme for development.\n\nA second debate concerns the mind. Putnam and Nussbaum read Aristotle as a proto-functionalist, but Myles Burnyeat famously replied that Aristotelian philosophy of mind is no longer 'credible' for us, because Aristotle thought the eye's taking on colour required no physiological change at all, a 'physics of the soul' that modern science has discarded. Whether Aristotle can be updated or must be left in his own world is a live question.\n\nA third concerns natural law. If humans have a nature with built-in ends, can we read ethics off it, as Aquinas would (Day 36)? Critics reply that 'natural' is used to bless whatever a society already approves of, and Aristotle's own views on women and slaves (Day 21) are Exhibit A.",
+    "readings": [
+      {
+        "title": "On the Soul (De Anima), Book II",
+        "author": "Aristotle",
+        "note": "Short and dense; chapters 1–3 contain the definition of soul, the axe and eye examples, and the levels of soul. The Penguin translation by Hugh Lawson-Tancred is readable."
+      },
+      {
+        "title": "The Lagoon: How Aristotle Invented Science",
+        "author": "Armand Marie Leroi",
+        "note": "A vivid book by an evolutionary biologist who visited Lesbos to retrace Aristotle's observations; balanced on both his insights and errors."
+      },
+      {
+        "title": "Essays on Aristotle's De Anima",
+        "author": "Martha C. Nussbaum and Amélie Oksenberg Rorty (eds.)",
+        "note": "Contains both the Nussbaum–Putnam functionalist reading and Burnyeat's sceptical reply; for the ambitious."
+      }
+    ],
+    "questions": [
+      "If natural selection explains why organs work, is 'the heart is for pumping blood' literally true, or just a convenient figure of speech?",
+      "Could something that does not nourish itself or reproduce, such as an advanced AI, have a soul in Aristotle's sense? Why or why not?",
+      "Aristotle's observations were often brilliant but sometimes distorted by prejudice. How can we tell, in our own science, which is which?"
+    ]
+  }
+}

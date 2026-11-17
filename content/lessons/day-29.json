@@ -1,0 +1,298 @@
+{
+  "id": "day-29",
+  "day": 29,
+  "title": "Review: Philosophy as a Way of Life",
+  "subtitle": "Six recipes for a good life, side by side",
+  "philosophers": ["Diogenes", "Epicurus", "Zeno of Citium", "Epictetus", "Pyrrho", "Sextus Empiricus", "Plotinus"],
+  "era": "c. 400 BCE – 270 CE",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to explain Pierre Hadot's idea that ancient philosophy was a way of life, not just a set of theories.",
+    "By the end you will be able to compare how the Cynics, Epicureans, Stoics, Skeptics and Neoplatonists defined the goal of life and the main obstacle to reaching it.",
+    "By the end you will be able to describe the practical exercises each school used and connect them back to Socrates, Plato and Aristotle.",
+    "By the end you will be able to weigh the strongest objections each school raised against the others."
+  ],
+  "hook": "Suppose you walked through Athens around 280 BCE looking for advice on how to live. In the marketplace a ragged man living in a storage jar might mock your fancy sandals. Outside the city walls, in a quiet garden, a community of friends would offer you bread, water and a calm talk about why death is nothing to fear. Under a painted colonnade in the Agora, a teacher would tell you that only virtue is truly good, and that your wealth, health and reputation are, strictly speaking, beside the point. A traveling skeptic might gently ask how you know any of these teachers is right. Five centuries later, in Rome, Plotinus would add a further option: turn inward and climb toward the One.\n\nOver the last six days we have met all of these voices. Today we step back and compare them. The French historian Pierre Hadot (1922–2010) argued that for these schools, philosophy was not mainly a subject you studied but a **way of life** you practiced. Joining a school was more like joining a training program than enrolling in a lecture course. Let us look at what each program promised, what it demanded and where it may fall short.",
+  "sections": [
+    {
+      "heading": "Why Everyone Started Asking 'How Should I Live?'",
+      "body": "Remember the setting from Day 23. When Alexander the Great died in 323 BCE, his empire split into rival kingdoms ruled by his generals. The independent city-state, the *polis*, which had been the stage for Socrates, Plato and Aristotle, lost much of its real power. Citizens who had once debated war and peace in the assembly now lived under distant kings. Historians debate how sudden the change felt, but it is clear that philosophy turned strongly toward the individual: how can *I* find peace and goodness when so much lies outside my control?\n\nThe schools of this age all answered with a recipe for **eudaimonia**, the flourishing or happiness that Aristotle had made the goal of ethics on Day 20. They disagreed about the ingredients. But they shared an assumption inherited from Socrates (Day 9): that our misery comes largely from mistaken beliefs, and that the right kind of thinking can heal us. This is why the philosopher was often compared to a doctor. Epicurus said that philosophy which does not cure the suffering of the soul is as useless as medicine that does not cure the body. The modern philosopher Martha Nussbaum built a whole book, *The Therapy of Desire*, around this medical model.\n\nHadot pointed out that each school had its **spiritual exercises**: practices like memorizing key sayings, examining your day each evening, imagining misfortunes in advance or contemplating the vastness of the cosmos. These were meant to change how you perceive and feel, not just what you believe."
+    },
+    {
+      "heading": "How They Answered the Same Question: What Is the Goal?",
+      "body": "Here is the comparison in compact form.\n\n- **Cynics (Day 23).** Goal: a life of virtue according to nature, with self-sufficiency (*autarkeia*) and freedom. Diogenes of Sinope, inspired by Antisthenes, rejected wealth, reputation and social convention as chains.\n- **Epicureans (Day 24).** Goal: pleasure, understood mainly as the absence of pain in the body (*aponia*) and tranquility of the mind, **ataraxia**. Epicurus taught in his Garden that simple pleasures, friendship and freedom from fear make life sweet.\n- **Stoics (Days 25–26).** Goal: virtue, which is the only true good; living in agreement with nature and with the rational order (*logos*) of the cosmos. Freedom from destructive passions, *apatheia*, follows. Zeno of Citium and Chrysippus founded it; Seneca, Epictetus and Marcus Aurelius made it practical.\n- **Skeptics (Day 27).** Goal: tranquility that arrives, almost by surprise, once you suspend judgment (**epoche**) about what things are really like. Pyrrho was the model; Sextus Empiricus wrote the handbook.\n- **Neoplatonists (Day 28).** Goal: the ascent of the soul to Intellect and finally union with the One.\n\nNotice how many of these goals are described negatively: freedom from pain, freedom from fear, freedom from disturbance, freedom from passion. Aristotle had pictured happiness as a rich activity, the excellent exercise of reason across a full life with friends, health and some wealth. The Hellenistic schools tended to think that such a life was too fragile; it depended too much on luck. They wanted a happiness that a tyrant, a shipwreck or a plague could not take away. Plotinus is the exception: his goal is not a quiet absence but the most intense presence imaginable."
+    },
+    {
+      "heading": "How They Answered the Same Question: What Stands in the Way?",
+      "body": "A doctor must diagnose before prescribing. Each school had its own diagnosis.\n\nFor the **Cynics**, the disease was convention (*nomos*). Remember the Sophists' debate between *nomos* and *physis*, custom and nature, on Day 8. Diogenes took the side of nature to an extreme. We are enslaved by money, manners and other people's opinions. The cure was shock therapy: shamelessness, poverty, rigorous training (*askesis*) and mockery. When asked where he came from, Diogenes is said to have answered that he was a citizen of the world, a *kosmopolites*, the root of our word **cosmopolitanism**.\n\nFor the **Epicureans**, the disease was fear and unlimited desire. People fear the gods and fear death, and they chase luxury, fame and power, which are neither natural nor necessary. The cure was physics plus discipline of desire. Atomism, inherited from Democritus (Day 7), shows that the gods do not meddle and that death is simply the end of sensation: where death is, we are not. Sorting desires into natural and necessary, natural but unnecessary, and empty ones shows that real pleasure is easy to get.\n\nFor the **Stoics**, the disease was false judgment. Epictetus put it plainly in his *Handbook*: people are disturbed not by things but by their judgments about things. Passions such as rage, terror and greed are mistaken evaluations, treating **indifferents** like money or reputation as if they were genuinely good or bad. The cure was to correct those judgments and focus on what is truly up to us, the **dichotomy of control**.\n\nFor the **Skeptics**, the disease was dogmatism itself, including the Stoics'. Anyone who believes that something is truly good or bad by nature will be anxious to get it or terrified of losing it. Using the modes, standard patterns of argument that pit appearance against appearance, the Skeptic finds every claim balanced by an equally strong opposite and suspends judgment. Calm follows, as Sextus says, like a shadow follows a body.\n\nFor **Plotinus**, the disease was forgetfulness. The soul has turned its attention outward and downward toward the body and has forgotten its origin. The cure is to turn back."
+    },
+    {
+      "heading": "The Practices: Philosophy as Training",
+      "body": "Because each school had its own diagnosis, each had its own exercises. Here are some that we met:\n\n- **Cynic askesis.** Diogenes reportedly rolled in hot sand in summer and hugged snow-covered statues in winter to toughen himself, and is said to have thrown away his cup after seeing a child drink from cupped hands. These stories come from Diogenes Laertius and may be partly legend, but they show the ideal: train the body and mind to need almost nothing.\n- **Epicurean memorization.** Epicurus urged students to memorize short summaries of his teaching. Later Epicureans summarized the core as a 'fourfold remedy' (*tetrapharmakos*): do not fear god, do not worry about death, what is good is easy to get, what is terrible is easy to endure.\n- **Stoic exercises.** Seneca recommended reviewing each day before sleep. The *premeditatio malorum* imagined losses in advance so that they would lose their sting. Marcus Aurelius' *Meditations* is itself a private notebook of exercises, written to himself, in which he took the 'view from above' and reminded himself of the shortness of life.\n- **Skeptical counter-argument.** The Skeptic practiced the ten modes of Aenesidemus and the five modes of Agrippa until, faced with any claim, an opposing argument came naturally.\n- **Neoplatonic purification.** Plotinus asked students to cultivate virtue, contemplate beauty and practice dialectic, carving their own statue until it shone.\n\nAll of these descend in some way from Socrates. His elenchus (Day 9) was already a kind of exercise; it humbled the ego and forced self-examination. His famous claim in the *Apology* (Day 10) that the unexamined life is not worth living became, in effect, the mission statement for all of these schools. The Cynics admired his poverty and toughness, the Stoics his calm before death, the Skeptics his confession of ignorance, and the Neoplatonists his pursuit of the Forms. Diogenes was called, according to an ancient anecdote, 'Socrates gone mad'."
+    },
+    {
+      "heading": "How They Argued with Each Other",
+      "body": "These schools were not polite neighbors. They argued fiercely, and the arguments still help us think.\n\n**Stoics against Epicureans.** The Stoics thought making pleasure the goal was degrading: it put human beings on the level of animals and made friendship a calculation. Epicureans answered that the Stoics' ideal sage, who would be happy even on the rack, was a fantasy, and that their providential cosmos was just a religion dressed in philosophy.\n\n**Skeptics against everyone.** Arcesilaus and Carneades in Plato's Academy spent much of their energy attacking the Stoic theory of knowledge, which claimed that some impressions are so clear that they cannot be false. If you cannot be certain, the Skeptics asked, how can the Stoic sage claim to know what virtue requires? The Stoics replied with the *apraxia* objection: a person who believes nothing cannot act at all. Skeptics responded that they could live by appearances, custom and habit without endorsing any theory.\n\n**Cynics and Stoics.** These two were close relatives. Zeno of Citium studied with the Cynic Crates. But Stoics softened Cynicism: they accepted marriage, politics and ordinary duties as 'preferred indifferents', while Cynics rejected them outright. Epictetus admired the Cynic as a kind of spiritual scout but warned that very few were fit for that life.\n\n**Plotinus and the materialists.** Both Epicureans and Stoics were, in different ways, materialists; even the Stoic God was a fiery, rational body. Plotinus, returning to Plato, argued that soul and Intellect cannot be bodies at all, since bodies are divisible while thought is unified. This opened the way for the medieval world's sharply spiritual picture of God and the soul, which you will meet starting tomorrow with Augustine."
+    },
+    {
+      "heading": "Taking Stock: Which Recipe Survives?",
+      "body": "Each school has a strength and a weakness worth remembering.\n\nThe **Cynics** remind us how much of our suffering comes from conventions we never chose, and they invented the idea of world citizenship. But their contempt for society can slide into mere rudeness, and a life of begging depends on the very society it mocks.\n\nThe **Epicureans** offer a gentle, realistic picture: simple pleasures, close friends, no fear of death. Critics say withdrawal from politics leaves injustice untouched, and the famous argument that death is nothing to us does not obviously answer the fear of losing a future we wanted.\n\nThe **Stoics** offer resilience that has inspired emperors, slaves and prisoners of war. Their weakness, critics say, is coldness. Is grief at a child's death really a false judgment? Aristotle (Day 20) would say the virtuous person feels the right emotions, not none.\n\nThe **Skeptics** offer humility and protection against fanaticism. But can anyone really live without beliefs, and is suspended judgment truly calming or simply paralysing?\n\n**Plotinus** offers the most ambitious vision: life as a homecoming to the source of all goodness. Yet it depends on a metaphysics many find unbelievable, and it can make ordinary bodily life look like exile.\n\nA final pattern: by Plotinus' time the schools were blending. Seneca quotes Epicurus approvingly; Plotinus absorbs Stoic and Aristotelian ideas. When Christianity rose to dominance in the fourth century, it took over much of this inheritance, including spiritual exercises, the image of the philosopher as physician of the soul and Neoplatonic metaphysics, while changing the goal from tranquility to union with a personal God. That is where our story goes next."
+    }
+  ],
+  "keyQuote": {
+    "text": "The unexamined life is not worth living.",
+    "source": "Socrates, in Plato's Apology 38a"
+  },
+  "modernConnection": {
+    "title": "The Return of the Philosophical Life Coach",
+    "body": "Walk into any bookstore today and you will find the Hellenistic schools hiding in the self-help section. Ryan Holiday's *The Obstacle Is the Way* and *The Daily Stoic* have sold millions of copies. Each autumn, a group of academics and therapists runs an online 'Stoic Week' that asks participants to practice Stoic exercises and measures their wellbeing. Silicon Valley entrepreneurs boast of fasting and cold plunges in a way Diogenes might recognize. Mindfulness apps teach users to observe thoughts without immediately believing them, which sounds a little like Skeptical suspension of judgment, and 'minimalism' influencers echo Epicurus' advice that what is good is easy to get. Cognitive behavioral therapy, as you saw on Day 26, openly credits Epictetus.\n\nThis is a genuine revival of Hadot's idea that philosophy can be practiced, not just studied. People are again using short, memorable sayings and daily routines to reshape how they feel.\n\nBut the revival also distorts. Ancient Stoicism was not a productivity hack or a way to suppress emotion so you can grind harder at work; the Stoics thought virtue, including justice toward others, was the only good, and that wealth and status were indifferent. Online 'broicism' sometimes keeps the toughness and drops the justice. Modern minimalism often becomes another way to buy things, just more expensive and beige. And the ancient schools came as whole packages: Epicurean calm was tied to atomist physics, Stoic acceptance to a belief in a rational, providential cosmos, and Plotinus' ascent to a full metaphysics. Today we tend to take the techniques without the worldview. That might be wise, since we need not accept ancient physics. But it raises a real question the ancients would ask us: if you borrow a practice without its reasons, what exactly are you training yourself to become?"
+  },
+  "vocabulary": [
+    {
+      "term": "Way of life",
+      "definition": "Pierre Hadot's term for the ancient view that philosophy is a practice that transforms how one lives, not merely a body of theories.",
+      "example": "For a Stoic, philosophy as a way of life meant daily exercises like reviewing one's conduct each evening."
+    },
+    {
+      "term": "Eudaimonia",
+      "definition": "Flourishing or happiness: the ultimate goal of life that every ancient school claimed to provide, though they defined it differently.",
+      "example": "Epicureans and Stoics agreed that eudaimonia was the goal but disagreed on whether pleasure or virtue was its core."
+    },
+    {
+      "term": "Cosmopolitanism",
+      "definition": "The idea, traced to Diogenes and developed by the Stoics, that one is a citizen of the world rather than only of a particular city or nation.",
+      "example": "When Diogenes called himself a citizen of the world, he expressed an early form of cosmopolitanism."
+    },
+    {
+      "term": "Ataraxia",
+      "definition": "Tranquility or freedom from mental disturbance; the goal of the Epicureans and the result the Skeptics hoped would follow suspension of judgment.",
+      "example": "An Epicurean seeks ataraxia by removing the fear of death and limiting desires to what is natural."
+    },
+    {
+      "term": "Apatheia",
+      "definition": "For the Stoics, freedom from destructive passions such as rage and terror, which they saw as mistaken judgments; not the same as indifference or numbness.",
+      "example": "The Stoic sage's apatheia means she is not swept away by panic, though she still cares about acting justly."
+    },
+    {
+      "term": "Indifferents",
+      "definition": "In Stoicism, things such as health, wealth and reputation that are neither good nor bad in themselves, though some are 'preferred' and others 'dispreferred'.",
+      "example": "A Stoic may pursue health as a preferred indifferent but will not think losing it destroys a good life."
+    },
+    {
+      "term": "Epoche",
+      "definition": "Suspension of judgment: the Skeptic's refusal to assert that things really are one way or another when arguments on both sides seem equally strong.",
+      "example": "Faced with conflicting reports about a distant event, a Pyrrhonist practices epoche rather than picking a side."
+    },
+    {
+      "term": "Emanation",
+      "definition": "Plotinus' idea that all reality flows necessarily from the One, like light from the sun, through Intellect and Soul to the physical world.",
+      "example": "Emanation explains why, for Plotinus, the good life is a return journey to the source."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Choose Your School (and Defend It)",
+    "prompt": "Imagine you must enroll in one of the five Hellenistic schools for a year: Cynic, Epicurean, Stoic, Skeptic or Neoplatonist. Your task is to make a reasoned choice and anticipate the strongest objection to it.",
+    "steps": [
+      "For each school, write one sentence describing its goal and one sentence describing the obstacle it thinks stands between you and that goal.",
+      "Rank the five schools by how well their diagnosis fits your own experience of what makes you unhappy. Explain your top choice in a short paragraph.",
+      "Write the strongest objection a rival school would raise against your choice (for example, a Stoic attacking your Epicureanism). Use the arguments from today's lesson.",
+      "Reply to that objection. If you cannot reply convincingly, say what you would change in your chosen school's recipe.",
+      "Design one daily exercise for your year in the school, modeled on the practices you studied, and describe how you would know whether it was working."
+    ]
+  },
+  "summary": [
+    "Pierre Hadot argued that ancient philosophy was a way of life, with spiritual exercises designed to transform perception and feeling, not just a set of doctrines.",
+    "After Alexander's death in 323 BCE, the Hellenistic schools offered rival recipes for eudaimonia, often aiming at a happiness that luck could not destroy.",
+    "Cynics blamed convention, Epicureans blamed fear and empty desire, Stoics blamed false judgments, Skeptics blamed dogmatism and Plotinus blamed the soul's forgetfulness of its source.",
+    "Their practices, from Cynic hardship training to Stoic evening reviews and Plotinus' self-sculpting, all trace back in some way to Socrates' examined life.",
+    "The schools argued sharply with one another, and their methods and metaphysics were absorbed into Christianity, which is where the next unit begins."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What did Pierre Hadot mean by calling ancient philosophy 'a way of life'?",
+      "options": [
+        "That ancient philosophers lived in monasteries",
+        "That philosophy was a practice of exercises meant to transform how one lives and feels",
+        "That philosophy was mainly a career for paid teachers",
+        "That ancient philosophers rejected all theory"
+      ],
+      "answer": 1,
+      "explanation": "Hadot argued that theory served practice: schools trained students through spiritual exercises. They did not reject theory, and the monastic model came later."
+    },
+    {
+      "type": "mc",
+      "question": "Which school most directly identified social convention (nomos) as the main source of human unhappiness?",
+      "options": [
+        "The Epicureans",
+        "The Neoplatonists",
+        "The Skeptics",
+        "The Cynics"
+      ],
+      "answer": 3,
+      "explanation": "Diogenes and the Cynics attacked convention and urged living by nature, carrying the nomos versus physis debate to an extreme."
+    },
+    {
+      "type": "mc",
+      "question": "For Epicurus, which of the following is a natural and necessary desire?",
+      "options": [
+        "A desire for simple food and shelter",
+        "A desire for fame",
+        "A desire for a luxurious banquet",
+        "A desire for political power"
+      ],
+      "answer": 0,
+      "explanation": "Basic food and shelter are natural and necessary. Luxury is natural but unnecessary; fame and power are empty desires that can never be satisfied."
+    },
+    {
+      "type": "mc",
+      "question": "A friend is crushed because she was not promoted. Which advice is most distinctly Stoic?",
+      "options": [
+        "Promotions are pleasures, so seek more pleasant things instead",
+        "No one can know whether promotions are good or bad, so suspend judgment",
+        "The promotion was not up to you; your effort and character are, and those are what matter",
+        "Reject the whole idea of a career and live in a jar"
+      ],
+      "answer": 2,
+      "explanation": "The dichotomy of control and the view of status as an indifferent are Stoic. The other answers sound Epicurean, Skeptic and Cynic respectively."
+    },
+    {
+      "type": "mc",
+      "question": "According to Sextus Empiricus, how does tranquility arise for the Skeptic?",
+      "options": [
+        "By proving that the Stoics are wrong",
+        "It follows suspension of judgment, like a shadow follows a body",
+        "By achieving union with the One",
+        "Through memorizing the fourfold remedy"
+      ],
+      "answer": 1,
+      "explanation": "Sextus describes tranquility as an unplanned result of epoche. Proving rivals wrong would itself be dogmatic; the other options belong to Plotinus and the Epicureans."
+    },
+    {
+      "type": "mc",
+      "question": "What was the Stoics' 'apraxia' (inaction) objection against the Skeptics?",
+      "options": [
+        "Skeptics are too lazy to exercise",
+        "Skeptics refuse to take part in politics",
+        "Skeptics ignore the gods",
+        "Someone who believes nothing could not act at all"
+      ],
+      "answer": 3,
+      "explanation": "Action seems to require beliefs about what is good to do. Skeptics replied that they could act by following appearances, habit and custom."
+    },
+    {
+      "type": "mc",
+      "question": "How did Plotinus' picture of the soul differ from both Stoic and Epicurean views?",
+      "options": [
+        "He held that the soul is not a body at all, while both of those schools were materialists",
+        "He held that the soul is made of atoms that dissolve at death",
+        "He held that the soul is a fiery breath spread through the body",
+        "He denied that human beings have souls"
+      ],
+      "answer": 0,
+      "explanation": "Plotinus returned to Plato's immaterial soul. Atoms dissolving at death is Epicurean, and fiery breath (pneuma) is Stoic."
+    },
+    {
+      "type": "mc",
+      "question": "Which pairing of school and goal is correct?",
+      "options": [
+        "Cynics: union with the One",
+        "Epicureans: virtue as the only good",
+        "Stoics: living in agreement with nature, with virtue as the only good",
+        "Neoplatonists: pleasure as the absence of pain"
+      ],
+      "answer": 2,
+      "explanation": "The Stoics made virtue the only good and taught living according to nature. The other pairings mix up the schools."
+    },
+    {
+      "type": "mc",
+      "question": "What connected Zeno of Citium, founder of Stoicism, to the Cynics?",
+      "options": [
+        "He was Diogenes' son",
+        "He studied with the Cynic Crates",
+        "He wrote the Enneads",
+        "He founded the Garden"
+      ],
+      "answer": 1,
+      "explanation": "Zeno studied with Crates, a follower of Diogenes, which explains the Cynic flavor of early Stoicism."
+    },
+    {
+      "type": "mc",
+      "question": "A person wants to reduce anxiety and decides to stop treating every news headline as certain, considering opposing reports equally. Which ancient term fits this best?",
+      "options": [
+        "Apatheia",
+        "Emanation",
+        "Askesis",
+        "Epoche"
+      ],
+      "answer": 3,
+      "explanation": "Withholding judgment when evidence is balanced is the Skeptic's epoche. Apatheia is Stoic, askesis is training, and emanation is Plotinus' metaphysics."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best describes how the Hellenistic schools tended to differ from Aristotle on happiness?",
+      "options": [
+        "They thought happiness was impossible",
+        "They sought a happiness less vulnerable to luck, often described as freedom from disturbance",
+        "They agreed completely that external goods like wealth and friends are necessary",
+        "They thought happiness was purely a matter of physical pleasure"
+      ],
+      "answer": 1,
+      "explanation": "Aristotle allowed that external goods and fortune matter; the Hellenistic schools wanted a more invulnerable happiness, often defined negatively."
+    },
+    {
+      "type": "tf",
+      "question": "The Epicurean 'fourfold remedy' includes the teaching that what is terrible is easy to endure.",
+      "answer": true,
+      "explanation": "The tetrapharmakos: do not fear god, do not worry about death, the good is easy to get, the terrible is easy to endure."
+    },
+    {
+      "type": "tf",
+      "question": "For the Stoics, apatheia meant feeling nothing at all and caring about nothing.",
+      "answer": false,
+      "explanation": "Apatheia means freedom from destructive passions based on false judgments. The Stoic sage still cares deeply about virtue and justice and has 'good feelings' such as joy."
+    },
+    {
+      "type": "tf",
+      "question": "Diogenes' claim to be a 'citizen of the world' is an origin of the idea of cosmopolitanism.",
+      "answer": true,
+      "explanation": "Kosmopolites, citizen of the cosmos, is the root of our word cosmopolitanism, an idea the Stoics developed further."
+    },
+    {
+      "type": "tf",
+      "question": "Plotinus thought the soul's main problem was that it believed too firmly in the gods.",
+      "answer": false,
+      "explanation": "For Plotinus, the soul's problem is forgetfulness: it has turned outward toward the body and forgotten its source in Intellect and the One."
+    }
+  ],
+  "goDeeper": {
+    "body": "Hadot's thesis has been enormously influential, and also criticized. His best-known work, *Philosophy as a Way of Life* (English edition 1995), influenced Michel Foucault's late lectures on the 'care of the self'. Hadot later worried that Foucault had turned ancient ethics into an aesthetic project of self-styling, whereas for Hadot the ancients sought to transcend the individual self by identifying with universal reason or nature.\n\nOther scholars think Hadot underplayed theory. John Cooper, in *Pursuits of Wisdom* (2012), agrees that ancient philosophy was a way of life but insists that for most schools the life was guided by reasoned argument; the exercises only worked because the students had been convinced by arguments. On this view, a modern reader who adopts Stoic routines without believing Stoic arguments is not really practicing Stoicism.\n\nAnother debate concerns the 'retreat from the polis' story. It used to be said that philosophers turned inward because the city-state collapsed after Alexander. Historians now point out that Greek cities kept considerable civic life for centuries, and that Stoics like Chrysippus wrote about politics while later Stoics like Seneca and Marcus Aurelius were deeply involved in government. The inward turn may have more to do with the internal logic of Socratic ethics than with political despair.\n\nFinally, consider the medical analogy itself. If philosophy is therapy, who decides what counts as health? Each school defined health so that its own cure would produce it. That circularity, some critics say, is exactly what the Skeptics exposed.",
+    "readings": [
+      {
+        "title": "Philosophy as a Way of Life",
+        "author": "Pierre Hadot",
+        "note": "Read the essays on 'Spiritual Exercises' and 'The View from Above' for the core of his thesis."
+      },
+      {
+        "title": "The Therapy of Desire: Theory and Practice in Hellenistic Ethics",
+        "author": "Martha C. Nussbaum",
+        "note": "A rich, readable study of the medical model in Epicureanism, Skepticism and Stoicism."
+      },
+      {
+        "title": "Pursuits of Wisdom: Six Ways of Life in Ancient Philosophy from Socrates to Plotinus",
+        "author": "John M. Cooper",
+        "note": "Covers exactly this unit's schools and argues that reasoning, not just exercise, was central."
+      },
+      {
+        "title": "Lives of the Eminent Philosophers (Book VI on the Cynics, Book X on Epicurus)",
+        "author": "Diogenes Laertius",
+        "note": "The colorful ancient source for many anecdotes; read with an eye for which stories may be legends."
+      }
+    ],
+    "questions": [
+      "Can you adopt a school's practices without its metaphysics, or does the practice lose its point?",
+      "Is a happiness invulnerable to luck really a human happiness, or did Aristotle see something the Hellenistic schools missed?",
+      "Which of these schools would be most dangerous to a modern consumer economy, and why?"
+    ]
+  }
+}

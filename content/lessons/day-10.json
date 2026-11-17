@@ -1,0 +1,245 @@
+{
+  "id": "day-10",
+  "day": 10,
+  "title": "The Trial and Death of Socrates",
+  "subtitle": "A seventy-year-old man, a jury of five hundred, and a cup of hemlock",
+  "philosophers": ["Socrates", "Plato"],
+  "era": "399 BCE",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain the charges against Socrates and the political background to his trial in 399 BCE.",
+    "By the end you will be able to summarize Socrates' defense in Plato's *Apology*, including the gadfly image and the claim that the unexamined life is not worth living.",
+    "By the end you will be able to reconstruct the argument of the Laws in the *Crito* and explain why Socrates refused to escape.",
+    "By the end you will be able to discuss whether the *Apology* and the *Crito* contradict each other, and what that means for civil disobedience today."
+  ],
+  "hook": "In the spring of 399 BCE, a short, snub-nosed, barefoot old man walked into a law court in the middle of Athens. He was about seventy. He had never written a book or taken a fee for teaching. Yet by the end of the day, a jury of around five hundred of his fellow citizens had voted to put him to death.\n\nA month or so later, surrounded by weeping friends in a prison cell, he calmly drank a cup of poison. He could almost certainly have escaped. A friend had bribed the guards and arranged a safe house abroad. He said no. Why would a man choose death over exile, and silence over a quiet retirement? And was he right? Today we follow Socrates, whom we met on Day 9 questioning everyone in the marketplace, through the most famous trial in the history of philosophy.",
+  "sections": [
+    {
+      "heading": "Athens in 399 BCE: A City Looking for Someone to Blame",
+      "body": "To understand the trial, you have to understand the mood of the city. Athens had just lost the long, brutal **Peloponnesian War** (431–404 BCE) against Sparta. Plague had killed perhaps a quarter of the population in the early years of the war. In 404, after the final defeat, a Spartan-backed oligarchy known as the **Thirty Tyrants** seized power and murdered perhaps 1,500 citizens in a reign of terror lasting about eight months. Democracy was restored in 403.\n\nHere is the awkward part. Several men close to Socrates had become symbols of everything Athens now hated. **Critias**, the most ruthless of the Thirty, had once been part of Socrates' circle, as had Charmides, another of the Thirty. **Alcibiades**, the brilliant, reckless aristocrat who had defected to Sparta during the war, had been Socrates' most famous admirer. To many ordinary Athenians, Socrates looked like the teacher of traitors and tyrants.\n\nBut the restored democracy had passed an amnesty: no one could be prosecuted for political crimes committed before 403. Many historians therefore suspect that the religious charges brought against Socrates were partly a way of getting at him for his associations without breaking the amnesty. We cannot be sure. Our main sources, Plato and Xenophon, were both admirers writing after his death, and they had every reason to present him as innocent.\n\nThere was also a long-standing public image to overcome. In 423 BCE the comic playwright **Aristophanes** had staged *The Clouds*, in which a character called Socrates runs a ‘thinkery’, dangles in a basket studying the sky, and teaches young men to win unjust arguments. In Plato's account, Socrates names this play in court as the source of old prejudices against him. Remember the Sophists from Day 8? Many Athenians lumped Socrates in with those paid teachers of clever speech."
+    },
+    {
+      "heading": "The Charges and the Defense: Plato's Apology",
+      "body": "The prosecution was brought by three men: **Meletus**, a young poet who formally filed the charge; **Anytus**, a wealthy and respected democratic politician; and **Lycon**, an orator. According to the version of the indictment preserved by later writers, Socrates was accused of **impiety**: of not recognizing the gods the city recognized, of introducing new divine beings, and of corrupting the young.\n\nAthenian trials were nothing like ours. There was no judge, no professional lawyers and no appeal. A large panel of citizens, chosen by lot, heard a prosecution speech and a defense speech in a single day and then voted by secret ballot. Plato, who was in the courtroom, later wrote his version of Socrates' speech, the *Apology*. The title is misleading in English: the Greek *apologia* means a defense, not an expression of regret. Socrates apologizes for nothing.\n\nIn the *Apology*, Socrates does three surprising things. First, he refuses the usual tricks. Defendants commonly brought their weeping children into court to win pity. Socrates mentions that he has three sons, one still a small boy, and then pointedly declines to parade them, saying such scenes disgrace the city.\n\nSecond, he explains his strange life by telling the story you met on Day 9: his friend Chaerephon asked the oracle at Delphi whether anyone was wiser than Socrates, and the oracle said no. Puzzled, Socrates set out to find someone wiser, questioning politicians, poets and craftsmen. He found that they all thought they knew important things that they did not know, while he at least knew that he did not know. His questioning, he says, is a service to the god, not an attack on religion.\n\nThird, he cross-examines Meletus in front of the jury, using the very method he is on trial for. He gets Meletus to claim that Socrates believes in no gods at all, then points out that the indictment itself accuses him of introducing new divine beings. How can someone believe in divine things but not in gods?\n\nAlong the way, Socrates offers one of the most memorable images in philosophy. He compares himself to a **gadfly**, a stinging insect, attached by the god to the city of Athens, which is like a large, noble but sluggish horse that needs to be stirred into life. Kill me, he warns, and you will not easily find another like me. You may sleep on for the rest of your lives."
+    },
+    {
+      "heading": "Guilty, and a Shocking Counter-Proposal",
+      "body": "The jury voted. Socrates was found guilty, but narrowly. In Plato's account Socrates remarks that if only thirty votes had gone the other way, he would have been acquitted. Later tradition, building on this, gives the count as roughly 280 to 220, though the exact figures are not certain.\n\nIn Athenian law, for a case like this, the prosecution proposed a penalty and the convicted man proposed an alternative. The jury then chose between them. Meletus proposed death. Everyone expected Socrates to propose exile, which would almost certainly have been accepted. Instead, he said that what he truly deserved, as a poor benefactor of the city, was free meals for life in the **Prytaneum**, an honor normally given to Olympic victors and public heroes.\n\nOnly then did he offer a fine: first a small sum, then, at the urging of Plato and other friends who promised to guarantee it, thirty **minae**, a substantial amount of money. But the damage was done. More jurors voted for death in the second vote than had voted for conviction in the first.\n\nWhy did he not simply propose exile? Socrates gives his reason, and it contains the most famous line of the speech. Someone might say: could you not just leave Athens and live quietly, keeping your mouth shut? He answers that this is the hardest thing to make people believe. To stop philosophizing would be to disobey the god. And besides, discussing virtue every day and examining himself and others is the greatest good for a human being, for, as Plato has him say, **the unexamined life is not worth living** for a human being.\n\nEarlier in the speech, he had made the same point even more defiantly. Suppose, he says, you offered to let me go on the condition that I stop philosophizing. I would reply that I respect and love you, Athenians, but I will obey the god rather than you, and as long as I draw breath I will not stop. This line will matter a great deal when we turn to the *Crito*.\n\nHe ends with a calm reflection on death. Either death is like a dreamless sleep, which would be no evil, or it is a journey to another place where he can question the great heroes of the past, which would be wonderful. Either way, he says, no evil can come to a good man. Then the closing words: it is now time to go, I to die and you to live, and which of us goes to the better thing is unclear to everyone except the god."
+    },
+    {
+      "heading": "The Crito: Why Not Run?",
+      "body": "Normally an execution in Athens followed quickly. But Socrates' trial happened to coincide with the annual sacred voyage of a ship to the island of Delos, in honor of Apollo. Until the ship returned, the city had to remain ritually pure, and no executions could take place. So Socrates waited in prison for about a month.\n\nPlato's short dialogue *Crito* is set at dawn near the end of that wait. Socrates' old friend **Crito**, a wealthy man of his own age, has slipped into the cell. The ship has been sighted; Socrates will die the next day or soon after. Crito has everything arranged: money, bribed guards, friends in Thessaly who will shelter him. He pleads. People will think his friends were too cheap or cowardly to save him. His sons will be orphans. By staying, Crito says, Socrates is doing exactly what his enemies want.\n\nSocrates responds as he always does: let us examine the question. We should not care what the many think, but only what the person who understands justice would think. And the key principle, which Crito agrees to, is that **one must never do wrong, even in return for wrong**. It does not matter that the verdict was unjust. The question is whether escaping would itself be an unjust act.\n\nThen Socrates does something unusual. He imagines **the Laws of Athens** appearing before him and speaking. Their speech makes several arguments:\n\n- The Laws are like parents. Under them, his parents married, and he was born, raised and educated. He owes them more than he owes his own father and mother.\n- By staying in Athens for seventy years when he was free to leave at any time with all his property, he made an **implicit agreement** to obey the city's laws. He even chose death over exile at his trial.\n- If every citizen ignored verdicts he disliked, the laws would be destroyed. What city can survive if its court judgments have no force?\n- Citizens are offered a choice: **persuade or obey**. If you think a law is unjust, you may try to change the city's mind through argument. If you fail, you must accept the result.\n\nThe Laws add a practical point: where would he go? Well-governed cities would see him as a lawbreaker, and how could a fugitive go on talking about justice?\n\nCrito has no answer. The dialogue ends with Socrates saying, in effect: let us act in this way, since this is the way the god leads."
+    },
+    {
+      "heading": "The Death Scene in the Phaedo",
+      "body": "Plato's *Phaedo* describes Socrates' last day. It is narrated by **Phaedo of Elis**, a young follower, to a group of Pythagoreans. Strikingly, Plato tells us he was not there himself; Phaedo says Plato was ill. So even this famous scene is reported at second hand, and much of the dialogue is a long philosophical discussion about whether the soul is immortal, which we will examine closely on Day 15.\n\nThe frame of the dialogue is unforgettable. Socrates' wife **Xanthippe** is there at first with their youngest child, crying out that this is the last time he will talk with his friends; Socrates asks that she be taken home. He spends the day arguing calmly with his friends Simmias and Cebes. He tells them that true philosophers spend their lives practicing for death, by training the soul to turn away from bodily distractions.\n\nAt sunset, the prison officer, who has grown fond of him, comes in weeping to say goodbye. A man brings the poison, a drink made from **hemlock**. Socrates asks how to take it. Walk around until your legs feel heavy, the man says, then lie down. Socrates drinks it calmly, and when his friends break down, he scolds them gently: he had sent the women away precisely to avoid such a scene.\n\nAs the numbness rises from his feet, he uncovers his face and speaks his last words, among the most debated in philosophy: Crito, we owe a cock to Asclepius; pay it and do not neglect it. **Asclepius** was the god of healing, to whom people sacrificed a rooster after recovering from illness. Was Socrates suggesting that death is a cure for the illness of life? Was it simply a pious reminder of a real debt? Scholars, including Nietzsche much later, have argued about it ever since.\n\nThe dialogue ends with Phaedo's tribute: this was the end of our friend, a man who was, we would say, of all those we knew the best, the wisest and the most just. One caution: medical historians have noted that Plato's peaceful, ascending numbness is gentler than the usual symptoms of hemlock poisoning. Plato may have idealized the scene. Either way, the image of the calm philosopher has shaped how people think about dying well for twenty-four centuries."
+    },
+    {
+      "heading": "A Contradiction? Conscience Versus Law",
+      "body": "Read the *Apology* and the *Crito* side by side and a puzzle jumps out. In the *Apology*, Socrates says he would disobey a court order to stop philosophizing: I will obey the god rather than you. In the *Crito*, the Laws insist that a citizen must obey the city's judgments. Is Socrates a rebel or a law-abider?\n\nScholars have offered several ways to reconcile the two.\n\n1. **Persuade or obey leaves room for conscience.** Socrates would refuse to *do* something unjust if ordered, but he would accept a *punishment* for refusing. Disobeying an unjust command is different from running away from the penalty.\n2. **He actually did this.** In the *Apology*, Socrates recalls two occasions. In 406 BCE he alone opposed an illegal proposal to try a group of generals together rather than individually. And under the Thirty Tyrants he was ordered, with four others, to arrest an innocent man, Leon of Salamis, for execution; the others went, but Socrates simply went home. He says he might have died for it had the regime not fallen. In both cases he refused to do wrong but did not try to escape the consequences.\n3. **The Laws are not Socrates.** Some scholars argue that the speech of the Laws is a persuasive device aimed at Crito, and that Plato does not fully endorse every argument in it, particularly the strong claim that citizens owe the city almost total obedience.\n\nThe resulting position is close to what later thinkers would call **civil disobedience**: open, principled refusal to obey an unjust law, combined with acceptance of the legal penalty. Socrates did not invent the term. Henry David Thoreau popularized it in 1849, and Mohandas Gandhi and Martin Luther King Jr. developed it into a strategy. But King, in his 1963 *Letter from Birmingham Jail*, explicitly appealed to Socrates as an example.\n\nThe arguments of the Laws also have weak spots. Is staying in your homeland really a free agreement, when leaving means abandoning family, language and livelihood? This **tacit consent** idea will return on Day 52 with John Locke, and critics like David Hume will press exactly this objection. And should we obey every verdict, even a deeply unjust one, just because the system as a whole is valuable? Most of us think some laws are so wicked that resistance, even escape, is justified. Socrates' choice may tell us more about his own character, and about what kind of example he wished to leave, than about a universal rule."
+    }
+  ],
+  "keyQuote": {
+    "text": "The unexamined life is not worth living for a human being.",
+    "source": "Socrates, in Plato's Apology 38a"
+  },
+  "modernConnection": {
+    "title": "Whistleblowers, Protesters and the Question of Running",
+    "body": "Socrates' dilemma is not ancient history. Every few years, someone breaks the law for what they believe is a higher reason and then faces his choice: stay and accept the penalty, or flee.\n\nIn 1971, Daniel Ellsberg leaked the Pentagon Papers, a secret history showing that successive US governments had misled the public about the Vietnam War. He then turned himself in and stood trial, facing a possible sentence of over a hundred years. (The charges were eventually dismissed because of government misconduct.) In 2013, Edward Snowden revealed mass surveillance programs at the National Security Agency and left the United States, eventually ending up in Russia. Critics said that a true civil disobedient, like Socrates or Ellsberg, accepts the punishment. Interestingly, Ellsberg himself defended Snowden's decision, arguing that the legal climate had changed and that Snowden would not get a fair trial or be free to speak while awaiting it.\n\nThat disagreement is precisely the Socratic question. Accepting punishment shows sincerity and respect for the rule of law; it says, I am not above the law, I am appealing to its conscience. Martin Luther King Jr. made this point in Birmingham: whoever breaks an unjust law must do so openly, lovingly, and with a willingness to accept the penalty. Climate activists who glue themselves to roads and then plead their case in court are following the same script.\n\nBut the comparison has limits. Socrates thought the Athenian system, for all its flaws, gave him a real chance to persuade, and he had already lived a full life. A young whistleblower facing decades in a harsh prison, or a dissident in an authoritarian state with rigged courts, is in a different position. The Laws' argument assumes a basically legitimate system that genuinely offers the choice to persuade or obey. When that assumption fails, the case for running away grows much stronger. The *Crito* gives us a powerful model of integrity, but it does not automatically settle what a person should do under a regime that is closer to the Thirty Tyrants than to the restored Athenian democracy."
+  },
+  "vocabulary": [
+    {
+      "term": "Apology (apologia)",
+      "definition": "A formal speech of defense in a trial; the title of Plato's account of Socrates' defense speech. It does not mean saying sorry.",
+      "example": "In his *Apology*, Socrates defends his way of life and apologizes for nothing."
+    },
+    {
+      "term": "Impiety",
+      "definition": "Failure to show proper respect to the gods; in Athens, a crime that could be prosecuted in court.",
+      "example": "Socrates was charged with impiety for allegedly not recognizing the city's gods and introducing new divine beings."
+    },
+    {
+      "term": "Gadfly",
+      "definition": "A biting insect; Socrates' image for himself as someone who stings a sluggish city into wakefulness by constant questioning.",
+      "example": "A journalist who keeps asking politicians uncomfortable questions is playing the role of a Socratic gadfly."
+    },
+    {
+      "term": "Civil disobedience",
+      "definition": "Open, principled, nonviolent breaking of a law one believes to be unjust, combined with willingness to accept the legal penalty.",
+      "example": "Rosa Parks' refusal to give up her bus seat in 1955 is a classic act of civil disobedience."
+    },
+    {
+      "term": "Tacit consent",
+      "definition": "Agreement given not by explicit words but implied by one's behavior, such as choosing to remain in a country and enjoy its protection.",
+      "example": "The Laws in the *Crito* argue that by living in Athens for seventy years, Socrates gave tacit consent to obey its laws."
+    },
+    {
+      "term": "Persuade or obey",
+      "definition": "The principle, stated by the Laws in the *Crito*, that a citizen who disagrees with a law should try to change it through argument, and if unsuccessful, should comply.",
+      "example": "Under the persuade-or-obey principle, you may campaign against a tax, but you may not simply refuse to pay it."
+    },
+    {
+      "term": "Amnesty of 403 BCE",
+      "definition": "The agreement after democracy was restored in Athens that no one would be prosecuted for political offenses committed before that year.",
+      "example": "Because of the amnesty of 403 BCE, Socrates' accusers could not charge him directly with his links to the Thirty Tyrants."
+    },
+    {
+      "term": "Hemlock",
+      "definition": "A poisonous plant; the drink made from it was the standard method of execution for citizens in Athens at this time.",
+      "example": "Socrates drank the hemlock at sunset, calmly, as his friends wept around him."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Would You Have Escaped?",
+    "prompt": "Put yourself in Socrates' cell. Crito has the guards bribed and a boat waiting. Your task is to decide, and justify your decision, while taking the strongest arguments on both sides seriously.",
+    "steps": [
+      "List Crito's reasons for escaping (your children, your friends' reputation, the injustice of the verdict). Add one reason of your own.",
+      "List the Laws' reasons for staying (gratitude, implied agreement, the danger of everyone ignoring verdicts, persuade or obey). Rate each from 1 (weak) to 5 (strong).",
+      "Now change one fact: imagine the trial had been rigged by a tyrant rather than conducted by a democratic jury. Which of the Laws' arguments survive this change, and which collapse?",
+      "Think of a real or imagined law you believe is unjust. Write a short paragraph explaining whether you would break it, and if so, whether you would accept the penalty.",
+      "Finally, write two sentences: one explaining what Socrates' choice achieved that escape could not, and one naming what it cost."
+    ]
+  },
+  "summary": [
+    "In 399 BCE, in a city traumatized by war and tyranny, Socrates was tried for impiety and corrupting the young, possibly in part because of his links to Critias and Alcibiades.",
+    "In Plato's *Apology*, Socrates defends his questioning as a divine mission, calls himself the city's gadfly, and declares that the unexamined life is not worth living.",
+    "Convicted narrowly, he provocatively proposed free meals as his 'penalty' and was sentenced to death.",
+    "In the *Crito*, the personified Laws argue that escaping would be an unjust act, because citizens owe the city gratitude and have tacitly agreed to persuade or obey.",
+    "The *Phaedo* portrays a calm death, ending with the enigmatic request to sacrifice a cock to Asclepius.",
+    "The apparent tension between the *Apology* and the *Crito* anticipates modern debates about civil disobedience, conscience and accepting punishment."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Which of the following was NOT among the formal charges against Socrates?",
+      "options": [
+        "Not recognizing the gods of the city",
+        "Introducing new divine beings",
+        "Corrupting the young",
+        "Plotting with Sparta to overthrow the democracy"
+      ],
+      "answer": 3,
+      "explanation": "The indictment concerned impiety and corrupting the young. Political charges were blocked by the amnesty of 403 BCE, though his links to Critias and Alcibiades may have influenced the jury."
+    },
+    {
+      "type": "mc",
+      "question": "Why does Socrates compare himself to a gadfly in the *Apology*?",
+      "options": [
+        "Because he lives off the wealth of others",
+        "Because he stings a sluggish city into wakefulness through questioning",
+        "Because he is small and easily ignored",
+        "Because he moves from city to city teaching for money"
+      ],
+      "answer": 1,
+      "explanation": "Athens is like a noble but sluggish horse, and Socrates is the stinging insect sent by the god to keep it awake. He did not teach for money or travel from city to city like the Sophists."
+    },
+    {
+      "type": "tf",
+      "question": "The Greek title *Apology* means that Socrates expressed regret for his actions.",
+      "answer": false,
+      "explanation": "*Apologia* means a speech of defense. Socrates explicitly refuses to regret or abandon his way of life."
+    },
+    {
+      "type": "mc",
+      "question": "After being found guilty, what did Socrates first propose as his 'penalty'?",
+      "options": [
+        "Exile to Thessaly",
+        "A lifetime ban on teaching",
+        "Free meals for life in the Prytaneum",
+        "A public apology to the gods"
+      ],
+      "answer": 2,
+      "explanation": "He said he deserved the honor given to public benefactors and Olympic victors. Only afterward did he offer a fine, and he deliberately avoided proposing exile."
+    },
+    {
+      "type": "mc",
+      "question": "In the *Crito*, what principle do Socrates and Crito agree on before the Laws speak?",
+      "options": [
+        "One should always follow the opinion of the majority",
+        "One must never do wrong, even in return for wrong",
+        "Unjust verdicts do not need to be obeyed",
+        "Friends' reputations matter more than justice"
+      ],
+      "answer": 1,
+      "explanation": "The key premise is that one must never act unjustly, even when treated unjustly. The question then becomes whether escaping would itself be unjust."
+    },
+    {
+      "type": "mc",
+      "question": "Which argument do the Laws use that is an early version of the idea of tacit consent?",
+      "options": [
+        "By choosing to live in Athens for seventy years when free to leave, Socrates agreed to obey its laws",
+        "The gods command all citizens to obey the law",
+        "Socrates signed a written oath to the city",
+        "The majority voted that he must die, and the majority is always right"
+      ],
+      "answer": 0,
+      "explanation": "The Laws argue that remaining in a city whose laws you could have left implies agreement. Locke will develop this idea and Hume will criticize it."
+    },
+    {
+      "type": "tf",
+      "question": "According to the *Phaedo*, Plato himself was present at Socrates' death.",
+      "answer": false,
+      "explanation": "Phaedo says Plato was ill and absent. The famous death scene is reported at second hand."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern situation best illustrates the Socratic model of civil disobedience?",
+      "options": [
+        "A protester who secretly vandalizes a building at night and is never caught",
+        "A citizen who quietly avoids paying a tax she thinks is unfair",
+        "An activist who openly breaks a segregation law and then accepts jail to highlight its injustice",
+        "A politician who changes the law through a parliamentary vote"
+      ],
+      "answer": 2,
+      "explanation": "Civil disobedience in the Socratic and Kingian sense is open, principled law-breaking combined with acceptance of the penalty. Secret evasion lacks openness; legislative change is ordinary persuasion rather than disobedience."
+    },
+    {
+      "type": "tf",
+      "question": "In the *Apology*, Socrates says he would refuse to stop philosophizing even if the jury ordered him to stop as a condition of release.",
+      "answer": true,
+      "explanation": "He says he will obey the god rather than the Athenians. This creates the apparent tension with the *Crito*'s insistence on obeying the city."
+    },
+    {
+      "type": "mc",
+      "question": "What does Socrates' refusal to arrest Leon of Salamis show about his view of obedience?",
+      "options": [
+        "He believed all government orders must be obeyed",
+        "He would refuse to commit an injustice when ordered, even at personal risk",
+        "He supported the Thirty Tyrants in secret",
+        "He thought only Spartans should be arrested"
+      ],
+      "answer": 1,
+      "explanation": "Ordered by the Thirty to help arrest an innocent man, he simply went home. This suggests that persuade or obey did not, for him, mean doing whatever one is told."
+    }
+  ],
+  "goDeeper": {
+    "body": "Was the trial of Socrates a religious persecution, a political settling of scores, or a reasonable act of democratic self-defense? The journalist I. F. Stone, in *The Trial of Socrates* (1988), provocatively argued that Socrates was genuinely hostile to democracy and that, while the verdict was a terrible mistake by a city that should have practiced free speech, the prosecutors' fears were not imaginary. Classicists such as Gregory Vlastos and Thomas Brickhouse and Nicholas Smith pushed back, insisting that Socrates criticized the incompetence of mass decision-making but was no oligarch, pointing to his defiance of the Thirty.\n\nA second debate concerns the sources. We have two versions of Socrates' defense: Plato's *Apology* and a shorter one by Xenophon, who was not present. Xenophon's Socrates is more conventional and says he speaks boldly because, at his age, death is preferable to the miseries of old age. How much of Plato's speech is what Socrates actually said, and how much is Plato's tribute? Most scholars think the *Apology* is closer to the historical Socrates than later dialogues like the *Republic*, but no one can be certain.\n\nFinally, philosophers continue to argue about the *Crito*. Richard Kraut's *Socrates and the State* argues that the persuade-or-obey principle is less authoritarian than it looks: if a citizen tries to persuade the court and fails, he may still be justified in disobeying an unjust order, so long as he accepts the consequences. Others read the Laws as making the stronger, more troubling claim that the city's authority is nearly absolute. Your view on this question will shape how you read the political philosophy of Hobbes, Locke and Rousseau later in the course.",
+    "readings": [
+      {
+        "title": "The Last Days of Socrates (Euthyphro, Apology, Crito, Phaedo)",
+        "author": "Plato (trans. Hugh Tredennick and Harold Tarrant, Penguin)",
+        "note": "Read the *Apology* in one sitting (about an hour) and the *Crito* (about twenty minutes). Then read the final pages of the *Phaedo*, from 115b to the end."
+      },
+      {
+        "title": "The Trial of Socrates",
+        "author": "I. F. Stone",
+        "note": "A lively, controversial journalist's reconstruction that takes the prosecution's side more seriously than most."
+      },
+      {
+        "title": "Socrates and the State",
+        "author": "Richard Kraut",
+        "note": "A careful scholarly study of the *Crito* and the persuade-or-obey principle."
+      },
+      {
+        "title": "Letter from Birmingham Jail",
+        "author": "Martin Luther King Jr.",
+        "note": "Short and powerful; notice how King uses Socrates to defend nonviolent tension and civil disobedience."
+      }
+    ],
+    "questions": [
+      "Was it a betrayal of his family for Socrates to choose death over exile, or was it the only consistent choice for someone who had spent his life arguing about justice?",
+      "Can a democracy ever legitimately punish someone for asking uncomfortable questions? Where would you draw the line between protected dissent and genuine harm?",
+      "Does accepting punishment really make civil disobedience more legitimate, or is it just a strategy for winning public sympathy?"
+    ]
+  }
+}

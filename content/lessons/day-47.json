@@ -1,0 +1,228 @@
+{
+  "id": "day-47",
+  "day": 47,
+  "title": "Locke I: The Blank Slate and the Origin of Ideas",
+  "subtitle": "Everything you know, Locke says, came in through the door of experience",
+  "philosophers": ["John Locke"],
+  "era": "1632–1704",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain Locke's case against innate ideas and the image of the mind as white paper",
+    "Distinguish sensation from reflection, and simple ideas from complex ideas",
+    "Explain the difference between primary and secondary qualities, using Locke's own examples",
+    "Describe Locke's memory-based theory of personal identity and the main objections to it",
+    "Place Locke as the founder of British empiricism in contrast with the rationalists of Days 43–46"
+  ],
+  "hook": "Think of the earliest thing you can remember. Now ask a stranger question: before that moment, before any memory at all, what was in your mind? Were you born already knowing anything, that two plus two makes four, that something cannot both be and not be, that God exists, that cruelty is wrong? Or did you arrive as an empty notebook, waiting for the world to write on you?\n\nDescartes had said that some ideas, like the idea of God and the idea of a perfect triangle, are built into the mind from birth (Day 44). Leibniz agreed. In 1689 an English physician and political exile named John Locke published a long, patient, plain-spoken book that said no. Every idea in your head, from the colour red to the concept of infinity, came from experience. With that answer Locke launched the tradition we call British **empiricism**, and changed how the modern world thinks about education, science and the self.",
+  "sections": [
+    {
+      "heading": "A Physician Among Philosophers",
+      "body": "John Locke was born in 1632 in Wrington, Somerset, into a Puritan family; his father fought on the Parliamentary side in the English Civil War. He was educated at Westminster School and Christ Church, Oxford, where he found the official Aristotelian philosophy of the schools tedious. What excited him instead was the new experimental science. He worked with the chemist Robert Boyle, became a Fellow of the Royal Society, and trained in medicine alongside the great physician Thomas Sydenham, who taught him to trust careful observation of patients over grand theory.\n\nIn 1667 Locke joined the household of Anthony Ashley Cooper, later the first Earl of Shaftesbury, one of the most powerful and controversial politicians in England. Locke supervised a dangerous operation on Shaftesbury's liver and is credited with saving his life. Through Shaftesbury he was drawn into high politics, and when Shaftesbury fell from power and fled, Locke too fell under suspicion. In 1683 he went into exile in the Netherlands, returning only after the Glorious Revolution of 1688. We will follow that political story on Day 52.\n\nLocke tells us how his great book began. In the Epistle to the Reader of *An Essay Concerning Human Understanding* (published in December 1689, dated 1690), he recalls five or six friends meeting in his room to discuss a difficult subject. They quickly found themselves stuck, and it occurred to Locke that before arguing about such questions they should first examine what the human understanding is fit to deal with. That modest question, what can our minds actually know, took him nearly twenty years to answer.\n\nHe described his role with famous humility. In an age of master builders like Boyle and Newton, he said, it is ambition enough to be employed as an under-labourer, clearing the ground a little and removing some of the rubbish that lies in the way to knowledge. Philosophy, on this view, is not a rival to science but its groundskeeper."
+    },
+    {
+      "heading": "No Innate Ideas",
+      "body": "Book I of the *Essay* attacks the doctrine of **innate ideas**: the view that some ideas or principles are stamped on the mind at birth. Defenders pointed to principles that everyone supposedly agrees on, such as the logical rule that whatever is, is, or that it is impossible for the same thing to be and not to be. Universal agreement, they said, shows these truths must be inborn.\n\nLocke replies on two fronts. First, universal agreement would not prove innateness even if it existed, because there might be another explanation for it, namely that everyone has similar experiences. Second, there is no universal agreement. Children and people with severe intellectual disabilities have no idea of these abstract maxims. If they were innate, written on every soul, how could anyone be ignorant of them? Locke adds that moral principles vary enormously across cultures, much as Montaigne had observed in *On Cannibals* (Day 40), and that whole peoples have had no idea of God.\n\nDefenders of innate ideas had a reply ready: perhaps the ideas are in the mind implicitly, and we come to recognise them when we reach the age of reason. Locke thinks this concedes the point. To say an idea is in the mind but that the mind has never been aware of it is, he says, close to a contradiction. And if innate means only that we have the capacity to learn something, then every truth we ever learn is innate, and the word means nothing.\n\nLeibniz wrote a book-length reply, the *New Essays on Human Understanding*, defending innate ideas as dispositions, like the veins in a block of marble that make it easier to carve one statue rather than another. He withheld it from publication when Locke died in 1704, and it appeared only in 1765. The quarrel between these two pictures of the mind, born blank or born structured, continues today in debates about language and evolution."
+    },
+    {
+      "heading": "White Paper: Sensation and Reflection",
+      "body": "If not from birth, then from where? Locke's famous image comes at the start of Book II. Let us suppose, he writes, the mind to be, as we say, white paper, void of all characters, without any ideas. How does it come to be furnished? His answer is one word: experience.\n\nYou will often hear this called the **tabula rasa**, Latin for a scraped writing tablet. The image goes back to Aristotle, and it is the standard label for Locke's view, but Locke himself in the *Essay* preferred to speak of white paper and an empty cabinet. Either way the point is the same: the mind starts with capacities, but no content.\n\nExperience comes through two channels. **Sensation** delivers ideas of external things: yellow, white, heat, cold, soft, hard, bitter, sweet. **Reflection** is the mind's perception of its own operations: thinking, doubting, believing, willing, remembering. Through reflection you get the idea of doubting by noticing yourself doubt. Everything else is built from these two sources.\n\nA word of caution about Locke's vocabulary. By an **idea** he means whatever is the immediate object of the mind when it thinks or perceives: a sensation of blue, a memory of a song, the concept of a triangle. This is broader than our everyday use. It also sets up a problem that will haunt the next two lessons. If what we directly perceive are ideas in our minds, how do we know there is a world beyond them that the ideas resemble? Locke assumes there is. Berkeley (Day 48) will question it, and Hume (Day 49) will press harder still.\n\nLocke's picture has a hopeful political edge. If no one is born with knowledge or virtue written on the soul, then education and environment make enormous differences, and claims that some people are born to rule look much weaker. His *Some Thoughts Concerning Education* (1693) became one of the most influential parenting books of the eighteenth century."
+    },
+    {
+      "heading": "Building Blocks: Simple and Complex Ideas",
+      "body": "Locke divides ideas into **simple ideas** and **complex ideas**. Simple ideas cannot be broken down any further and cannot be invented: the taste of pineapple, the colour scarlet, the feeling of cold. You cannot explain scarlet to someone who has never seen colour, and you cannot make up a brand-new simple idea out of nothing. In receiving simple ideas the mind is passive, like a mirror.\n\nComplex ideas are built by the mind from simple ones by combining, comparing and abstracting. The idea of a unicorn combines horse and horn. The idea of gold combines yellow, heavy, malleable and soluble in a certain acid. The idea of an army, of gratitude, or of a lie is assembled from many simpler pieces. Here the mind is active, like a builder with a box of bricks.\n\nThis gives Locke a powerful test for any idea. If someone uses a word that seems to mean something grand, such as substance, infinity or the soul, we can ask: which simple ideas is it made from? The idea of infinity, for example, comes from the experience of adding units again and again with no end in sight. Hume will turn this test into a weapon on Day 49.\n\nApply it to **substance**, and Locke finds something embarrassing. We notice that certain qualities always go together, yellow, heavy and shiny, and we suppose there must be something underneath that holds them together. But what is that something? Strip away every quality and we are left, Locke admits, with the idea of something we know not what, a support of qualities that we never actually experience. He compares this to the Indian philosopher in a traveller's tale who said the world rests on an elephant, and the elephant on a tortoise, and the tortoise on something he knew not what. Locke keeps the idea of substance but cannot fill it in. Berkeley will simply throw it away."
+    },
+    {
+      "heading": "Primary and Secondary Qualities",
+      "body": "Is the redness of a tomato in the tomato or in you? Locke's answer, drawing on Boyle and on Galileo's earlier distinction (Day 41), and ultimately on Democritus (Day 7), is: partly each.\n\n**Primary qualities** are qualities a body has no matter how it is divided or what perceives it: solidity, extension (size), figure (shape), motion or rest, and number. Grind a grain of wheat as small as you like; each piece still has some size, shape and solidity. Our ideas of primary qualities resemble the qualities themselves. The roundness you see is really there.\n\n**Secondary qualities** are colours, sounds, tastes, smells and felt warmth or cold. These, Locke says, are nothing in the objects themselves but powers to produce sensations in us, by means of their primary qualities, especially the size, shape and motion of their tiny invisible parts. Our ideas of secondary qualities do not resemble anything in the object. There is no redness in the tomato as you experience redness; there is only a surface structure that, when light hits it and reaches your eyes, causes the sensation of red.\n\nLocke offers memorable evidence. Fire at one distance produces warmth; closer, it produces pain. No one thinks the pain is in the fire, so why think the warmth is? Pound an almond and its colour and taste change, though all you have done is rearrange its parts. And try this experiment, which you can do at home: chill one hand in cold water and warm the other in hot water, then put both into a bowl of lukewarm water. It will feel warm to one hand and cold to the other at the same time. Since the water cannot be both, the warmth and cold must be in you.\n\nThis distinction fit beautifully with the new mechanical science. Physics describes the world in terms of size, shape and motion, and treats colour and taste as effects on observers. But it opens a gap between the world as it appears and the world as it is, and Berkeley will argue that the gap swallows primary qualities too."
+    },
+    {
+      "heading": "Who Are You? Personal Identity and Memory",
+      "body": "In the second edition of the *Essay* (1694), Locke added a chapter that has shaped every later discussion of personal identity. What makes you the same person as the child in your oldest photograph? Not the same matter: your body's material is constantly exchanged, as Heraclitus might remind us (Day 4). Not even, Locke argues, the same soul, since if a soul could exist without memory, sameness of soul would not settle anything.\n\nLocke's answer is **consciousness**, and in particular memory. A person is a thinking, intelligent being that can consider itself as itself, the same thinking thing in different times and places. As far as your consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person. If you can remember doing it from the inside, it was you.\n\nHe tests this with a thought experiment. Suppose the soul of a prince, carrying all its memories, entered the body of a cobbler whose own soul had departed. Everyone would see the cobbler, but the person, Locke says, would be the prince. This is the ancestor of every body-swap film ever made.\n\nLocke calls 'person' a forensic term, meaning a term that belongs to law and morality. What matters about personal identity is responsibility: we can justly be rewarded or punished only for what we did. Locke even suggests that at the Last Judgment no one will be made to answer for what they know nothing of.\n\nThe objections are strong. Thomas Reid, in 1785, imagined a brave officer who as a boy was flogged for stealing apples, and who as a young officer captured an enemy flag, and who as an old general remembers the flag but not the flogging. By Locke's theory the general is the officer, the officer is the boy, but the general is not the boy, which breaks the logic of identity. Joseph Butler objected that memory presupposes identity rather than creating it: I can only genuinely remember my own experiences, so we must already know whose they are. And what about forgetting? Are you not the person who did what you were too drunk to remember?"
+    }
+  ],
+  "keyQuote": {
+    "text": "Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas: How comes it to be furnished?",
+    "source": "John Locke, An Essay Concerning Human Understanding (1689), Book II, chapter 1, §2"
+  },
+  "modernConnection": {
+    "title": "Nature, Nurture and the Self You Remember",
+    "body": "Locke's white paper is at the centre of one of the longest-running arguments in modern science: nature versus nurture. Behaviourist psychologists in the early twentieth century, such as John B. Watson, came close to a pure blank-slate view, boasting that with enough control over a child's environment they could make him into any kind of specialist. Later research swung back. Noam Chomsky argued from the 1950s onward that children learn language far too quickly from too little evidence to be starting from nothing, so the mind must come with built-in linguistic structure. Twin studies show that many traits are substantially heritable. Steven Pinker's book *The Blank Slate* (2002) argued that the doctrine had become a modern dogma.\n\nIt is worth being fair to Locke here. He never denied that the mind has inborn capacities, faculties of perceiving, remembering and reasoning. What he denied was inborn content: ideas and principles. Modern cognitive science often lands somewhere in between, with innate learning mechanisms but learned contents, which is closer to Leibniz's veins in the marble than either extreme.\n\nLocke's memory theory of the self is just as alive. Consider dementia. When someone loses most of their memories, families often say they are no longer the person they were, which is a Lockean thought, while others insist that the person is still there, which suggests that bodily continuity or relationships matter too. Courts face Lockean puzzles in cases of dissociative identity disorder and of crimes committed during blackouts. And debates about mind uploading ask whether a computer copy of all your memories would be you.\n\nThe analogy has limits. Locke wrote before anyone knew that memories are reconstructed rather than replayed, frequently altered and sometimes wholly false. If memory is that unreliable, a self built entirely of memory may be shakier than Locke supposed, which is precisely the conclusion Hume will draw on Day 50."
+  },
+  "vocabulary": [
+    {
+      "term": "Empiricism",
+      "definition": "The view that all our ideas and knowledge come ultimately from experience.",
+      "example": "Locke's empiricism led him to trace even the idea of infinity back to the experience of counting."
+    },
+    {
+      "term": "Innate ideas",
+      "definition": "Ideas or principles supposedly present in the mind from birth rather than acquired through experience.",
+      "example": "Descartes held that the idea of God is an innate idea; Locke denied there are any."
+    },
+    {
+      "term": "Tabula rasa",
+      "definition": "Latin for 'scraped tablet'; the image of the mind at birth as blank and without content, associated with Locke.",
+      "example": "Locke's own phrase for the tabula rasa was white paper, void of all characters."
+    },
+    {
+      "term": "Sensation and reflection",
+      "definition": "Locke's two sources of ideas: perception of external things through the senses, and the mind's awareness of its own operations.",
+      "example": "You get the idea of red by sensation and the idea of doubting by reflection."
+    },
+    {
+      "term": "Simple and complex ideas",
+      "definition": "Simple ideas are unanalysable units received passively from experience; complex ideas are built by the mind from simple ones.",
+      "example": "The idea of a golden mountain is a complex idea made from the simple ideas of yellow, shiny and large."
+    },
+    {
+      "term": "Primary qualities",
+      "definition": "Qualities really in objects and resembled by our ideas of them: solidity, extension, shape, motion or rest, and number.",
+      "example": "The cube's shape is a primary quality; it stays a cube whoever looks at it."
+    },
+    {
+      "term": "Secondary qualities",
+      "definition": "Powers in objects to produce sensations such as colour, taste, sound and warmth, which do not resemble anything in the objects themselves.",
+      "example": "On Locke's view the sweetness of sugar is a secondary quality: a power to cause a sensation in tasters."
+    },
+    {
+      "term": "Personal identity",
+      "definition": "What makes a person the same person over time; for Locke, the continuity of consciousness, especially memory.",
+      "example": "Locke's prince-and-cobbler case tests whether personal identity follows the body or the memories."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Trace an Idea Home",
+    "prompt": "Put Locke's empiricism to work on your own mind. Pick three ideas and try to trace each back to experience.",
+    "steps": [
+      "Choose three ideas of increasing difficulty: one concrete (for example, an orange), one abstract (for example, justice or a promise), one that seems to go beyond all experience (for example, infinity, perfection or nothingness).",
+      "For each, list the simple ideas from sensation or reflection that you think it is built from.",
+      "Note where the tracing becomes difficult or seems to fail. Is there something left over that experience cannot explain?",
+      "Write a short paragraph as a defender of innate ideas (Descartes or Leibniz) explaining the leftover.",
+      "Decide which side you lean toward, and say what kind of evidence would change your mind."
+    ]
+  },
+  "summary": [
+    "John Locke (1632–1704), physician and friend of Boyle, founded British empiricism with An Essay Concerning Human Understanding (1689).",
+    "He rejected innate ideas: there is no universal agreement on supposed innate principles, and an idea the mind has never been aware of is hardly in it.",
+    "The mind begins as white paper; all ideas come from sensation or reflection, and complex ideas are built from simple ones.",
+    "Primary qualities (shape, size, motion, solidity, number) are really in things; secondary qualities (colour, taste, warmth) are powers to cause sensations in us.",
+    "Personal identity consists in continuity of consciousness and memory, a view challenged by Reid's brave officer and Butler's circularity objection."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What is Locke's main reason for doubting that principles such as 'whatever is, is' are innate?",
+      "options": [
+        "They are false",
+        "They contradict Scripture",
+        "Children and many adults have no awareness of them, so they cannot be universally imprinted on the mind",
+        "They were invented by Aristotle"
+      ],
+      "answer": 2,
+      "explanation": "Locke argues that if these principles were stamped on every mind, children and others could not be ignorant of them."
+    },
+    {
+      "type": "mc",
+      "question": "According to Locke, where does the idea of doubting come from?",
+      "options": [
+        "Reflection on the mind's own operations",
+        "Sensation of external objects",
+        "It is innate",
+        "It is given by God at the moment of baptism"
+      ],
+      "answer": 0,
+      "explanation": "Reflection is the mind's awareness of its own activities, such as doubting, believing and willing."
+    },
+    {
+      "type": "mc",
+      "question": "Which of these is a primary quality in Locke's sense?",
+      "options": [
+        "The bitterness of coffee",
+        "The redness of a rose",
+        "The warmth of a bath",
+        "The roundness of a coin"
+      ],
+      "answer": 3,
+      "explanation": "Shape (figure) is a primary quality. Taste, colour and felt warmth are secondary qualities: powers to cause sensations in us."
+    },
+    {
+      "type": "mc",
+      "question": "What does Locke's bowl-of-water experiment (one hand chilled, one hand warmed) aim to show?",
+      "options": [
+        "That water has no primary qualities",
+        "That warmth and cold as we feel them are in us, not in the water",
+        "That the senses are always completely unreliable",
+        "That hot and cold are innate ideas"
+      ],
+      "answer": 1,
+      "explanation": "The same water feels warm to one hand and cold to the other; since it cannot be both, the felt qualities must depend on the perceiver."
+    },
+    {
+      "type": "mc",
+      "question": "A science-fiction film shows a dying scientist's complete memories transferred into a new body. On Locke's theory, who is the person in the new body?",
+      "options": [
+        "Whoever originally owned the body",
+        "No one, since persons cannot survive bodily death",
+        "The scientist, because consciousness and memory have continued",
+        "Whoever the court decides it is"
+      ],
+      "answer": 2,
+      "explanation": "Like the prince in the cobbler's body, the person goes where consciousness and memory go, on Locke's view."
+    },
+    {
+      "type": "mc",
+      "question": "What is Thomas Reid's brave officer objection meant to show?",
+      "options": [
+        "That memory theory violates the logic of identity, since the general would be the officer and the officer the boy, yet the general not the boy",
+        "That soldiers lack personal identity",
+        "That memories are innate",
+        "That bodily continuity is irrelevant to identity"
+      ],
+      "answer": 0,
+      "explanation": "Identity is transitive (if A is B and B is C, then A is C), but Locke's memory criterion gives an intransitive result."
+    },
+    {
+      "type": "mc",
+      "question": "What does Locke conclude about our idea of substance?",
+      "options": [
+        "It is a clear and distinct innate idea",
+        "It is the idea of extension, as Descartes said",
+        "It should be abolished as meaningless",
+        "It is the idea of a supporting something we know not what, which we never directly experience"
+      ],
+      "answer": 3,
+      "explanation": "Locke keeps the idea of substance but admits it is obscure: a supposed support of qualities with no content of its own."
+    },
+    {
+      "type": "tf",
+      "question": "Locke denied that human beings are born with any mental capacities whatsoever.",
+      "answer": false,
+      "explanation": "Locke denied innate ideas (content), not innate faculties such as perceiving, remembering and reasoning."
+    },
+    {
+      "type": "tf",
+      "question": "Locke's chapter on personal identity was added in the second edition of the Essay.",
+      "answer": true,
+      "explanation": "The chapter 'Of Identity and Diversity' (Book II, chapter 27) first appeared in the second edition of 1694."
+    },
+    {
+      "type": "tf",
+      "question": "Locke described himself as a master builder whose system would replace Newton's physics.",
+      "answer": false,
+      "explanation": "He called himself an under-labourer clearing away rubbish so that master builders like Boyle and Newton could advance knowledge."
+    }
+  ],
+  "goDeeper": {
+    "body": "One of the richest problems Locke left behind came from a letter. The Irish scientist William Molyneux asked him: suppose a man born blind has learned to tell a cube from a sphere by touch. If he suddenly gained his sight, could he tell which was which just by looking, before touching them? Locke included the question in the second edition of the *Essay* and agreed with Molyneux that the answer is no: the connection between how things feel and how they look must be learned by experience. Leibniz answered yes, because the geometry is the same in both senses. **Molyneux's problem** became a test case for empiricism for three centuries. In 2011 a team led by Richard Held studied patients in India whose congenital blindness was surgically treated; immediately after surgery they could not reliably match objects they had felt to objects they saw, though they learned to do so within days. The result seems to favour Locke, but researchers still debate what it shows.\n\nA second deep issue is Locke's **representational** or 'veil of perception' theory: the mind perceives ideas, which in turn represent objects. Critics from Reid to the twentieth-century direct realists argue that this puts a screen between us and the world that can never be lifted, and so opens the door to scepticism. Defenders argue that Locke meant ideas to be the means by which we perceive things, not the objects we perceive instead of them. How you read Locke here decides how fairly Berkeley treats him tomorrow.",
+    "readings": [
+      { "title": "An Essay Concerning Human Understanding", "author": "John Locke", "note": "Read the Epistle to the Reader, Book II chapters 1, 2 and 8 (qualities), and chapter 27 (identity). The abridged Hackett edition is manageable." },
+      { "title": "Locke", "author": "E. J. Lowe", "note": "A clear philosophical introduction to Locke's epistemology and metaphysics in the Routledge Philosophers series." },
+      { "title": "Personal Identity", "author": "John Perry (editor)", "note": "Collects Locke's chapter alongside Reid, Butler and modern responses." }
+    ],
+    "questions": [
+      "If you lost all your memories tomorrow, would you still exist? What would make that person you?",
+      "Is the distinction between primary and secondary qualities still defensible after modern physics, or are all qualities now 'secondary'?",
+      "Does the evidence for innate structure in language learning refute Locke, or only a cartoon version of him?"
+    ]
+  }
+}
