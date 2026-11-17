@@ -1,0 +1,235 @@
+{
+  "id": "day-13",
+  "day": 13,
+  "title": "The Republic I: Justice and the Tripartite Soul",
+  "subtitle": "If you had a ring that made you invisible, would you still be good?",
+  "philosophers": ["Plato", "Socrates", "Thrasymachus"],
+  "era": "c. 375 BCE (Republic, Books I–IV)",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain Thrasymachus' claim that justice is the advantage of the stronger and Socrates' replies.",
+    "By the end you will be able to retell the Ring of Gyges story and explain the challenge Glaucon poses with it.",
+    "By the end you will be able to describe Plato's three parts of the soul (reason, spirit, appetite) and the arguments for dividing it.",
+    "By the end you will be able to explain Plato's definition of justice as harmony in the city and the soul, and assess whether it answers Glaucon's challenge."
+  ],
+  "hook": "A poor shepherd is tending his flock when an earthquake splits the ground open. Climbing down into the chasm, he finds a bronze horse, and inside it a corpse wearing a gold ring. He takes the ring. Later, sitting with other shepherds, he idly turns the ring's setting toward the inside of his hand, and suddenly the others start talking about him as if he has left. He has become invisible. He turns the setting back, and he reappears.\n\nWhat does he do with his discovery? He gets himself sent to the royal palace, seduces the queen, kills the king with her help, and takes the throne. This is the story of the **Ring of Gyges**, told in Plato's *Republic*. Its question is simple and unsettling: if you could never be caught, would you still be just? And if not, is justice anything more than fear of punishment? Today we watch Plato build one of the most ambitious answers ever given.",
+  "sections": [
+    {
+      "heading": "A Dinner Party in the Port: Cephalus and Polemarchus",
+      "body": "The *Republic* begins with Socrates walking back from a religious festival at the **Piraeus**, the harbor of Athens. He is persuaded to visit the house of **Cephalus**, a rich, elderly businessman, where a group of young men has gathered. Among them are Plato's two older brothers, **Glaucon** and **Adeimantus**, and a famous visiting Sophist, **Thrasymachus**.\n\nSocrates asks old Cephalus what the greatest benefit of being wealthy has been. Cephalus replies that money lets a man avoid cheating anyone or dying in debt to gods or men, so he need not fear what awaits him after death. Socrates seizes on this. Is that what **justice** is, then: telling the truth and paying back what you owe? Here is a problem, he says. Suppose a friend lends you his weapons while sane, then goes mad and asks for them back. Surely it would not be just to return them, or to tell him the whole truth. So justice cannot simply be honesty and repayment.\n\nCephalus excuses himself to attend to a sacrifice, and his son **Polemarchus** takes over. Quoting the poet Simonides, he says justice is giving each person what is owed: helping your friends and harming your enemies. This was a deeply traditional Greek view. Socrates pushes back with two points. First, we often misjudge who our real friends and enemies are. Second, and more radically, to harm someone is to make them worse, and it cannot be the work of justice to make people more unjust. So the just person harms no one at all. This is a startling claim in a culture built on revenge, and it echoes the principle we saw in the *Crito* on Day 10: never do wrong, even in return for wrong."
+    },
+    {
+      "heading": "Thrasymachus: Justice Is the Advantage of the Stronger",
+      "body": "At this point, Plato tells us, Thrasymachus could hold himself back no longer. He bursts in ‘like a wild beast’, mocking the polite conversation as nonsense. He demands to be paid for his answer, and then gives it: justice is nothing but **the advantage of the stronger**.\n\nWhat does he mean? Look at any city, he says. In a democracy, the people make laws that benefit the people. In a tyranny, the tyrant makes laws that benefit the tyrant. In every case, the ruling group declares that obeying those laws is ‘justice’ and punishes those who disobey. So being just simply means serving someone else's interests. The just man is a fool and a sucker. He pays more taxes, gets less from public office, and loses out in every business deal. Meanwhile the unjust man, especially the tyrant who commits injustice on the grandest scale, is called happy and blessed.\n\nThis is a version of the debate between **nomos** (convention) and **physis** (nature) that we met with the Sophists on Day 8. For Thrasymachus, morality is a human invention serving the powerful, and the clever person sees through it.\n\nSocrates offers several replies. One uses an analogy with crafts. A doctor, in the precise sense, is someone whose craft serves the patient, not himself. A ship's captain serves the sailors. So a ruler, in the precise sense, should serve the ruled. Thrasymachus scoffs: shepherds fatten sheep for their own benefit, not the sheep's. Socrates also argues that even a gang of thieves needs some justice among its members to cooperate, so total injustice would be self-defeating.\n\nAt the end of Book I, Thrasymachus has fallen sullenly silent, and Socrates seems to have won. But Socrates himself admits he is unsatisfied. They have been arguing about whether justice is beneficial without ever establishing what justice *is*. Many readers think Thrasymachus has been silenced rather than refuted."
+    },
+    {
+      "heading": "Glaucon's Challenge and the Ring of Gyges",
+      "body": "At the start of Book II, Glaucon steps up. He does not believe Thrasymachus, he says, but he has never heard anyone defend justice properly. So he will play devil's advocate, restating Thrasymachus' case as powerfully as possible, and demand that Socrates answer it.\n\nFirst, Glaucon distinguishes three kinds of good things: things good in themselves (like joy), things good only for their results (like medicine or exercise), and things good both in themselves and for their results (like health and knowledge). Most people think justice is like medicine: unpleasant, but worth it for the rewards. Socrates says it belongs in the highest class.\n\nSecond, Glaucon tells a story about where justice came from. By nature, he says, the best thing is to do injustice without paying the penalty, and the worst is to suffer injustice without being able to take revenge. Since most people are too weak to get away with injustice, they make a compromise: a **social contract** in which everyone agrees not to harm each other. Justice is that compromise, valued not because it is good but because we are weak. This is one of the earliest versions of the social contract idea that Hobbes will develop on Day 42.\n\nThird comes the Ring of Gyges. Give one ring to a just man and one to an unjust man, Glaucon says, and soon they would behave exactly alike. No one is so strong-willed that he would keep his hands off other people's property if he could take whatever he wanted from the market, enter any house, and kill or free whomever he pleased. This, Glaucon says, is strong proof that no one is just willingly, only under compulsion.\n\nFinally, Glaucon sets the stakes impossibly high. Imagine a perfectly unjust man who is so clever that he has a spotless reputation for justice and enjoys all its rewards. Now imagine a perfectly just man who is believed to be utterly unjust. He is whipped, tortured and finally executed. Prove, Glaucon demands, that the just man is still better off. Adeimantus adds that even parents and poets praise justice only for its rewards. Socrates must show that justice is good for the soul in itself, regardless of reputation or consequences. The rest of the *Republic* is his answer."
+    },
+    {
+      "heading": "The City as the Soul Writ Large",
+      "body": "Socrates' strategy is surprising. Justice, he says, exists both in individuals and in cities. Since a city is bigger, it may be easier to see justice there first, just as someone with poor eyesight might read large letters before trying small ones. So he proposes to build an ideal city in words and look for justice in it.\n\nHe begins with a simple city where people specialize: farmers, builders, weavers, shoemakers. Each does the work that suits his nature, which is more efficient than everyone doing everything. Glaucon complains this is a ‘city of pigs’ with no luxuries. So Socrates adds luxuries, which require more land, which leads to war, which requires a specialized army. Eventually the city has three classes:\n\n1. **Rulers** (guardians in the full sense): a small group of wise, carefully educated people who govern.\n2. **Auxiliaries**: soldiers and officials who defend the city and enforce the rulers' decisions.\n3. **Producers**: farmers, craftsmen, merchants and everyone else who provides for the city's material needs.\n\nNow Socrates looks for the four traditional virtues. **Wisdom** belongs to the rulers, who know what is good for the city as a whole. **Courage** belongs to the auxiliaries, who hold firm to correct beliefs about what is truly to be feared. **Moderation** (*sophrosune*, self-control) is an agreement among all three classes about who should rule. And **justice**? It is the principle they had been using all along: each class doing its own work and not meddling in the work of others. Injustice in a city is when classes interfere, for example when a moneymaker uses wealth to seize political power.\n\nWe will look more closely at this ideal city, with its rulers, guardians and the 'noble lie', on Day 14. For now, the key point is the analogy. If the city has three parts, and justice is each part doing its own job, then Socrates expects to find three parts in the soul as well."
+    },
+    {
+      "heading": "Reason, Spirit and Appetite: Dividing the Soul",
+      "body": "In Book IV, Plato offers a famous argument that the soul has three parts. It rests on a principle: the same thing cannot do or undergo opposite things, in the same respect, in relation to the same thing, at the same time. A spinning top may seem to be both moving and standing still, but really its axis stands still while its edge moves. So if we find the soul pulling in opposite directions at once, there must be different parts doing the pulling.\n\n**Reason versus appetite.** Imagine someone who is very thirsty but refuses to drink, perhaps because they know the water is unsafe. Something in them urges ‘drink!’ and something else says ‘don't!’. The urge is **appetite** (the desiring part, concerned with food, drink, sex and money). The restraining voice is **reason** (the calculating part, concerned with truth and what is best overall).\n\n**Spirit versus appetite.** Plato tells the story of **Leontius**, who was walking past the place where executed bodies were displayed. He wanted to look, but was disgusted with himself. He struggled, covered his eyes, and finally gave in, rushing up to the bodies and shouting at his own eyes: there, you wretches, take your fill of the beautiful sight! Leontius' anger at himself is not appetite, since it fights appetite. Plato calls it **spirit** (*thumos*): the part concerned with honor, pride, anger and indignation.\n\n**Reason versus spirit.** Is spirit just a form of reason, then? No: children and animals show plenty of spirit without much reason. And Plato quotes Homer's Odysseus, who strikes his chest and tells his angry heart to endure, reason restraining spirit.\n\nPlato elsewhere gives an unforgettable image of the same idea. In the *Phaedrus*, the soul is like a **charioteer** (reason) driving two winged horses, one noble and obedient (spirit), the other unruly and wild (appetite). The charioteer's task is to make them pull together.\n\nThe parallel with the city is exact. Reason corresponds to the rulers, spirit to the auxiliaries, appetite to the producers."
+    },
+    {
+      "heading": "Justice as Harmony, and Whether It Works",
+      "body": "Now Plato can define justice in the individual. A person is **wise** when reason knows what is good for the whole soul. **Courageous** when spirit holds fast to what reason says is worth fearing and worth fighting for. **Moderate** when all three parts agree that reason should rule. And **just** when each part does its own work: reason rules, spirit supports it, appetite obeys.\n\nJustice, then, is not mainly about outward behavior at all. It is an inner condition, a **harmony** of the soul. Plato compares it to health. Health is the natural order of the body's parts; disease is disorder. Justice is the health of the soul; injustice is its disease, a civil war in which appetite or ambition seizes control. And just as no one would want to live with a ruined body, even with all the wealth in the world, no one should want to live with a diseased soul.\n\nThis is Plato's answer to Glaucon. The man with the Ring of Gyges may get everything his appetites want, but he becomes their slave. His soul is in chaos. In Book IX, Plato paints a vivid portrait of the tyrant: surrounded by flatterers and enemies, unable to trust anyone, dominated by insatiable desires. The just person, by contrast, is at peace with themselves, even if they are tortured. Justice is worth having for its own sake.\n\nDoes this work? Here are the main objections.\n\n- **The switch.** Critics, most famously the philosopher David Sachs in 1963, argue that Plato changes the subject. Glaucon asked about ordinary justice: not stealing, not lying, not murdering. Plato answers with a theory of psychological harmony. But why couldn't a person with a well-ordered soul calmly commit a crime, or a person with a disordered soul be perfectly law-abiding?\n- **Plato's reply.** Defenders answer that a person ruled by reason, who has no out-of-control greed or ambition, would have no motive for theft or murder. Inner harmony naturally produces outward justice.\n- **Is the soul really divided?** Modern psychology confirms that we experience inner conflict, but whether there are exactly three parts, and whether reason should always be in charge, is much less certain. Hume, on Day 50, will famously argue that reason is the slave of the passions.\n\nWhatever you think, Plato set the terms of a debate that never ended: is being good good for you?"
+    }
+  ],
+  "modernConnection": {
+    "title": "Invisible Online: The Ring of Gyges in Your Pocket",
+    "body": "For most of history, the Ring of Gyges was a thought experiment. The internet made a rough version of it available to billions of people. Anonymous accounts allow people to say things they would never say face to face, with little fear of consequences. Psychologist John Suler named this the **online disinhibition effect**: when people feel invisible and unaccountable, some become kinder and more open, but many become crueler. Comment sections, anonymous harassment, and piracy all look like evidence for Glaucon. Take away the risk of being seen, and behavior changes.\n\nResearch on honesty adds nuance. In many experiments, people cheat a little when they believe they cannot be caught, but most do not cheat as much as they could. The behavioral economist Dan Ariely and others have suggested that people cheat only up to the point where they can still think of themselves as honest. (Some of Ariely's own studies later faced serious data questions, so treat specific findings cautiously, but the broader pattern of 'cheating a little' has been widely found.) That is interesting from Plato's point of view. It suggests that our self-image, something like Plato's spirit, with its concern for honor, acts as an inner guardian even when no one is watching.\n\nPlato's tripartite soul also has descendants in modern psychology. Freud divided the mind into id, ego and superego, and today's dual-process theories, popularized by Daniel Kahneman's *Thinking, Fast and Slow*, contrast fast, impulsive thinking with slow, deliberate reasoning. But the comparisons are loose. Freud's superego is closer to an internalized conscience than to Plato's spirit, and modern psychologists rarely claim reason should simply rule the emotions; emotions often carry useful information.\n\nThe deepest lesson of Gyges for the digital age might be this: the question 'who are you when no one is watching?' is no longer hypothetical. Each of us answers it, every day, with a keyboard."
+  },
+  "vocabulary": [
+    {
+      "term": "Justice (dikaiosune)",
+      "definition": "In the *Republic*, the virtue by which each part of a city or soul does its own proper work; more broadly, right conduct toward others.",
+      "example": "For Plato, a person whose reason governs her desires has justice in her soul."
+    },
+    {
+      "term": "Advantage of the stronger",
+      "definition": "Thrasymachus' definition of justice: whatever serves the interests of those in power, who make the laws.",
+      "example": "A cynic who says 'laws are just rules the rich write for themselves' is echoing the claim that justice is the advantage of the stronger."
+    },
+    {
+      "term": "Ring of Gyges",
+      "definition": "Glaucon's thought experiment about a ring granting invisibility, used to argue that people are just only out of fear of being caught.",
+      "example": "Asking whether you would return extra change if no one would ever know is a small Ring of Gyges test."
+    },
+    {
+      "term": "Social contract",
+      "definition": "The idea that moral or political rules arise from an agreement among people for mutual benefit.",
+      "example": "Glaucon's story of justice as a compromise between the weak is an early social contract theory."
+    },
+    {
+      "term": "Tripartite soul",
+      "definition": "Plato's theory that the soul has three parts: reason (which seeks truth), spirit (which seeks honor) and appetite (which seeks bodily pleasures and money).",
+      "example": "Leontius' struggle over looking at the corpses is Plato's evidence for the tripartite soul."
+    },
+    {
+      "term": "Spirit (thumos)",
+      "definition": "The part of the soul associated with anger, pride, honor and indignation; when well trained, it is reason's ally.",
+      "example": "The flush of anger you feel at an injustice done to a stranger is the work of spirit."
+    },
+    {
+      "term": "Appetite",
+      "definition": "The part of the soul consisting of desires for food, drink, sex and the money that buys them.",
+      "example": "Reaching for a third slice of cake while reason objects is appetite winning a small battle."
+    },
+    {
+      "term": "Moderation (sophrosune)",
+      "definition": "Self-control; in Plato, agreement among the parts of the soul (or city) that reason should rule.",
+      "example": "Someone with moderation does not merely resist temptation, but genuinely agrees with her own judgment about what is best."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "The Ring Test",
+    "prompt": "Take Glaucon's challenge seriously and personally. Imagine you have found the Ring of Gyges, and work out what Plato's theory would predict about you.",
+    "steps": [
+      "Write down, honestly, three things you might do with the ring in the first week. Classify each as driven by appetite, spirit or reason.",
+      "Now write down three things you would refuse to do even with the ring. What is stopping you? Is it fear of discovery, your self-image, empathy, or something else?",
+      "Recall a moment of real inner conflict in your own life (wanting something you knew you shouldn't). Does Plato's three-part model describe it well, or would you divide it differently?",
+      "Write a short reply to Glaucon, in your own voice, arguing either that a just life is better for the person living it or that it is not. Include the strongest objection to your own view."
+    ]
+  },
+  "summary": [
+    "Book I tests traditional definitions of justice (honesty and repaying debts; helping friends and harming enemies) and finds them wanting.",
+    "Thrasymachus claims justice is the advantage of the stronger and that the unjust life is more profitable; Socrates' replies leave many readers unconvinced.",
+    "Glaucon's challenge, with the social contract story and the Ring of Gyges, demands proof that justice is good in itself, not just for its rewards.",
+    "Plato builds an ideal city of rulers, auxiliaries and producers, and defines justice as each part doing its own work.",
+    "The soul has three matching parts: reason, spirit and appetite; justice is harmony among them with reason ruling, like health in the body.",
+    "Critics ask whether inner harmony really guarantees ordinary just behavior, and whether reason should always rule."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "How does Socrates refute Cephalus' idea that justice is telling the truth and paying back what you owe?",
+      "options": [
+        "By pointing out that money cannot buy happiness",
+        "By showing that some debts are too large to repay",
+        "By arguing that the gods do not care about debts",
+        "With the example of returning weapons to a friend who has gone mad"
+      ],
+      "answer": 3,
+      "explanation": "Returning the weapons would be repaying a debt, but clearly not just, so honesty and repayment cannot be the full definition."
+    },
+    {
+      "type": "mc",
+      "question": "What does Thrasymachus mean by saying justice is 'the advantage of the stronger'?",
+      "options": [
+        "Strong people are naturally more just",
+        "Rulers make laws serving their own interests and call obeying them justice",
+        "Justice requires physical courage",
+        "The gods favor the strong in battle"
+      ],
+      "answer": 1,
+      "explanation": "For Thrasymachus, 'justice' is a convention that benefits whoever holds power, so the just person serves another's interest."
+    },
+    {
+      "type": "tf",
+      "question": "Glaucon personally believes that injustice is better than justice.",
+      "answer": false,
+      "explanation": "Glaucon says he does not believe it, but plays devil's advocate because he wants to hear justice properly defended."
+    },
+    {
+      "type": "mc",
+      "question": "What is the point of Glaucon's Ring of Gyges story?",
+      "options": [
+        "To show that people are just only because they fear being caught",
+        "To prove that invisibility is impossible",
+        "To show that shepherds make good kings",
+        "To argue that kings should wear rings as symbols of power"
+      ],
+      "answer": 0,
+      "explanation": "Glaucon argues that with the ring, just and unjust people would behave alike, so justice is not chosen for its own sake."
+    },
+    {
+      "type": "mc",
+      "question": "The story of Leontius and the corpses is meant to show a conflict between which two parts of the soul?",
+      "options": [
+        "Reason and appetite",
+        "Reason and spirit",
+        "Spirit and appetite",
+        "Body and mind"
+      ],
+      "answer": 2,
+      "explanation": "Leontius' self-directed anger (spirit) fights his desire to look (appetite), showing spirit is distinct from appetite."
+    },
+    {
+      "type": "mc",
+      "question": "In Plato's city-soul analogy, which class corresponds to spirit?",
+      "options": [
+        "The rulers",
+        "The producers",
+        "The poets",
+        "The auxiliaries"
+      ],
+      "answer": 3,
+      "explanation": "Auxiliaries (soldiers) are associated with courage and support the rulers, just as spirit supports reason."
+    },
+    {
+      "type": "tf",
+      "question": "For Plato, justice in a person is primarily an inner harmony of the soul rather than merely a pattern of outward behavior.",
+      "answer": true,
+      "explanation": "Plato defines justice as each part of the soul doing its job, with reason ruling, comparable to health in the body."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern phenomenon is the closest real-world version of Glaucon's thought experiment?",
+      "options": [
+        "Wearing a uniform at work",
+        "Anonymous online behavior where people feel unaccountable",
+        "Voting in a public election",
+        "Reading philosophy books"
+      ],
+      "answer": 1,
+      "explanation": "Online anonymity reduces the chance of being identified, testing how people behave when they feel invisible, as the online disinhibition effect describes."
+    },
+    {
+      "type": "tf",
+      "question": "Glaucon's account of justice as a compromise among the weak is an early version of social contract theory.",
+      "answer": true,
+      "explanation": "He says people agree not to harm each other because they cannot get away with injustice. Hobbes later develops a similar idea."
+    },
+    {
+      "type": "mc",
+      "question": "What is the main objection David Sachs raised against Plato's argument?",
+      "options": [
+        "Plato never mentions the soul",
+        "Plato proves that injustice is always better",
+        "Plato changes the subject from ordinary just behavior to inner psychological harmony",
+        "Plato relies too heavily on democratic voting"
+      ],
+      "answer": 2,
+      "explanation": "Sachs argued that showing inner harmony is good does not show that it guarantees not stealing, lying or killing, which is what Glaucon asked about."
+    }
+  ],
+  "goDeeper": {
+    "body": "The so-called 'fallacy of irrelevance' in the *Republic*, pressed by David Sachs in a 1963 article, remains one of the most discussed problems in ancient philosophy. The worry is that Plato defines 'Platonic justice' (psychic harmony) and then assumes it coincides with 'vulgar justice' (not stealing, not lying, keeping agreements). Defenders such as Gregory Vlastos and Richard Kraut have argued that Plato does connect them. A person whose reason truly understands the Good, and whose desires are moderate, simply has no reason to commit the typical crimes, which are almost always driven by greed or ambition. Others, like Julia Annas, think the gap is real and that Plato's ethics is better read as a claim about what kind of person it is good to be than as a proof that crime never pays.\n\nA second debate concerns Thrasymachus. Is he consistent? He says justice is the advantage of the stronger, but also that justice is 'another's good' and that injustice is better. Some scholars think these are two different theories (one a kind of legal positivism, the other a kind of egoism), and that Plato makes him muddled on purpose. Others argue they fit together: rulers impose 'justice' on subjects, so justice is good for the rulers, who are the ones being 'unjust'.\n\nFinally, Plato's tripartite psychology has been both influential and criticized. Aristotle later divided the soul differently (Day 19), and Christian thought often treated the soul as a unity. Yet the idea that we are not single, unified agents, but sites of competing motivations, has been rediscovered again and again, from Freud to contemporary neuroscience. Plato was arguably the first to put it into a systematic theory.",
+    "readings": [
+      {
+        "title": "Republic, Books I, II and IV",
+        "author": "Plato (trans. G. M. A. Grube, rev. C. D. C. Reeve)",
+        "note": "Book I for Thrasymachus; the opening of Book II (to about 367e) for Glaucon's challenge and the Ring of Gyges; Book IV (from about 434d) for the soul."
+      },
+      {
+        "title": "An Introduction to Plato's Republic",
+        "author": "Julia Annas",
+        "note": "Excellent on Thrasymachus and on whether Plato really answers Glaucon."
+      },
+      {
+        "title": "Plato's Republic: A Biography",
+        "author": "Simon Blackburn",
+        "note": "A short, witty and opinionated account of the *Republic* and its long afterlife."
+      }
+    ],
+    "questions": [
+      "Is it possible to be inwardly well-ordered and still do terrible things to other people? Think of examples from history or fiction.",
+      "Is Thrasymachus right about any real political systems you know? Does recognizing this make him right about justice itself?",
+      "Is Plato correct that reason should always rule the emotions, or do emotions sometimes see more clearly?"
+    ]
+  }
+}
