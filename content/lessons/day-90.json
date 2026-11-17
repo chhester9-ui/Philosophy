@@ -1,0 +1,293 @@
+{
+  "id": "day-90",
+  "day": 90,
+  "title": "Final Synthesis: The Great Conversation and Your Philosophy",
+  "subtitle": "Ninety days, twenty-six centuries, and one question left: what do you think?",
+  "philosophers": [],
+  "era": "c. 600 BCE–present",
+  "estimatedMinutes": 60,
+  "objectives": [
+    "By the end you will be able to trace the main arc of philosophy from the Milesians to the present day.",
+    "By the end you will be able to identify the recurring great questions and compare how major thinkers answered them.",
+    "By the end you will be able to use methods such as reflective equilibrium and charitable interpretation to build and test your own views.",
+    "By the end you will be able to draft a first version of your personal philosophy.",
+    "By the end you will be able to choose a path for further study, including the Advanced Deep Dive tracks."
+  ],
+  "hook": "On Day 1 we met Thales of Miletus, the man often called the first philosopher. Plato tells a story, almost certainly a legend, that Thales was so busy gazing at the stars that he fell into a well, and a quick-witted servant girl laughed that he was so eager to know what was happening in the heavens that he could not see what was at his feet. For twenty-six centuries, people have told that story to mock philosophers as impractical dreamers.\n\nNinety days later, you can see the story differently. The questions Thales started asking, about what the world is made of and how we can explain it without myth, turned into physics. Aristotle's logic became, through Frege, Russell and Turing, the foundation of the computer you may be reading this on. The arguments of Locke and Rousseau shaped constitutions; Mill and Wollstonecraft shaped the rights of women; the Stoics shaped modern therapy. Philosophy looked up at the stars, and it changed what happened at our feet. Today, instead of meeting a new thinker, we step back to see the whole conversation, and then we invite you to join it.",
+  "sections": [
+    {
+      "heading": "A Tour of 2,600 Years",
+      "body": "Let us run the film at high speed.\n\nIn the Greek world of the sixth century BCE, the Milesians (Day 2) replaced myth with **logos**, reasoned explanation, searching for the arche, the first principle of everything. Heraclitus saw a world in flux; Parmenides argued that change is impossible; the Atomists split the difference with atoms moving in the void (Days 4–7). The Sophists asked whether truth and justice were merely human conventions (Day 8).\n\nThen came the great Athenian trio. Socrates questioned everyone and died rather than stop (Days 9–10). Plato answered the Sophists with the eternal Forms and the vision of a just soul and city (Days 11–15). Aristotle brought philosophy down to earth with logic, biology, the four causes and an ethics of flourishing (Days 16–21).\n\nThe Hellenistic schools turned philosophy into a way of life: Cynics, Epicureans, Stoics and Skeptics each offered a recipe for tranquility (Days 23–29). Medieval thinkers, Christian, Muslim and Jewish, from Augustine and Avicenna to Maimonides, Aquinas and Ockham, asked how faith and reason fit together (Days 30–37).\n\nThe Renaissance and the Scientific Revolution unsettled old authorities (Days 38–42). Descartes sought certainty in the thinking self; Spinoza and Leibniz built rational systems; Locke, Berkeley and Hume insisted that knowledge comes from experience, until Hume's skepticism woke Kant, who argued that the mind shapes the very form of experience (Days 43–57). The Enlightenment gave us the language of rights, consent and toleration.\n\nThe nineteenth century fractured the picture. Hegel saw history as the progress of freedom; Marx saw it as class struggle; Mill measured morality by happiness; Kierkegaard and Nietzsche asked what becomes of the individual, and of values, when old certainties die (Days 59–67).\n\nThe twentieth century split into two conversations: an analytic tradition focused on logic, language and science (Days 69–74) and a continental tradition focused on lived experience, existence and power (Days 75–81). Finally, contemporary philosophy turned to justice, applied ethics, the mind, virtue, the voices philosophy had excluded, the world's other traditions, the environment and technology (Days 82–89)."
+    },
+    {
+      "heading": "The Questions That Keep Coming Back",
+      "body": "Beneath all those names, a handful of questions keep returning. Here are five, with a sample of the answers you have met.\n\n1. **What is real?** This is metaphysics. Water, the apeiron, number, fire (Days 2–4). Unchanging Being (Parmenides). Forms (Plato) or form-in-matter (Aristotle). Two substances, mind and body (Descartes); one substance, God or Nature (Spinoza); only minds and ideas (Berkeley). Things as they appear versus things in themselves (Kant). Emptiness (Nagarjuna, Day 87). Physics now answers part of this question, but not the part about why there is a world to describe, or where minds fit in it (Day 84).\n2. **How do we know?** This is epistemology. Plato trusted reason over the senses; the Skeptics suspended judgment; Descartes doubted everything to find a foundation; the empiricists traced ideas to experience; Kant combined both. Popper said science advances by falsification, Kuhn by paradigm shifts; Gettier showed that justified true belief is not quite knowledge; standpoint theorists asked whose experience counts (Day 86).\n3. **How should I live?** Aristotle said: cultivate virtue and flourish. Epicurus: seek tranquil pleasure and friendship. The Stoics: master what is in your control. The Buddha: release craving. Kant: do your duty and treat people as ends. Mill: promote the greatest happiness. Kierkegaard: commit passionately. Nietzsche: create your values and say yes to life. Sartre and Beauvoir: own your freedom. Camus: revolt with lucidity. Care ethicists: attend to those who depend on you.\n4. **How should we live together?** Plato's philosopher-kings, Aristotle's political animal, Hobbes' sovereign, Locke's consent and rights, Rousseau's general will, Marx's classless society, Mill's harm principle, Rawls' veil of ignorance, Nozick's minimal state, Mills' critique of the racial contract, Ubuntu's restorative justice.\n5. **Who am I?** An immortal soul (Plato), the form of a living body (Aristotle), a thinking thing (Descartes), a continuity of memory (Locke), a bundle of perceptions (Hume) or a process with no fixed self (the Buddha), a project defined by choices (Sartre), a person through other persons (Ubuntu), a self seen through others' eyes (Du Bois).\n\nAnd threaded through all of them: does God exist, and if not, where does meaning come from? Anselm, Aquinas, Hume, Kierkegaard, Nietzsche and Camus gave radically different answers, and the question is as alive as ever."
+    },
+    {
+      "heading": "Patterns in the Conversation",
+      "body": "Look at the history from a distance and certain patterns appear.\n\n**The pendulum.** Philosophy swings between reason and experience (Plato versus Aristotle, the rationalists versus the empiricists), between system-builders and skeptics (Hegel versus Kierkegaard), between the individual and the community (Descartes versus Ubuntu, Rawls versus MacIntyre). Often the most creative moves come from someone trying to hold both sides together, as Kant did with reason and experience.\n\n**Answers become questions.** Each solution creates new puzzles. Descartes' dualism solved the problem of certainty and created the mind-body problem that Elisabeth of Bohemia pressed (Day 44), which is still alive in Chalmers' hard problem. Utilitarianism solved the problem of a single moral measure and created the trolley problem.\n\n**Philosophy gives birth to sciences.** Physics, biology, psychology, economics, linguistics and computer science all began as branches of philosophy. Whenever a question becomes precise enough to settle with experiments or proofs, it tends to leave home. That is one reason philosophy can look as if it never makes progress: its successes get new names.\n\n**The conversation is unfinished.** Alfred North Whitehead famously remarked, in *Process and Reality* (1929), that the safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato. It is an exaggeration, but you can now see the truth in it: debates about justice, knowledge, love and the soul still echo the *Republic*. At the same time, Days 86 and 87 showed that the conversation is wider than Europe, and that some of the best footnotes were written in Chinese, Sanskrit, Arabic and Zulu.\n\nBertrand Russell, at the end of *The Problems of Philosophy* (1912), argued that the value of philosophy lies largely in its very uncertainty. Its questions enlarge our sense of what is possible, loosen the grip of unexamined custom, and free us from what he called the tyranny of the obvious. Even when philosophy cannot tell us with certainty what the true answers are, it can show us many possibilities we never considered."
+    },
+    {
+      "heading": "How to Build Your Own Philosophy",
+      "body": "A personal philosophy is not a list of opinions borrowed from favorite thinkers. It is a set of considered views, tested against objections and held together as coherently as you can manage. The course has given you several tools for building one.\n\n- **Socratic questioning** (Day 9): define your terms, ask for reasons, and look for counterexamples, especially to your own views.\n- **Charity**: before rejecting a position, state it in its strongest form, as its best defender would. If you cannot explain why intelligent people believed Plato, Hobbes or Nietzsche, you are not yet ready to disagree with them.\n- **Reflective equilibrium** (Day 82): Rawls' method of moving back and forth between general principles and judgments about particular cases, adjusting each until they fit together. If your principle implies something you find monstrous, either revise the principle or think hard about the judgment.\n- **Fallibilism** (Day 67): Peirce's insistence that any belief could turn out to be wrong. Hold your views firmly enough to act on them and loosely enough to learn.\n- **The web of belief** (Day 74): Quine reminds us that beliefs connect. Your view of the self affects your ethics; your epistemology affects your politics. The philosopher Otto Neurath compared us to sailors who must rebuild their ship on the open sea, plank by plank, never able to start again in dry dock. You do not need to settle everything before you start; you can only repair the boat while sailing it.\n\nFinally, remember the Hellenistic lesson (Day 29) that the French historian Pierre Hadot made famous: ancient philosophy was a **way of life**, not just a theory. A personal philosophy shows up in how you spend your attention, treat strangers, face fear and loss, and use your freedom. The test of Epictetus' teaching was not whether his students could recite it but whether they could live it."
+    },
+    {
+      "heading": "Where to Go Next",
+      "body": "The end of this course is a beginning. Here are some ways to continue.\n\n**Take an Advanced Deep Dive track.** Six tracks of five lessons each take you deeper into areas we could only sketch:\n\n- **Logic and Critical Thinking**: truth tables, predicate logic, fallacies, modal logic and paradoxes, building on Day 17.\n- **Ethics and Metaethics**: moral realism and its rivals, expressivism, moral luck, contractualism, and population ethics and effective altruism.\n- **Mind, Self and Free Will**: functionalism, personal identity, free will, the extended mind and the frontiers of consciousness.\n- **Political and Social Philosophy**: legitimacy, liberalism and communitarianism, democracy, freedom, and global justice.\n- **Philosophy Beyond the West**: Confucianism, Daoism, Buddhist philosophy, Indian philosophy, and African and Latin American philosophy.\n- **Knowledge, Science and Reality**: radical skepticism, Bayesian reasoning, scientific realism, social epistemology and the philosophy of mathematics.\n\nPick the one whose questions kept you up at night. If you are unsure, the Logic track sharpens tools you will use in all the others.\n\n**Read the primary texts.** Start short: Plato's *Apology*, Epictetus' *Handbook*, Descartes' *Meditations*, Mill's *On Liberty*, Sartre's lecture *Existentialism Is a Humanism*. Read slowly, with a pencil, arguing in the margins. Use the Go Deeper lists from each day as a map.\n\n**Find conversation partners.** Philosophy began as dialogue in the marketplace. A reading group, a class, or a friend who enjoys arguing in good faith will teach you more than solitary reading. The *Stanford Encyclopedia of Philosophy* offers free, expert, regularly updated articles when you want to check a detail.\n\n**Keep a philosophical notebook.** Write down questions as they occur to you, and revisit your answers each year. You will be surprised by how your views change, and by which ones do not."
+    },
+    {
+      "heading": "The Examined Life",
+      "body": "We end where Socrates stood in 399 BCE, on trial for his life (Day 10). Offered the chance to save himself by giving up philosophy, he told the jury that the unexamined life is not worth living for a human being. He did not mean that you must become a professional philosopher, or that unreflective people have worthless lives. He meant that a distinctively human life includes asking what we are doing and why, and that refusing to ask leaves us living by habits and opinions we never chose.\n\nYou have now spent ninety days in the company of people who refused to stop asking. Some were wrong in ways that are now obvious; all were wrong about something. But each one handed the questions on a little clearer than they found them. Now it is your turn."
+    }
+  ],
+  "keyQuote": {
+    "text": "The unexamined life is not worth living for a human being.",
+    "source": "Socrates, in Plato's Apology 38a"
+  },
+  "modernConnection": {
+    "title": "The Return of Philosophy as a Way of Life",
+    "body": "For much of the twentieth century, philosophy retreated into universities and specialist journals. Over the last few decades, it has been quietly returning to ordinary life, in ways that would have pleased Socrates in the agora.\n\nModern Stoicism is the most visible example. Books, newsletters and online communities encourage readers to practice Epictetus' dichotomy of control and Marcus Aurelius' evening reflections, and annual events invite people to live like a Stoic for a week. As you saw on Day 26, cognitive behavioral therapy explicitly drew on Stoic insights. Philosophy for Children, a movement begun by Matthew Lipman in the 1970s, brings Socratic discussion into primary school classrooms, where children argue about fairness, friendship and whether a robot could have feelings. Socrates Café discussion groups, started in the 1990s by Christopher Phillips, meet in cafés and libraries around the world. Hospitals employ ethicists, technology companies hire people to think about AI ethics, and courts cite philosophers on rights and responsibility.\n\nWhy now? Part of the answer is that our era confronts us with philosophical questions at every turn. Floods of information and misinformation make epistemology urgent: whom should we trust, and how do we know? Artificial intelligence reopens the questions of mind and personhood (Day 89). Climate change raises our obligations to the future (Day 88). Polarized politics makes the skills of charity and reasoned disagreement scarce and precious. And for many people, traditional sources of meaning have weakened, sending them, as Nietzsche and Camus predicted, in search of new ones.\n\nThe bridge has its weak points. Popular philosophy can shrink into self-help slogans, a Stoicism of productivity hacks that forgets the Stoics' demanding ethics of justice and cosmopolitan duty. Studying philosophy does not guarantee wisdom or goodness: Heidegger's Nazism (Day 76) is a sobering reminder. And reading about the examined life is easier than living one. But the revival suggests that people still want what the ancient schools offered: not only answers, but a practice of thinking that shapes how they live."
+  },
+  "vocabulary": [
+    {
+      "term": "Logos",
+      "definition": "Greek for word, reason or rational account; the reasoned explanation that early philosophers set against myth, and for Heraclitus the rational order of the cosmos.",
+      "example": "Explaining lightning through physical causes rather than Zeus's anger was a move from mythos to logos."
+    },
+    {
+      "term": "Metaphysics",
+      "definition": "The branch of philosophy that studies the fundamental nature of reality: what exists, what it is like, and how things relate.",
+      "example": "Asking whether minds are just brains is a question in metaphysics."
+    },
+    {
+      "term": "Epistemology",
+      "definition": "The branch of philosophy that studies knowledge: what it is, how we get it, and how far it extends.",
+      "example": "The problem of induction is one of the central puzzles of epistemology."
+    },
+    {
+      "term": "Eudaimonia",
+      "definition": "Aristotle's term for human flourishing or living well, the ultimate goal of life, achieved through activity in accordance with virtue.",
+      "example": "A life full of pleasure but empty of friendship and achievement would not count as eudaimonia for Aristotle."
+    },
+    {
+      "term": "Social contract",
+      "definition": "The idea that political authority and obligations arise from an agreement, actual or hypothetical, among the people governed.",
+      "example": "Hobbes, Locke, Rousseau and Rawls each built a different theory of the social contract."
+    },
+    {
+      "term": "Categorical imperative",
+      "definition": "Kant's supreme principle of morality, a command that binds unconditionally: act only on maxims you could will as universal laws, and treat humanity always as an end, never merely as a means.",
+      "example": "Making a false promise to get a loan violates the categorical imperative because it could not work as a universal law."
+    },
+    {
+      "term": "Utilitarianism",
+      "definition": "The ethical theory, developed by Bentham and Mill, that the right action is the one that produces the greatest happiness for the greatest number.",
+      "example": "A utilitarian deciding how to spend public health money compares how much wellbeing each option would produce."
+    },
+    {
+      "term": "Reflective equilibrium",
+      "definition": "Rawls' method of adjusting general principles and particular judgments against each other until they cohere.",
+      "example": "Revising your view on lying after realizing it would forbid lying to a murderer at the door is reflective equilibrium at work."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Drafting Your Personal Philosophy",
+    "prompt": "Write a first draft of your own philosophy in about one page. It will be incomplete and that is fine; Neurath's sailors never finish rebuilding their ship. Date it and keep it, so you can revise it in a year.",
+    "steps": [
+      "For each of the five great questions (What is real? How do we know? How should I live? How should we live together? Who am I?), write two or three sentences stating your current answer. Name at least one thinker from the course whom you agree with and one whom you disagree with on each.",
+      "Look for tensions. Does your answer about what is real fit with your answer about who you are? Does your ethics fit your politics? Pick the sharpest tension and decide, using reflective equilibrium, which belief you are more willing to revise.",
+      "Steelman your strongest critic. Choose the thinker from the course who would most disagree with your view of how to live, and write their best objection in a short paragraph. Then write your reply.",
+      "Turn theory into practice. Write three concrete commitments that follow from your philosophy, in the spirit of the Hellenistic schools: one habit for daily life, one way you will treat others, and one question you will keep investigating.",
+      "Choose your next step: name the Advanced Deep Dive track (or primary text) that would best help with the question you are least sure about, and set a date to begin."
+    ]
+  },
+  "summary": [
+    "Philosophy's 2,600-year story runs from the Milesians' turn from myth to reason, through Socrates, Plato and Aristotle, Hellenistic and medieval thought, the rationalists, empiricists and Kant, to the nineteenth century, the analytic and continental traditions, and contemporary debates.",
+    "A few great questions keep returning: what is real, how we know, how to live, how to live together, and who we are, along with the question of God and meaning.",
+    "The conversation shows recurring patterns: pendulum swings between rival views, answers that create new questions, and sciences born from philosophy.",
+    "Building your own philosophy uses Socratic questioning, charity, reflective equilibrium, fallibilism and attention to how beliefs connect, and it is tested by how you live.",
+    "The six Advanced Deep Dive tracks (Logic; Ethics and Metaethics; Mind, Self and Free Will; Political and Social Philosophy; Philosophy Beyond the West; Knowledge, Science and Reality), primary texts and good conversation are the next steps."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What was distinctive about the Milesian philosophers such as Thales?",
+      "options": [
+        "They founded the first universities",
+        "They explained nature through reasoned, naturalistic accounts rather than myths about the gods",
+        "They wrote the first works of ethics",
+        "They argued that change is an illusion"
+      ],
+      "answer": 1,
+      "explanation": "The Milesians sought a first principle (arche) to explain the world naturalistically, the move from mythos to logos; denying change was Parmenides' view."
+    },
+    {
+      "type": "mc",
+      "question": "A friend has spent years believing that online rankings show the true quality of everything. After studying reviews, she realizes rankings reflect paid promotion and starts seeking a deeper understanding. Which allegory best fits her journey?",
+      "options": [
+        "Plato's Cave",
+        "The Ring of Gyges",
+        "Zhuangzi's butterfly dream",
+        "The Ship of Theseus"
+      ],
+      "answer": 0,
+      "explanation": "In the Cave (Day 12), prisoners take shadows for reality until one is turned toward the light and gradually grasps the truth."
+    },
+    {
+      "type": "mc",
+      "question": "According to Aristotle's doctrine of the mean, courage lies between which two vices?",
+      "options": [
+        "Pride and humility",
+        "Greed and generosity",
+        "Cowardice and rashness",
+        "Anger and patience"
+      ],
+      "answer": 2,
+      "explanation": "Courage is the mean between the deficiency of cowardice and the excess of rashness (Day 20)."
+    },
+    {
+      "type": "mc",
+      "question": "Stuck in traffic and late for an appointment, someone tells herself: 'The traffic is not up to me; my response is.' Which school is she drawing on?",
+      "options": [
+        "Cynicism",
+        "Epicureanism",
+        "Pyrrhonian skepticism",
+        "Stoicism"
+      ],
+      "answer": 3,
+      "explanation": "Epictetus' dichotomy of control (Day 26) distinguishes what is up to us (judgments and responses) from what is not."
+    },
+    {
+      "type": "mc",
+      "question": "Two theories explain the evidence equally well, but one requires positing several extra unseen entities. Which principle advises choosing the simpler theory?",
+      "options": [
+        "The principle of sufficient reason",
+        "Ockham's razor",
+        "The harm principle",
+        "The verification principle"
+      ],
+      "answer": 1,
+      "explanation": "Ockham's razor (Day 36) advises not multiplying entities beyond necessity."
+    },
+    {
+      "type": "mc",
+      "question": "What did Descartes believe he could not doubt, even if an evil demon were deceiving him?",
+      "options": [
+        "That the external world exists",
+        "That mathematics is true",
+        "That his senses are reliable",
+        "That he exists as long as he is thinking"
+      ],
+      "answer": 3,
+      "explanation": "The cogito (Day 43): even doubting is thinking, and thinking requires a thinker."
+    },
+    {
+      "type": "mc",
+      "question": "Hume's problem of induction asks:",
+      "options": [
+        "What justifies our expectation that the future will resemble the past",
+        "Whether God exists",
+        "How mind and body interact",
+        "Whether moral claims are true"
+      ],
+      "answer": 0,
+      "explanation": "Hume (Day 49) argued that no deductive or non-circular argument justifies inferring the unobserved from the observed."
+    },
+    {
+      "type": "mc",
+      "question": "A company secretly uses customers' personal data to manipulate them into purchases they will regret. Which formulation best captures a Kantian objection?",
+      "options": [
+        "It fails to maximize total happiness",
+        "It violates the golden mean",
+        "It treats people merely as means rather than as ends in themselves",
+        "It ignores the will to power"
+      ],
+      "answer": 2,
+      "explanation": "Kant's humanity formula (Day 56) forbids using rational beings merely as tools; deception and manipulation bypass their rational agency."
+    },
+    {
+      "type": "mc",
+      "question": "Under Mill's harm principle, when may society legitimately restrict an adult's liberty?",
+      "options": [
+        "Only to prevent harm to others",
+        "Whenever the majority disapproves of the conduct",
+        "Whenever the conduct is bad for the person themselves",
+        "Whenever religious authorities forbid it"
+      ],
+      "answer": 0,
+      "explanation": "Mill (Day 62) held that the only legitimate ground for coercing an individual is to prevent harm to others, not their own good or majority disapproval."
+    },
+    {
+      "type": "mc",
+      "question": "According to Popper, what distinguishes a scientific theory from a non-scientific one?",
+      "options": [
+        "It has been proven true",
+        "It is accepted by most scientists",
+        "It is falsifiable: it makes predictions that could turn out wrong",
+        "It uses mathematics"
+      ],
+      "answer": 2,
+      "explanation": "Popper's demarcation criterion (Day 72) is falsifiability; no amount of confirmation proves a theory true."
+    },
+    {
+      "type": "tf",
+      "question": "Sartre's waiter, who plays his role so perfectly that he pretends he is nothing but a waiter, is his example of bad faith.",
+      "answer": true,
+      "explanation": "Sartre (Day 77) used the waiter to show how we deny our freedom by identifying wholly with a fixed role."
+    },
+    {
+      "type": "tf",
+      "question": "Rawls' veil of ignorance asks people to choose principles of justice while knowing their own wealth, talents and social position.",
+      "answer": false,
+      "explanation": "Behind the veil (Day 82), people do not know their place in society, so they cannot tailor principles to their own advantage."
+    },
+    {
+      "type": "tf",
+      "question": "Both the Buddhist doctrine of no-self and Hume's bundle theory deny that introspection reveals a permanent, unchanging self.",
+      "answer": true,
+      "explanation": "The Buddha (Day 87) and Hume (Day 50) both found only changing processes or perceptions, though for different purposes."
+    },
+    {
+      "type": "tf",
+      "question": "Whitehead's remark that European philosophy is a series of footnotes to Plato means that no philosopher after Plato said anything original.",
+      "answer": false,
+      "explanation": "Whitehead was exaggerating to stress how Plato set the agenda; later thinkers transformed his questions in original ways."
+    },
+    {
+      "type": "tf",
+      "question": "Reflective equilibrium involves adjusting both general principles and particular judgments until they fit together.",
+      "answer": true,
+      "explanation": "Rawls' method (Day 82) works in both directions; neither principles nor intuitions are treated as untouchable."
+    }
+  ],
+  "goDeeper": {
+    "body": "Does philosophy make progress? It is one of the most debated questions in **metaphilosophy**, the philosophy of philosophy. The Australian philosopher David Chalmers argued in a 2015 paper that there has been some progress but far less convergence on the big questions than in the sciences. He cited the PhilPapers Survey, which asked thousands of professional philosophers their views and found deep disagreement on questions such as free will, the existence of God, moral realism and the nature of mind, though with clear majorities on some issues. Why so little convergence after so long? Possible answers include: the questions that get settled leave philosophy and become sciences; philosophy studies questions that have no empirical test; or philosophical progress consists less in final answers than in clarifying the options, discovering hidden assumptions, and ruling out bad arguments.\n\nA second debate concerns the **canon** itself. Who belongs in the great conversation? Recent scholarship has recovered many neglected figures, such as Elisabeth of Bohemia (Day 44), Anne Conway, Mary Astell, Émilie du Châtelet, Anton Wilhelm Amo (an eighteenth-century philosopher born in West Africa who taught at German universities), and countless thinkers from the traditions you met on Day 87. Some philosophers argue that the canon should be widened; others that the very idea of a single canon should be replaced by multiple, overlapping conversations. Either way, the history of philosophy is itself still being written.\n\nFinally, consider the ancient idea that philosophy is preparation for death, which Socrates proposed in the *Phaedo* (Day 15) and Montaigne echoed (Day 40). Some modern readers interpret it not as morbid but as liberating: by reflecting on what matters most while there is still time to live by it, we make our lives our own.",
+    "readings": [
+      {
+        "title": "The Problems of Philosophy",
+        "author": "Bertrand Russell",
+        "note": "A short classic introduction from 1912; the final chapter, 'The Value of Philosophy', is an ideal companion to today's lesson."
+      },
+      {
+        "title": "Philosophy as a Way of Life",
+        "author": "Pierre Hadot",
+        "note": "Essays arguing that ancient philosophy was a set of spiritual exercises for living, not only a body of doctrine."
+      },
+      {
+        "title": "The Story of Philosophy",
+        "author": "Bryan Magee",
+        "note": "A vividly illustrated overview by a gifted popularizer, good for reviewing the whole arc of the course."
+      },
+      {
+        "title": "Apology",
+        "author": "Plato",
+        "note": "Return to where it began: Socrates' defense speech, with its claim that the unexamined life is not worth living."
+      }
+    ],
+    "questions": [
+      "Which thinker from the course changed your mind about something, and what exactly changed?",
+      "Is there a question you now think philosophy can never answer? If so, is it still worth asking?",
+      "If you could add one voice to the great conversation that this course left out, whose would it be, and why?"
+    ]
+  }
+}
