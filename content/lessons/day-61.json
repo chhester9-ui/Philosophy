@@ -1,0 +1,245 @@
+{
+  "id": "day-61",
+  "day": 61,
+  "title": "Bentham and Mill: Utilitarianism",
+  "subtitle": "Morality as the arithmetic of happiness, and its limits",
+  "philosophers": ["Jeremy Bentham", "John Stuart Mill"],
+  "era": "1780s–1870s",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to state the principle of utility and explain what makes utilitarianism a consequentialist theory.",
+    "By the end you will be able to describe Bentham's hedonic calculus and his reformist aims.",
+    "By the end you will be able to explain Mill's distinction between higher and lower pleasures and the competent judge test.",
+    "By the end you will be able to apply utilitarian reasoning to a concrete case and compare it with Kant's ethics.",
+    "By the end you will be able to present the strongest objections to utilitarianism and the main utilitarian replies."
+  ],
+  "hook": "Visit University College London and you may meet Jeremy Bentham in person. At his own request, his body was dissected for science after his death in 1832, and his skeleton was dressed in his own clothes, padded out, and seated in a wooden cabinet with his walking stick. Because the preservation of his head went badly, a wax head sits on top; the real one was kept separately and is no longer on display. Bentham called this an **auto-icon**: a person who serves as his own memorial. It is odd, but it is also very Bentham. Why waste a perfectly good body on a useless funeral when it could be useful?\n\nThat single question, *what is the use of it?*, became one of the most powerful ideas in modern ethics. Bentham and his brilliant successor John Stuart Mill argued that the right action is simply the one that produces the most happiness and the least suffering for everyone affected. No commandments carved in stone, no appeals to tradition or to the will of God: just the welfare of real, feeling beings. On Day 56 Kant told us that some acts, like lying, are wrong whatever the consequences. Today we meet his great rival. Which of them is right might decide what you think about everything from hospital budgets to self-driving cars.",
+  "sections": [
+    {
+      "heading": "Bentham: Two Sovereign Masters",
+      "body": "Jeremy Bentham (1748–1832) was a child prodigy who went to Oxford at twelve and trained as a lawyer, but he was appalled by English law. It was a tangle of ancient precedents, cruel punishments and privileges for the powerful, defended by judges and writers who praised its wisdom and tradition. Bentham wanted to rebuild it on a rational foundation. He found that foundation in a single principle.\n\nHis *Introduction to the Principles of Morals and Legislation* (printed in 1780 and published in 1789, the year the French Revolution began) opens with a famous sentence:\n\n> Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.\n\nPain and pleasure, Bentham says, determine both what we *do* and what we *ought* to do. From this he derives the **principle of utility**: an action is right insofar as it tends to increase the happiness of those affected, and wrong insofar as it tends to diminish it. By **utility** he means the property of a thing to produce benefit, pleasure or happiness, or to prevent pain. The slogan often attached to the view, “the greatest happiness of the greatest number”, did not originate with Bentham; versions of it appear earlier, for example in the Scottish philosopher Francis Hutcheson in 1725. But Bentham made it the foundation of a whole system of ethics and law.\n\nTwo features of the principle are radical. First, **everyone counts equally**. A lord's happiness weighs no more than a laborer's. Second, the circle of concern is drawn by the capacity to suffer, not by reason or language. In a famous footnote about the treatment of animals, Bentham wrote: “The question is not, Can they reason? nor, Can they talk? but, Can they suffer?” Peter Singer (Day 83) would build the modern animal liberation movement on that line.\n\nBentham had no patience for rival foundations. Appeals to the moral sense, to conscience, or to natural law (remember Aquinas on Day 36) were, he thought, just ways of dressing up personal prejudice as eternal truth. He was especially scornful of the French Declaration of the Rights of Man: natural rights, he wrote in *Anarchical Fallacies*, are simple nonsense, and natural and imprescriptible rights are “nonsense upon stilts”. Rights, for him, were real only when created and enforced by law, and justified only by their usefulness."
+    },
+    {
+      "heading": "The Hedonic Calculus: Morality by Measurement",
+      "body": "If right and wrong depend on pleasure and pain, then ethics becomes, at least in principle, a matter of measurement. Bentham proposed a method, later called the **hedonic calculus** (or felicific calculus), for estimating the value of a pleasure or pain. He listed seven dimensions:\n\n- **Intensity**: how strong is it?\n- **Duration**: how long does it last?\n- **Certainty**: how likely is it to occur?\n- **Propinquity**: how soon will it come?\n- **Fecundity**: will it lead to further pleasures (or pains)?\n- **Purity**: is it free from accompanying pains (or pleasures)?\n- **Extent**: how many people does it affect?\n\nImagine deciding whether to spend an evening studying for an exam or going to a party. The party offers intense pleasure, soon and fairly certainly, but it may be impure (a hangover) and infertile (a worse grade, a more stressful week). Studying offers a mild, uncertain, distant pleasure, but it is fecund: it opens further opportunities. Bentham did not expect anyone to compute numbers before every choice. He offered the calculus as a guide for thinking, and especially for **legislators**, who must consider the effects of laws on millions.\n\nBentham also insisted that pleasures differ only in quantity, not in kind. A well-known line from his later writings states that, prejudice apart, the children's game of push-pin is of equal value with the arts and sciences of music and poetry, if it gives as much pleasure. There is something democratic in this: who are philosophers to tell ordinary people that their pleasures are inferior? But there is also something that many readers find deeply unsatisfying.\n\nWhatever its flaws, Bentham's approach was a powerful engine of reform. He and his followers, often called the **philosophic radicals**, campaigned for wider voting rights, the secret ballot, prison reform, public health, freedom of the press, and the decriminalization of homosexuality (in essays not published in his lifetime). He designed the **Panopticon**, a prison in which inmates could be watched at all times by an unseen inspector, an idea that Michel Foucault would later turn into a symbol of modern surveillance (Day 81). Utilitarianism began not as an armchair theory but as a program for changing society."
+    },
+    {
+      "heading": "Mill: Raised to Be a Utilitarian",
+      "body": "John Stuart Mill (1806–1873) was the son of Bentham's close friend and ally, the philosopher James Mill. His father designed for him one of the most extraordinary educations in history. According to his *Autobiography*, Mill began learning Greek at three and Latin at eight, read Plato's dialogues in the original as a child, and was studying logic and political economy by his early teens. He was, in effect, being raised as the heir and future champion of utilitarianism.\n\nThen, at twenty, in 1826, he broke down. Mill describes a crisis of depression in which he asked himself a terrible question: if all the reforms he was working for were accomplished tomorrow, would it make him happy? An irrepressible self-consciousness answered no. His education had trained his analytical powers but starved his feelings. What helped him recover, he tells us, was poetry, especially Wordsworth, which offered a cultivation of feeling that Bentham's system had neglected.\n\nThe crisis shaped Mill's version of utilitarianism. He never abandoned the principle of utility; his short book *Utilitarianism* (published in *Fraser's Magazine* in 1861 and as a book in 1863) is a defense of it. He restated the core idea as the **greatest happiness principle**: actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness he meant pleasure and the absence of pain. But he gave the theory a richer, more humane picture of what happiness involves.\n\nMill also had a remarkable partner in thought, Harriet Taylor, whom he met in 1830 and married in 1851. Her influence on his work, especially on liberty and the equality of women, is the subject of tomorrow's lesson (Day 62)."
+    },
+    {
+      "heading": "Higher and Lower Pleasures",
+      "body": "Critics had long mocked the Epicureans (Day 24) and now the utilitarians with the same charge: a philosophy that puts pleasure at the center is a **doctrine worthy only of swine**. If pleasure is all that matters, a pig rolling in the mud might be living as good a life as a poet.\n\nMill's reply is the most famous idea in *Utilitarianism*. Pleasures differ not only in quantity but in **quality**. There are **higher pleasures**, those of the intellect, of feeling and imagination, and of moral sentiment, and there are **lower pleasures**, those of mere bodily sensation. A small amount of a higher pleasure can be worth more than a large amount of a lower one.\n\nHow do we know which is higher? Mill proposes a test of **competent judges**. If almost everyone who has experienced both of two pleasures decidedly prefers one, even when it comes with more discomfort, that one is superior in quality. And people who are acquainted with both, he claims, would never trade the life of a thinking being for that of a contented animal. Hence his most famous lines:\n\n> It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.\n\nThe fool or the pig may think otherwise, Mill adds, but only because they know only their own side of the question.\n\nIs this a coherent improvement or a betrayal of utilitarianism? Critics have pressed hard. If higher pleasures are better not because they are *more pleasant* but for some other reason, then pleasure is no longer the only thing that matters, and Mill has quietly smuggled in a non-utilitarian standard of value. Others ask whether his competent judges are simply educated Victorian gentlemen projecting their own tastes; plenty of people who know both opera and football prefer football. Defenders reply that Mill is right to notice that human well-being includes the exercise of our distinctive capacities, an idea that echoes Aristotle's eudaimonia (Day 20)."
+    },
+    {
+      "heading": "Consequentialism versus Kant",
+      "body": "Utilitarianism is the most famous example of **consequentialism**, the family of theories holding that the rightness of an action depends only on its consequences. (The word itself was coined much later, by the philosopher Elizabeth Anscombe in 1958, whom you will meet on Day 85.) Utilitarianism adds two further claims: that the good to be promoted is **welfare** or happiness, and that we should **maximize** it impartially, counting each person's happiness equally.\n\nCompare Kant (Day 56). For Kant, what makes an action right is the principle on which it is done, whether it could be willed as a universal law and whether it respects persons as ends in themselves. Consequences are morally secondary. For the utilitarian, by contrast, motives matter only indirectly. Mill gives a vivid example: someone who saves a person from drowning does what is morally right whether his motive is duty or the hope of being paid for his trouble. The motive tells us about the *agent's character*, but the rightness of the *act* depends on its effects.\n\nThe contrast shows up in hard cases. Recall Kant's notorious example of lying to a murderer at the door who asks where your friend is hiding. Kant held that you may not lie. The utilitarian finds this absurd: lying here prevents a death, and that settles it.\n\nMill also answered a practical worry. We usually cannot calculate all the consequences of an action before acting. True, Mill says, but humanity has been learning the effects of actions for all of history. Rules like “keep your promises” and “do not steal” are **secondary principles**, condensed wisdom about what generally promotes happiness. We should usually follow them and appeal directly to utility only when they conflict. Later philosophers developed this into a distinction between **act utilitarianism**, which judges each act by its consequences, and **rule utilitarianism**, which judges acts by whether they follow rules whose general acceptance would maximize happiness. Scholars still argue over which Mill himself held."
+    },
+    {
+      "heading": "The Great Objections",
+      "body": "Utilitarianism is simple, egalitarian and practical. It is also the target of some of the most powerful objections in ethics.\n\n1. **Justice and rights.** Imagine a town where a crime has caused a riot that will kill many people unless the sheriff frames and executes an innocent man. Or a surgeon with five patients who will die without organ transplants and one healthy visitor whose organs could save them all. Simple act utilitarianism seems to say: kill the one. Almost everyone thinks this is monstrous. The objection is that utilitarianism ignores the **separateness of persons**: it treats individuals as containers of happiness to be added up, so that one person's loss can be cancelled by others' gains. John Rawls (Day 82) made this central to his critique.\n\n2. **Demandingness.** If you must always maximize total happiness, then almost any money you spend on yourself is wrong when it could save lives elsewhere. Peter Singer embraces something close to this conclusion (Day 83); critics say a theory that leaves no room for personal projects, family loyalty or rest asks too much.\n\n3. **Integrity.** Bernard Williams argued that utilitarianism turns us into mere channels for producing good outcomes, alienating us from our deepest commitments. In his example, a man named Jim is told that if he shoots one captive villager, the other nineteen will be spared. Williams thought utilitarianism gets the answer too quickly and misses what is at stake for Jim himself.\n\n4. **Measurement.** Can happiness really be measured and compared across people? How many units of my headache equal your joy at a concert?\n\n5. **Experience.** If pleasure is all that matters, would it be best to plug into a machine that gives you perfect simulated experiences? Robert Nozick's experience machine (Day 82) suggests we care about more than how things feel.\n\nUtilitarians have replies. Rule utilitarians argue that a society allowing sheriffs to frame innocents would be terrified and miserable, so the rule against it maximizes happiness. Others bite the bullet in some cases and argue that our intuitions are unreliable. The debate continues in the Ethics and Metaethics track, recommended after today's lesson."
+    }
+  ],
+  "keyQuote": {
+    "text": "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.",
+    "source": "John Stuart Mill, Utilitarianism (1861), Chapter 2"
+  },
+  "modernConnection": {
+    "title": "Pricing a Year of Life",
+    "body": "Every public health system faces a utilitarian problem: there is never enough money to fund every treatment. In England, the National Institute for Health and Care Excellence (NICE) helps decide which drugs the National Health Service should pay for using a tool called the **QALY**, the quality-adjusted life year. One year in perfect health counts as 1; a year in poor health counts as less. A treatment's cost is compared with the QALYs it is expected to produce, and treatments that cost far more per QALY than a set threshold are often not recommended. This is Bentham's calculus in modern dress: measure the benefit, count everyone equally, and spend limited resources where they do the most good.\n\nThe same logic drives the **effective altruism** movement, which asks donors to give where each dollar does the most good. Organizations evaluate charities by cost-effectiveness, often concluding that money spent on, say, malaria nets saves far more lives than money spent locally. Governments do similar arithmetic in cost-benefit analysis for road safety, using a statistical value of a human life.\n\nThe critics of utilitarianism appear here too. Patients denied an expensive cancer drug ask how a committee can put a price on their extra months; this is the separateness-of-persons objection made personal. Disability advocates argue that QALYs can undervalue the lives of disabled people, since a year with a disability may count as less than a “full” year, which echoes the worry about who gets to judge quality. And effective altruism has faced the demandingness objection, along with criticism after a few of its high-profile figures were involved in scandals, which raised questions about whether reasoning purely in terms of expected outcomes can be used to rationalize bad means.\n\nWhere does the comparison break down? Modern policy rarely applies pure utilitarianism; it usually combines cost-effectiveness with rights, fairness rules and special protections for the worst off. But that very compromise is a lesson. Bentham's question, what does the most good?, is indispensable whenever resources are scarce. Mill and his critics remind us that it may not be the only question."
+  },
+  "vocabulary": [
+    {
+      "term": "Utilitarianism",
+      "definition": "The ethical theory that the right action is the one that produces the greatest overall happiness (or well-being) for all those affected, counted impartially.",
+      "example": "A utilitarian would support a vaccination program if it prevents far more suffering than it causes."
+    },
+    {
+      "term": "Principle of utility",
+      "definition": "Bentham's principle that actions are to be approved or disapproved according to their tendency to increase or diminish the happiness of those affected.",
+      "example": "Bentham used the principle of utility to argue that cruel and pointless punishments should be abolished."
+    },
+    {
+      "term": "Hedonic calculus",
+      "definition": "Bentham's method for estimating the value of pleasures and pains by intensity, duration, certainty, propinquity, fecundity, purity and extent.",
+      "example": "Applying the hedonic calculus, the hangover counts against the party's pleasure because it reduces its purity."
+    },
+    {
+      "term": "Consequentialism",
+      "definition": "The family of ethical theories holding that the rightness of actions depends only on their consequences; utilitarianism is the best-known example.",
+      "example": "A consequentialist judges a lie by what it brings about, not by the fact that it is a lie."
+    },
+    {
+      "term": "Higher and lower pleasures",
+      "definition": "Mill's distinction between pleasures of the intellect, feeling, imagination and morality (higher) and those of mere bodily sensation (lower), differing in quality, not only quantity.",
+      "example": "Mill thought that the pleasure of understanding a great novel is a higher pleasure than that of eating a cake."
+    },
+    {
+      "term": "Competent judges",
+      "definition": "Mill's test for the quality of pleasures: the preference of people who have experienced both of the pleasures being compared.",
+      "example": "According to the competent judges test, if nearly everyone who knows both chess and checkers prefers chess, chess offers the higher pleasure."
+    },
+    {
+      "term": "Act and rule utilitarianism",
+      "definition": "Act utilitarianism judges each individual action by its consequences; rule utilitarianism judges actions by whether they follow rules whose general acceptance would maximize happiness.",
+      "example": "A rule utilitarian may keep a promise even when breaking it would do slightly more good, because a promise-keeping rule maximizes happiness overall."
+    },
+    {
+      "term": "Separateness of persons",
+      "definition": "The objection that utilitarianism wrongly treats individuals as interchangeable containers of happiness, allowing one person's loss to be cancelled by others' gains.",
+      "example": "The surgeon who kills one patient to save five illustrates the separateness of persons objection."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Running the Numbers, and Feeling the Limits",
+    "prompt": "Spend 10–15 minutes applying utilitarian reasoning to a real decision, then testing it against the objections.",
+    "steps": [
+      "Choose a real decision from your life or community: how to spend a spare evening, where to donate money, whether a city should build a park or a parking garage.",
+      "List everyone affected. For each option, estimate the pleasures and pains using at least four of Bentham's dimensions (intensity, duration, certainty, fecundity, purity, extent).",
+      "Now apply Mill's correction: do any options involve higher pleasures that your simple tally underweighted? Would competent judges agree?",
+      "Test your conclusion against one objection: does your answer violate anyone's rights, demand too much of you, or require you to betray a personal commitment?",
+      "Write a short verdict: in this case, was utilitarian reasoning illuminating, misleading, or both? What, if anything, would you add to it?"
+    ]
+  },
+  "summary": [
+    "Utilitarianism holds that the right action is the one producing the greatest happiness for all affected, with everyone counting equally.",
+    "Bentham grounded morality in pleasure and pain, proposed a hedonic calculus, extended moral concern to animals, and used utility to drive legal and social reform.",
+    "Mill, shaped by a mental crisis, argued that pleasures differ in quality as well as quantity; better Socrates dissatisfied than a fool satisfied.",
+    "Utilitarianism is a form of consequentialism, opposed to Kant's view that the rightness of an act depends on its principle rather than its effects.",
+    "Major objections concern justice and rights, demandingness, integrity, measurement and the experience machine; rule utilitarianism is one influential reply."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "According to Bentham's principle of utility, what makes an action right?",
+      "options": [
+        "Its conformity to the commands of God",
+        "Its being done from a sense of duty",
+        "Its tendency to increase the happiness of those affected",
+        "Its agreement with long-standing tradition"
+      ],
+      "answer": 2,
+      "explanation": "Bentham judged actions by their tendency to increase or decrease happiness, rejecting appeals to tradition, divine command or duty alone."
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is NOT one of the dimensions in Bentham's hedonic calculus?",
+      "options": [
+        "Intensity",
+        "Nobility",
+        "Fecundity",
+        "Extent"
+      ],
+      "answer": 1,
+      "explanation": "Bentham's seven dimensions were intensity, duration, certainty, propinquity, fecundity, purity and extent; he denied that some pleasures are nobler in kind."
+    },
+    {
+      "type": "mc",
+      "question": "Bentham's question “Can they suffer?” was used to argue that:",
+      "options": [
+        "Only rational beings deserve moral consideration",
+        "Animals should be included in moral consideration because they can feel pain",
+        "Suffering builds character and should be encouraged",
+        "Laws should punish people who complain"
+      ],
+      "answer": 1,
+      "explanation": "For Bentham, the capacity to suffer, not the capacity to reason or speak, is what makes a being's interests count morally."
+    },
+    {
+      "type": "mc",
+      "question": "How did Mill respond to the charge that utilitarianism is a “doctrine worthy only of swine”?",
+      "options": [
+        "By admitting that human and animal pleasures are equal",
+        "By abandoning pleasure as the standard of value",
+        "By arguing that bodily pleasures are the only real ones",
+        "By distinguishing higher pleasures from lower ones, which differ in quality"
+      ],
+      "answer": 3,
+      "explanation": "Mill argued that the pleasures of intellect, feeling and imagination are higher in quality, as shown by the preferences of competent judges."
+    },
+    {
+      "type": "mc",
+      "question": "A sheriff can prevent a deadly riot only by framing and executing an innocent man. Why is this case a problem for simple act utilitarianism?",
+      "options": [
+        "Because it seems to require a monstrous injustice whenever the numbers favor it",
+        "Because it shows utilitarians care only about animals",
+        "Because utilitarians reject all punishment",
+        "Because the sheriff's motive is selfish"
+      ],
+      "answer": 0,
+      "explanation": "If only total happiness matters, sacrificing an innocent could be required; critics say this ignores justice and the separateness of persons."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern practice most directly applies utilitarian reasoning?",
+      "options": [
+        "A court protecting a defendant's right to a fair trial regardless of public opinion",
+        "A health agency comparing treatments by cost per quality-adjusted life year",
+        "A religious community following ancient dietary laws",
+        "A person keeping a promise to a dead friend that no one knows about"
+      ],
+      "answer": 1,
+      "explanation": "QALY-based funding decisions measure benefits and spend limited resources where they produce the most well-being, a recognizably Benthamite approach."
+    },
+    {
+      "type": "mc",
+      "question": "What is the difference between act and rule utilitarianism?",
+      "options": [
+        "Act utilitarianism counts only pleasures; rule utilitarianism counts only pains",
+        "Act utilitarianism was Kant's view; rule utilitarianism was Bentham's",
+        "Rule utilitarianism ignores consequences entirely",
+        "Act utilitarianism judges each act by its consequences; rule utilitarianism judges acts by rules whose general acceptance maximizes happiness"
+      ],
+      "answer": 3,
+      "explanation": "Both are consequentialist, but rule utilitarianism evaluates rules rather than individual acts, which can help it avoid some unjust conclusions."
+    },
+    {
+      "type": "tf",
+      "question": "For Mill, someone who saves a drowning person in the hope of a reward does a morally right act, even though the motive tells us something about his character.",
+      "answer": true,
+      "explanation": "Mill used this example to separate the rightness of an act, judged by consequences, from the worth of the agent's motive."
+    },
+    {
+      "type": "tf",
+      "question": "Bentham strongly supported the doctrine of natural rights proclaimed in the French Declaration of the Rights of Man.",
+      "answer": false,
+      "explanation": "Bentham called natural rights nonsense and natural, imprescriptible rights “nonsense upon stilts”; rights for him were creations of law justified by utility."
+    },
+    {
+      "type": "tf",
+      "question": "Mill reported that poetry, especially Wordsworth's, helped him recover from his mental crisis at the age of twenty.",
+      "answer": true,
+      "explanation": "In his Autobiography Mill describes how Wordsworth's poetry offered the cultivation of feeling that his analytical education had neglected."
+    }
+  ],
+  "goDeeper": {
+    "body": "The most influential refinement of utilitarianism after Mill came from Henry Sidgwick, whose *The Methods of Ethics* (1874) is often called the most careful work of moral philosophy of the nineteenth century. Sidgwick saw that utilitarianism sits uneasily beside rational egoism, the view that each person should promote their own good. He could find no knock-down argument showing which is more rational, a tension he called the **dualism of practical reason**. He also argued that a utilitarian might rationally keep some of its own reasoning secret, since publicly teaching it could produce worse outcomes; critics later labeled this **government house utilitarianism**, a moral theory for an elite rather than for everyone.\n\nIn the twentieth century, utilitarianism split into many forms. **Preference utilitarianism** (associated with R. M. Hare and the early Peter Singer) replaces pleasure with the satisfaction of preferences, sidestepping the experience machine. **Two-level** views, also developed by Hare, say we should live by intuitive rules in daily life and reserve direct calculation for reflective moments, a descendant of Mill's secondary principles. The classic debate between J. J. C. Smart and Bernard Williams in *Utilitarianism: For and Against* (1973) remains the best introduction to the stakes. Meanwhile, G. E. Moore attacked Mill's “proof” of utility, his argument that the only evidence that something is desirable is that people actually desire it, as a confusion of what *is* desired with what *ought* to be desired; this is related to Hume's is-ought gap (Day 50) and to what Moore called the naturalistic fallacy. Ask whether any ethical theory can avoid relying on intuitions somewhere, and what that means for utilitarianism's claim to be the most rational ethics.",
+    "readings": [
+      {
+        "title": "Utilitarianism",
+        "author": "John Stuart Mill",
+        "note": "Short and readable; Chapter 2 contains higher and lower pleasures and replies to objections, Chapter 5 discusses justice."
+      },
+      {
+        "title": "An Introduction to the Principles of Morals and Legislation",
+        "author": "Jeremy Bentham",
+        "note": "Read Chapters 1 and 4 for the principle of utility and the hedonic calculus, and the footnote on animals in Chapter 17."
+      },
+      {
+        "title": "Utilitarianism: For and Against",
+        "author": "J. J. C. Smart and Bernard Williams",
+        "note": "A classic debate; Williams' essay introduces the integrity objection and the case of Jim."
+      },
+      {
+        "title": "Utilitarianism: A Very Short Introduction",
+        "author": "Katarzyna de Lazari-Radek and Peter Singer",
+        "note": "A sympathetic modern overview by two leading utilitarians, covering history, objections and applications."
+      }
+    ],
+    "questions": [
+      "Is there any action you believe would be wrong even if it produced the best consequences overall? What does your answer suggest about utilitarianism?",
+      "Does Mill's distinction between higher and lower pleasures rescue utilitarianism or quietly abandon it?",
+      "Should governments use explicitly utilitarian tools like QALYs, and if so, what limits should constrain them?"
+    ]
+  }
+}

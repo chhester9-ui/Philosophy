@@ -1,0 +1,242 @@
+{
+  "id": "day-06",
+  "day": 6,
+  "title": "The Pluralists: Empedocles and Anaxagoras",
+  "subtitle": "How to rescue a changing world from Parmenides: many unchanging ingredients, endlessly mixed",
+  "philosophers": ["Empedocles", "Anaxagoras"],
+  "era": "c. 500–c. 428 BCE",
+  "estimatedMinutes": 45,
+  "objectives": [
+    "Explain how the pluralists accepted Parmenides’ rule that nothing comes from nothing while still allowing change",
+    "Describe Empedocles’ four roots and the forces of Love and Strife, including his cosmic cycle",
+    "Explain Anaxagoras’ principle that there is a portion of everything in everything",
+    "Explain Anaxagoras’ idea of Mind (nous) and why Socrates was both excited and disappointed by it",
+    "Compare the pluralists’ theories with modern chemistry and physics, noting where the comparison fails"
+  ],
+  "hook": "Bake a cake. Flour, eggs, sugar and butter go in; something new comes out, with a taste and texture none of the ingredients had. Has anything come into existence? In one sense, yes: there was no cake before. In another sense, no: nothing appeared from nowhere. The ingredients were simply mixed and transformed. Burn the cake and it seems to vanish, but it has only turned into smoke, gases, water vapor and ash.\n\nThis everyday thought holds the key to today’s lesson. On Day 5, Parmenides argued that nothing can come from nothing or pass into nothing, and concluded that change is an illusion. Most people could not accept that conclusion, but they found his argument hard to beat. Two thinkers of the next generation, a flamboyant poet-healer from Sicily and a sober scientist who brought philosophy to Athens, found a clever way out. They agreed with Parmenides that real being cannot be born or die. But what if there are many such beings, and what we call birth and death is only their mixing and separating, like ingredients in a cake?",
+  "sections": [
+    {
+      "heading": "The Problem They Inherited",
+      "body": "To see what the pluralists achieved, recall the situation. The Milesians (Day 2) said one basic stuff, such as water or air, turns into everything else. Heraclitus (Day 4) made constant change the very nature of reality. Then Parmenides (Day 5) argued that genuine coming-to-be is impossible: what-is cannot arise from what-is-not, and cannot turn into what-is-not. If water became fire, the water would have to cease to be, and fire would come from what was not fire. Parmenides thought such talk was confused.\n\nThe thinkers we meet today are called **pluralists**, because they held that reality consists of a plurality, many basic things, rather than one. Their strategy was elegant. They accepted Parmenides’ key rule: true realities are ungenerated, imperishable and unchanging in their own nature. But they denied that there is only one such reality. If there are several unchanging ingredients, then the changes we see can be explained as rearrangements of them. Nothing truly comes from nothing. Things are simply mixed and unmixed.\n\nThis is one of the most important moves in the history of science. Notice what it does. It keeps the logical demand that nothing comes from nothing, a version of which survives today as conservation laws in physics. And it saves the world of appearances, the world of birth, growth and decay, by treating it as a surface pattern produced by deeper, unchanging elements. Both pluralists, however, had to answer two further questions. What are the basic ingredients? And what makes them move and mix in the first place? Parmenides had argued that real being cannot move by itself. So something must cause the motion."
+    },
+    {
+      "heading": "Empedocles: Four Roots, Two Forces",
+      "body": "**Empedocles** (c. 494–c. 434 BCE) came from Acragas, now Agrigento, on the southern coast of Sicily, a rich city famous for its temples. He was a remarkable figure: a statesman with democratic sympathies who, according to ancient report, declined an offer of kingship; a physician and healer; a poet; and a religious teacher who announced, at the opening of one of his poems, that he went about among his people as an immortal god, no longer a mortal (Fragment B112). Whether that was a boast, a religious claim about the soul’s divine origin, or both, is debated.\n\nHe wrote in verse, like Parmenides. Ancient sources mention two poems, usually called *On Nature* and *Purifications*. In the 1990s, scholars identified new pieces of *On Nature* on a papyrus in Strasbourg, published in 1999, which helped show that his science and his religion were more closely connected than once thought.\n\nEmpedocles proposed that there are four basic, eternal substances, which he called the four **roots**: fire, air, earth and water. He gave them the names of gods (Zeus, Hera, Aidoneus and Nestis), though which god matches which root was disputed even in antiquity. These four roots never come into being or perish, and never turn into one another. Everything else is a **mixture** of them in different proportions. One fragment gives a recipe for bone: two parts earth, two parts water and four parts fire (B96). Different ratios, different substances. A painter, he said, can make all the forms of trees, men, women and beasts by mixing a few colors (B23).\n\nThe Milesians had wondered how one thing becomes another. Empedocles answered that nothing does. As he put it, there is no birth of any mortal thing, nor any end in death, only mixing and the exchange of what has been mixed; birth is just a name that people give to this (B8).\n\nWhat drives the mixing? Empedocles named two cosmic forces. **Love** (in Greek, *Philotes*) draws unlike things together and unites them. **Strife** (*Neikos*) drives them apart. You might think of Love as attraction and Strife as repulsion, though for Empedocles they were also emotional and moral powers, the same forces we feel in friendship and hatred. He even seems to have treated them as having bulk, spread through the cosmos like the roots themselves.\n\nHe was also an inventive investigator. In one passage he describes a girl playing with a water-clock (a vessel with holes at the bottom and a tube at the top): while her thumb covers the top, water cannot enter, because the air trapped inside pushes back (B100). It is not an experiment in the modern sense, but it shows careful observation of the fact that air is a real, bodily thing."
+    },
+    {
+      "heading": "The Cosmic Cycle and the Wandering Soul",
+      "body": "Love and Strife take turns in dominating the universe in an endless cycle. When Love rules completely, all four roots are blended together into a single perfect, motionless **Sphere**, a picture that clearly echoes Parmenides’ well-rounded Being. When Strife gains power, the roots separate. When Strife rules completely, they are entirely divided into four masses. Then Love regains ground, and the cycle continues. Our world, with its separate living things, exists in one of the in-between phases when both forces are at work. Scholars debate the details, including whether there is one world-forming phase or two in each cycle.\n\nIn describing how living things arose, Empedocles offered one of the strangest and most famous images in early Greek thought. In an early phase, he said, many heads sprang up without necks, arms wandered about without shoulders, and eyes roamed without foreheads (B57). As Love brought them together, they joined at random, producing monsters such as ox-headed creatures with human faces. Most such combinations could not survive or reproduce. Only those that happened to fit together well endured.\n\nIt is tempting to call this a forerunner of Darwin’s theory of natural selection, and Darwin himself mentioned in a later edition of *On the Origin of Species* that Aristotle had discussed a similar idea. But we should be careful. Empedocles had no idea of gradual change across generations, inheritance or common descent. His point was that order can emerge from random combinations because the unfit combinations are eliminated. That insight is genuinely striking. Aristotle, as you will see on Day 19, rejected it, arguing that the regularity of nature shows purpose rather than chance.\n\nEmpedocles’ religious poem tells a darker story. He believed the soul is a fallen divine spirit, exiled for wrongdoing, especially bloodshed, and forced to wander through many bodies for a vast stretch of time. In one well-known fragment he claims that he had already been a boy and a girl, a bush, a bird and a fish leaping from the sea (B117). Like the Pythagoreans of Day 3, he concluded that killing and eating animals was a kind of murder, since an animal might house a kinsman’s soul.\n\nAs for his death, the most famous story says he leapt into the crater of Mount Etna so that people would believe he had become a god, and that the volcano threw back one of his bronze sandals. This is a legend, and ancient writers told several contradictory versions of his end."
+    },
+    {
+      "heading": "Anaxagoras: Everything in Everything",
+      "body": "**Anaxagoras** (c. 500–c. 428 BCE) came from Clazomenae, a Greek city in Ionia, not far from Miletus. He moved to Athens, probably around the time of the Persian Wars, and became the first major philosopher to live there. He was a friend of the statesman Pericles, the leading figure in Athens during its golden age. Philosophy, which had flourished on the edges of the Greek world in Ionia and Italy, now arrived in the city that would become its home.\n\nAnaxagoras also accepted that nothing comes from nothing, but he drew a far more radical conclusion than Empedocles. Think about eating bread. The bread becomes your flesh, blood, bone and hair. How, Anaxagoras asked, could hair come from what is not hair, or flesh from what is not flesh (B10)? His answer: the bread must already contain portions of flesh, hair and bone, too small to see.\n\nIn fact, he concluded, **in everything there is a portion of everything** (B11). Every piece of matter, however small, contains a share of every kind of stuff: hot and cold, wet and dry, flesh, gold, wood and all the rest. There is no smallest piece. However finely you divide, each part still contains everything. You may recognize the infinite divisibility that Zeno exploited on Day 5; Anaxagoras seems to accept it calmly. A thing is called gold or flesh because that ingredient predominates in it, not because it is pure.\n\nAt the beginning, his book said, all things were together, unlimited in amount and smallness, so that nothing could be distinguished (B1). Our world arose when this mixture was set spinning in a great rotation. The whirl separated the dense, wet, cold and dark toward the center, which became the earth, and the rare, hot, dry and bright outward, toward the heavens. Different stuffs became concentrated in different places, without ever being purely separated.\n\nThis theory looks odd, but it has a certain power. Empedocles needed ratios of four roots to produce flesh or bone, and it is not obvious how mixing earth and fire could produce something with genuinely new qualities. Anaxagoras avoided that problem: nothing new ever appears, because everything was already there."
+    },
+    {
+      "heading": "Mind, the Sun and a Trial for Impiety",
+      "body": "What started the rotation? Here Anaxagoras introduced his most influential idea. The cause of motion and order is **Mind**, in Greek **nous**. Mind is the one thing that is not mixed with anything. It is unlimited, self-ruling, the finest and purest of all things, and it has knowledge of everything (B12). Mind set the great rotation going and so arranged all things that were to be.\n\nThis was a new kind of answer. For the first time, a philosopher said that the order of the cosmos comes from an intelligence, a principle distinct from matter. Aristotle later praised him for it, saying that Anaxagoras, in saying this, seemed like a sober man compared with the random talk of his predecessors (*Metaphysics* I.3).\n\nBut Plato records a famous disappointment. In the *Phaedo* (97b–99d), Socrates describes how, as a young man, he heard someone reading from Anaxagoras’ book that Mind arranges and causes all things. He was delighted. If Mind orders everything, he reasoned, it must arrange each thing in the way that is best, so to understand anything we should ask why it is best for it to be that way. Then he read the book and found that Anaxagoras explained everything by air, ether and water, by spinning and pressure, and made hardly any use of Mind at all. Socrates compared this to saying he was sitting in prison because of his bones and sinews, rather than because he had decided it was right to stay (a scene you will see on Day 10). This complaint about explanation without purpose would shape Plato and Aristotle profoundly.\n\nAnaxagoras was also a bold astronomer. He taught that the sun is a mass of red-hot metal or stone, larger than the Peloponnese, the southern Greek peninsula, and that the moon gets its light from the sun. He gave the correct explanation of eclipses: the moon passing in front of the sun, or the earth’s shadow falling on the moon. Some ancient sources connect his view of the heavens with a large meteorite that fell at Aegospotami in 467 BCE.\n\nThese views were dangerous. Treating the sun, worshipped as a god, as a hot rock looked like impiety. Anaxagoras was put on trial in Athens, probably in part as a political attack on his friend Pericles. The date and details are uncertain, but he left Athens and settled in Lampsacus, on the Hellespont, where he was honored until his death. Keep this story in mind. Some thirty years later, Athens would bring another philosopher to trial for impiety, and that one would not leave (Day 10)."
+    }
+  ],
+  "keyQuote": {
+    "text": "There is no birth of any mortal thing, nor any end in destructive death, but only mixing and exchange of what has been mixed; and birth is a name given to these by men.",
+    "source": "Empedocles, Fragment B8 (DK 31B8); translations vary"
+  },
+  "modernConnection": {
+    "title": "From Four Roots to the Periodic Table",
+    "body": "Open any chemistry textbook and you will find the pluralists’ basic strategy at work. Water, salt, steel, DNA and the coffee in your cup are all built from a limited set of chemical elements, 118 at the latest count, combined in different proportions. Water is two parts hydrogen to one part oxygen. Change the recipe and you get something else entirely. Empedocles’ “bone recipe” of earth, water and fire was wrong in its ingredients, but right in its spirit: properties of a substance depend on the ratio of its components.\n\nModern science also kept the pluralists’ rule that nothing comes from nothing. In the 1780s the French chemist Antoine Lavoisier showed by careful weighing that in chemical reactions mass is conserved: matter is rearranged, not created or destroyed. He is often credited with the slogan that nothing is lost, nothing is created, everything is transformed, though the exact wording is a later popular summary. Einstein later showed that mass and energy can convert into one another, but conservation of energy, in a broader form, still holds.\n\nEven Love and Strife have a faint echo. Physics today explains how matter combines and separates through fundamental forces of attraction and repulsion. Opposite electric charges attract and like charges repel, and that is what holds atoms and molecules together.\n\nThe comparison breaks down in important ways. Chemical elements can be turned into other elements by nuclear reactions, which the four roots never could. Modern atoms are not infinitely divisible, contradicting Anaxagoras. And modern forces are measured, mathematical and impersonal, while Empedocles’ Love and Strife were also moral and emotional powers. Most importantly, the Greeks had no experimental method to test between their theories.\n\nAnaxagoras’ Mind poses a question that remains open. Can the order in the universe be explained entirely by matter and forces, as most physicists assume? Or does that order point to something like mind behind it, as some defenders of design arguments claim when they point to the “fine-tuning” of physical constants? Socrates’ complaint, that explaining how things happen is not the same as explaining why, still divides scientists, philosophers and theologians."
+  },
+  "vocabulary": [
+    {
+      "term": "Pluralism",
+      "definition": "The view that reality is made up of many basic, irreducible things or kinds of things, rather than one.",
+      "example": "Empedocles’ pluralism allowed four eternal roots instead of Parmenides’ single Being."
+    },
+    {
+      "term": "Roots (elements)",
+      "definition": "Empedocles’ four eternal and unchanging basic substances: fire, air, earth and water, later known as the four elements.",
+      "example": "On Empedocles’ theory, a tree is just a particular blend of the four roots."
+    },
+    {
+      "term": "Love and Strife",
+      "definition": "Empedocles’ two cosmic forces: Love unites the roots into mixtures, and Strife separates them.",
+      "example": "When a living body decays, Empedocles would say Strife is pulling its roots apart."
+    },
+    {
+      "term": "Mixture",
+      "definition": "A combination of basic ingredients in some ratio; for the pluralists, what we call birth is mixing and what we call death is separation.",
+      "example": "For Anaxagoras, gold is a mixture in which the gold-portion predominates."
+    },
+    {
+      "term": "“Everything in everything”",
+      "definition": "Anaxagoras’ principle that every piece of matter, however small, contains a portion of every kind of stuff.",
+      "example": "According to “everything in everything,” bread already contains tiny portions of hair and flesh."
+    },
+    {
+      "term": "Nous (Mind)",
+      "definition": "For Anaxagoras, the pure, unmixed intelligence that knows all things and started the cosmic rotation that ordered the world.",
+      "example": "Socrates hoped Anaxagoras’ nous would explain why things are arranged for the best."
+    },
+    {
+      "term": "Cosmic cycle",
+      "definition": "Empedocles’ idea that the universe moves endlessly between total unity under Love and total separation under Strife.",
+      "example": "Our world exists in a middle phase of the cosmic cycle, when both forces are active."
+    },
+    {
+      "term": "Teleological explanation",
+      "definition": "An explanation in terms of purpose or goal, saying why something is good or what it is for, rather than only what mechanically caused it.",
+      "example": "Socrates wanted a teleological explanation from Anaxagoras but got only spinning and pressure."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "How Does Something New Come From the Old?",
+    "prompt": "Both pluralists tried to explain change without anything coming from nothing. Test their ideas against your own experience. Spend 10 to 15 minutes writing.",
+    "steps": [
+      "Pick an everyday transformation: an acorn becoming an oak, food becoming your body, or wood burning to ash. Describe it in two sentences.",
+      "Explain it the way Empedocles would, using roots, ratios, Love and Strife.",
+      "Explain it the way Anaxagoras would, using portions of everything and predominance.",
+      "Which account handles the appearance of genuinely new qualities better (the taste of the fruit, the hardness of the wood)? Write a short paragraph defending your choice.",
+      "Finally, consider Socrates’ complaint. Is an explanation of how something happened ever a complete answer to why it happened? Give one example where you think it is, and one where it is not."
+    ]
+  },
+  "summary": [
+    "The pluralists accepted Parmenides’ rule that real being cannot come from or pass into nothing, but held that there are many such beings whose mixing and separation explain change.",
+    "Empedocles of Acragas proposed four eternal roots (fire, air, earth, water) combined in ratios, moved by two forces, Love (uniting) and Strife (separating), in an endless cosmic cycle.",
+    "His account of randomly assembled body parts surviving only when they fit together is sometimes compared to natural selection, but lacks inheritance and gradual change.",
+    "Anaxagoras held that there is a portion of everything in everything, with no smallest part; things are named after the ingredient that predominates.",
+    "Anaxagoras introduced Mind (nous), pure and unmixed, as the cause of cosmic order; Socrates was disappointed that he used it so little to explain why things are for the best.",
+    "Anaxagoras brought philosophy to Athens, taught that the sun is a hot stone and was tried for impiety, a warning of what lay ahead for Socrates."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What principle of Parmenides did both Empedocles and Anaxagoras accept?",
+      "options": [
+        "That motion is an illusion",
+        "That reality is a single, undivided whole",
+        "That the senses are always reliable",
+        "That nothing real comes from nothing or passes into nothing"
+      ],
+      "answer": 3,
+      "explanation": "Both pluralists kept the rule that true being is ungenerated and imperishable, while rejecting the conclusion that there is only one being and no change."
+    },
+    {
+      "type": "mc",
+      "question": "According to Empedocles, what is happening when a living thing is “born”?",
+      "options": [
+        "Something comes into existence from nothing",
+        "Eternal roots are mixed together in a new combination",
+        "Mind creates a new soul from pure intelligence",
+        "Fire transforms itself into earth"
+      ],
+      "answer": 1,
+      "explanation": "Empedocles said birth is only a name people give to mixing; the four roots themselves never come into being or perish."
+    },
+    {
+      "type": "tf",
+      "question": "For Empedocles, the four roots can turn into one another, so that water becomes air and air becomes fire.",
+      "answer": false,
+      "explanation": "The roots are eternal and unchanging; they never transform into each other. Only their mixtures change. Transformation of one stuff into another was the Milesian picture."
+    },
+    {
+      "type": "mc",
+      "question": "In Empedocles’ cosmic cycle, what happens when Love rules completely?",
+      "options": [
+        "All the roots are blended together into a single perfect Sphere",
+        "The four roots are completely separated into distinct masses",
+        "Living creatures reach their most complex forms",
+        "Mind begins the cosmic rotation"
+      ],
+      "answer": 0,
+      "explanation": "Under total Love, everything is united in the Sphere. Total separation is the work of Strife, and Mind belongs to Anaxagoras."
+    },
+    {
+      "type": "mc",
+      "question": "Why did Anaxagoras conclude that there is a portion of everything in everything?",
+      "options": [
+        "Because he observed tiny particles under a lens",
+        "Because Empedocles had taught him so",
+        "Because hair, flesh and bone could not come from what is not hair, flesh and bone, so they must already be present in our food",
+        "Because Mind had placed one of each thing in every location"
+      ],
+      "answer": 2,
+      "explanation": "His reasoning combined Parmenides’ rule with observations of nutrition and growth: if flesh comes from bread, bread must already contain flesh."
+    },
+    {
+      "type": "mc",
+      "question": "What disappointed Socrates when he read Anaxagoras, according to Plato’s Phaedo?",
+      "options": [
+        "Anaxagoras denied that Mind exists",
+        "Anaxagoras claimed to be a god",
+        "Anaxagoras said the sun is a god",
+        "Anaxagoras introduced Mind as the cause of order but then explained things by physical processes rather than by what is best"
+      ],
+      "answer": 3,
+      "explanation": "Socrates hoped Mind would explain why things are arranged for the best, but found explanations in terms of air, ether and whirling instead."
+    },
+    {
+      "type": "tf",
+      "question": "Anaxagoras was put on trial in Athens partly because he taught that the sun is a mass of hot stone or metal rather than a god.",
+      "answer": true,
+      "explanation": "His astronomical views were treated as impious, and the trial was probably also a political attack on his friend Pericles. He left Athens for Lampsacus."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern idea best reflects the pluralists’ central strategy?",
+      "options": [
+        "Chemistry’s account of many substances as combinations of a limited set of elements, with mass conserved in reactions",
+        "The theory that the universe was created by a single divine act",
+        "The view that all knowledge comes from the senses",
+        "The claim that time is an illusion"
+      ],
+      "answer": 0,
+      "explanation": "Like the pluralists, modern chemistry explains change as rearrangement of basic ingredients, with nothing created from nothing, although the ingredients themselves are very different."
+    },
+    {
+      "type": "tf",
+      "question": "Empedocles’ story of randomly assembled body parts is an accurate early statement of Darwin’s theory of evolution.",
+      "answer": false,
+      "explanation": "It shares the idea that unfit combinations are eliminated, but lacks inheritance, gradual change over generations and common descent, which are central to Darwin."
+    },
+    {
+      "type": "mc",
+      "question": "What is the key difference between Empedocles’ and Anaxagoras’ explanations of why the world moves and has order?",
+      "options": [
+        "Empedocles thought nothing moves; Anaxagoras thought everything moves",
+        "Empedocles used two opposing forces, Love and Strife; Anaxagoras used one unmixed intelligence, Mind",
+        "Empedocles relied on Mind; Anaxagoras relied on Love and Strife",
+        "Both said the world was ordered by the Olympian gods"
+      ],
+      "answer": 1,
+      "explanation": "Empedocles explained motion through the alternating power of Love and Strife, while Anaxagoras attributed the original rotation and order to nous."
+    }
+  ],
+  "goDeeper": {
+    "body": "Were the pluralists really answering Parmenides? The traditional story, found in many textbooks, says yes: they accepted his ban on coming-to-be but multiplied the number of beings. Some scholars, notably Patricia Curd, refine this. On her reading, Parmenides demanded that each genuine entity have a single, unchanging nature, and the pluralists applied that standard to many entities. Others think the influence was looser, and that both pluralists were also continuing the Ionian tradition of cosmology on their own terms.\n\nAnaxagoras’ theory of matter has received especially close attention. If everything contains a portion of everything, what are the “things” that are mixed? Opposites like hot and cold? Stuffs like gold and flesh? Both? And how can a thing be named after its predominant ingredient if every portion of it, however small, is equally mixed? Scholars such as David Sedley and Patricia Curd have debated these questions, and some have compared Anaxagoras’ infinitely divisible mixture with modern ideas of continuous fields.\n\nEmpedocles’ reputation was transformed by the Strasbourg papyrus. Before it, many scholars treated *On Nature* (scientific) and *Purifications* (religious) as separate, perhaps contradictory works from different periods of his life. The new fragments link cosmic cycles with the fate of the daimon, the exiled spirit, suggesting a unified vision in which physics and salvation are two aspects of one story. Some scholars now doubt that there were ever two separate poems at all.\n\nFinally, Socrates’ complaint about Anaxagoras opens a debate you will follow through the course. Aristotle will build teleology, explanation by purpose, into his account of nature (Days 18 and 19). The scientific revolution will reject it in physics (Unit 6). And biologists still argue about how to talk about function and purpose in living things.",
+    "readings": [
+      {
+        "title": "The Presocratic Philosophers",
+        "author": "G. S. Kirk, J. E. Raven and M. Schofield",
+        "note": "The chapters on Empedocles and Anaxagoras give the main fragments with careful commentary."
+      },
+      {
+        "title": "Phaedo",
+        "author": "Plato",
+        "note": "Read 96a–99d, Socrates’ intellectual autobiography and his disappointment with Anaxagoras’ Mind."
+      },
+      {
+        "title": "Ancient Philosophy, Mystery, and Magic: Empedocles and Pythagorean Tradition",
+        "author": "Peter Kingsley",
+        "note": "A provocative study arguing that Empedocles must be understood as a religious and magical figure; read critically."
+      },
+      {
+        "title": "Early Greek Philosophy",
+        "author": "Jonathan Barnes (translator and editor)",
+        "note": "Accessible translations of the fragments of both thinkers, good for reading their own words in one sitting."
+      }
+    ],
+    "questions": [
+      "Can mixing a few ingredients ever produce something with genuinely new properties, or is the novelty only in our perception?",
+      "Is explaining how something happened enough, or do we also need to explain why it is good or what it is for?",
+      "Empedocles combined science, medicine and religion in one vision. Is anything lost when we keep these areas separate today?"
+    ]
+  }
+}

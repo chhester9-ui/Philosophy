@@ -1,0 +1,244 @@
+{
+  "id": "day-34",
+  "day": 34,
+  "title": "Anselm, Abelard and the Problem of Universals",
+  "subtitle": "Can you prove God from a definition, and does 'redness' exist anywhere?",
+  "philosophers": ["Anselm of Canterbury", "Gaunilo of Marmoutier", "Peter Abelard", "Heloise"],
+  "era": "c. 1033–1142 CE",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to state Anselm's ontological argument step by step and explain why it is so unusual.",
+    "By the end you will be able to present Gaunilo's 'lost island' objection and Anselm's reply.",
+    "By the end you will be able to explain the problem of universals and distinguish realism, nominalism and conceptualism.",
+    "By the end you will be able to describe Abelard's life, his Sic et Non and his contribution to the scholastic method."
+  ],
+  "hook": "Here are two red things: a ripe tomato and a fire engine. They are different objects, in different places, made of completely different stuff. Yet we say they share something: they are both red. So here is a strange question. What is this 'redness' that they share? Is it a real thing, existing in both of them at once? Is it something in our minds? Or is it just a word we happen to apply to both?\n\nThat question sounds like idle word-play, but in the eleventh and twelfth centuries it divided the schools of Europe, made and broke careers, and helped invent the university. In the same period, a gentle Italian monk in Normandy claimed to have found a single argument that would prove God exists from nothing but the meaning of the word 'God'. Today we meet two of the sharpest minds of the early Middle Ages: Anselm, the saintly archbishop, and Abelard, the brilliant, arrogant and tragic teacher of Paris.",
+  "sections": [
+    {
+      "heading": "Anselm: The Monk Who Became Archbishop",
+      "body": "**Anselm** (1033–1109) was born in Aosta, in the Alps of northern Italy. As a young man he crossed into France and eventually joined the monastery of Bec in Normandy, drawn by the reputation of its teacher Lanfranc. Anselm became prior and then abbot of Bec, and his community remembered him as a kind, patient teacher.\n\nIn 1093, much against his will, he was made Archbishop of Canterbury, the most important churchman in England. His years there were stormy. He clashed with two Norman kings, William II and Henry I, mainly over the question of who had the right to appoint and invest bishops, the king or the pope, and he spent years in exile. He died in 1109.\n\nAnselm is often called the first great **scholastic**, the name for the style of philosophy that would dominate medieval schools. He took Augustine's approach (Day 30) as his own. His most famous book was originally titled *Faith Seeking Understanding*, *fides quaerens intellectum*, the phrase that we credited to him on Day 30. Near its beginning he prays that he does not seek to understand in order to believe, but believes in order to understand. Anselm's faith was not in doubt. What he wanted was to see, with the mind, the inner reasons for what he already believed.\n\nIn his earlier *Monologion* he had offered several arguments for God, chained together. Afterward, he tells us, he began to look for a single argument that would need nothing but itself. The idea, he says, came to him suddenly after long frustration. He wrote it down in the *Proslogion* (c. 1077–1078), and it became one of the most argued-over passages in the history of philosophy."
+    },
+    {
+      "heading": "The Ontological Argument",
+      "body": "Anselm begins with a verse from the Psalms: the fool has said in his heart, there is no God. Even the fool, Anselm says, understands what the word 'God' means. And what it means is **something than which nothing greater can be thought**: the greatest conceivable being.\n\nNow Anselm draws a distinction. A thing can exist **in the understanding** (as an idea in someone's mind) or **in reality** (out in the world). Think of a painter planning a picture. Before painting, she has the picture in her understanding; once painted, it exists in reality too.\n\nHere is the argument, set out in steps:\n\n1. God is that than which nothing greater can be thought.\n2. Even the fool understands this phrase, so God exists at least in the understanding.\n3. It is greater to exist in reality as well as in the understanding than to exist in the understanding alone.\n4. Suppose God existed only in the understanding. Then we could think of something greater: the same being, existing also in reality.\n5. But then we could think of something greater than that than which nothing greater can be thought, which is a contradiction.\n6. Therefore, God exists not only in the understanding but also in reality.\n\nThis is a **reductio ad absurdum**: assume the opposite of your conclusion and show that it leads to contradiction. The argument was later named the **ontological argument** (from Greek *on*, being), a label given by Kant in the eighteenth century.\n\nWhat makes it so unusual? Most arguments for God start from something we observe: motion, causes, order in nature. These are called *a posteriori* arguments, reasoning from experience. Anselm's is purely *a priori*: it starts from a definition and uses only reasoning. If it works, simply understanding the idea of God is enough to know that God exists.\n\nIn chapter 3 Anselm pushes even further: God cannot even be *thought* not to exist, because a being that cannot be thought not to exist is greater than one that can. So the fool is a fool: he is saying words he cannot really think."
+    },
+    {
+      "heading": "Gaunilo's Lost Island",
+      "body": "Anselm did not have to wait long for a critic. A monk named **Gaunilo**, from the abbey of Marmoutier near Tours, wrote a short reply titled *On Behalf of the Fool*.\n\nGaunilo's most famous objection is a **parody**: an argument with exactly the same structure that leads to an obviously absurd conclusion. If the parody fails, then so must the original. Imagine, he says, an island somewhere in the ocean, a lost island, richer and more delightful than any land that exists. I understand the description perfectly, so the island exists in my understanding. And it would be more excellent if it existed in reality. So, by Anselm's reasoning, the island must exist. But clearly it doesn't follow. Anyone who tried to convince me this way, Gaunilo says, would be joking, or I would be the fool for believing him.\n\nGaunilo also questioned step 2. Do we really understand the phrase 'that than which nothing greater can be thought'? We can repeat the words, but can a finite mind form a real concept of an infinite being? Hearing a phrase is not the same as grasping what it refers to.\n\nAnselm was pleased enough with the criticism that he asked for Gaunilo's reply to be copied together with the *Proslogion*, along with his own response, which is how all three texts have come down to us. His response to the island is that the argument applies only to that than which nothing greater can be thought, and to nothing else. An island, however excellent, is a limited thing; there is no such thing as a 'greatest possible island', since one could always add another palm tree or a better beach. Only a being that is supreme in every respect has a maximum built into its very concept.\n\nThe debate did not end there. Thomas Aquinas (Day 35) rejected the argument, holding that we cannot know God's essence well enough for it to work. Descartes revived it (Day 44). Kant famously objected that existence is not a real predicate, not a property that makes a thing greater (Day 55). And in the twentieth century Alvin Plantinga restated it using the logic of possibility. Nearly a thousand years later, philosophers still disagree about exactly where, if anywhere, it goes wrong."
+    },
+    {
+      "heading": "The Problem of Universals",
+      "body": "Now back to the tomato and the fire engine. The question about redness is called the **problem of universals**. A **universal** is something that can be shared by many individual things: a quality like redness, a kind like 'human' or 'horse'. A **particular** is an individual thing: this tomato, Socrates, your neighbor's dog.\n\nThe medieval debate began with a passage we met on Day 31. In his *Isagoge*, an introduction to Aristotle's logic, the Neoplatonist Porphyry raised three questions about genera and species (general kinds like 'animal' and narrower kinds like 'human'), then politely declined to answer them: Do they really exist, or only in our thoughts? If they exist, are they bodily or not? Are they separate from things or in them? Boethius discussed these questions in his commentaries, and medieval teachers inherited them.\n\nThree broad answers emerged:\n\n- **Realism** says universals are real. Plato (Day 11) held that they exist as Forms, apart from individual things. Aristotle (Day 18) held that they are real but exist only *in* things: humanity is real, but only in actual humans.\n- **Nominalism** (from Latin *nomen*, name) says only particulars exist. 'Human' is just a name we apply to many individuals. An early nominalist, Roscelin of Compiègne, was reported (by his opponent Anselm) to have called universals mere puffs of air from the voice.\n- **Conceptualism** says universals exist as concepts in the mind, formed from real resemblances between things.\n\nWhy did this matter so much? Partly because it is a deep question about what reality contains. But theology was also at stake. Christians believed in one God in three persons. If the persons are three individuals, are there three gods? If they share one real nature, how? Anselm attacked Roscelin precisely because he thought nominalism led to errors about the Trinity. Abstract philosophy had very concrete consequences."
+    },
+    {
+      "heading": "Abelard: Brilliance and Calamity",
+      "body": "**Peter Abelard** (1079–1142) was born at Le Pallet in Brittany, the eldest son of a knight. He gave up his inheritance to become, as he put it, a soldier of logic. He studied with Roscelin, the nominalist, and then in Paris with William of Champeaux, a leading realist. Abelard did not just disagree with his teachers; he humiliated them in public debate. According to his own account, he forced William to abandon his theory of universals, and William's reputation never recovered. Students flocked to Abelard. By his thirties he was the most famous teacher in Paris.\n\nThen came the love story that made him famous for different reasons. Around 1116 he became tutor to **Heloise**, the brilliant niece of Fulbert, a canon of Notre-Dame. She was already known for her learning in Latin and literature. They became lovers; she became pregnant and bore a son, whom they named Astrolabe. They married secretly, against Heloise's own arguments: she thought marriage would ruin his career and that love should be freely given rather than bound by contract. Fulbert, believing Abelard meant to abandon her, sent men who attacked Abelard at night and castrated him.\n\nAbelard became a monk at Saint-Denis; Heloise, at his insistence, became a nun. Later she became abbess of a convent called the Paraclete, which Abelard had founded. Their surviving letters, written years later, are among the most extraordinary documents of the Middle Ages: Heloise writes with intense honesty that she still loves him and cannot repent of it. Scholars have argued over whether the letters are authentic, and most today accept that they are, though the question is not fully settled.\n\nAbelard's troubles continued. His book on the Trinity was condemned at Soissons in 1121, and he was made to burn it himself. Bernard of Clairvaux, the most powerful churchman of the age, saw him as a dangerous rationalist and secured his condemnation at the Council of Sens around 1141. Abelard died the next year at a priory of the abbey of Cluny, reconciled to the church. He told much of this story himself in *The History of My Calamities*."
+    },
+    {
+      "heading": "Abelard's Middle Way and the Scholastic Method",
+      "body": "How did Abelard defeat William of Champeaux? William held an extreme realism: there is one real 'humanity', wholly present in every human being, with individual differences added on top. Abelard pointed out absurd consequences. If one and the same humanity is wholly in Socrates in Athens and wholly in Plato somewhere else, then one thing is in two places at once. Worse: take the genus 'animal'. If the same animal-nature is wholly present in Socrates, who is rational, and in a donkey, which is not, then one and the same thing would be rational and non-rational at the same time, which is a contradiction.\n\nBut Abelard did not think universals were mere sounds, either. A word like 'human' is not just noise; it has meaning, and it applies correctly to some things and not others. Why? Because Socrates and Plato really do agree in what Abelard called a **status**, a condition of being human. This status is not itself a thing; it is the way they are. Our general concept of 'human' is formed by attending to this real agreement. That is why Abelard's view is often called conceptualism, though some scholars prefer to call him a sophisticated nominalist, since he insists that only individuals exist.\n\nAbelard's other great legacy was a method. In *Sic et Non* (*Yes and No*) he collected more than 150 questions on which respected authorities, the Bible and the Church Fathers, seemed to contradict each other. He did not resolve them; he gave rules for resolving them: check whether the text is authentic, whether a word is used in different senses, whether the author changed his mind. In the prologue he wrote that by doubting we come to inquiry, and by inquiry we perceive the truth.\n\nThis approach grew into the **scholastic method** that defined medieval universities, which emerged in Paris, Bologna and Oxford around 1200. Pose a question. List the best arguments on one side, then the other. Give your answer with reasons. Then reply to each objection. You will see this method in full flower in Aquinas tomorrow (Day 35).\n\nAbelard also wrote an ethics, *Know Yourself*, arguing that what makes an act right or wrong is the agent's **intention**, not the outward deed alone. And the problem of universals did not die with him. On Day 36 we will see William of Ockham push nominalism to its sharpest form."
+    }
+  ],
+  "keyQuote": {
+    "text": "Something than which nothing greater can be thought.",
+    "source": "Anselm, Proslogion 2"
+  },
+  "modernConnection": {
+    "title": "Is Pluto a Planet? Universals in Science and AI",
+    "body": "In August 2006 the International Astronomical Union voted on a definition of 'planet', and Pluto lost its status, becoming a 'dwarf planet'. Many people were upset, and a medieval question hid inside the uproar. Did astronomers *discover* that Pluto is not a planet, as a realist might say, because there is a real kind, planethood, that Pluto lacks? Or did they *decide* how to use a word, as a nominalist would say, drawing a line through a messy continuum of objects for convenience?\n\nBiology faces the same issue with species. There are many competing definitions of a species: groups that can interbreed, groups with a shared evolutionary lineage, groups with distinct genetic clusters. They do not always agree. Some biologists are realists about species, holding that they are real units of nature. Others think 'species' is a useful label for a world where life forms grade into one another.\n\nArtificial intelligence adds a new twist. An image classifier learns the category 'cat' not from a definition but from millions of examples, building an internal representation from resemblances among particular images. That sounds a lot like Abelard's conceptualism: a general concept formed by attending to real likenesses between individuals. Yet the systems also make strange errors, labeling a picture by its background or texture rather than its shape, which reminds us that grouping by resemblance depends on which resemblances you notice.\n\nThe comparison has limits. Medieval thinkers asked what universals *are* in reality, and their debate was bound up with theology. Modern scientists usually ask the more practical question of which categories are most useful for prediction and explanation. Still, whenever we argue about whether a category is 'natural' or 'made up', whether the question is planets, species, diseases or even social categories, we are taking sides in the debate that Abelard won against William of Champeaux in Paris nine hundred years ago."
+  },
+  "vocabulary": [
+    {
+      "term": "Ontological argument",
+      "definition": "An a priori argument that God exists, based on the concept of God as the greatest conceivable being; first given by Anselm and later named by Kant.",
+      "example": "The ontological argument claims that if you truly understand what 'God' means, you can see that God must exist."
+    },
+    {
+      "term": "A priori vs a posteriori",
+      "definition": "An a priori argument relies on reasoning and concepts alone; an a posteriori argument relies on experience and observation.",
+      "example": "Anselm's argument is a priori, while an argument from the order we observe in nature is a posteriori."
+    },
+    {
+      "term": "Reductio ad absurdum",
+      "definition": "A form of argument that proves a claim by showing that its denial leads to a contradiction or absurdity.",
+      "example": "Anselm uses a reductio ad absurdum: assuming God exists only in the mind leads to a contradiction."
+    },
+    {
+      "term": "Universal",
+      "definition": "Something that can be shared by or predicated of many individual things, such as a quality (redness) or a kind (humanity).",
+      "example": "Redness is a universal because both a tomato and a fire engine can have it."
+    },
+    {
+      "term": "Realism (about universals)",
+      "definition": "The view that universals really exist, either apart from things, as Plato held, or in things, as Aristotle held.",
+      "example": "A realist would say that humanity is something real that Socrates and Plato both possess."
+    },
+    {
+      "term": "Nominalism",
+      "definition": "The view that only individual things exist and that general terms are just names applied to many individuals.",
+      "example": "A nominalist would say there is no such thing as 'tomato-ness', only individual tomatoes and the word we use for them."
+    },
+    {
+      "term": "Conceptualism",
+      "definition": "The view that universals exist as general concepts in the mind, grounded in real resemblances among individual things.",
+      "example": "Abelard's conceptualism holds that the concept 'human' reflects a real agreement between people without being a separate thing."
+    },
+    {
+      "term": "Scholastic method",
+      "definition": "The medieval method of inquiry that poses a question, sets out arguments on both sides, gives a reasoned answer and replies to objections.",
+      "example": "A debate that lists the best case for each side before deciding uses the scholastic method."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Island Building and Category Hunting",
+    "prompt": "Test the ontological argument with your own parody, then take a position on universals using categories from everyday life.",
+    "steps": [
+      "Write Anselm's argument in six numbered steps in your own words. Mark the step you find weakest.",
+      "Construct your own Gaunilo-style parody using something other than an island (the greatest possible pizza, the perfect song). Does Anselm's reply, that only a being supreme in every respect has a built-in maximum, defeat your parody?",
+      "List five general words you used today (for example 'chair', 'friend', 'healthy', 'game', 'country'). For each, ask: is there one feature all its instances share, or only overlapping resemblances?",
+      "Decide whether you are a realist, nominalist or conceptualist about each of your five words. Did you give the same answer for all of them?",
+      "Finish with a short paragraph on Abelard's motto that by doubting we come to inquiry. Describe one belief of yours that would benefit from a 'Sic et Non' treatment."
+    ]
+  },
+  "summary": [
+    "Anselm (1033–1109), abbot of Bec and Archbishop of Canterbury, practiced 'faith seeking understanding' and gave the first ontological argument in his Proslogion.",
+    "The ontological argument claims that God, as that than which nothing greater can be thought, must exist in reality, since existing in reality is greater than existing in the mind alone.",
+    "Gaunilo replied with the parody of a perfect lost island; Anselm answered that only the greatest conceivable being has a maximum built into its concept, and the debate continues today.",
+    "The problem of universals asks whether general kinds and qualities are real things, mere names, or concepts based on real resemblances: realism, nominalism and conceptualism.",
+    "Peter Abelard (1079–1142), the brilliant teacher whose love affair with Heloise ended in tragedy, refuted extreme realism, developed a middle view of universals and helped create the scholastic method with Sic et Non."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "How does Anselm define God at the start of the ontological argument?",
+      "options": [
+        "The first cause of all motion",
+        "Something than which nothing greater can be thought",
+        "The designer of the universe",
+        "The highest object of human love"
+      ],
+      "answer": 1,
+      "explanation": "Anselm's definition in Proslogion 2 is the core of the argument; the others belong to different arguments or thinkers."
+    },
+    {
+      "type": "mc",
+      "question": "Why is Anselm's argument called a priori?",
+      "options": [
+        "Because it was the first argument for God ever given",
+        "Because it relies on the authority of scripture",
+        "Because it starts from observations of nature",
+        "Because it reasons from the concept of God alone, without relying on experience"
+      ],
+      "answer": 3,
+      "explanation": "An a priori argument relies only on reasoning and concepts; Anselm needs nothing but the meaning of 'God'."
+    },
+    {
+      "type": "mc",
+      "question": "What was the strategy of Gaunilo's 'lost island' objection?",
+      "options": [
+        "To build a parallel argument with the same structure that proves something absurd",
+        "To show that islands are greater than God",
+        "To prove that God does not exist",
+        "To argue that existence in the mind is greater than existence in reality"
+      ],
+      "answer": 0,
+      "explanation": "Gaunilo's parody suggests that if the same form of reasoning proves a perfect island exists, the form of reasoning must be flawed."
+    },
+    {
+      "type": "mc",
+      "question": "How did Anselm reply to Gaunilo?",
+      "options": [
+        "He admitted the argument was flawed",
+        "He argued that the perfect island really does exist",
+        "He argued that the reasoning applies only to the greatest conceivable being, since limited things like islands have no built-in maximum",
+        "He said scripture settles the matter"
+      ],
+      "answer": 2,
+      "explanation": "Anselm insisted his argument works only for that than which nothing greater can be thought; one can always imagine a better island."
+    },
+    {
+      "type": "mc",
+      "question": "A scientist says, 'There is no such thing as planethood; \"planet\" is just a label we chose for some of the objects orbiting the sun.' Which position is this closest to?",
+      "options": [
+        "Platonic realism",
+        "Aristotelian realism",
+        "Extreme realism like William of Champeaux's",
+        "Nominalism"
+      ],
+      "answer": 3,
+      "explanation": "Nominalism holds that general terms are names for groups of individuals, not real shared natures."
+    },
+    {
+      "type": "mc",
+      "question": "What was Abelard's objection to William of Champeaux's extreme realism?",
+      "options": [
+        "If one animal-nature were wholly present in both Socrates and a donkey, the same thing would be both rational and non-rational",
+        "Universals cannot be expressed in Latin",
+        "Realism contradicts the ontological argument",
+        "Only God can know universals"
+      ],
+      "answer": 0,
+      "explanation": "Abelard showed that treating a universal as one thing wholly present in many individuals leads to contradictions."
+    },
+    {
+      "type": "mc",
+      "question": "What was the purpose of Abelard's Sic et Non?",
+      "options": [
+        "To prove that the Church Fathers were unreliable",
+        "To set out apparently conflicting authorities on many questions, prompting readers to resolve them by careful inquiry",
+        "To record his love letters to Heloise",
+        "To give a new proof of God's existence"
+      ],
+      "answer": 1,
+      "explanation": "Sic et Non lined up authorities on both sides with rules for reconciling them, helping to shape the scholastic method."
+    },
+    {
+      "type": "tf",
+      "question": "Anselm himself called his proof 'the ontological argument'.",
+      "answer": false,
+      "explanation": "The label comes from Kant in the eighteenth century, centuries after Anselm."
+    },
+    {
+      "type": "tf",
+      "question": "Heloise argued against marrying Abelard, partly because she thought marriage would harm his career.",
+      "answer": true,
+      "explanation": "Abelard reports her arguments in The History of My Calamities, and her own letters confirm her view of love freely given."
+    },
+    {
+      "type": "tf",
+      "question": "The problem of universals goes back to questions raised by Porphyry, which Boethius passed on to the medieval schools.",
+      "answer": true,
+      "explanation": "Porphyry's Isagoge posed the questions, and Boethius' commentaries made them central to medieval logic."
+    }
+  ],
+  "goDeeper": {
+    "body": "The ontological argument has had a remarkable modern revival. Some scholars, beginning with Norman Malcolm and Charles Hartshorne in the mid-twentieth century, argued that Anselm actually gave *two* arguments. The first, in *Proslogion* 2, relies on the claim that existence makes a thing greater, which is vulnerable to Kant's objection that existence is not a real property. The second, in *Proslogion* 3, relies on *necessary* existence: a being that cannot fail to exist is greater than one that can. Necessary existence does look like a genuine perfection, and Kant's objection does not obviously touch it.\n\nAlvin Plantinga's version in *The Nature of Necessity* (1974) uses the logic of possible worlds. Define a 'maximally great' being as one that has maximal excellence (all-powerful, all-knowing, wholly good) in every possible world. If it is even *possible* that such a being exists, then it exists in some possible world; but since it exists necessarily, it exists in every world, including ours. The argument is logically valid. Everything turns on the first premise. Critics point out that one can equally well argue that it is possible that no maximally great being exists, which by parallel logic would prove that none exists in any world. Plantinga himself conceded that the argument does not prove God's existence to someone who doesn't already accept the key premise, though he claimed it shows belief in God is rational.\n\nOn universals, the debate is still alive in contemporary metaphysics. David Armstrong defended a realism of 'immanent universals' close to Aristotle's; trope theorists hold that each red thing has its own particular redness; and 'resemblance nominalists' build everything out of similarity between individuals, in a spirit close to Abelard.",
+    "readings": [
+      {
+        "title": "Proslogion, with Gaunilo's Reply and Anselm's Response",
+        "author": "Anselm, translated by Thomas Williams",
+        "note": "The whole exchange is short; chapters 2–4 and the replies can be read in an hour."
+      },
+      {
+        "title": "The Letters of Abelard and Heloise",
+        "author": "Translated by Betty Radice, revised by M. T. Clanchy (Penguin)",
+        "note": "Includes The History of My Calamities and the extraordinary correspondence between the two."
+      },
+      {
+        "title": "Abelard: A Medieval Life",
+        "author": "M. T. Clanchy",
+        "note": "A rich biography that sets Abelard's ideas in the world of twelfth-century Paris."
+      },
+      {
+        "title": "Universals: An Opinionated Introduction",
+        "author": "D. M. Armstrong",
+        "note": "A short, clear modern survey of realism, nominalism and their variants."
+      }
+    ],
+    "questions": [
+      "Is existence a property that makes something greater? Is a real hundred dollars 'greater' than an imagined one in the way that matters for Anselm?",
+      "If you had to choose, would you rather believe universals are real, mere names, or concepts? What would change in science or ethics depending on your answer?",
+      "Abelard placed the morality of an act in the intention behind it. Can a well-intended act be wrong? Can a badly intended act be right?"
+    ]
+  }
+}

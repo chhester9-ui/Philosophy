@@ -1,0 +1,244 @@
+{
+  "id": "day-86",
+  "day": 86,
+  "title": "Voices from the Margins: Race, Gender and Decolonial Thought",
+  "subtitle": "What does the world look like from the places philosophy forgot to stand?",
+  "philosophers": ["W. E. B. Du Bois", "Frantz Fanon", "Patricia Hill Collins", "Sandra Harding", "Kwame Anthony Appiah", "Miranda Fricker"],
+  "era": "1903–present",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain Du Bois' idea of double consciousness and the 'color line'.",
+    "By the end you will be able to describe Fanon's analysis of the colonial gaze and the psychology of colonialism, and the controversy over his views on violence.",
+    "By the end you will be able to explain feminist standpoint theory and the idea of 'strong objectivity'.",
+    "By the end you will be able to summarize Appiah's skepticism about race and his rooted cosmopolitanism.",
+    "By the end you will be able to distinguish testimonial from hermeneutical injustice and apply both to real cases."
+  ],
+  "hook": "Imagine walking into a room where everyone already has an opinion about you before you speak. When you do speak, your words seem to arrive with a discount attached: people nod politely and then repeat your idea a few minutes later as if they had thought of it. Over time something stranger happens. You start hearing yourself the way they hear you. You catch yourself checking your own tone, your clothes, your accent, through their eyes.\n\nFor most of the story we have told in this course, the people doing philosophy were men, mostly European, mostly free, often wealthy enough to have leisure (remember the conditions that made Miletus possible on Day 1). Today's thinkers asked a pointed question: what did philosophy miss because of who was in the room? Their answer is not simply that some voices were left out, though they were. It is that standing in a different place in society can let you see things that are hard to see from the center, including things about knowledge, selfhood and justice that the great tradition got wrong.",
+  "sections": [
+    {
+      "heading": "Du Bois and Double Consciousness",
+      "body": "**W. E. B. Du Bois** (1868–1963) was one of the most remarkable American intellectuals of any era. Born in Great Barrington, Massachusetts, a few years after the Civil War ended slavery, he studied at Fisk University, at Harvard under William James (whom you met with the pragmatists on Day 67), and at the University of Berlin. In 1895 he became the first African American to earn a PhD from Harvard. He went on to pioneer empirical sociology with *The Philadelphia Negro* (1899), helped found the NAACP in 1909, and edited its magazine *The Crisis* for a quarter of a century. He died in Ghana in 1963, on the eve of the March on Washington.\n\nHis most famous book, *The Souls of Black Folk* (1903), announces its theme in a sentence that became prophetic: the problem of the twentieth century is the problem of the color line. Early in the book he introduces a concept that has shaped philosophy, psychology and literature ever since. He calls it **double consciousness**:\n\n> It is a peculiar sensation, this double-consciousness, this sense of always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity.\n\nDu Bois describes feeling a \"two-ness\": being both an American and a Black person in a society that treated those identities as at war with each other. He frames it with the image of a **veil** separating Black and white America. Those behind the veil can see out, but those outside rarely see in.\n\nNotice how much philosophy is packed into this idea. Descartes (Day 43) began from the solitary self, certain of its own existence before anything else. Du Bois suggests that selfhood is shaped from the start by how others see us, and that when those others hold power, their gaze can be internalized as a kind of second judge inside your own head. Yet double consciousness is not only a wound. Because people behind the veil must understand both their own world and the dominant one, Du Bois hinted that they may see more clearly than those who never have to look at themselves from outside. That double vision will return when we reach standpoint theory."
+    },
+    {
+      "heading": "Fanon and the Colonized Mind",
+      "body": "**Frantz Fanon** (1925–1961) was born in Martinique, a French colony in the Caribbean, where one of his teachers was the poet Aimé Césaire, a founder of the *Négritude* movement that celebrated Black African culture. Fanon volunteered for the Free French forces in the Second World War and was wounded in France. He then trained as a psychiatrist in Lyon, and that medical perspective runs through everything he wrote.\n\nIn *Black Skin, White Masks* (1952), written when he was in his mid-twenties, Fanon describes a moment on a French train when a white child points at him and cries out to its mother, in effect, \"Look, a Black man!\" In that instant, he writes, he felt himself fixed and dissected, turned from a person into an object defined by the gaze of others. This connects directly to Sartre's analysis of \"the look\" (Day 77) and Beauvoir's account of woman as the Other (Day 78), but Fanon insisted that racial objectification works through the skin itself, before you say or do anything. He also analyzed how colonized people come to adopt the colonizer's language, values and standards of beauty as the measure of their own worth: the \"white masks\" of his title.\n\nIn 1953 Fanon became head of a psychiatric hospital at Blida in French-ruled Algeria. As the Algerian war of independence broke out, he treated both tortured Algerians and the French police who had tortured them, and he concluded that the colonial system itself was producing mental illness. He resigned and joined the Algerian National Liberation Front. His last book, *The Wretched of the Earth* (1961), with a famous preface by Sartre, was finished as he was dying of leukemia at thirty-six.\n\nThat book is controversial because of its opening chapter, \"On Violence.\" Fanon argued that colonialism was founded and maintained by violence, and that the colonized could only recover their full humanity by overthrowing it, by force if necessary. Hannah Arendt (Day 80), in *On Violence* (1970), criticized this and the enthusiasm Sartre's preface showed for it, arguing that violence can destroy power but never create it. Fanon's defenders reply that he was describing a situation already saturated with violence, and that the rest of the book warns fiercely against new national elites who simply replace the colonizers and copy their habits. Both readings deserve a hearing."
+    },
+    {
+      "heading": "Decolonizing Thought",
+      "body": "Fanon helped inspire a wider project called **decolonial thought**. Its core claim is that colonialism was not only a matter of armies and taxes. It also colonized minds by establishing which languages, histories and ways of knowing counted as serious. When Hegel (Day 59) declared that Africa was no historical part of the world, or when Hume (Day 50) wrote a notorious footnote doubting the intellectual capacities of non-white peoples, these were not stray remarks. They reflected and helped justify a system.\n\nThinkers in many places have responded. The Kenyan novelist **Ngũgĩ wa Thiong'o**, in *Decolonising the Mind* (1986), explained why he had stopped writing his novels in English and turned to his native Gikuyu: language, he argued, carries a whole culture's memory and way of seeing. The Ghanaian philosopher **Kwasi Wiredu** called for \"conceptual decolonization\": before assuming that a European concept such as \"mind\" or \"truth\" applies universally, test it by trying to express the idea in an African language like Akan, and see what survives the translation. The Peruvian sociologist Aníbal Quijano spoke of the **coloniality of power**, the way racial hierarchies created during European conquest outlasted formal empire.\n\nThe Jamaican-born philosopher **Charles Mills** (1951–2021) turned the tradition's own tools against it in *The Racial Contract* (1997). You learned on Days 42, 52, 53 and 82 how Hobbes, Locke, Rousseau and Rawls used the idea of a social contract among free and equal persons. Mills argued that the actual historical contract was a racial one: an agreement among white people to treat non-white people as less than full persons, an arrangement that ideal theories of justice politely ignored. One need not accept every claim of decolonial thought to see its central challenge: universal philosophy must earn its universality by listening to everyone."
+    },
+    {
+      "heading": "Standpoint Theory: Knowledge from Below",
+      "body": "Feminist philosophers developed a powerful idea about knowledge, known as **standpoint theory**. It starts from a familiar source: Hegel's master-slave dialectic (Day 59), in which the slave, through labor and struggle, comes to understand the world and himself more truly than the master who simply consumes. Marx (Day 63) applied this to workers. In the 1980s, philosophers such as Nancy Hartsock and **Sandra Harding** applied it to women.\n\nThe basic claims are these. First, knowledge is **situated**: what you can easily notice depends partly on your social position. Second, those in marginalized positions often have to understand both their own lives and the perspective of the powerful, while the powerful rarely need to understand them. Think of how a domestic worker knows the habits of the family she works for far better than the family knows hers. Third, and most controversially, a standpoint is not automatic. It is an achievement, won through reflection and collective struggle, not simply handed to anyone in a given group.\n\nThe sociologist **Patricia Hill Collins**, in *Black Feminist Thought* (1990), described Black women working as domestic servants in white homes as **outsiders within**: close enough to see the inner workings of white middle-class life, yet never accepted as belonging. That position, she argued, produces distinctive insight. Collins also emphasized how race, gender and class interlock rather than simply adding up, an idea the legal scholar Kimberlé Crenshaw named **intersectionality** in 1989.\n\nHarding drew a bold conclusion for science (recall Popper and Kuhn on Day 72). Traditional objectivity tries to remove the knower's perspective, but it ignores the shared biases of a scientific community made up of people from similar backgrounds. Harding proposed **strong objectivity**: deliberately starting research from the lives of the marginalized in order to expose assumptions that everyone in the room shared. A real example: for decades many clinical trials enrolled mostly men, and medicine knew less than it should about how heart attacks present in women.\n\nCritics raise sharp questions. If knowledge is situated, does standpoint theory slide into relativism, the Sophists' view that man is the measure (Day 8)? Which standpoint wins when marginalized groups disagree? Defenders answer that the theory is about where inquiry should start, not about ending it: claims from any standpoint must still be tested."
+    },
+    {
+      "heading": "Appiah: Is Race Real?",
+      "body": "**Kwame Anthony Appiah** (born 1954) grew up between England and Ghana, the son of a Ghanaian lawyer and politician and an English writer. Trained in analytic philosophy at Cambridge, he brings the careful style of Frege and Russell (Day 69) to questions of identity.\n\nIn a famous essay on Du Bois and in *In My Father's House* (1992), Appiah argued that **race**, understood as a biological division of humanity into groups with distinct shared essences, does not exist. Human genetic variation is mostly found within so-called races rather than between them, and the visible traits used to sort people, like skin color, track only a tiny fraction of our biology. Even Du Bois, Appiah argued, never fully escaped the biological notion he was trying to replace. Appiah's position is often called **race skepticism** or eliminativism.\n\nOthers agree that race is not biological but insist it is still real, in the way money or marriage is real: a **social construction** with enormous effects. The philosopher Sally Haslanger defines races partly by how people are positioned in social hierarchies because of perceived ancestry and appearance. On her view, abolishing the word would not abolish racism; we need the concept to describe the injustice.\n\nAppiah does not deny that racial identities shape lives. But in *The Ethics of Identity* (2005) and *Cosmopolitanism* (2006), he worries about identities becoming scripts that people are pressured to follow. His alternative is **rooted cosmopolitanism**: we can be loyal to particular places and communities while recognizing obligations to all human beings and taking pleasure in their differences. The ideal reaches back to Diogenes calling himself a citizen of the world (Day 23) and the Stoics (Day 25)."
+    },
+    {
+      "heading": "Fricker and Epistemic Injustice",
+      "body": "In *Epistemic Injustice* (2007), the British philosopher **Miranda Fricker** gave a name to something many people had experienced but philosophy had barely discussed: being wronged specifically in your capacity as a knower. She identified two kinds of **epistemic injustice**.\n\n**Testimonial injustice** happens when prejudice causes a listener to give a speaker less credibility than they deserve. Fricker's central example comes from Harper Lee's *To Kill a Mockingbird*: the jury cannot believe Tom Robinson, a Black man accused of rape, despite the evidence, because of racial prejudice. Her other example is from *The Talented Mr Ripley*, where Marge's well-founded suspicions are dismissed as mere female intuition. The wrong is double: you suffer the practical harm of not being believed, and you are disrespected as a rational being, something Kant (Day 56) would have recognized as failing to treat you as an end in yourself.\n\n**Hermeneutical injustice** is subtler. It happens when a group lacks the shared concepts needed to make sense of its own experience, because its members were excluded from the places where those concepts are made. Fricker's key example: in the mid-1970s, women in Ithaca, New York, discussing the unwanted advances they endured at work, realized they had no name for it, and coined the term **sexual harassment**. Before that, a woman suffering it might struggle even to explain to herself what was wrong. This connects with Wittgenstein's insight (Day 73) that meaning lives in shared language: if the language lacks a word, an experience can stay private and unintelligible.\n\nFricker's remedy is a virtue (Day 85): **testimonial justice**, the habit of noticing and correcting for prejudice when we judge others' credibility."
+    }
+  ],
+  "keyQuote": {
+    "text": "It is a peculiar sensation, this double-consciousness, this sense of always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity.",
+    "source": "W. E. B. Du Bois, The Souls of Black Folk (1903), Chapter 1"
+  },
+  "modernConnection": {
+    "title": "Whose Pain Gets Believed? Epistemic Injustice in the Doctor's Office",
+    "body": "Few places test credibility as directly as a hospital. A doctor often cannot see pain; she must largely take the patient's word for it. That makes medicine a natural laboratory for Fricker's ideas, and researchers have found troubling patterns.\n\nStudies in the United States have repeatedly found that Black patients are less likely than white patients to receive adequate pain medication for comparable conditions. A widely cited 2016 study by Kelly Hoffman and colleagues found that a substantial share of white medical students and residents surveyed endorsed false beliefs about biological differences, such as the idea that Black people have thicker skin, and that those who held such beliefs tended to rate a Black patient's pain as lower. Women, too, have long reported having symptoms dismissed as stress or anxiety; conditions such as endometriosis often take years to diagnose. The tennis champion Serena Williams publicly described having to insist on tests after giving birth in 2017, when she recognized signs of a pulmonary embolism she had experienced before. Many readers heard in her account a story that less famous patients tell every day.\n\nThat is testimonial injustice in Fricker's sense: prejudice lowering the credibility of a speaker. Hermeneutical injustice shows up too. Movements that gave people shared words, from \"postpartum depression\" to \"#MeToo,\" did philosophical work by creating concepts through which private suffering could become public knowledge, much as the women of Ithaca did in the 1970s.\n\nWhere does the bridge break down? Not every case of disbelief is injustice: doctors must sometimes weigh testimony against test results, and Fricker's account is about prejudice-driven deficits, not ordinary error. Statistical disparities can have several causes, including access to care and differences in insurance. And standpoint theory does not say that patients are always right about their own bodies. What these philosophers offer is a sharper question to ask: when we doubt someone, is it the evidence talking, or the stereotype?"
+  },
+  "vocabulary": [
+    {
+      "term": "Double consciousness",
+      "definition": "Du Bois' term for the experience of seeing oneself through the eyes of a society that holds one in contempt, producing a divided sense of identity.",
+      "example": "A student who constantly monitors how her accent sounds to classmates may be experiencing a form of double consciousness."
+    },
+    {
+      "term": "Decolonial thought",
+      "definition": "A body of thought arguing that colonialism shaped not only politics and economics but also which languages, histories and ways of knowing count as legitimate, and seeking to undo that legacy.",
+      "example": "Ngũgĩ's decision to write in Gikuyu rather than English was a landmark of decolonial thought."
+    },
+    {
+      "term": "Standpoint theory",
+      "definition": "The feminist view that knowledge is shaped by social position and that marginalized standpoints, critically developed, can reveal truths hidden from the dominant perspective.",
+      "example": "Standpoint theory suggests that warehouse workers may understand a company's real working conditions better than its executives."
+    },
+    {
+      "term": "Strong objectivity",
+      "definition": "Sandra Harding's proposal that inquiry becomes more objective by deliberately starting from the lives of marginalized people, exposing assumptions shared by a homogeneous community of researchers.",
+      "example": "Testing a new drug on a diverse population, instead of mostly young men, is in the spirit of strong objectivity."
+    },
+    {
+      "term": "Intersectionality",
+      "definition": "The idea, named by Kimberlé Crenshaw, that categories such as race, gender and class interlock to create distinctive experiences of disadvantage that are not just the sum of separate parts.",
+      "example": "A policy that helps white women and Black men may still miss the specific barriers facing Black women, which is an intersectional point."
+    },
+    {
+      "term": "Social construction",
+      "definition": "Something whose existence depends on human practices, agreements or institutions rather than on nature alone, yet which can be fully real in its effects.",
+      "example": "Money is a social construction, yet the lack of it can still make you go hungry."
+    },
+    {
+      "term": "Testimonial injustice",
+      "definition": "Fricker's term for the wrong done when prejudice causes a hearer to give a speaker less credibility than the evidence warrants.",
+      "example": "A jury disbelieving a witness because of her ethnicity commits testimonial injustice."
+    },
+    {
+      "term": "Hermeneutical injustice",
+      "definition": "Fricker's term for the wrong done when a group's experiences cannot be understood, even by its own members, because society's shared concepts were shaped without them.",
+      "example": "Before the term 'sexual harassment' existed, victims suffered hermeneutical injustice in trying to name what was happening to them."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Mapping Your Own Standpoint",
+    "prompt": "Use the ideas of standpoint theory and epistemic injustice to examine what you can and cannot easily see from where you stand.",
+    "steps": [
+      "List three features of your social position (for example your job, age, nationality, gender, class background, first language or health). For each, write one thing it lets you notice easily that others might miss.",
+      "Now reverse it. For each feature, name one thing it might make harder for you to notice. Who could see it more easily?",
+      "Recall a time when you felt you were not believed or not taken seriously. Was it testimonial injustice, an honest error by the listener, or something else? What evidence decides?",
+      "Recall a time when you may have discounted someone else's testimony. What were your reasons? Write one concrete habit of 'testimonial justice' you could practice, such as pausing to ask what evidence you actually have."
+    ]
+  },
+  "summary": [
+    "Du Bois described double consciousness, seeing oneself through the eyes of a contemptuous society, and named the color line as the century's central problem.",
+    "Fanon, a psychiatrist, analyzed how the colonial gaze objectifies and how the colonized internalize the colonizer's values; his defense of anti-colonial violence remains debated, notably by Arendt.",
+    "Decolonial thinkers such as Ngũgĩ, Wiredu, Quijano and Mills argue that colonialism shaped the very concepts and theories of philosophy, including the social contract.",
+    "Standpoint theorists (Hartsock, Harding, Collins) argue that knowledge is situated and that marginalized standpoints, critically achieved, can make inquiry more objective.",
+    "Appiah argues that biological race is an illusion and defends rooted cosmopolitanism; Fricker identifies testimonial and hermeneutical injustice as wrongs done to people as knowers."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What did Du Bois mean by 'double consciousness'?",
+      "options": [
+        "The ability to speak two languages fluently",
+        "The sense of always looking at oneself through the eyes of a society that holds one in contempt",
+        "Descartes' distinction between mind and body",
+        "Being conscious both while awake and while dreaming"
+      ],
+      "answer": 1,
+      "explanation": "Du Bois described a 'two-ness' created by measuring one's soul by the tape of a world that looks on in contempt and pity."
+    },
+    {
+      "type": "mc",
+      "question": "Which earlier thinker's analysis does Fanon's account of being 'fixed' by a white child's gaze most directly echo?",
+      "options": [
+        "Aristotle's golden mean",
+        "Bentham's hedonic calculus",
+        "Leibniz's monads",
+        "Sartre's account of 'the look' and being made an object by others"
+      ],
+      "answer": 3,
+      "explanation": "Fanon drew on Sartre's phenomenology of the look, arguing that racial objectification works through the skin before one speaks or acts."
+    },
+    {
+      "type": "mc",
+      "question": "Charles Mills' 'racial contract' is a critique of which tradition?",
+      "options": [
+        "Social contract theory from Hobbes and Locke to Rawls",
+        "Ancient atomism",
+        "Logical positivism",
+        "Neoplatonism"
+      ],
+      "answer": 0,
+      "explanation": "Mills argued that the real historical contract excluded non-white people from full personhood, something ideal contract theories ignored."
+    },
+    {
+      "type": "mc",
+      "question": "A research team developing a medical device realizes all its testers are tall men and deliberately recruits testers of different sizes, sexes and ages to uncover hidden assumptions. This best illustrates:",
+      "options": [
+        "Hermeneutical injustice",
+        "Race skepticism",
+        "Harding's strong objectivity",
+        "Double consciousness"
+      ],
+      "answer": 2,
+      "explanation": "Strong objectivity starts inquiry from neglected perspectives in order to expose biases shared by a homogeneous group of researchers."
+    },
+    {
+      "type": "mc",
+      "question": "What is Kwame Anthony Appiah's main claim about race?",
+      "options": [
+        "Races are natural biological kinds with distinct essences",
+        "Race in the biological sense does not exist, though racial identities still shape people's lives",
+        "Race is the only identity that matters morally",
+        "Racism ended with the civil rights movement"
+      ],
+      "answer": 1,
+      "explanation": "Appiah argues that most human genetic variation lies within so-called races and that no biological racial essences exist, while acknowledging racial identities' social force."
+    },
+    {
+      "type": "mc",
+      "question": "Before the phrase 'sexual harassment' was coined in the 1970s, women struggled to name or explain what was happening to them at work. Fricker calls this:",
+      "options": [
+        "Testimonial injustice",
+        "Strong objectivity",
+        "Bad faith",
+        "Hermeneutical injustice"
+      ],
+      "answer": 3,
+      "explanation": "Hermeneutical injustice is a gap in shared concepts that leaves a group unable to make sense of its own experience."
+    },
+    {
+      "type": "mc",
+      "question": "Patricia Hill Collins described Black women domestic workers in white homes as 'outsiders within'. Why did she think this position mattered?",
+      "options": [
+        "It gave them close knowledge of the dominant group's life while excluding them from belonging, producing distinctive insight",
+        "It proved that social position has no effect on knowledge",
+        "It showed that only employers can understand households",
+        "It was an argument for abolishing domestic work"
+      ],
+      "answer": 0,
+      "explanation": "Being inside but not accepted lets the outsider within see the workings of the dominant world that its members take for granted."
+    },
+    {
+      "type": "tf",
+      "question": "Standpoint theorists generally hold that anyone belonging to a marginalized group automatically possesses a superior standpoint.",
+      "answer": false,
+      "explanation": "Most standpoint theorists stress that a standpoint is an achievement, developed through reflection and collective struggle, not an automatic possession."
+    },
+    {
+      "type": "tf",
+      "question": "Hannah Arendt criticized Fanon's and Sartre's views on violence, arguing that violence can destroy power but cannot create it.",
+      "answer": true,
+      "explanation": "In On Violence (1970), Arendt criticized the glorification of violence associated with The Wretched of the Earth and Sartre's preface."
+    },
+    {
+      "type": "tf",
+      "question": "According to Fricker, any time a listener disbelieves a speaker, testimonial injustice has occurred.",
+      "answer": false,
+      "explanation": "Testimonial injustice requires a credibility deficit caused by identity prejudice; honest disbelief based on evidence is not injustice."
+    }
+  ],
+  "goDeeper": {
+    "body": "A lively debate today concerns **ideal versus non-ideal theory**. Rawls (Day 82) deliberately theorized a perfectly just society, assuming everyone complies with just rules, in the hope that the ideal would guide reform. Charles Mills, in a celebrated 2005 essay titled \"'Ideal Theory' as Ideology,\" argued that this method systematically hides the most pressing injustices: if you start by imagining a society without a history of slavery, conquest and patriarchy, you will never develop the concepts needed to repair the one we actually live in. Defenders of ideal theory reply that we need some picture of justice to know what counts as repair. Late in life, Mills tried to build a \"Black radical liberalism\" that kept liberal ideals of freedom and equality while rewriting liberalism's history.\n\nA second debate concerns **epistemic injustice beyond the individual**. Fricker focused on virtues of individual hearers, but critics such as José Medina and Kristie Dotson argued that injustice is often structural: built into institutions, algorithms and the very shape of public debate. Dotson introduced the idea of **testimonial smothering**, when speakers truncate their own testimony because they expect not to be understood. Medina argues that dominant groups can suffer a kind of active ignorance, a cultivated not-knowing that protects privilege, linking epistemology back to ethics.\n\nFinally, decolonial philosophy invites us to ask what 'world philosophy' should mean. Is the aim to add non-Western thinkers to a Western canon, or to rethink the canon's questions altogether? Tomorrow (Day 87) puts that question into practice by placing Confucius, Laozi, the Buddha, Nagarjuna and Ubuntu in conversation with the Greeks, and the Philosophy Beyond the West track takes it further.",
+    "readings": [
+      {
+        "title": "The Souls of Black Folk",
+        "author": "W. E. B. Du Bois",
+        "note": "Chapter 1, 'Of Our Spiritual Strivings', introduces double consciousness and the veil in a few unforgettable pages."
+      },
+      {
+        "title": "Black Skin, White Masks",
+        "author": "Frantz Fanon",
+        "note": "Chapter 5, often translated as 'The Fact of Blackness' or 'The Lived Experience of the Black Man', contains the train scene."
+      },
+      {
+        "title": "Epistemic Injustice: Power and the Ethics of Knowing",
+        "author": "Miranda Fricker",
+        "note": "Chapters 1 and 7 set out testimonial and hermeneutical injustice with vivid literary and real-life examples."
+      },
+      {
+        "title": "The Racial Contract",
+        "author": "Charles W. Mills",
+        "note": "A short, sharp book that rereads social contract theory; best read after revisiting Days 42, 52 and 82."
+      }
+    ],
+    "questions": [
+      "Can a philosophy written from a particular social position still make universal claims? What would make such claims trustworthy?",
+      "If race is not biological, should we stop using racial categories, or do we need them to fight racism?",
+      "Have you ever lacked a word for an experience until someone gave you one? How did having the concept change things?"
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "id": "day-51",
+  "day": 51,
+  "title": "Review: Rationalists vs. Empiricists",
+  "subtitle": "Two centuries, one great quarrel: does knowledge begin in the mind or in the senses?",
+  "philosophers": ["Pico della Mirandola", "Erasmus", "Thomas More", "Niccolò Machiavelli", "Michel de Montaigne", "Francis Bacon", "Galileo Galilei", "Thomas Hobbes", "René Descartes", "Baruch Spinoza", "G. W. Leibniz", "John Locke", "George Berkeley", "David Hume"],
+  "era": "c. 1450–1776",
+  "estimatedMinutes": 60,
+  "objectives": [
+    "By the end you will be able to trace the path from Renaissance humanism to the debates of the seventeenth and eighteenth centuries",
+    "Compare the rationalist and empiricist answers to the question of where knowledge comes from, using specific thinkers",
+    "Contrast the pictures of mind, matter and God offered by Descartes, Spinoza, Leibniz, Locke, Berkeley and Hume",
+    "Explain how scepticism, from Montaigne to Hume, drove the whole period forward",
+    "Assess the strengths and limits of the 'rationalists versus empiricists' story itself"
+  ],
+  "hook": "Imagine a dinner party that never happened. Around the table sit Montaigne, shrugging and asking what he really knows; Descartes, determined to rebuild knowledge on one unshakeable foundation; Spinoza, quietly grinding a lens and insisting that God and Nature are one; Leibniz, talking too fast about monads; Locke, the careful physician, asking where each of these ideas came from; Berkeley, the young Irish clergyman, insisting that the table itself exists only because someone perceives it; and Hume, cheerful and plump, wondering aloud why any of them expects the dessert to taste as it did yesterday.\n\nThey disagree about almost everything. Yet they are all trying to answer one question that the collapse of medieval certainties had forced open: if we can no longer simply trust tradition and authority, how can we know anything at all? Today we step back from thirteen days of reading (Days 38–50) to see the shape of that argument, and to test how well you can move between its voices.",
+  "sections": [
+    {
+      "heading": "The Big Picture: From Rebirth to Crisis",
+      "body": "Our unit began around 1450 in Italy. The Renaissance **humanists** (Day 38) were not opponents of religion, but they shifted attention to human beings, human language and human possibility. Their slogan was *ad fontes*, back to the sources: read Plato, Cicero and the Greek New Testament in the original rather than through medieval commentaries. Pico della Mirandola's *Oration on the Dignity of Man* (1486) imagined God telling Adam that he alone among creatures had no fixed place, and could shape himself into whatever he chose. Erasmus mocked corrupt clergy in *The Praise of Folly* (1511), and Thomas More's *Utopia* (1516) imagined a society organised by reason, leaving readers unsure how seriously to take it.\n\nThree large shocks then broke the medieval synthesis we reviewed on Day 37. The **Reformation**, beginning in 1517, split Western Christianity and plunged Europe into more than a century of religious wars: if learned authorities could disagree so violently, which one should you trust? The rediscovery of ancient **scepticism**, especially Sextus Empiricus, whose works were printed in Latin in the 1560s, gave people arguments for doubting everything. And the **Scientific Revolution** (Day 41), from Copernicus' *On the Revolutions of the Heavenly Spheres* (1543) to Galileo's telescopes, showed that even the most respected ancient picture of the cosmos, inherited from Aristotle and Ptolemy, could be wrong.\n\nThe philosophers of Days 43–50 are best understood as responding to this crisis of authority. Each tried to find a new foundation for knowledge that did not rest on tradition. They split, roughly, into two camps, and the split between them is the main story of today's review."
+    },
+    {
+      "heading": "Clearing the Ground: Machiavelli, Montaigne, Bacon and Hobbes",
+      "body": "Before the great systems came the demolition crews.\n\n**Machiavelli** (Day 39) cleared away idealised political theory. In *The Prince* (written 1513, published 1532) he said he would write about how people actually live rather than how they ought to live. A ruler needs **virtù**, energetic skill and adaptability, to master **fortuna**, the unpredictable flood of events. Since one cannot easily be both loved and feared, it is safer to be feared. Yet in his *Discourses on Livy* Machiavelli also praised republics and civic virtue. His lasting gift was political realism: study power as it is.\n\n**Montaigne** (Day 40) cleared away intellectual arrogance. His *Essays* (first published 1580) invented a new form, the essay as a trial or attempt, and adopted the motto *Que sais-je?*, What do I know? In 'Of Cannibals' he argued that Europeans who called the peoples of Brazil barbarous were often more barbarous themselves. His scepticism led him to a quiet, tolerant humility, and to accepting his inherited Catholic faith rather than trying to prove it.\n\n**Bacon and Galileo** (Day 41) cleared away the authority of Aristotle in natural philosophy. Bacon's *Novum Organum* (1620) diagnosed four **idols of the mind**, the tribe, the cave, the marketplace and the theatre, which distort our judgement, and recommended patient, organised observation and induction. He tied knowledge to power over nature. Galileo argued that the book of nature is written in the language of mathematics, and was condemned by the Roman Inquisition in 1633 for defending Copernicus.\n\n**Hobbes** (Day 42) applied the new mechanical science to politics. Everything, including the mind, is matter in motion. Without government, in the **state of nature**, there would be a war of all against all, and life would be solitary, poor, nasty, brutish and short. Rational people would therefore agree to a **social contract**, surrendering their power to an absolute sovereign, the *Leviathan* (1651). Notice the method: Hobbes reasons from a model of human nature, not from scripture or tradition. Locke will use the same tools to reach very different conclusions on Day 52."
+    },
+    {
+      "heading": "How They Answered the Same Question: Where Does Knowledge Come From?",
+      "body": "The deepest divide of Days 43–50 concerns the origin and foundation of knowledge.\n\n**Rationalism** holds that reason alone, independent of the senses, can give us substantial knowledge of reality, and that some ideas or principles are **innate**, present in the mind from birth. The three great rationalists were Descartes, Spinoza and Leibniz, all on the Continent. **Empiricism** holds that all our ideas and knowledge come ultimately from experience. The three great empiricists were Locke, Berkeley and Hume, all from the British Isles.\n\n**Descartes** (Days 43–44) began with doubt. The senses sometimes deceive; I might be dreaming; an evil demon might deceive me even about mathematics. But one thing survives: while I doubt, I think, and so I exist, the **cogito**. From this foothold he reasoned his way back to God and the external world, trusting whatever he perceived **clearly and distinctly**. Note that the foundation is found by reason turning inward, not by observation.\n\n**Spinoza** (Day 45) wrote his *Ethics* in geometrical order, with definitions, axioms and proofs, as if metaphysics could be derived like Euclid. **Leibniz** (Day 46) rested everything on principles of reason, above all the **principle of sufficient reason**: nothing happens without a reason why it is so and not otherwise.\n\n**Locke** (Day 47) replied in *An Essay Concerning Human Understanding* (1689) that there are no innate ideas. If there were, children and 'idiots', as he put it in the language of his time, would know them, and they do not. The mind begins as white paper, a **tabula rasa**, furnished by **sensation** and **reflection**. Leibniz answered in his *New Essays*, accepting the old scholastic slogan that nothing is in the intellect that was not first in the senses, and adding: except the intellect itself. The mind, he said, is less like blank paper and more like a block of marble with veins that already outline a statue.\n\n**Berkeley** (Day 48) pushed empiricism further: if all we ever perceive are ideas, we have no grounds to believe in a material substance behind them. *Esse est percipi*, to be is to be perceived. **Hume** (Days 49–50) pushed hardest of all. Every idea must be copied from an impression; reason alone gives only relations of ideas; and our beliefs about causes, the future and even the self rest on habit, not proof.\n\nNotice the irony. Descartes started with doubt and ended in confidence. The empiricists started with confidence in experience and ended, in Hume, with a deep scepticism about what experience can justify."
+    },
+    {
+      "heading": "Mind, Matter and God: Six Pictures of Reality",
+      "body": "The same thinkers also built very different pictures of what exists. A quick tour:\n\n- **Descartes**: two kinds of created substance, thinking mind and extended matter, plus God. This is **substance dualism**. Princess Elisabeth of Bohemia asked him in 1643 how an unextended mind could move a body, and his answers, including a role for the pineal gland, satisfied few.\n- **Spinoza**: only one substance, *Deus sive Natura*, God or Nature. Mind and body are two aspects of the same reality. Everything follows necessarily; freedom is understanding that necessity. His views led to his expulsion from Amsterdam's Jewish community in 1656.\n- **Leibniz**: infinitely many simple, mind-like substances, **monads**, which have no windows and do not interact, but are coordinated by a **pre-established harmony** set by God, who chose the best of all possible worlds.\n- **Locke**: material bodies with **primary qualities** (shape, size, motion) and powers to cause **secondary qualities** (colour, taste) in us; minds; and God. Common sense, carefully organised.\n- **Berkeley**: only minds and their ideas. There is no matter; the tree in the quad continues to exist because God perceives it.\n- **Hume**: we cannot know what substances underlie our perceptions. The self is a bundle, causation is constant conjunction plus expectation, and the arguments for God are weak.\n\nNotice how often God does the heavy lifting. Descartes needs God to guarantee clear and distinct ideas; critics like Antoine Arnauld charged that he then used clear and distinct ideas to prove God, the **Cartesian circle**. Leibniz needs God to synchronise the monads; Berkeley needs God to keep unobserved objects in being. Hume is the first in our story to remove God from the foundations entirely, and the result is that much less can be proved."
+    },
+    {
+      "heading": "Doubt as the Engine",
+      "body": "One thread ties the unit together: **scepticism**. Remember Pyrrho and Sextus Empiricus (Day 27), who suspended judgement to reach tranquillity.\n\nMontaigne revived that tradition as a way of life: humble, curious, tolerant. Descartes used doubt as a method, a controlled demolition to find the bedrock beneath. Bacon's idols are a scientist's version of doubt: a checklist of the ways our minds mislead us. Berkeley thought he was defeating scepticism by removing the unknowable matter that made it possible. And Hume, in the end, accepted a **mitigated scepticism**, proportioning belief to evidence and letting nature and custom carry us where reason cannot.\n\nA useful way to remember the period is to ask, for each thinker, what they did with doubt. Montaigne lived with it. Descartes used it and claimed to defeat it. Berkeley tried to dissolve it. Hume followed it to the bottom and then went to play backgammon."
+    },
+    {
+      "heading": "Beyond the Labels",
+      "body": "The neat story of three Continental rationalists versus three British empiricists is useful, but it is partly a later construction. Historians point out that it was popularised in the nineteenth century, largely by writers shaped by Kant, who presented his own philosophy as the synthesis of the two sides. Real history is messier.\n\n- Descartes cared about experiments, dissected animals and wrote on optics. Leibniz was a working mathematician and engineer.\n- Locke believed we have demonstrative knowledge, by reason, of mathematics, morality and the existence of God.\n- Hobbes, a British materialist, admired geometry as the model of reasoning. Berkeley was a bishop who thought his empiricism proved God.\n- None of the six called themselves 'rationalists' or 'empiricists'.\n\nStill, the labels capture a real and lasting disagreement. Can the mind know important truths about reality just by thinking? Or must everything be checked against experience? Hume's fork sharpened the question to a point: relations of ideas are certain but empty; matters of fact are informative but never certain. Is there anything in between?\n\nThat is exactly the question Immanuel Kant will take up on Day 55, after Hume, in his words, interrupted his dogmatic slumber. Kant will argue that the mind does not merely receive experience but actively structures it. Before that, though, the next unit (Days 52–57) carries these tools out of the study and into politics, beginning tomorrow with Locke's theory of natural rights."
+    }
+  ],
+  "keyQuote": {
+    "text": "Que sais-je? (What do I know?)",
+    "source": "Michel de Montaigne, motto adopted in the Essays (1580)"
+  },
+  "modernConnection": {
+    "title": "Babies, Brains and Blank-Slate Machines",
+    "body": "The rationalist–empiricist quarrel is alive in today's cognitive science, and in the race to build artificial intelligence.\n\nOn the rationalist side, developmental psychologists such as Elizabeth Spelke have argued that infants come equipped with 'core knowledge': only a few months old, they appear surprised when objects pass through walls or vanish, as if they already expect solid things to persist. Noam Chomsky argued from the 1950s onward that children learn language too quickly, from too little data, unless they have an innate 'universal grammar'. Chomsky himself titled a book *Cartesian Linguistics* (1966). Steven Pinker's *The Blank Slate* (2002) attacked Locke's metaphor as a dangerous myth about human nature.\n\nOn the empiricist side stand today's large language models and image generators. They are built with relatively few hand-coded rules and learn almost everything from enormous quantities of data: billions of sentences or pictures, a digital version of Locke's sensation. Their surprising abilities have encouraged some researchers to think that a general learning mechanism plus experience can go much further than rationalists predicted. Their errors, such as confidently stating falsehoods or failing at problems slightly unlike their training data, look like Hume's problem of induction made concrete.\n\nBut the analogy is imperfect in both directions. No one is a pure rationalist or empiricist any more. Even 'blank slate' AI systems have built-in structure, called inductive biases, in their architecture, a little like Leibniz's veins in the marble. And innate capacities in babies still need experience to develop: a child born with a capacity for language still has to hear English or Japanese to speak it. Hume would add that both camps still face his challenge, since no amount of built-in structure or training data proves that tomorrow's world will resemble yesterday's. The modern question is not 'innate or learned?' but 'how much of each, and of what kind?' That is a sign that the seventeenth-century debate was not settled but refined."
+  },
+  "vocabulary": [
+    {
+      "term": "Humanism",
+      "definition": "The Renaissance movement that revived the study of classical texts and languages and emphasised human dignity, education and potential.",
+      "example": "Erasmus' Greek New Testament, edited from the manuscripts, is a landmark of humanism."
+    },
+    {
+      "term": "Virtù",
+      "definition": "Machiavelli's term for the energy, skill and adaptability a leader needs to master fortune.",
+      "example": "A CEO who rescues a company by acting decisively in a sudden crisis shows Machiavellian virtù."
+    },
+    {
+      "term": "Social contract",
+      "definition": "The idea that political authority rests on an agreement, actual or hypothetical, among people who would otherwise live without government.",
+      "example": "Hobbes used the social contract to justify an absolute sovereign; Locke will use it to justify limited government."
+    },
+    {
+      "term": "Rationalism",
+      "definition": "The view that reason alone can provide substantial knowledge of reality, often including the claim that some ideas are innate.",
+      "example": "Spinoza's attempt to prove metaphysics in geometrical order is a high point of rationalism."
+    },
+    {
+      "term": "Empiricism",
+      "definition": "The view that all ideas and knowledge come ultimately from experience.",
+      "example": "Locke's image of the mind as a tabula rasa, a blank slate, is the founding picture of empiricism."
+    },
+    {
+      "term": "Cogito",
+      "definition": "Descartes' 'I think, therefore I am': the one certainty that survives radical doubt, since doubting is itself a form of thinking.",
+      "example": "Even an evil demon could not deceive Descartes about the cogito."
+    },
+    {
+      "term": "Esse est percipi",
+      "definition": "Berkeley's principle that for non-thinking things, to be is to be perceived.",
+      "example": "On esse est percipi, a chair is nothing over and above the ideas of it perceived by minds, ultimately God's."
+    },
+    {
+      "term": "Problem of induction",
+      "definition": "Hume's argument that inferences from observed to unobserved cases cannot be justified without assuming the uniformity of nature, which itself cannot be proved.",
+      "example": "Russell's chicken, fed every day until the farmer wrings its neck, illustrates the problem of induction."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Host the Impossible Dinner Party",
+    "prompt": "Bring the thinkers of Days 38–50 into conversation on one question: How do you know the coffee in front of you is real, and that it will not poison you? Spend 10–15 minutes writing their answers.",
+    "steps": [
+      "Write one or two sentences in the voice of each: Montaigne, Descartes, Locke, Berkeley and Hume. Try to use each thinker's key vocabulary (Que sais-je?, cogito, clear and distinct, primary qualities, esse est percipi, custom).",
+      "Now add Spinoza or Leibniz. How would a thinker who starts from God or from the principle of sufficient reason answer differently?",
+      "Identify the single biggest disagreement around the table and state it as a precise question.",
+      "Choose whose answer you find most convincing and write a short paragraph defending it against the strongest objection from another guest.",
+      "Bonus: add Machiavelli or Hobbes. Would they care about this question at all, and what would they think the others were missing?"
+    ]
+  },
+  "summary": [
+    "The Renaissance humanists returned to classical sources and celebrated human dignity; the Reformation, revived scepticism and the Scientific Revolution then broke the authority of tradition.",
+    "Machiavelli, Montaigne, Bacon, Galileo and Hobbes cleared the ground with political realism, humble doubt, new scientific method and mechanical models of humanity.",
+    "Rationalists (Descartes, Spinoza, Leibniz) held that reason can reveal deep truths and that some ideas are innate; empiricists (Locke, Berkeley, Hume) traced all ideas to experience.",
+    "Their metaphysics ranged from Descartes' dualism and Spinoza's single substance to Leibniz's monads, Locke's common-sense realism, Berkeley's immaterialism and Hume's scepticism.",
+    "Doubt drove the whole period, and Hume's conclusions set the stage for Kant's attempt at synthesis, though the neat rationalist–empiricist labels simplify a messier history."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What did the humanist slogan ad fontes mean?",
+      "options": [
+        "Faith before reason",
+        "Back to the sources: read classical and biblical texts in their original languages",
+        "Knowledge is power",
+        "Doubt everything"
+      ],
+      "answer": 1,
+      "explanation": "Humanists sought the original texts, bypassing layers of medieval commentary."
+    },
+    {
+      "type": "mc",
+      "question": "According to Machiavelli, what must a successful ruler's virtù contend with?",
+      "options": [
+        "The Form of the Good",
+        "The general will",
+        "Fortuna, the unpredictable force of events",
+        "The idols of the theatre"
+      ],
+      "answer": 2,
+      "explanation": "Machiavelli compared fortune to a flooding river that skilful, energetic leaders can prepare for and partly control."
+    },
+    {
+      "type": "mc",
+      "question": "In 'Of Cannibals', what was Montaigne's main point?",
+      "options": [
+        "That the peoples of Brazil should be converted by force",
+        "That cannibalism is morally acceptable",
+        "That Europe's customs are the standard of civilisation",
+        "That Europeans call others barbarous largely because their customs differ, while committing cruelties of their own"
+      ],
+      "answer": 3,
+      "explanation": "Montaigne turned the charge of barbarism back on Europe, pointing to torture and religious wars at home."
+    },
+    {
+      "type": "mc",
+      "question": "Like most people, a researcher notices evidence that confirms what she already expects far more readily than evidence against it. Which of Bacon's idols best describes this very common tendency?",
+      "options": [
+        "The idols of the tribe, errors rooted in human nature generally, such as noticing confirmations more than refutations",
+        "The idols of the theatre, errors caused by philosophical systems",
+        "The idols of the marketplace, errors caused by confused language",
+        "The idols of the cave, errors arising from one individual's particular education and temperament"
+      ],
+      "answer": 0,
+      "explanation": "Bacon put the tendency to seize on supporting instances and neglect contrary ones among the idols of the tribe, common to all humans. The idols of the cave are an individual's personal quirks."
+    },
+    {
+      "type": "mc",
+      "question": "Why, for Hobbes, would rational people in the state of nature agree to a social contract?",
+      "options": [
+        "Because God commands obedience to kings",
+        "Because without a common power life would be a war of all against all, solitary, poor, nasty, brutish and short",
+        "Because they want to express the general will",
+        "Because property rights already exist and need protecting"
+      ],
+      "answer": 1,
+      "explanation": "Fear of violent death and the desire for security drive Hobbes's contract. The general will is Rousseau's idea, and pre-political property rights are Locke's."
+    },
+    {
+      "type": "mc",
+      "question": "Which thinker is a rationalist?",
+      "options": [
+        "John Locke",
+        "George Berkeley",
+        "David Hume",
+        "Baruch Spinoza"
+      ],
+      "answer": 3,
+      "explanation": "Spinoza, with Descartes and Leibniz, is one of the three great Continental rationalists. The others listed are the British empiricists."
+    },
+    {
+      "type": "mc",
+      "question": "What problem did Princess Elisabeth of Bohemia raise for Descartes?",
+      "options": [
+        "How an unextended, thinking mind could move an extended body",
+        "Whether God could be a deceiver",
+        "Whether animals have souls",
+        "How the cogito could be known in a dream"
+      ],
+      "answer": 0,
+      "explanation": "In 1643 she asked how an immaterial soul could cause bodily motion, the interaction problem for dualism."
+    },
+    {
+      "type": "mc",
+      "question": "Leibniz modified the empiricist slogan 'nothing is in the intellect that was not first in the senses' by adding which exception?",
+      "options": [
+        "Except God",
+        "Except mathematics",
+        "Except the intellect itself",
+        "Except the passions"
+      ],
+      "answer": 2,
+      "explanation": "In the New Essays, Leibniz answered Locke that the mind brings its own structure and principles to experience."
+    },
+    {
+      "type": "mc",
+      "question": "How does Berkeley explain why a tree continues to exist when no human is looking at it?",
+      "options": [
+        "Material substance holds its qualities together",
+        "It does not exist when unobserved, and that is fine",
+        "Its monads keep perceiving themselves",
+        "God perceives it continually"
+      ],
+      "answer": 3,
+      "explanation": "For Berkeley, to be is to be perceived, and God's constant perception keeps the world in being."
+    },
+    {
+      "type": "mc",
+      "question": "Which pair correctly matches thinker and picture of reality?",
+      "options": [
+        "Spinoza: countless windowless monads",
+        "Spinoza: one substance, God or Nature",
+        "Leibniz: only one substance with two attributes",
+        "Hume: a mind and a body interacting through the pineal gland"
+      ],
+      "answer": 1,
+      "explanation": "Spinoza held there is one substance, Deus sive Natura. Monads are Leibniz's, and the pineal gland is Descartes'."
+    },
+    {
+      "type": "mc",
+      "question": "What is the Cartesian circle?",
+      "options": [
+        "The charge that Descartes uses clear and distinct ideas to prove God, and God to guarantee clear and distinct ideas",
+        "Descartes' proof that the planets move in circles",
+        "The circle of ideas linking sensation and reflection",
+        "Hume's argument that induction is circular"
+      ],
+      "answer": 0,
+      "explanation": "Critics such as Arnauld objected that the argument presupposes what it sets out to establish."
+    },
+    {
+      "type": "mc",
+      "question": "A person argues: 'Painkillers have always helped my headaches, so this one will too.' Hume would say this inference rests on:",
+      "options": [
+        "A relation of ideas known by reason",
+        "An innate idea of causation",
+        "God's guarantee of our clear perceptions",
+        "Custom or habit, not on any rational proof"
+      ],
+      "answer": 3,
+      "explanation": "Inductive inference assumes the future will resemble the past, which Hume says cannot be proved; custom carries us to the expectation."
+    },
+    {
+      "type": "tf",
+      "question": "Galileo was condemned by the Roman Inquisition in 1633 for defending the Copernican view that the Earth moves.",
+      "answer": true,
+      "explanation": "After his Dialogue Concerning the Two Chief World Systems (1632), he was tried, forced to abjure and kept under house arrest for the rest of his life."
+    },
+    {
+      "type": "tf",
+      "question": "Descartes, Spinoza and Leibniz all described themselves as 'rationalists' and saw themselves as a single school opposed to the British empiricists.",
+      "answer": false,
+      "explanation": "The labels were applied later, largely by historians influenced by Kant. The thinkers themselves did not use them."
+    },
+    {
+      "type": "tf",
+      "question": "Hume's bundle theory holds that the self is a collection of perceptions rather than an unchanging substance that has them.",
+      "answer": true,
+      "explanation": "Looking inward, Hume found only particular perceptions, never a constant self behind them."
+    }
+  ],
+  "goDeeper": {
+    "body": "Was there really a battle between rationalists and empiricists? Scholars of early modern philosophy have increasingly questioned the standard story, sometimes called the 'RE narrative'. The worry is not just that the labels are anachronistic. It is that the story shapes what we read. By framing the period as a duel that Kant resolved, textbooks have tended to ignore figures who do not fit, such as Pierre Gassendi, an empiricist on the Continent, Nicolas Malebranche, whose occasionalism held that God is the only true cause, Anne Conway, whose *Principles* criticised Descartes, Hobbes and Spinoza and influenced Leibniz, and Margaret Cavendish, a materialist critic of experimental science. They also tend to downplay how much these thinkers cared about natural science, theology and politics, rather than epistemology alone.\n\nAnother line of scholarship emphasises the experimental–speculative distinction, which seventeenth-century writers did use. Scholars such as Peter Anstey argue that the fault line contemporaries actually perceived was between experimental philosophers, who favoured observation and natural history in the style of Bacon and Robert Boyle, and speculative philosophers, who built systems from first principles. That cuts the field differently: Newton and Locke on one side, Descartes on the other, with many figures in between.\n\nNone of this makes the classic contrast useless. Hume's fork and Kant's response really did crystallise a disagreement about the powers of pure reason that still divides philosophers of mathematics, ethics and science. But it is worth remembering that history is always told by someone, from somewhere, for some purpose.",
+    "readings": [
+      { "title": "Meditations on First Philosophy", "author": "René Descartes", "note": "Meditations I and II, only a few pages, are the best single starting point for the whole period." },
+      { "title": "An Essay Concerning Human Understanding", "author": "John Locke", "note": "Book I's attack on innate ideas and the opening chapters of Book II on the origin of ideas." },
+      { "title": "The Cambridge Companion to Early Modern Philosophy", "author": "Donald Rutherford (ed.)", "note": "Thematic essays that cut across the rationalist–empiricist divide." },
+      { "title": "The Dream of Enlightenment", "author": "Anthony Gottlieb", "note": "A lively narrative history of Descartes, Hobbes, Spinoza, Locke, Leibniz and Bayle in their historical setting." }
+    ],
+    "questions": [
+      "Is there any important truth about the world you think you know by reason alone? How would Hume challenge it?",
+      "Which thinker from Days 38–50 would be most at home in the twenty-first century, and why?",
+      "Does the 'rationalists versus empiricists' framing help or hinder understanding these thinkers?"
+    ]
+  }
+}

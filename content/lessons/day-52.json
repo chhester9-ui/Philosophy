@@ -1,0 +1,229 @@
+{
+  "id": "day-52",
+  "day": 52,
+  "title": "Locke II: Natural Rights and Government by Consent",
+  "subtitle": "Why governments exist to serve us, and what we may do when they don't",
+  "philosophers": ["John Locke"],
+  "era": "1632–1704",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to describe Locke's state of nature and contrast it with Hobbes's",
+    "Explain the natural rights to life, liberty and property, and Locke's labour theory of property with its two provisos",
+    "Explain why, for Locke, legitimate government rests on consent, and the difference between express and tacit consent",
+    "State Locke's argument for a right of revolution and his case for religious toleration, including its limits",
+    "Trace Locke's influence on the American Declaration of Independence and weigh the darker side of his legacy"
+  ],
+  "hook": "In 1776 a committee in Philadelphia approved a document announcing that all men are created equal, that they are endowed with certain unalienable rights, that governments derive their just powers from the consent of the governed, and that when a government becomes destructive of these ends, the people may alter or abolish it. Those claims now sound almost obvious to many people. In most of human history they would have sounded mad. Kings ruled by the grace of God; subjects obeyed.\n\nWhere did the American revolutionaries find these ideas? Many sources fed in, but one book stands out. Nearly ninety years earlier, a cautious English doctor-philosopher, who had fled to the Netherlands fearing for his life, published anonymously a treatise arguing that political power is a trust held on behalf of the people. On Day 47 you met John Locke as the philosopher of the blank slate. Today you meet the Locke who helped change how the world thinks about government.",
+  "sections": [
+    {
+      "heading": "A Dangerous Book in a Dangerous Time",
+      "body": "Locke (1632–1704) lived through the most turbulent century in English history: civil war, the execution of King Charles I in 1649, Cromwell's republic, the restoration of the monarchy in 1660, and then a long struggle over whether the Catholic James, brother of Charles II, should be allowed to inherit the throne. Locke was physician, secretary and close adviser to the Earl of Shaftesbury, the leader of the opposition to James. When Shaftesbury's party was crushed, Locke fled to the Netherlands in 1683, where he lived in exile, at times under an assumed name.\n\nIn the Glorious Revolution of 1688, James II was driven out and replaced by William of Orange and Mary. Locke sailed back to England in early 1689, on the same voyage as the future Queen Mary. That year he published anonymously the *Two Treatises of Government* (the title page is dated 1690). He never publicly admitted authorship until a codicil to his will.\n\nFor a long time the book was read as a justification of the 1688 Revolution after the fact. But the scholar Peter Laslett showed in 1960 that most of it was probably written years earlier, around 1679–83, during the crisis over James's succession, when arguing for resistance to a king was extremely dangerous. It was, in other words, a revolutionary manifesto written before the revolution.\n\nThe *First Treatise* attacks Sir Robert Filmer, whose *Patriarcha* (published 1680) defended the divine right of kings by arguing that monarchs inherit the fatherly authority God gave Adam. Locke demolishes this point by point. The *Second Treatise*, which is the one people still read, builds his positive theory. Remember Hobbes (Day 42), who had also used a state of nature and a social contract, but to justify an almost unlimited sovereign. Locke uses the same tools to build something very different."
+    },
+    {
+      "heading": "The State of Nature and the Law of Nature",
+      "body": "Like Hobbes, Locke asks us to imagine human beings without any government: the **state of nature**. But his picture is strikingly different. The state of nature is a state of perfect freedom and equality: no one is naturally subordinate to anyone else. Yet, Locke insists, though it is a state of liberty, it is not a state of licence. It is governed by a **law of nature**, which is reason, and which teaches anyone who consults it that, since all are equal and independent, no one ought to harm another in his life, health, liberty or possessions.\n\nWhy? Locke's ultimate answer is theological. We are all the workmanship of one omnipotent and infinitely wise Maker, sent into the world by his order and about his business. We are his property, made to last during his pleasure, not one another's. That is also why, for Locke, we may not take our own lives or sell ourselves into slavery: we do not own ourselves in that absolute sense.\n\nThese are **natural rights**: rights we have simply as human beings, before and independently of any government. They are not gifts from the state; the state exists to protect them. Locke's famous triad is life, liberty and property, though he often uses 'property' broadly to mean all three together, as when he speaks of men uniting for the mutual preservation of their lives, liberties and estates, which I call by the general name, property.\n\nIn the state of nature, everyone also has the right to enforce the law of nature: to punish those who violate it and to seek reparation. This is where the trouble starts. People are biased judges in their own cases. There is no settled, known law, no impartial judge and no reliable power to enforce sentences. The state of nature is not Hobbes's war of all against all, but it is inconvenient and insecure, and it can easily slide into a **state of war** whenever someone tries to get another into his absolute power."
+    },
+    {
+      "heading": "Mixing Your Labour: The Theory of Property",
+      "body": "Chapter 5 of the *Second Treatise*, 'Of Property', is one of the most influential and controversial pieces of political philosophy ever written. Locke's problem: God gave the earth to humankind in common. So how can anyone come to own any particular part of it without everyone else's agreement?\n\nHis answer starts with **self-ownership**: every man has a property in his own person, which nobody has any right to but himself. It follows that the labour of his body and the work of his hands are properly his. When you take something from the common stock of nature and work on it, picking acorns, catching a fish, clearing and ploughing a field, you mix your labour with it, and so join to it something that is your own. By that act it becomes your property. This is the **labour theory of property**.\n\nLocke adds that labour creates most of the value in things. An acre of cultivated land in England, he argues, is worth vastly more than an acre of uncultivated land, and almost all of the difference comes from human work.\n\nBut there are limits, often called the **Lockean provisos**:\n\n1. **The sufficiency proviso**: you may appropriate only where there is enough, and as good, left in common for others.\n2. **The spoilage proviso**: you may take only as much as you can use before it spoils. Hoarding plums to rot is taking more than your share.\n\nThen comes a twist. The invention of **money**, which does not spoil, allows people to accumulate far more than they can use, and Locke argues that by agreeing to use money, people have tacitly consented to the resulting unequal possessions. Critics, most famously the political theorist C. B. Macpherson in 1962, have argued that this move quietly turns a theory with natural limits into a justification of unlimited capitalist accumulation.\n\nThere is a darker problem too. Locke writes that in the beginning all the world was America, and repeatedly uses Native Americans as examples of people who left land uncultivated. Scholars such as James Tully have shown how this reasoning was used to claim that colonists who farmed the land acquired rights over it, while Indigenous peoples, whose hunting and land use Locke undervalued, did not. Locke's theory of property is both a defence of the individual against arbitrary seizure and, historically, a tool of dispossession."
+    },
+    {
+      "heading": "Government by Consent",
+      "body": "To escape the inconveniences of the state of nature, people agree to form a political society. They give up their private right to judge and punish, and hand it to the community, in exchange for settled laws, impartial judges and reliable enforcement. The great and chief end of their uniting into commonwealths, Locke says, is the preservation of their property, in that broad sense of lives, liberties and estates.\n\nThe key word is **consent**. Because people are naturally free and equal, no one can be subjected to the political power of another without their own consent. This is the principle of **government by consent**, and it is the heart of Locke's political theory. Once a society is formed, it acts by majority rule, since a body must move one way or another and the greater force carries it.\n\nAn obvious objection: almost no one alive has actually signed a social contract. Locke answers by distinguishing **express consent**, an explicit promise or oath, from **tacit consent**. Anyone who enjoys the benefits of a government's territory, owning land, lodging for a week, or even simply travelling freely on the highway, has tacitly consented to obey its laws while there. Many critics, starting with Hume, have found this too weak. Hume pointed out that a poor peasant who knows no foreign language and lives from day to day cannot realistically leave his country; saying he consents by staying is like saying a man consents to the captain's authority because he stays on board a ship he was carried onto while asleep.\n\nLocke also insists on limits to government. The legislative power is supreme, but it is a **fiduciary** power, a trust held for the people's good. It may not rule by arbitrary decrees, may not take anyone's property without their consent (which Locke interprets to mean taxation requires the consent of the majority or their representatives), and may not hand its power to anyone else. He separates the legislative from the executive power, an early version of the separation of powers that Montesquieu would develop in 1748."
+    },
+    {
+      "heading": "The Right of Revolution",
+      "body": "What happens if the government betrays its trust? Hobbes had said, in effect, that almost anything is better than returning to the war of all against all. Locke disagrees. When the legislature or the prince acts contrary to the trust, invading the people's property or trying to make itself arbitrary master of their lives, liberties and fortunes, it puts itself into a state of war with the people. Government is then **dissolved**, and power reverts to the people, who may set up a new legislature.\n\nThis is the **right of revolution**. Locke's word for it is an **appeal to heaven**: when there is no earthly judge between a people and its rulers, the people must judge for themselves and take the risk of being wrong before God.\n\nIs this a recipe for chaos? Locke anticipates the objection. People, he says, are not so easily moved. They will bear great mistakes in their rulers, many wrong and inconvenient laws and the slips of human frailty without mutiny or murmur. Only a long train of abuses, all tending the same way, will rouse them. And when it does, the rebels are not really the people but the rulers who first broke the trust.\n\nRead the Declaration of Independence alongside chapter 19 of the *Second Treatise* and the echoes are unmistakable: governments instituted to secure rights, deriving their just powers from consent, a right of the people to alter or abolish them, prudence dictating that governments long established should not be changed for light and transient causes, and a long train of abuses. Thomas Jefferson called Bacon, Newton and Locke his trinity of the three greatest men the world had ever produced. Notice one famous change, though: Jefferson's triad is life, liberty and the pursuit of happiness, not property."
+    },
+    {
+      "heading": "Toleration and Its Limits",
+      "body": "In the same year as the *Two Treatises*, Locke's *A Letter Concerning Toleration* appeared, first in Latin in the Netherlands and then in English translation. Written in 1685, the year Louis XIV revoked the Edict of Nantes and renewed the persecution of French Protestants, it argues for separating the business of civil government from the business of religion.\n\nLocke's main arguments are elegant:\n\n- The magistrate's job is to protect **civil interests**: life, liberty, health and possessions. The care of souls is not his business.\n- Force cannot produce genuine belief. Beliefs are not under the control of the will; you can make someone say a creed, but not believe it. Persecution produces hypocrites, not converts.\n- Even if the ruler's religion were true, being forced into it would not save anyone, because salvation requires sincere faith.\n- A church is a voluntary society; it may expel members, but it may not use the sword.\n\nThis is one of the founding documents of **religious toleration** and of the later separation of church and state. But Locke's toleration had limits. He did not extend it to Catholics, on the ground that they owed allegiance to a foreign prince, the Pope. And he did not extend it to atheists, because promises, covenants and oaths, which are the bonds of society, can have no hold upon one who denies God. Voltaire (Day 54) and others would push the circle wider.\n\nOne final, uncomfortable fact belongs here. Locke, who argued that no one can be enslaved except as a just punishment in war, helped draft the *Fundamental Constitutions of Carolina* (1669), which gave every freeman absolute power over his enslaved Africans, and he invested in the Royal African Company, which traded in enslaved people. Scholars disagree about how to reconcile this with his principles. Some see hypocrisy; some see a theory always shaped for the benefit of propertied Englishmen; others note that later abolitionists turned Locke's own arguments about natural freedom against slavery. As with Hume yesterday, a great thinker's arguments can outrun, and condemn, his own conduct."
+    }
+  ],
+  "keyQuote": {
+    "text": "Though this be a state of liberty, yet it is not a state of licence.",
+    "source": "John Locke, Second Treatise of Government (1689), Chapter II, §6"
+  },
+  "modernConnection": {
+    "title": "Who Owns What You Make Online?",
+    "body": "Locke's labour theory of property is quietly at the centre of some of today's fiercest arguments about data and artificial intelligence.\n\nConsider generative AI. Companies have trained image and text models on billions of pictures, articles and books collected from the internet. Many artists and writers object, and their argument is strikingly Lockean: I mixed my labour with these words and images, so they are mine, and you may not take them to make your product without my consent. The companies often reply with a Lockean argument of their own: the raw material was freely available, like acorns in a common forest, and it is our labour, the engineering, computation and investment, that has turned it into something valuable. Courts in several countries are now wrestling with versions of this dispute through copyright law, but the moral intuitions on both sides come straight from chapter 5 of the *Second Treatise*.\n\nThe provisos matter too. Is there enough, and as good, left for others when a handful of firms capture the value created by millions of contributors? Robert Nozick, whom you will meet on Day 82, built a whole libertarian theory of justice on Locke's foundations, but even he had to wrestle with the sufficiency proviso.\n\nLocke's consent theory is also tested online. Every app asks you to tick a box agreeing to its terms of service. Is that express consent, even though almost no one reads them? Or is it more like Locke's tacit consent, or Hume's sleeping passenger, who cannot realistically leave the ship?\n\nThe analogy has limits. Digital goods are not like acorns: copying a file does not deprive anyone of it, so the scarcity that drives Locke's argument is missing. And Locke's theory was built for land and physical things, with a theological foundation few modern users share. But the questions he asked, about what labour earns, what consent requires and what we owe to those left with less, are exactly the right ones."
+  },
+  "vocabulary": [
+    {
+      "term": "State of nature",
+      "definition": "The condition of human beings without government; for Locke, a state of freedom and equality governed by the law of nature, but insecure.",
+      "example": "Locke's state of nature is inconvenient rather than Hobbes's nightmare war of all against all."
+    },
+    {
+      "term": "Natural rights",
+      "definition": "Rights people possess simply as human beings, prior to and independent of any government, such as life, liberty and property.",
+      "example": "On Locke's view, a government that confiscates property at will violates natural rights it was created to protect."
+    },
+    {
+      "term": "Labour theory of property",
+      "definition": "Locke's view that people acquire property in things by mixing their labour with what nature provides in common.",
+      "example": "By the labour theory of property, the settler who clears and farms a field makes it his own."
+    },
+    {
+      "term": "Lockean provisos",
+      "definition": "The limits on acquiring property: leave enough and as good for others, and take no more than you can use before it spoils.",
+      "example": "A person who fenced off the only well in a desert would violate the Lockean provisos."
+    },
+    {
+      "term": "Consent of the governed",
+      "definition": "The principle that legitimate political authority depends on the agreement of the people subject to it.",
+      "example": "The Declaration of Independence states that governments derive their just powers from the consent of the governed."
+    },
+    {
+      "term": "Tacit consent",
+      "definition": "Consent given implicitly through conduct, such as living in or using the territory of a state, rather than by explicit promise.",
+      "example": "Locke claimed that even travelling freely on the highway counts as tacit consent to a government's laws."
+    },
+    {
+      "term": "Right of revolution",
+      "definition": "Locke's claim that when a government betrays its trust by violating natural rights, it is dissolved and the people may replace it.",
+      "example": "The American colonists appealed to a right of revolution against what they called a long train of abuses."
+    },
+    {
+      "term": "Toleration",
+      "definition": "The policy of permitting religious beliefs and practices one may disapprove of, rather than suppressing them by force.",
+      "example": "Locke argued for toleration because force can compel outward conformity but never sincere belief."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Did You Ever Consent?",
+    "prompt": "Locke says legitimate government rests on consent. Test this against your own life for 10–15 minutes.",
+    "steps": [
+      "List every occasion you can think of when you expressly consented to your government's authority (an oath, a citizenship ceremony, voting, joining the armed forces). Was there any?",
+      "List the ways you might be said to have tacitly consented (living here, using public roads, accepting benefits).",
+      "Now apply Hume's objection about the sleeping passenger: how realistic is it for you to leave? Does that weaken the case that staying is consent?",
+      "If consent is not what makes your government legitimate, what does? Consider alternatives: the benefits it provides, fair procedures, a duty to support just institutions.",
+      "Write a short paragraph answering: under what circumstances, if any, would Locke's right of revolution apply to your own government?"
+    ]
+  },
+  "summary": [
+    "Locke's Two Treatises (1689) attacked the divine right of kings and argued that political power is a trust held for the people; much of it was probably written before the Glorious Revolution.",
+    "In the state of nature, people are free and equal under a law of nature that forbids harming others' life, health, liberty or possessions; these are natural rights.",
+    "We acquire property by mixing our labour with nature, subject to provisos of sufficiency and non-spoilage, though money allows unequal accumulation.",
+    "Legitimate government rests on consent and exists to protect rights; if it betrays its trust, it is dissolved and the people may resist, an idea echoed in the Declaration of Independence.",
+    "Locke's Letter Concerning Toleration separated civil and religious authority, but excluded Catholics and atheists; his involvement in colonialism and slavery complicates his legacy."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "How does Locke's state of nature differ most importantly from Hobbes's?",
+      "options": [
+        "Locke's people are solitary and never meet",
+        "Locke's state of nature is governed by a law of nature known by reason, so it is not a war of all against all",
+        "Locke thinks there was never a state of nature",
+        "Locke's state of nature already has a king"
+      ],
+      "answer": 1,
+      "explanation": "For Locke, people in the state of nature have rights and duties under natural law. The problem is insecurity, not constant war."
+    },
+    {
+      "type": "mc",
+      "question": "According to Locke's labour theory, how does a person come to own an apple from a wild tree?",
+      "options": [
+        "By receiving permission from all other humans",
+        "By having the government register it",
+        "By mixing their labour with it, for example by picking it",
+        "By being the first to see it"
+      ],
+      "answer": 2,
+      "explanation": "Since we own our own labour, joining it to something from the common stock makes that thing ours."
+    },
+    {
+      "type": "mc",
+      "question": "A wealthy collector buys up every bakery in town and lets most of the bread go stale rather than sell it. Which Lockean principle does this most clearly violate?",
+      "options": [
+        "The right of revolution",
+        "Tacit consent",
+        "The separation of powers",
+        "The spoilage proviso"
+      ],
+      "answer": 3,
+      "explanation": "Locke held that taking more than you can use before it spoils exceeds your rightful share."
+    },
+    {
+      "type": "mc",
+      "question": "What does Locke mean by tacit consent?",
+      "options": [
+        "Consent implied by conduct, such as enjoying the protection or using the roads of a state",
+        "Consent given in a written contract",
+        "Consent given only by elected representatives",
+        "Consent extracted by force"
+      ],
+      "answer": 0,
+      "explanation": "Locke used tacit consent to explain why people who never made an explicit promise are still bound by the laws."
+    },
+    {
+      "type": "mc",
+      "question": "Which objection did Hume raise against Locke's account of consent?",
+      "options": [
+        "That consent is impossible because there is no self",
+        "That a poor person who cannot realistically leave their country does not freely consent by staying, like a man carried onto a ship asleep",
+        "That consent must always be unanimous",
+        "That only the king can give consent"
+      ],
+      "answer": 1,
+      "explanation": "Hume argued that remaining where you cannot easily leave is not genuine consent."
+    },
+    {
+      "type": "mc",
+      "question": "Which group did Locke explicitly exclude from toleration because, he argued, oaths could have no hold on them?",
+      "options": [
+        "Quakers",
+        "Jews",
+        "Atheists",
+        "Muslims"
+      ],
+      "answer": 2,
+      "explanation": "Locke thought promises and oaths depended on belief in God. He also excluded Catholics, for political reasons."
+    },
+    {
+      "type": "mc",
+      "question": "What did Peter Laslett's research suggest about when the Two Treatises was written?",
+      "options": [
+        "That it was written after Locke's death by his followers",
+        "That it was written in response to the American Revolution",
+        "That it was a reply to Rousseau's Social Contract",
+        "That most of it was written around 1679–83, before the Glorious Revolution, rather than as a justification after it"
+      ],
+      "answer": 3,
+      "explanation": "Laslett argued that the work belongs to the Exclusion Crisis, which makes it a radical argument for resistance rather than an after-the-fact defence."
+    },
+    {
+      "type": "tf",
+      "question": "The Declaration of Independence uses Locke's exact triad of life, liberty and property.",
+      "answer": false,
+      "explanation": "Jefferson wrote life, liberty and the pursuit of happiness, though much of the Declaration's logic closely echoes Locke."
+    },
+    {
+      "type": "tf",
+      "question": "Locke argued that persecution cannot produce genuine religious belief because belief cannot be compelled by force.",
+      "answer": true,
+      "explanation": "This is a central argument of A Letter Concerning Toleration: force produces outward conformity, not inward conviction."
+    },
+    {
+      "type": "tf",
+      "question": "For Locke, people in the state of nature may do whatever they like, since there is no law until government creates one.",
+      "answer": false,
+      "explanation": "Locke says the state of nature is a state of liberty, not licence, because the law of nature already binds everyone."
+    }
+  ],
+  "goDeeper": {
+    "body": "Two scholarly debates make Locke far more interesting than a textbook defender of liberal democracy.\n\nThe first concerns his relationship to capitalism. C. B. Macpherson's *The Political Theory of Possessive Individualism* (1962) argued that Locke's theory, especially the move by which money and tacit consent dissolve the provisos, was an ideology for the rising property-owning class: it made unlimited accumulation look natural while leaving labourers with nothing but their labour to sell. Other scholars, notably John Dunn in *The Political Thought of John Locke* (1969) and Jeremy Waldron in *God, Locke, and Equality* (2002), reply that Macpherson ignores Locke's religion. For Locke, everything rests on the equal creation of all humans by God; we have duties of charity to the needy that limit property; and his theory is in important ways more egalitarian than its later capitalist users admitted.\n\nThe second debate concerns empire. Locke was deeply involved in English colonial administration, as secretary to the Lords Proprietors of Carolina and later as a member of the Board of Trade. James Tully, Barbara Arneil and others have argued that his theory of property was shaped in part to justify colonial appropriation of American land. Defenders reply that the arguments can be separated from their historical uses, and point out that Locke's principle of self-ownership was later used by abolitionists and anti-colonial thinkers.\n\nFinally, notice a structural tension: Locke grounds natural rights in God's ownership of us. Can the theory survive without its theology? Many modern Lockeans, including Nozick, try to keep the rights and drop God. Waldron argues that this misses what made Locke's egalitarianism work.",
+    "readings": [
+      { "title": "Second Treatise of Government", "author": "John Locke", "note": "Chapters 2, 5, 8 and 19 cover the state of nature, property, consent and revolution; short and readable." },
+      { "title": "A Letter Concerning Toleration", "author": "John Locke", "note": "A brief, powerful argument; compare its limits with Voltaire on Day 54." },
+      { "title": "God, Locke, and Equality", "author": "Jeremy Waldron", "note": "Argues that Locke's commitment to equality is inseparable from his Christianity." },
+      { "title": "Locke: A Very Short Introduction", "author": "John Dunn", "note": "A compact overview by one of the leading historians of Locke's thought." }
+    ],
+    "questions": [
+      "Can Locke's theory of natural rights stand without his belief that humans are God's workmanship? What would replace that foundation?",
+      "Does labour really justify property? What about inherited wealth, or land taken from people who used it differently?",
+      "Locke's right of revolution requires a 'long train of abuses'. Who gets to decide when that threshold has been reached?"
+    ]
+  }
+}

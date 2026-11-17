@@ -1,0 +1,238 @@
+{
+  "id": "day-27",
+  "day": 27,
+  "title": "The Skeptics: Suspending Judgment",
+  "subtitle": "What if the road to peace of mind runs through admitting you do not know?",
+  "philosophers": ["Pyrrho of Elis", "Arcesilaus", "Carneades", "Sextus Empiricus"],
+  "era": "c. 360 BCE–c. 200 CE",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to distinguish the two ancient skeptical traditions, Pyrrhonism and Academic skepticism",
+    "Explain the Pyrrhonian path from equipollence through epoche to ataraxia",
+    "Apply several of the Ten Modes and the Five Modes of Agrippa to examples",
+    "Evaluate the classic objections that skepticism refutes itself and makes action impossible, and the skeptics' replies",
+    "Trace the influence of ancient skepticism on Montaigne, Descartes and Hume, and connect it to modern debates about belief and misinformation"
+  ],
+  "hook": "A painter named Apelles was trying to paint a horse, and he wanted to show the foam on its mouth. He tried again and again and failed. Finally, in frustration, he gave up and flung at the picture the sponge he used for wiping his brushes. The sponge left a mark on the canvas, and the mark looked exactly like a horse's foam.\n\nThe story, told by the philosopher Sextus Empiricus, is meant as a parable. The Skeptics, Sextus says, hoped to find peace of mind by finally discovering the truth: by deciding which beliefs about the world were right and which wrong. They could not decide. So they gave up and suspended judgment. And then, as if by chance, peace of mind followed, the way the foam appeared on Apelles' painting.\n\nEvery school we have met this week, the Cynics, Epicureans and Stoics, promised tranquillity through the right beliefs about nature, pleasure or virtue. Today we meet philosophers who claimed that tranquillity comes from having no such beliefs at all. They are among the most radical, and most influential, thinkers of the ancient world.",
+  "sections": [
+    {
+      "heading": "What Is a Skeptic?",
+      "body": "The Greek word *skeptikos* means 'inquirer' or 'examiner', from *skepsis*, investigation. The ancient skeptics did not think of themselves as people who deny everything, but as people who keep looking. Sextus Empiricus divides philosophers into three groups. **Dogmatists**, like Aristotle, Epicurus and the Stoics, think they have found the truth. Some others claim that the truth cannot be found. Skeptics, says Sextus, are those who are still searching.\n\nThis is worth stressing because the modern word 'skeptic' can mean several things: someone who doubts a particular claim (a climate skeptic), someone who demands evidence (a scientific skeptic), or a philosopher who argues that we cannot know anything about the external world. The ancient version is different from all of these, and it came in two main traditions.\n\n- **Pyrrhonism**, named after Pyrrho of Elis, which aimed at tranquillity through suspension of judgment and is known to us mainly through Sextus Empiricus.\n- **Academic skepticism**, developed inside Plato's own school, the Academy, by Arcesilaus and Carneades, which focused on attacking the Stoic theory of knowledge.\n\nThe roots go back further. Remember Socrates (Day 9), who claimed to know only that he knew nothing, and the long debate since Parmenides (Day 5) and Democritus (Day 7) about whether the senses can be trusted. Remember, too, Protagoras (Day 8), who said that man is the measure of all things. The skeptics drew on all of these, but turned doubt into a way of life."
+    },
+    {
+      "heading": "Pyrrho: The Philosopher Who Wrote Nothing",
+      "body": "**Pyrrho of Elis** (c. 360–270 BCE) began as a painter. He joined Alexander the Great's expedition to the East, along with the atomist philosopher Anaxarchus, and according to Diogenes Laertius he met the 'naked wise men' (*gymnosophists*) of India and the Persian Magi. Some scholars think this contact with Indian thought, perhaps Buddhist or other ascetic traditions, shaped his philosophy; others think the evidence is too thin. The question remains open.\n\nPyrrho, like Socrates, wrote nothing. His ideas reached later generations through his student **Timon of Phlius**, a satirical poet. The most important summary, preserved by a much later writer, reports Timon's account roughly like this. Whoever wants to be happy must look at three questions. First, what are things like by nature? Pyrrho's answer: they are indifferent, unmeasurable and undecidable. Therefore neither our perceptions nor our opinions are true or false. Second, how should we be disposed toward them? Without opinions, without leaning one way or the other, unwavering. Third, what will be the result for those so disposed? First speechlessness, and then freedom from disturbance, **ataraxia**.\n\nScholars argue about how to read this. Is Pyrrho making a bold metaphysical claim, that reality itself is indeterminate? Or only saying that *we* cannot determine it? The difference matters, and we may never be sure.\n\nAncient anecdotes portray Pyrrho as legendarily calm. A hostile source claimed that he paid no attention to carts, cliffs or dogs, trusting nothing to his senses, so that his friends had to follow him around to keep him safe. But a later Pyrrhonist, Aenesidemus, said that Pyrrho lived quite sensibly. In another story, during a storm at sea, Pyrrho pointed to a pig calmly eating on the deck and told the terrified passengers that the wise person should be as untroubled as that. These stories are probably legends, but they show what Pyrrho came to symbolise. His fellow citizens in Elis are said to have honoured him by making him high priest and exempting philosophers from taxes in his honour."
+    },
+    {
+      "heading": "Doubt in Plato's Academy: Arcesilaus and Carneades",
+      "body": "In a surprising twist, skepticism also took over Plato's Academy. Around 268 BCE, **Arcesilaus** (c. 316–241 BCE) became its head and turned it in a skeptical direction. He saw himself as returning to Socrates: the Socrates of the early dialogues, who questions everyone and concludes nothing. Arcesilaus reportedly went further than Socrates. Socrates said he knew only that he knew nothing; Arcesilaus said he did not know even that.\n\nThe Academic skeptics' main target was the Stoics (Day 25). Remember that Zeno held that some impressions are 'cognitive': so clear and distinct that they cannot be false, and so can serve as the foundation of knowledge. Arcesilaus argued that for any true impression, there could be a false impression exactly like it. Think of identical twins, two eggs, or a vivid dream. If you cannot tell a true impression from a perfectly matching false one, no impression guarantees its own truth, and since the Stoic sage never assents to anything uncertain, the sage should suspend judgment about everything.\n\nThe Stoics answered with a famous objection that we will meet again: if you assent to nothing, how can you act at all? Arcesilaus replied that we can act on what is **reasonable** (*eulogon*) without claiming to know it.\n\nThe greatest Academic was **Carneades** (214–129 BCE). In 155 BCE, Athens sent him to Rome as one of three philosopher-ambassadors, with a Stoic and an Aristotelian. According to the story, Carneades gave a brilliant public speech in praise of justice one day, and the next day an equally brilliant speech arguing against it. The Roman statesman Cato the Elder, alarmed at the effect on young Romans, urged the Senate to settle the embassy's business quickly and send the philosophers home.\n\nCarneades developed a positive account of how to live without certainty. We can act on impressions that are **persuasive** or **plausible** (*pithanon*). Better still are impressions that are plausible and consistent with other impressions, and best of all are those that have been tested. His example: in a dark room you see a coil and think it may be a snake. You do not know; but you can poke it, look closer, and check whether it moves. Each test makes the impression more trustworthy, though never certain. Many historians see in this an early ancestor of probabilistic reasoning. Later, Cicero, an admirer of the Academy, wrote the *Academica*, our main source for this tradition."
+    },
+    {
+      "heading": "Sextus Empiricus and the Modes",
+      "body": "Pyrrhonism was revived in the first century BCE by **Aenesidemus**, who had broken away from the Academy, which he thought had become too dogmatic. The fullest surviving account comes from **Sextus Empiricus**, a doctor who lived probably in the second century CE. ('Empiricus' refers to the Empiric school of medicine, which relied on observation rather than theories about hidden causes.) His *Outlines of Pyrrhonism* is the main handbook of ancient skepticism.\n\nSextus defines skepticism as an ability: the ability to set appearances and thoughts against each other in any way, so that, because the opposed arguments are of equal strength, which he calls **equipollence** (*isostheneia*), we come first to **suspension of judgment** (*epoche*) and then to **tranquillity** (*ataraxia*). Note the order. The skeptic does not decide that knowledge is impossible. He finds himself unable to choose, and calm follows, as Sextus says, like a shadow follows a body.\n\nTo produce equipollence, Pyrrhonists used standard patterns of argument called **modes**. Aenesidemus listed **Ten Modes**, mostly about how appearances vary. Some examples:\n\n- **Animals differ.** The same thing appears differently to different animals, with their different senses; who is to say that our view is the right one?\n- **Humans differ.** Some people love a food that others find disgusting.\n- **The senses conflict.** A painting looks three-dimensional to the eye but feels flat to the touch.\n- **Circumstances.** Water that feels hot to a cold hand feels cool to a feverish one.\n- **Positions and distances.** A square tower looks round from far away.\n- **Customs and laws.** What one culture considers shameful, another considers honourable. (Recall the Sophists' nomos and physis, Day 8.)\n\nIn each case, we can say how things appear, but we cannot say how they really are by nature, since we have no neutral standpoint from which to judge between the appearances.\n\nA later Pyrrhonist, **Agrippa**, condensed the strategy into **Five Modes**. The heart of them is a trilemma that still haunts philosophers. If you claim to know something, you must give a reason. That reason needs a reason, and so on. Either the chain goes on forever (**infinite regress**), or it loops back on itself (**circularity**), or it stops at some claim you simply assume (**hypothesis**). None of these seems to give real justification. Add the facts of **disagreement** and **relativity**, and you have Agrippa's five. Modern philosophers sometimes call the core argument the Agrippan or Münchhausen trilemma."
+    },
+    {
+      "heading": "Can a Skeptic Live? Objections and Legacy",
+      "body": "Two objections have shadowed skepticism from the start.\n\nThe first is **self-refutation**. Is not 'nothing can be known' itself a claim to knowledge? The Pyrrhonists were careful here. They do not say that nothing can be known; they report how things appear to them, like a chronicler, without affirming that it is true. Sextus compares skeptical arguments to a purgative drug that expels itself along with the illness, and elsewhere to a ladder that you can kick away after you have climbed it. The arguments do their work and then cancel themselves out.\n\nThe second, and more serious, is the **inaction** objection (*apraxia*): if you believe nothing, why eat when hungry, or move out of the way of a cart? Sextus answered that the skeptic lives by appearances, without beliefs about how things really are. He follows four guides: the guidance of nature (we perceive and think), the compulsion of feelings (hunger leads us to food), the traditions of laws and customs, and the teaching of practical skills. The skeptic eats because he is hungry and it appears that bread nourishes; he simply does not add the dogmatic claim that bread is nourishing by its very nature.\n\nIs that coherent? Scholars still argue about what exactly Sextus means. Does the skeptic have no beliefs at all, or only no beliefs about hidden philosophical matters? This is a live debate, as you will see in Go Deeper.\n\nThe legacy of ancient skepticism is enormous. Sextus' works were almost unknown in medieval Western Europe, but in 1562 a Latin translation of the *Outlines* was published by the French printer Henri Estienne. It hit Europe at a moment of religious wars and new scientific discoveries, when old certainties were crumbling. Montaigne (Day 40) had the skeptics' sayings painted on the beams of his study and asked his famous question, What do I know? Descartes (Day 43) tried to defeat skepticism by doubting everything in order to find something certain. Hume (Day 49) distinguished the extreme skepticism of Pyrrho, which he thought no one could live by, from a moderate skepticism that keeps us humble. And Husserl (Day 75) would borrow the word *epoche* for his own method.\n\nTomorrow, on Day 28, we turn to a philosopher who answered doubt not with suspension of belief but with a soaring vision of a single source of all reality: Plotinus."
+    }
+  ],
+  "modernConnection": {
+    "title": "Suspending Judgment in an Age of Hot Takes",
+    "body": "Every day, social media invites us to form an opinion about everything: a celebrity scandal, a new study about coffee, a foreign election, a court case we know only from a headline. Many people report feeling overwhelmed and anxious about the news. A Pyrrhonist would see a diagnosis here: we suffer because we feel compelled to judge, and every judgment gives us something to defend and something to fear. Sometimes the calmest and most honest response to a breaking story is the skeptic's: it appears this way, but I do not yet know.\n\nPsychologists study a related trait called **intellectual humility**, the recognition that one's beliefs might be wrong. Research by Mark Leary and others suggests that people who score higher on it tend to evaluate evidence more carefully and to be less hostile toward those who disagree. The Academics' habit of arguing both sides, as Carneades did in Rome, resembles exercises used today in debate training and in efforts to reduce political polarisation.\n\nBut we should be honest about where this breaks down. First, modern 'just asking questions' rhetoric, used to cast doubt on vaccines, elections or climate science, looks skeptical but usually is not. It doubts selectively, attacking claims it dislikes while confidently believing their opposites. A real Pyrrhonist would suspend judgment about the conspiracy theory just as firmly as about the official account. That is not usually what conspiracy theorists want.\n\nSecond, modern science suggests a better model than total suspension: Carneades' idea of tested, graded plausibility. We rarely need certainty to act wisely. Doctors, engineers and forecasters work with probabilities, updating their confidence as evidence arrives, much like Carneades poking the coil to see if it is a snake. Philosophers today often describe belief in terms of degrees of confidence rather than all-or-nothing assent.\n\nThird, some judgments carry moral urgency. If a bridge may be unsafe, or a friend may be in danger, suspending judgment indefinitely can itself be a choice with consequences. The ancient skeptics' advice to follow customs and appearances in practice was partly a response to this problem, but critics argue it makes the skeptic conservative by default."
+  },
+  "vocabulary": [
+    {
+      "term": "Skepticism (ancient)",
+      "definition": "From skeptikos, 'inquirer': the ancient philosophical tradition of continuing to investigate while suspending judgment, rather than claiming either knowledge or that knowledge is impossible.",
+      "example": "An ancient skeptic would not say 'there are no gods' or 'there are gods', but 'I am still inquiring'."
+    },
+    {
+      "term": "Dogmatist",
+      "definition": "In the skeptics' usage, any philosopher who claims to have discovered the truth about how things really are, such as the Stoics or Epicureans.",
+      "example": "To Sextus Empiricus, both Epicurus and Chrysippus were dogmatists, however much they disagreed with each other."
+    },
+    {
+      "term": "Epoche",
+      "definition": "Suspension of judgment: neither affirming nor denying a claim about how things really are.",
+      "example": "Faced with two equally convincing studies that contradict each other, she practised epoche and decided not to change her diet yet."
+    },
+    {
+      "term": "Equipollence (isostheneia)",
+      "definition": "The state in which opposing arguments or appearances seem equally strong, so that one has no reason to prefer either; for Pyrrhonists, the trigger for suspension of judgment.",
+      "example": "After hearing equally strong arguments on both sides of the debate, he reached equipollence and could not decide."
+    },
+    {
+      "term": "Ataraxia",
+      "definition": "Tranquillity, freedom from disturbance; for the Pyrrhonists, the calm that follows suspension of judgment, just as it was the goal of the Epicureans.",
+      "example": "Sextus claimed that ataraxia follows epoche as a shadow follows a body."
+    },
+    {
+      "term": "Modes",
+      "definition": "Standard patterns of skeptical argument designed to produce equipollence, such as the Ten Modes of Aenesidemus and the Five Modes of Agrippa.",
+      "example": "The mode of circumstances points out that the same water can feel hot or cold depending on the state of your hand."
+    },
+    {
+      "term": "Agrippan trilemma",
+      "definition": "The argument that any attempt to justify a belief must end in infinite regress, circular reasoning or an unjustified assumption.",
+      "example": "A child who keeps asking 'but why?' will eventually push a parent into one horn of the Agrippan trilemma."
+    },
+    {
+      "term": "Pithanon (the persuasive)",
+      "definition": "Carneades' criterion for action: an impression that is plausible, and better still consistent with others and tested, which we may act on without claiming certainty.",
+      "example": "Checking the weather forecast, looking at the sky and then taking an umbrella is acting on a tested pithanon."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Try a Week of Epoche, in Fifteen Minutes",
+    "prompt": "Practise the skeptic's method on one of your own opinions and see whether it brings calm, confusion or something else.",
+    "steps": [
+      "Choose a belief you hold with moderate confidence on a contested question, such as whether coffee is good for you, whether remote work is more productive, or whether a public figure is trustworthy. Write it down.",
+      "Write the strongest argument you can for the belief, then the strongest argument you can against it. Try to make them equally strong, as Carneades did in Rome.",
+      "Apply one of Agrippa's modes: trace the reason for your belief back three steps. Does the chain end in a regress, a circle or an assumption?",
+      "Now suspend judgment for a moment: write 'it appears to me that..., but I do not affirm it.' Notice how you feel. Calmer, uneasy, relieved, frustrated?",
+      "Decide: would Pyrrhonian suspension, Carneades' tested plausibility or ordinary belief be the wisest attitude toward this question? Explain your choice in three or four sentences."
+    ]
+  },
+  "summary": [
+    "Ancient skeptics saw themselves as continuing inquirers, not as dogmatic deniers; there were two traditions, Pyrrhonism and Academic skepticism.",
+    "Pyrrho of Elis, who travelled with Alexander to India and wrote nothing, taught that things are undecidable and that suspending judgment leads to ataraxia.",
+    "Arcesilaus and Carneades turned Plato's Academy skeptical, attacking the Stoic cognitive impression; Carneades proposed acting on tested, plausible impressions.",
+    "Sextus Empiricus describes the Pyrrhonist path: opposing appearances produce equipollence, then epoche, then tranquillity, using the Ten Modes and Agrippa's Five Modes.",
+    "Skeptics answered the self-refutation objection by reporting appearances without asserting them, and the inaction objection by living by nature, feelings, custom and skill.",
+    "Rediscovered in 1562, Sextus shaped Montaigne, Descartes and Hume; today the skeptics speak to intellectual humility, though selective 'doubt' is not real skepticism."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What does the Greek word skeptikos originally mean?",
+      "options": [
+        "Denier",
+        "Pessimist",
+        "Inquirer or examiner",
+        "Atheist"
+      ],
+      "answer": 2,
+      "explanation": "Skeptikos comes from skepsis, investigation. Sextus presents skeptics as those who are still searching, unlike dogmatists who think they have found the truth."
+    },
+    {
+      "type": "mc",
+      "question": "In what order does Sextus Empiricus describe the skeptic's path?",
+      "options": [
+        "Belief, then doubt, then despair",
+        "Equipollence of opposing arguments, then suspension of judgment, then tranquillity",
+        "Tranquillity, then knowledge, then virtue",
+        "Suspension of judgment, then certainty, then happiness"
+      ],
+      "answer": 1,
+      "explanation": "Opposing arguments of equal strength (equipollence) lead to epoche, and ataraxia follows, as a shadow follows a body."
+    },
+    {
+      "type": "mc",
+      "question": "What was the main target of the Academic skeptics Arcesilaus and Carneades?",
+      "options": [
+        "The Stoic theory that some impressions are so clear they cannot be false",
+        "Epicurus' theory of atoms",
+        "Plato's theory of the Forms",
+        "The Cynics' rejection of convention"
+      ],
+      "answer": 0,
+      "explanation": "They argued that any true impression could be matched by an indistinguishable false one, so the Stoic 'cognitive impression' cannot ground certain knowledge."
+    },
+    {
+      "type": "mc",
+      "question": "Water feels hot to someone who has just come in from the snow and cool to someone with a fever. Which kind of skeptical mode does this illustrate?",
+      "options": [
+        "The mode of infinite regress",
+        "The mode from customs and laws",
+        "The mode of hypothesis",
+        "The mode from circumstances"
+      ],
+      "answer": 3,
+      "explanation": "The mode from circumstances shows that how things appear depends on the condition of the perceiver, so we cannot say how the water is by nature."
+    },
+    {
+      "type": "mc",
+      "question": "A student asks why she should believe a claim. Every reason her teacher gives prompts another 'why?', until the teacher says 'that is just obvious'. Which horn of the Agrippan trilemma has the teacher reached?",
+      "options": [
+        "Infinite regress",
+        "Circularity",
+        "Hypothesis, an unjustified stopping point",
+        "Equipollence"
+      ],
+      "answer": 2,
+      "explanation": "Stopping the chain of reasons at a claim simply assumed to be true is the mode of hypothesis. Going on forever would be regress; returning to an earlier claim would be circularity."
+    },
+    {
+      "type": "mc",
+      "question": "How did Sextus answer the objection that a skeptic who believes nothing could not act?",
+      "options": [
+        "He admitted skeptics cannot act and should stay in bed",
+        "He said skeptics secretly hold firm beliefs",
+        "He said skeptics live by appearances, guided by nature, feelings, customs and practical skills, without dogmatic beliefs about how things really are",
+        "He said the gods tell skeptics what to do"
+      ],
+      "answer": 2,
+      "explanation": "Sextus' fourfold guide to life lets the skeptic eat when hungry and follow custom without asserting that things are truly so."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern practice is closest to Carneades' idea of the tested, plausible impression?",
+      "options": [
+        "Refusing to take any medicine because no treatment is certain to work",
+        "A doctor who forms a likely diagnosis, orders tests to check it and adjusts her confidence as results arrive",
+        "Believing whatever one's friends believe",
+        "Insisting that one's first impression must be correct"
+      ],
+      "answer": 1,
+      "explanation": "Carneades recommended acting on impressions that are plausible, consistent and tested, without claiming certainty, much like probabilistic, evidence-based reasoning."
+    },
+    {
+      "type": "tf",
+      "question": "Pyrrho of Elis wrote a long book explaining his philosophy, which survives today.",
+      "answer": false,
+      "explanation": "Like Socrates, Pyrrho wrote nothing. His views come to us mainly through his student Timon and later reports."
+    },
+    {
+      "type": "tf",
+      "question": "During an embassy to Rome in 155 BCE, Carneades argued for justice one day and against it the next.",
+      "answer": true,
+      "explanation": "This famous episode demonstrated the Academic method of arguing both sides and alarmed Cato the Elder, who wanted the philosophers sent home."
+    },
+    {
+      "type": "tf",
+      "question": "A person who confidently rejects the scientific consensus on vaccines while confidently accepting a conspiracy theory is practising Pyrrhonian skepticism.",
+      "answer": false,
+      "explanation": "Pyrrhonists suspended judgment on all sides. Doubting only the claims one dislikes while firmly believing their opposites is selective dogmatism, not skepticism."
+    }
+  ],
+  "goDeeper": {
+    "body": "What exactly did the Pyrrhonist believe, if anything? In 1980, the philosopher Myles Burnyeat published a famous paper, 'Can the Sceptic Live His Scepticism?', arguing that Sextus' skeptic is meant to have no beliefs at all, not even everyday beliefs like 'it is day' or 'this is bread'. If so, Burnyeat argued, the skeptical life is impossible, or at least deeply strange: a person who has detached himself from his own thoughts. Michael Frede replied in 'The Sceptic's Beliefs' that Sextus' skeptic rejects only dogmatic beliefs about the hidden natures of things, the kind philosophers and scientists theorise about, while keeping ordinary beliefs. Scholars call these the 'rustic' and 'urbane' interpretations of Pyrrhonism. The debate is still open, and the texts can be read both ways.\n\nA second debate concerns Pyrrho himself. Richard Bett has argued that the Aristocles passage shows Pyrrho holding a metaphysical thesis: that reality is itself indeterminate. This would make him very different from Sextus, who avoids all such claims. Others read the same passage epistemologically. Adrian Kuzminski and Christopher Beckwith have argued, controversially, for strong Buddhist influence on Pyrrho, pointing to parallels with Buddhist teachings on the indeterminacy of things; many specialists remain unpersuaded, but the question shows how hard it is to reconstruct a philosopher who wrote nothing.\n\nFinally, the Agrippan trilemma is the ancestor of a central problem in modern epistemology. Foundationalists accept that justification stops at basic beliefs; coherentists accept a kind of circle, arguing that beliefs justify each other by fitting together; and infinitists, like Peter Klein, defend the regress. You will meet this structure again with Descartes (Day 43), Hume (Day 49) and the twentieth-century debates of Day 74.",
+    "readings": [
+      {
+        "title": "Outlines of Scepticism",
+        "author": "Sextus Empiricus",
+        "note": "Book 1 is the essential text, setting out the skeptic's path and the modes. Julia Annas and Jonathan Barnes' Cambridge translation is clear and reliable."
+      },
+      {
+        "title": "On Academic Scepticism (Academica)",
+        "author": "Cicero",
+        "note": "Our main source for Arcesilaus and Carneades, written as a dialogue. Charles Brittain's Hackett translation includes helpful notes."
+      },
+      {
+        "title": "The Modes of Scepticism",
+        "author": "Julia Annas and Jonathan Barnes",
+        "note": "A careful, readable study of the Ten Modes, with translations of the ancient texts."
+      },
+      {
+        "title": "Pyrrho, His Antecedents, and His Legacy",
+        "author": "Richard Bett",
+        "note": "For the ambitious: a scholarly reconstruction of what Pyrrho himself believed and how later skeptics reshaped him."
+      }
+    ],
+    "questions": [
+      "Is it possible to live without any beliefs at all? If not, which beliefs could a skeptic consistently keep?",
+      "Does suspending judgment actually bring tranquillity, or does uncertainty make most people more anxious?",
+      "When, if ever, is suspending judgment morally irresponsible?"
+    ]
+  }
+}

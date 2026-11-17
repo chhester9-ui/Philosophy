@@ -1,0 +1,244 @@
+{
+  "id": "day-85",
+  "day": 85,
+  "title": "The Return of Virtue and the Ethics of Care",
+  "subtitle": "What if ethics is less about rules and more about character and relationships?",
+  "philosophers": ["G. E. M. Anscombe", "Alasdair MacIntyre", "Philippa Foot", "Carol Gilligan", "Nel Noddings"],
+  "era": "1958–present",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to summarize Anscombe's critique of 'Modern Moral Philosophy' and why it sparked a revival of virtue ethics.",
+    "By the end you will be able to explain MacIntyre's diagnosis of moral disagreement and his ideas of practices, narrative and tradition.",
+    "By the end you will be able to describe Foot's naturalistic account of virtue.",
+    "By the end you will be able to explain Gilligan's challenge to Kohlberg and Noddings' ethics of care.",
+    "By the end you will be able to assess the main objections to virtue ethics and care ethics."
+  ],
+  "hook": "Think of the best person you know: not the most successful, but the one you would most like to resemble. Perhaps a grandparent, a teacher, a nurse, a friend. Now ask: what makes them good? Probably not that they calculate the greatest happiness for the greatest number before every decision, nor that they consult a list of universal rules. More likely, they are honest without being cruel, brave without being reckless, patient with children, generous without fuss. They notice when someone is struggling. They know how to care.\n\nFor most of the twentieth century, English-speaking moral philosophy was a two-horse race between utilitarians (Day 61) and Kantians (Day 56). Both asked: what is the right action? Today's thinkers asked a different question, one Aristotle (Day 20) had asked more than two thousand years earlier: what kind of person should I be? And some of them went further, asking why moral philosophy had ignored the relationships of care that keep every human being alive.",
+  "sections": [
+    {
+      "heading": "Anscombe's Bombshell",
+      "body": "In 1958 the Oxford philosopher **G. E. M. (Elizabeth) Anscombe** (1919–2001) published an essay called \"Modern Moral Philosophy\" that reads like a grenade thrown into a quiet room. Anscombe was a formidable figure: a student and translator of Wittgenstein (Days 70 and 73), a devout Catholic convert, a mother of seven, and a fearless controversialist. Two years earlier she had publicly opposed Oxford's decision to award an honorary degree to former US President Harry Truman, arguing that his decision to drop atomic bombs on Hiroshima and Nagasaki made him a murderer.\n\nHer essay made three startling claims. First, moral philosophy should be set aside until we have an adequate **philosophy of psychology**: we need to understand what an action, an intention, a motive, a virtue and human flourishing are before we can say anything useful about ethics. Second, the special \"moral\" sense of words like *ought*, *obligation* and *duty* is a survival from an older way of thinking in which ethics was understood as divine law. If you abandon belief in a divine lawgiver but keep talking about absolute moral obligation, Anscombe argued, you are like someone who keeps using the word \"criminal\" after criminal law and courts have been abolished. The word has lost the context that gave it sense. Third, the differences between the famous English moral philosophers since Henry Sidgwick were of little importance, because they all shared a view that, in principle, any act might be justified if its consequences were good enough. She coined a name for this view: **consequentialism**.\n\nWhat was the alternative? Anscombe pointed back to Aristotle, who explained ethics not in terms of law but in terms of what human beings need to flourish. Instead of asking \"Is this action obligatory?\", we could ask whether it is just, honest, cowardly or cruel. These **thick concepts** combine description and evaluation, and they connect ethics to facts about human life. Her essay is often credited with launching the modern revival of **virtue ethics**, the approach that puts character at the center of morality."
+    },
+    {
+      "heading": "Philippa Foot and Natural Goodness",
+      "body": "You met **Philippa Foot** (1920–2010) on Day 83 as the inventor of the trolley problem. She was Anscombe's friend and Oxford colleague, and over a long career she became one of virtue ethics' most original defenders. (A curious biographical detail: she was a granddaughter of the American President Grover Cleveland.) Foot later said that learning the full truth about the Nazi concentration camps after the war convinced her that morality could not simply be a matter of feeling or attitude, as the emotivists claimed (Day 71). Something had to make it objectively true that what happened there was monstrous.\n\nHer answer, developed most fully in *Natural Goodness* (2001), is a form of **ethical naturalism**. We already evaluate living things according to their kind. An oak tree with shallow roots is a defective oak; a wolf that won't hunt with its pack is a defective wolf; a honeybee that doesn't do its part for the hive falls short. These judgments aren't mere opinions; they depend on facts about how members of that species live and thrive.\n\nFoot argued that moral evaluation of human beings is the same kind of judgment, applied to a species that lives by reason. Human beings need courage, justice, honesty and temperance in roughly the way wolves need cooperation and bees need their stings. (Peter Geach, Anscombe's husband, had put the comparison memorably: we need virtues as bees need stings.) A person who cannot keep promises or is indifferent to others' suffering is defective as a human being, not because they break an arbitrary rule, but because they lack what human life characteristically requires.\n\nCritics ask whether this proves too much or too little. Evolution may have shaped humans for tribal loyalty and aggression as much as for justice; does nature really back morality? Foot's defenders reply that \"what humans need to flourish\" is not the same as \"what evolution happened to select,\" but working out the difference is a delicate task."
+    },
+    {
+      "heading": "MacIntyre: After Virtue",
+      "body": "The Scottish-born philosopher **Alasdair MacIntyre** (1929–2025) wrote the most dramatic book of the virtue revival, *After Virtue* (1981). It opens with what he called a \"disquieting suggestion.\" Imagine that a catastrophe destroys the natural sciences: angry mobs blame scientists for disasters, burn laboratories and books, and abolish science teaching. Generations later, people try to revive science from the fragments: half-chapters of textbooks, bits of theories, instruments whose use is forgotten. They use words like \"neutrino\" and \"mass\" and argue passionately, but nobody realizes that the coherent framework that gave the words meaning has been lost.\n\nMacIntyre's suggestion is that our moral language is in exactly this state. We use words like *virtue*, *rights*, *duty* and *justice*, which are fragments of older, coherent traditions: Aristotelian, Christian, and others. Without those traditions, our moral debates about war, abortion or inequality go on endlessly because each side starts from premises the other has no reason to accept. In practice, MacIntyre argued, modern culture has become **emotivist**: moral claims function as expressions of preference dressed up as objective truth.\n\nHis reconstruction rests on three ideas:\n\n- **Practices:** cooperative activities such as chess, farming, medicine, music or scientific research, with their own standards of excellence and **internal goods**. His example: a child bribed with candy to play chess has a reason to cheat; but once she comes to love the game, she gains goods (analytical skill, strategic imagination) that cheating would forfeit. Virtues are the qualities that let us achieve the internal goods of practices.\n- **Narrative:** a human life has the unity of a story. We understand an action only by placing it in the narrative of a person's life, and we ask \"What is good for me?\" by asking how my story can best be completed.\n- **Tradition:** every practice and life is embedded in a tradition, an ongoing argument across generations about what the good is.\n\nThe book ends darkly. MacIntyre compared our age to the decline of the Roman Empire, when people of goodwill stopped propping up the empire and built local communities to preserve civility and the moral life. We are waiting, he wrote, not for a Godot, but for another, doubtless very different, St. Benedict. Critics charged MacIntyre with nostalgia and relativism (if every rationality belongs to a tradition, how can traditions be compared?), but his diagnosis of interminable moral argument still strikes many readers as uncomfortably accurate."
+    },
+    {
+      "heading": "Gilligan's Different Voice",
+      "body": "A different challenge came from developmental psychology. In the 1960s and 1970s Lawrence Kohlberg proposed that moral reasoning develops through six stages, culminating in reasoning based on abstract, universal principles of justice, very much like Kant or Rawls. He tested people with dilemmas, the most famous of which is the **Heinz dilemma**: Heinz's wife is dying, a druggist has a drug that could save her but charges far more than Heinz can pay, and he refuses to lower the price. Should Heinz steal the drug?\n\nKohlberg's student and colleague **Carol Gilligan** noticed that his original research had been done with boys, and that girls and women often scored lower on his scale. In *In a Different Voice* (1982) she argued that this was not because women were less morally mature but because the scale was biased toward one way of thinking.\n\nHer most famous example compares two eleven-year-olds. Jake treats the Heinz dilemma like a math problem: life is worth more than property, so Heinz should steal. Amy hesitates. Heinz shouldn't steal, but his wife shouldn't die either. Perhaps he could talk to the druggist again, or borrow the money. If he went to jail, who would care for his wife? Kohlberg's scale ranks Amy's answer lower. Gilligan heard something else: not confusion, but attention to relationships, communication and the particular people involved.\n\nGilligan called these two orientations an **ethic of justice**, focused on rights, rules and impartial fairness, and an **ethic of care**, focused on responsibilities, relationships and responsiveness to need. She insisted that the care voice was not exclusively female, only that it had been associated with women and dismissed. Later studies found that sex differences in moral reasoning were smaller than her early work suggested, and some feminists worried that praising care risked reinforcing stereotypes that keep women in caring roles. But her central point endured: moral theory had been built by looking at a narrow slice of human experience."
+    },
+    {
+      "heading": "Noddings and the Ethics of Care",
+      "body": "The educational philosopher **Nel Noddings** (1929–2022) developed care into a full ethical theory in *Caring* (1984). For Noddings, the basic moral reality is not a principle but a relation between the **one-caring** and the **cared-for**. Caring involves **engrossment**, receptive attention to the other person as they really are, and **motivational displacement**, in which my energy flows toward their projects and needs. The relation is completed when the cared-for responds, even with a smile or a sigh of relief. Think of a good teacher who notices that a usually cheerful pupil has gone silent, or a nurse adjusting a patient's pillow before being asked.\n\nWhy is this a challenge to the dominant theories? Utilitarianism and Kantianism both value **impartiality**: everyone counts equally, and a good moral agent stands back from particular attachments. Care ethicists argue that this gets moral life backwards. We first learn morality by being cared for as helpless infants; dependence is not an exception but a basic fact of every human life, from childhood to illness to old age. Philosophers such as Virginia Held and Joan Tronto extended the view to politics: who does the caring work of society, who pays for it, and why is it so undervalued?\n\nCare ethics overlaps with virtue ethics (both emphasize perception, emotion and particular situations rather than rules) but differs in its focus. Virtue ethics centers on the character of the individual agent; care ethics centers on the relationship.\n\nThe objections are real. Noddings argued that our obligation to care is limited by our ability to complete caring relations, which seemed to imply weaker obligations toward distant strangers, a stark contrast with Singer's drowning child (Day 83). Critics asked whether care can be exploited: a woman devoted to an abusive partner is caring, but surely ought not to be. Defenders reply that genuine care includes care for oneself and requires justice as a framework. Many today see care and justice not as rivals but as partners."
+    },
+    {
+      "heading": "Can Character Guide Action?",
+      "body": "Virtue ethics faces two big objections, and how it answers them shows its strengths.\n\nThe first is the **action-guidance objection**. Telling someone to \"do what a virtuous person would do\" seems unhelpful when they don't know what that is. Rosalind Hursthouse, in *On Virtue Ethics* (1999), replied that virtue ethics does give guidance through what she called v-rules: be honest, don't be cruel, be generous. These rules are numerous and require judgment to apply, but that is a feature, not a bug. Aristotle's **phronesis** (practical wisdom, Day 20) is precisely the ability to see what matters in a particular case.\n\nThe second is the **situationist challenge**. Social psychologists found that behavior is surprisingly sensitive to small features of situations. In a well-known 1973 study, seminary students hurrying to give a talk, some of them on the parable of the Good Samaritan, were far less likely to stop for a person slumped in a doorway if they had been told they were late. Philosophers such as John Doris and Gilbert Harman argued that robust character traits may barely exist. Virtue ethicists answer that true virtue was always rare, that the studies show how much we need moral education, and that knowing our situational weaknesses is itself part of wisdom."
+    }
+  ],
+  "keyQuote": {
+    "text": "We are waiting not for a Godot, but for another—doubtless very different—St. Benedict.",
+    "source": "Alasdair MacIntyre, After Virtue (1981), final paragraph"
+  },
+  "modernConnection": {
+    "title": "The Care Economy and the Invisible Work That Holds Society Together",
+    "body": "Care ethics has moved from philosophy seminars into debates about economics and public policy. Across many wealthy countries, populations are aging, and the demand for people who look after the elderly, the sick and the disabled is growing faster than the workforce. Much of this care is unpaid, done mostly by women in families. Paid care workers, such as home health aides and nursing assistants, are often among the lowest paid workers in the economy, despite doing work that everyone, eventually, depends upon.\n\nThe COVID-19 pandemic made this vivid. Suddenly the people society could not do without were nurses, care-home staff, cleaners and grocery workers. Joan Tronto's question, \"who cares, and who pays for it?\", became front-page news. Economists began talking about the **care economy**, and some governments debated paying family caregivers, expanding parental leave, and counting unpaid household work in measures of national output.\n\nVirtue ethics, too, has a modern life. Schools in several countries run character education programs, and positive psychology has catalogued strengths such as courage, kindness and perseverance, explicitly borrowing from Aristotle. Medical schools teach empathy and practical judgment alongside technical skills, because no rulebook covers every situation a doctor will face.\n\nWhere does the bridge break down? Care ethicists warn that turning care into a market service can strip it of the attentive relationship that makes it care: a carer given fifteen minutes per visit cannot practice engrossment. And character education programs can collapse into posters and slogans, the opposite of MacIntyre's rich practices and traditions. Philosophers of virtue would also remind us that positive psychology's \"strengths\" are measured by questionnaires, while Aristotle's virtues are revealed in action over a whole life. Still, the shift is real: our public debates increasingly recognize that a good society depends not just on fair rules but on good people and on the unglamorous labor of care."
+  },
+  "vocabulary": [
+    {
+      "term": "Virtue ethics",
+      "definition": "An approach to ethics that puts character traits (virtues and vices) and human flourishing at the center, rather than rules or consequences.",
+      "example": "A virtue ethicist asks not 'Which rule applies?' but 'What would an honest and compassionate person do here?'"
+    },
+    {
+      "term": "Consequentialism",
+      "definition": "The family of views holding that the rightness of actions depends only on their consequences; the term was coined by Anscombe in 1958.",
+      "example": "Utilitarianism is the best-known form of consequentialism."
+    },
+    {
+      "term": "Thick concept",
+      "definition": "An ethical concept that both describes and evaluates, such as cruel, brave, honest or rude.",
+      "example": "Calling a remark 'cruel' says more about what happened than calling it simply 'wrong', because 'cruel' is a thick concept."
+    },
+    {
+      "term": "Ethical naturalism",
+      "definition": "The view that moral facts are grounded in natural facts, for example facts about what living things of a certain kind need in order to flourish.",
+      "example": "Foot's ethical naturalism treats a dishonest person as defective in the way a wolf that won't hunt with its pack is defective."
+    },
+    {
+      "term": "Practice (MacIntyre)",
+      "definition": "A cooperative human activity with its own standards of excellence and internal goods, such as medicine, chess, farming or music.",
+      "example": "For MacIntyre, teaching is a practice whose internal goods include the joy of seeing a student finally understand."
+    },
+    {
+      "term": "Internal goods",
+      "definition": "Goods that can only be achieved by participating well in a practice, as opposed to external goods like money or fame.",
+      "example": "A chess player who cheats may win prize money but forfeits the internal goods of the game."
+    },
+    {
+      "term": "Ethics of care",
+      "definition": "An approach to ethics, developed by Gilligan, Noddings and others, that centers moral life on relationships, responsiveness and responsibilities to particular others.",
+      "example": "From the perspective of the ethics of care, sitting with a frightened friend in hospital is central moral work, not a mere private kindness."
+    },
+    {
+      "term": "Phronesis",
+      "definition": "Aristotle's term for practical wisdom: the ability to perceive what matters in a particular situation and judge how to act well.",
+      "example": "Knowing when honesty requires gentleness rather than bluntness is an exercise of phronesis."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "A Character Portrait",
+    "prompt": "Use virtue ethics and care ethics to study a real person you admire, and then yourself.",
+    "steps": [
+      "Choose someone you know personally whom you consider genuinely good. Write down three specific things you have seen them do.",
+      "For each action, name the virtue or caring quality it shows (for example honesty, patience, attentiveness). Would a rule or a calculation have produced the same action? Why or why not?",
+      "Now describe one practice in your own life (a job, craft, sport or role such as parent or friend) in MacIntyre's sense. What are its internal goods, and what virtues does it demand?",
+      "Identify one situation in which you tend to fall short, perhaps when rushed like the seminary students. Write one concrete habit you could practice over the next month to change that, remembering Aristotle's claim that virtue grows through habit."
+    ]
+  },
+  "summary": [
+    "Anscombe's 1958 essay argued that modern 'moral ought' talk is a leftover from divine-law ethics, coined the term consequentialism, and pointed philosophers back to Aristotle.",
+    "Foot's ethical naturalism treats virtues as what human beings need to flourish, as wolves need cooperation and bees their stings.",
+    "MacIntyre's After Virtue diagnosed modern moral debate as fragmented and proposed rebuilding ethics around practices, narrative and tradition.",
+    "Gilligan challenged Kohlberg's justice-centered scale by identifying a 'different voice' of care; Noddings developed care ethics around the relation of one-caring and cared-for.",
+    "Virtue ethics answers the action-guidance objection with practical wisdom and v-rules, and the situationist challenge by stressing moral education."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "According to Anscombe, why is the modern 'moral ought' problematic?",
+      "options": [
+        "It is too vague to translate into other languages",
+        "It survives from a divine-law conception of ethics that many no longer accept, so it has lost the context that gave it sense",
+        "It was invented by utilitarians to confuse Kantians",
+        "It only applies to religious people"
+      ],
+      "answer": 1,
+      "explanation": "Anscombe compared using 'moral obligation' without a lawgiver to using 'criminal' after the abolition of criminal law."
+    },
+    {
+      "type": "mc",
+      "question": "Which term did Anscombe coin in 'Modern Moral Philosophy'?",
+      "options": [
+        "Utilitarianism",
+        "Categorical imperative",
+        "Consequentialism",
+        "Ethics of care"
+      ],
+      "answer": 2,
+      "explanation": "Anscombe coined 'consequentialism'. Utilitarianism is much older, and the categorical imperative is Kant's."
+    },
+    {
+      "type": "mc",
+      "question": "What is the point of MacIntyre's 'disquieting suggestion' about a world that has lost its science?",
+      "options": [
+        "Modern moral language consists of fragments of older traditions whose coherent framework has been lost",
+        "Science is more important than ethics",
+        "Scientists are responsible for most disasters",
+        "Moral arguments can be settled by scientific experiments"
+      ],
+      "answer": 0,
+      "explanation": "Just as the imagined survivors use scientific words without the theory, we use moral words without the traditions that once made them coherent."
+    },
+    {
+      "type": "mc",
+      "question": "A violinist practices for years and comes to value the beauty and discipline of playing, not just the paycheck. In MacIntyre's terms, she has come to value:",
+      "options": [
+        "External goods",
+        "The difference principle",
+        "Thick concepts",
+        "The internal goods of a practice"
+      ],
+      "answer": 3,
+      "explanation": "Internal goods can only be achieved by participating well in a practice; money and fame are external goods."
+    },
+    {
+      "type": "mc",
+      "question": "In Gilligan's discussion of the Heinz dilemma, how does Amy's response differ from Jake's?",
+      "options": [
+        "Amy focuses on relationships, communication and consequences for the people involved rather than ranking abstract rights",
+        "Amy insists that Heinz must steal the drug",
+        "Amy refuses to answer the question",
+        "Amy applies a strict utilitarian calculation"
+      ],
+      "answer": 0,
+      "explanation": "Jake treats the dilemma like a math problem of life versus property; Amy looks for ways to preserve relationships and meet needs."
+    },
+    {
+      "type": "mc",
+      "question": "How did Philippa Foot argue that moral judgments could be objective?",
+      "options": [
+        "By deriving them from God's commands",
+        "By treating them as expressions of feeling",
+        "By grounding them in facts about what human beings need to flourish, as we judge other living things by their kind",
+        "By showing that they can be proved mathematically"
+      ],
+      "answer": 2,
+      "explanation": "Foot's ethical naturalism compares moral evaluation to judging a wolf or an oak as healthy or defective according to its species' form of life."
+    },
+    {
+      "type": "mc",
+      "question": "The 1973 Good Samaritan study, in which hurried seminary students rarely stopped to help, is used to support which objection to virtue ethics?",
+      "options": [
+        "The action-guidance objection",
+        "The situationist challenge: behavior depends more on situations than on stable character traits",
+        "The demandingness objection",
+        "The is-ought gap"
+      ],
+      "answer": 1,
+      "explanation": "Situationists such as Doris and Harman argued such findings cast doubt on robust character traits."
+    },
+    {
+      "type": "tf",
+      "question": "Gilligan claimed that the ethic of care is a voice found exclusively in women.",
+      "answer": false,
+      "explanation": "Gilligan said the care voice had been associated with women and dismissed, but she explicitly denied it was exclusive to women."
+    },
+    {
+      "type": "tf",
+      "question": "In Noddings' care ethics, the basic moral reality is a relation between the one-caring and the cared-for.",
+      "answer": true,
+      "explanation": "Noddings centered ethics on caring relations involving engrossment and motivational displacement, completed by the cared-for's response."
+    },
+    {
+      "type": "tf",
+      "question": "Care ethics shares virtue ethics' emphasis on universal, impartial rules applied equally to everyone.",
+      "answer": false,
+      "explanation": "Both care ethics and virtue ethics criticize the emphasis on impartial rules, stressing perception, emotion and particular situations instead."
+    }
+  ],
+  "goDeeper": {
+    "body": "One of the most interesting debates in contemporary virtue ethics concerns **eudaimonism**: must virtues always be grounded in the agent's own flourishing? Aristotle and Hursthouse say yes, but this invites a worry. If I am honest because honesty is good for *me*, isn't my virtue secretly selfish? Defenders reply that eudaimonia is not self-interest in the ordinary sense; the virtuous person's flourishing *consists in* caring about others and acting well, so there is no hidden selfish motive. Other philosophers have developed non-eudaimonist virtue ethics. Michael Slote, for example, grounds morality in the motive of empathic care, building a bridge between virtue ethics and care ethics. Linda Zagzebski's **exemplarism** starts from the people we admire on reflection and builds ethical theory outward from them, much as we learned the meaning of \"water\" by pointing at examples.\n\nThere is also a fruitful dialogue with non-Western traditions. Confucian ethics (Day 87) is often described as a virtue ethics and also a role ethics, emphasizing family relationships, ritual and the cultivation of character through practice, and comparative philosophers such as Bryan Van Norden and Edward Slingerland have explored its parallels and differences with Aristotle. Some care ethicists find kinship with the African ideal of Ubuntu, which locates personhood in relationships.\n\nFinally, care ethics has become a political theory. Eva Feder Kittay, drawing on her experience as the mother of a severely disabled daughter, argued in *Love's Labor* (1999) that Rawls' picture of society as cooperation among free and equal, fully functioning citizens leaves out dependency, and that any just society must support those who care for dependents. This links back to Okin's critique of Rawls on Day 82 and forward to the Ethics track.",
+    "readings": [
+      {
+        "title": "Modern Moral Philosophy",
+        "author": "G. E. M. Anscombe",
+        "note": "The short, explosive 1958 essay from the journal Philosophy; read it for the 'criminal without criminal law' comparison."
+      },
+      {
+        "title": "After Virtue",
+        "author": "Alasdair MacIntyre",
+        "note": "Chapter 1 (the disquieting suggestion) and chapters 14–15 (practices, narrative and tradition) are the essentials."
+      },
+      {
+        "title": "In a Different Voice",
+        "author": "Carol Gilligan",
+        "note": "Chapter 2 contains the comparison of Jake and Amy on the Heinz dilemma."
+      },
+      {
+        "title": "Metaphysical Animals",
+        "author": "Clare Mac Cumhaill and Rachael Wiseman",
+        "note": "A lively 2022 group biography of Anscombe, Foot, Iris Murdoch and Mary Midgley and how they changed moral philosophy."
+      }
+    ],
+    "questions": [
+      "Is it possible to be a good person in a society whose institutions are deeply unjust? What would virtue require there?",
+      "Can care be a duty, or does it stop being care once it is required?",
+      "If situations shape our behavior so strongly, should we focus more on designing good situations than on building good character?"
+    ]
+  }
+}

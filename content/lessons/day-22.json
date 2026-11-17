@@ -1,0 +1,301 @@
+{
+  "id": "day-22",
+  "day": 22,
+  "title": "Review: The Greek Foundations",
+  "subtitle": "Three centuries, five big questions, and the conversation that started it all",
+  "philosophers": ["Thales", "Heraclitus", "Parmenides", "Democritus", "Protagoras", "Socrates", "Plato", "Aristotle"],
+  "era": "c. 600–322 BCE",
+  "estimatedMinutes": 60,
+  "objectives": [
+    "By the end you will be able to trace the main storyline of Greek philosophy from Thales to Aristotle",
+    "Compare how different thinkers answered the same questions about reality, change, knowledge, the good life and politics",
+    "Use the most important technical terms from Days 1–21 accurately",
+    "Explain how Plato and Aristotle each tried to resolve problems left by earlier thinkers",
+    "Construct your own position on at least one of the great Greek debates"
+  ],
+  "hook": "In about 270 years, from Thales in Miletus around 585 BCE to Aristotle's death in 322 BCE, a scattering of thinkers in a small corner of the Mediterranean invented most of the questions philosophy still asks. What is everything made of? Can anything really change? Should we trust our senses or our reason? Is morality natural or just a human convention? What is a good life, and who should rule?\n\nOver the past three weeks you have met them one at a time. Today we step back and watch them argue with each other. Think of it like the end of the first season of a long series: before new characters arrive (the Cynics, Epicureans, Stoics and Skeptics, starting tomorrow), it is worth seeing the plot as a whole. You will notice that almost every thinker was answering someone else, and that the two giants at the end, Plato and Aristotle, can be read as two grand attempts to settle everything that came before.",
+  "sections": [
+    {
+      "heading": "The Storyline in Brief",
+      "body": "Here is the whole arc in one breath, as a series of moves and counter-moves.\n\n1. **From mythos to logos (Day 1).** In sixth-century Miletus, a busy trading city on the coast of Asia Minor, people began explaining the world by natural causes and argument rather than by stories of the gods.\n2. **The Milesians (Day 2)** asked for the *arche*, the first principle of all things: water for Thales, the boundless *apeiron* for Anaximander, air for Anaximenes.\n3. **Pythagoras (Day 3)** suggested the deepest reality was number and harmony, and taught that souls migrate between bodies.\n4. **Heraclitus (Day 4)** insisted that everything flows, held together by a hidden *logos*, a rational order of balanced opposites.\n5. **Parmenides (Day 5)** argued the opposite: what-is cannot come from what-is-not, so change and plurality are illusions. His student **Zeno** defended him with paradoxes like Achilles and the tortoise.\n6. **The pluralists (Day 6)**, Empedocles and Anaxagoras, and **the atomists (Day 7)**, Leucippus and Democritus, tried to rescue change by saying unchanging elements or atoms rearrange themselves.\n7. **The Sophists (Day 8)** turned from nature to human affairs, teaching persuasion for pay and asking whether justice is natural (*physis*) or merely convention (*nomos*).\n8. **Socrates (Days 9–10)** questioned everyone, claimed to know nothing, insisted the unexamined life was not worth living, and died for it in 399 BCE.\n9. **Plato (Days 11–15)** answered Heraclitus, Parmenides and the Sophists at once with the Theory of Forms, and built from it a theory of knowledge, the soul, justice, love and the ideal city.\n10. **Aristotle (Days 16–21)** brought the Forms back down to earth, inventing formal logic and a theory of substance and causes, and applying it to biology, ethics, politics and art.\n\nThe rest of this review regroups these thinkers around the questions they shared."
+    },
+    {
+      "heading": "Question One: What Is Reality, and How Can It Change?",
+      "body": "The first great question was about the stuff and structure of the world, and it quickly became a question about change.\n\nThe Milesians assumed a single underlying substance that turns into everything else: water thickening into earth, or air condensing and rarefying. That raised a puzzle. If water becomes earth, in what sense is it still water?\n\nHeraclitus embraced the puzzle: reality *is* change, like a river into which you cannot step twice, and its unity is the *logos*, the ordered tension of opposites, symbolised by ever-living fire. Parmenides pushed the other way. Using pure reason, he argued that what-is cannot not be, so nothing can come into being or pass away. Change is the senses deceiving us.\n\nAlmost everything afterwards is an attempt to escape Parmenides' trap without denying the obvious fact of change.\n\n- **Empedocles** posited four unchanging roots (earth, water, air, fire), mixed and separated by Love and Strife.\n- **Anaxagoras** said everything contains a portion of everything, ordered by *nous*, Mind.\n- **The atomists** said only atoms and void exist; atoms never change, but their arrangements do.\n- **Plato** split reality in two: the changing world of particulars we perceive, a Heraclitean realm, and the eternal, unchanging Forms we know by reason, a Parmenidean realm.\n- **Aristotle** kept one world but analysed change itself. Every individual **substance** is a compound of **matter and form**; change is matter taking on new form, the actualisation of a **potentiality**. The acorn was potentially an oak all along, so change does not require something to come from nothing.\n\nNotice the direction of travel: from 'what is the stuff?' to 'what is the structure?' Pythagoras' numbers, Heraclitus's logos, Plato's Forms and Aristotle's forms all say, in different ways, that to explain a thing you need to know its pattern, not just its material. Democritus is the great exception, and modern physics would eventually side partly with him."
+    },
+    {
+      "heading": "Question Two: How Do We Know?",
+      "body": "Behind the debates about reality lay another question, about knowledge, which philosophers call **epistemology**.\n\nParmenides was the first great rationalist: trust argument, not appearances. Zeno's paradoxes were meant to show that the senses lead to absurdities if taken at face value. Heraclitus, by contrast, valued what can be seen and heard, though he thought most people fail to understand what they perceive. Democritus drew a sharp distinction: sweet, bitter, hot and colour exist only 'by convention', while in reality there are only atoms and void, an early version of the primary and secondary qualities you will meet again with Locke (Day 47).\n\nThe Sophists offered a disturbing alternative. Protagoras's claim that 'man is the measure of all things' was taken, at least by Plato, to mean that whatever seems true to each person is true for that person. If so, there is no expert knowledge of justice, only more and less persuasive opinions, and rhetoric becomes the master skill.\n\nSocrates' response was to keep asking questions. His *elenchus* exposed contradictions in people's beliefs and showed that those who claimed knowledge often lacked it. His own wisdom, he said, lay in not thinking he knew what he did not know.\n\nPlato answered the Sophists more ambitiously. True **knowledge** is possible, but its objects are the Forms, not the shifting world of the senses. The Allegory of the Cave and the Divided Line rank states of mind from images and opinion up to understanding of the Form of the Good. In the *Meno*, Plato even suggested that learning is **recollection** of what the soul knew before birth.\n\nAristotle reversed the direction. All teaching and learning start from what we already know, and for humans that begins in perception. Memory of many perceptions produces experience; from experience we grasp universals. He then built **logic** (Day 17), the syllogism, as the tool for moving rigorously from what we know to what follows, while recognising induction as the path to first principles. The rationalist-empiricist argument that reappears in the seventeenth and eighteenth centuries (Days 43–51) is, in part, Plato versus Aristotle again."
+    },
+    {
+      "heading": "Question Three: How Should We Live?",
+      "body": "With the Sophists and Socrates, philosophy turned to ethics, and it never turned back.\n\n- **Democritus** taught that the goal of life is cheerfulness, a calm, well-balanced state of mind achieved through moderation.\n- **The Sophists** raised the challenge that conventional morality might be an arbitrary set of rules, or, in the mouths of characters like Callicles and Thrasymachus, a trick by which the weak restrain the strong.\n- **Socrates** held that virtue is knowledge: no one does wrong willingly, so wrongdoing comes from ignorance. Caring for the soul matters more than wealth or reputation, and it is better to suffer injustice than to do it.\n- **Plato**, in the *Republic*, answered Thrasymachus and the Ring of Gyges by arguing that justice is health of the soul: reason ruling, spirit as its ally, appetite kept in order. An unjust person, however powerful, is internally at war.\n- **Aristotle** made the question one of **eudaimonia**, flourishing across a whole life. Virtue is a habit, lying in a mean relative to us and guided by practical wisdom, and a good life also needs friends and some luck.\n\nA useful way to see the contrast between the last three: Socrates locates goodness in knowledge, Plato in the right internal ordering of the soul, aligned with the Form of the Good, and Aristotle in the excellent activity of a trained character. Aristotle is the first to say plainly that knowing the good is not enough: you must be habituated to love it, and you can fail through weakness of will (*akrasia*).\n\nOne thread runs through all of them: the soul. For Pythagoras and Plato, the soul is immortal and the body something like its prison. For Democritus, it is a cluster of fine atoms that disperse at death. For Aristotle, it is the form of a living body and does not, for the most part, survive it. Your answer to what a soul is strongly shapes your answer to how to live, as the Hellenistic schools you start tomorrow will show."
+    },
+    {
+      "heading": "Question Four: Who Should Rule?",
+      "body": "Greek philosophy grew up alongside Athenian democracy and was never comfortable with it.\n\nThe Sophists thrived in democracy because the Assembly and the law courts rewarded persuasive speech. Their nomos-physis debate asked whether laws were natural or merely agreed upon, and so open to change by whoever could persuade the crowd.\n\nSocrates was a loyal citizen who served as a soldier, yet he questioned whether the many could judge well about justice, and it was a democratic jury that condemned him. In the *Crito*, he nonetheless refused to escape, arguing that he owed obedience to the laws of the city that had raised him, a dilemma that later shaped debates about civil disobedience.\n\nPlato drew harsher conclusions. In the *Republic*, ruling is a craft, like navigation, and the **ship of state** should be steered by those with knowledge, the philosopher-kings, not by the loudest or most popular. Democracy, in his account of the decline of regimes, is a pleasant anarchy of unchecked desires that breeds tyranny.\n\nAristotle studied 158 actual constitutions and classified them by who rules and in whose interest. He shared some of Plato's suspicion of 'democracy' as rule by the poor in their own interest, but he defended the **wisdom of the many** and recommended a mixed polity with a strong middle class. Humans, he insisted, are political animals who can flourish only in a community.\n\nThe disturbing common thread is exclusion. Athenian democracy excluded women, slaves and foreigners, and neither Plato nor Aristotle challenged slavery; Aristotle actively defended it. Plato, intriguingly, allowed women to be guardians in the *Republic*. The ideals of equality and universal rights you will meet later, beginning with the Stoics' idea of a shared human reason (Day 25), had to be fought for against much of this inheritance."
+    },
+    {
+      "heading": "A Comparison Table in Words",
+      "body": "Here is a compact comparison to fix the main positions. For each thinker: what is ultimately real; how we know it; and how to live.\n\n- **Thales and the Milesians:** a single basic stuff (water, apeiron, air); observation and reasoning about nature; no developed ethics survives.\n- **Pythagoras:** number and harmony; mathematics and purification of the soul; a disciplined communal life preparing the soul for its next life.\n- **Heraclitus:** constant change ordered by the logos; insight into the hidden unity of opposites; live in accordance with the logos and wake up from the dream most people live in.\n- **Parmenides:** one unchanging Being; reason alone, against the senses; little explicit ethics.\n- **Democritus:** atoms and void; reason corrects the senses; cheerful moderation.\n- **Protagoras and the Sophists:** contested; each person's perception is the measure; success through persuasion, within the laws of one's city.\n- **Socrates:** focused less on the cosmos than on the soul; questioning and admitted ignorance; virtue is knowledge, so examine your life.\n- **Plato:** eternal Forms, above all the Good; reason and recollection, rising out of the Cave; justice as the harmony of the soul under reason.\n- **Aristotle:** individual substances, compounds of form and matter; perception, experience, induction and logic; flourishing through habitual virtue, practical wisdom, friendship and contemplation.\n\nTwo patterns stand out. First, the move from cosmos to human beings that Cicero later credited to Socrates, saying he called philosophy down from the heavens. Second, the long argument between reason and the senses, which runs from Parmenides to Plato and from Democritus to Aristotle, and which modern philosophy will reopen. Keep this list handy; on Day 29 you will add the Hellenistic schools to it."
+    }
+  ],
+  "keyQuote": {
+    "text": "The unexamined life is not worth living for a human being.",
+    "source": "Socrates, in Plato's Apology 38a"
+  },
+  "modernConnection": {
+    "title": "Living Inside the Greek Inheritance",
+    "body": "You use the Greeks' ideas constantly without noticing. The words alone are a clue: physics, logic, ethics, politics, democracy, theory, atom, analysis, character, tragedy, academy, lyceum and, of course, philosophy are all Greek.\n\nThe Milesians' bet that nature runs on regular, discoverable causes is the founding assumption of every science lab. The atomists' guess that the world is made of tiny, indivisible particles moving in empty space was speculation, not science, and modern atoms turned out to be divisible after all. But the instinct to explain visible qualities like colour and taste by invisible structures is how chemistry and physics still work.\n\nThe Pythagorean conviction that mathematics is the language of nature is the operating principle of modern physics. The physicist Eugene Wigner wrote a famous 1960 essay on 'the unreasonable effectiveness of mathematics in the natural sciences', a puzzle Pythagoras would have recognised.\n\nPlato's question of who should rule, the wise or the many, is replayed every time people argue about technocracy versus populism, or whether expert central banks and courts should be insulated from voters. Aristotle's mixed constitution and his worry about polarisation between rich and poor lie behind systems of checks and balances, which James Madison and other American founders consciously drew from Greek and Roman sources, partly via the historian Polybius.\n\nSocratic questioning survives in law-school teaching, in therapy and in good journalism. Aristotle's syllogistic logic was the core of Western logic for over two thousand years before being absorbed into the modern logic behind computer science (Day 69).\n\nBut honesty requires a caveat. The idea that philosophy was a uniquely 'Greek miracle' is too simple. Greek thinkers lived in a world of exchange with Egypt, Mesopotamia and Persia, and other traditions in India and China were asking deep questions at the same time (Day 87). What does seem distinctive is the habit of open, competitive argument, each thinker publicly trying to refute the last. That habit, more than any single doctrine, is the Greek inheritance."
+  },
+  "vocabulary": [
+    {
+      "term": "Arche",
+      "definition": "The first principle or origin of all things, sought by the earliest Greek philosophers (Day 2).",
+      "example": "Thales proposed water as the arche, Anaximenes air, and Anaximander the boundless apeiron."
+    },
+    {
+      "term": "Logos",
+      "definition": "Word, reason or rational account; for Heraclitus, the hidden rational order of the changing world; more broadly, reasoned explanation as opposed to myth (mythos).",
+      "example": "The shift from mythos to logos meant explaining thunder by natural causes instead of by Zeus's anger."
+    },
+    {
+      "term": "Nomos and physis",
+      "definition": "Convention or law (nomos) versus nature (physis); the Sophists' debate over whether morality and law are natural or human-made.",
+      "example": "Someone who says table manners are pure nomos but care for children is rooted in physis is using this distinction."
+    },
+    {
+      "term": "Elenchus",
+      "definition": "Socrates' method of cross-examination, which tests a person's definition by drawing out contradictions with their other beliefs.",
+      "example": "Through elenchus, Socrates showed Euthyphro that his definition of piety went in a circle."
+    },
+    {
+      "term": "Forms",
+      "definition": "In Plato, the eternal, unchanging, perfect realities (such as Justice, Beauty, Equality and the Good) of which physical things are imperfect copies and which are known by reason.",
+      "example": "For Plato, many beautiful faces and sunsets share in a single Form of Beauty."
+    },
+    {
+      "term": "Syllogism",
+      "definition": "Aristotle's form of deductive argument in which a conclusion follows necessarily from two premises sharing a middle term.",
+      "example": "'All humans are mortal; Socrates is human; so Socrates is mortal' is the textbook syllogism."
+    },
+    {
+      "term": "Hylomorphism",
+      "definition": "Aristotle's theory that every physical substance is a compound of matter and form; applied to living things, the soul is the form of the body.",
+      "example": "Hylomorphism explains a bronze statue as bronze (matter) shaped into a figure (form)."
+    },
+    {
+      "term": "Eudaimonia",
+      "definition": "Flourishing or living well over a whole life; the highest good in Aristotle's ethics, and the common goal of most ancient ethical theories.",
+      "example": "Plato, Aristotle and the Hellenistic schools all disagreed about what eudaimonia requires, but agreed it was the target."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Convene the Symposium",
+    "prompt": "Write a short dialogue (one to two pages) in which three Greek thinkers from different days argue about a single modern question, then decide where you stand.",
+    "steps": [
+      "Pick a modern question, for example: 'Should we trust experts or our own experience?', 'Is social media making us worse people?' or 'Is personal identity real if every cell in my body changes?'",
+      "Choose three thinkers who would disagree, ideally one Presocratic or Sophist, plus Plato and Aristotle, and note each one's core position using at least two vocabulary terms from today.",
+      "Write the dialogue so that each thinker responds to the others' arguments, not just states a view. Let Socrates moderate with questions if you like.",
+      "End by stepping in as a fourth speaker. State which thinker you found most persuasive and the single strongest objection to that thinker.",
+      "Reread your dialogue and mark one place where you may have put modern assumptions into an ancient mouth. What would the thinker really have been unable to say?"
+    ]
+  },
+  "summary": [
+    "Greek philosophy began when thinkers in Miletus sought natural, reasoned explanations (logos) instead of myths, starting with the search for an arche.",
+    "Heraclitus's flux and Parmenides' unchanging Being posed a dilemma about change; pluralists, atomists, Plato's Forms and Aristotle's form and matter were rival solutions.",
+    "On knowledge, the arc runs from Parmenides' trust in reason, through the Sophists' relativism and Socrates' questioning, to Plato's Forms and Aristotle's perception-based logic.",
+    "On ethics, Socrates said virtue is knowledge, Plato said justice is a well-ordered soul, and Aristotle said flourishing comes from habituated virtue and practical wisdom.",
+    "On politics, Plato wanted rule by the wise, while Aristotle preferred a mixed polity drawing on the wisdom of the many; both accepted deep exclusions of their society.",
+    "The most lasting Greek legacy may be the habit of open argument, each thinker trying to answer and refute the last."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What was the 'arche' that the Milesian philosophers searched for?",
+      "options": [
+        "The ideal ruler of a city",
+        "The first principle or basic source of all things",
+        "The hidden meaning of the myths",
+        "The highest virtue of the soul"
+      ],
+      "answer": 1,
+      "explanation": "The Milesians sought the arche, the fundamental origin or principle from which everything comes: water, the apeiron or air."
+    },
+    {
+      "type": "mc",
+      "question": "Which pair of thinkers held the most directly opposed views on change?",
+      "options": [
+        "Plato and Socrates",
+        "Thales and Anaximenes",
+        "Heraclitus and Parmenides",
+        "Empedocles and Anaxagoras"
+      ],
+      "answer": 2,
+      "explanation": "Heraclitus held that everything flows; Parmenides argued that change is impossible and an illusion. Most later Presocratic thought tried to reconcile them."
+    },
+    {
+      "type": "mc",
+      "question": "How did the atomists try to reconcile change with Parmenides' argument?",
+      "options": [
+        "By saying unchanging atoms rearrange themselves in the void",
+        "By saying the Forms change but particulars do not",
+        "By denying that anything exists at all",
+        "By making water the source of all things"
+      ],
+      "answer": 0,
+      "explanation": "Leucippus and Democritus kept Parmenides' unchanging being in the atoms but allowed change through their motion and rearrangement in empty space."
+    },
+    {
+      "type": "mc",
+      "question": "Protagoras's claim that 'man is the measure of all things' is usually read as which position?",
+      "options": [
+        "Atomism",
+        "Rationalism",
+        "Teleology",
+        "Relativism"
+      ],
+      "answer": 3,
+      "explanation": "It is traditionally read, following Plato, as relativism: things are for each person as they seem to that person."
+    },
+    {
+      "type": "mc",
+      "question": "A colleague insists you define 'fairness' and then shows that your definition contradicts other things you believe. Which method are they using?",
+      "options": [
+        "The syllogism",
+        "The elenchus",
+        "Recollection",
+        "The golden mean"
+      ],
+      "answer": 1,
+      "explanation": "Socrates' elenchus tests a definition by exposing contradictions with the person's other beliefs. A syllogism is a form of argument, not a cross-examination."
+    },
+    {
+      "type": "mc",
+      "question": "In the Allegory of the Cave, what do the shadows on the wall represent?",
+      "options": [
+        "The Forms",
+        "The philosopher's own thoughts",
+        "The appearances and opinions most people take for reality",
+        "The souls of the dead"
+      ],
+      "answer": 2,
+      "explanation": "The prisoners take the shadows for reality, as most people take appearances and received opinion for the truth. The Forms correspond to the real objects outside the cave."
+    },
+    {
+      "type": "mc",
+      "question": "In Plato's Republic, what is justice in the individual soul?",
+      "options": [
+        "Each part of the soul doing its own job, with reason ruling, spirit supporting it, and appetite in order",
+        "Getting the better of others whenever possible",
+        "Obeying whatever the majority votes for",
+        "Pursuing pleasure while avoiding pain"
+      ],
+      "answer": 0,
+      "explanation": "Plato defines justice as the harmony of the tripartite soul under the rule of reason. 'Getting the better of others' is closer to Thrasymachus's view, which Plato argues against."
+    },
+    {
+      "type": "mc",
+      "question": "What was Aristotle's main objection to Plato's Theory of Forms?",
+      "options": [
+        "He thought universals were mere words with no reality",
+        "He denied that there are any universals or kinds",
+        "He thought the Forms were made of atoms",
+        "He thought forms exist in particular things, not in a separate realm"
+      ],
+      "answer": 3,
+      "explanation": "Aristotle kept the idea of form but placed it within individual substances. Separate Forms, he argued, explain nothing about the changing world."
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is a valid syllogism?",
+      "options": [
+        "All cats are mammals; all dogs are mammals; so all cats are dogs",
+        "Some birds fly; penguins are birds; so penguins fly",
+        "All metals conduct electricity; copper is a metal; so copper conducts electricity",
+        "No fish are birds; some birds swim; so some fish do not swim"
+      ],
+      "answer": 2,
+      "explanation": "Only the copper argument has a conclusion that follows necessarily from its premises. The others commit errors such as an undistributed middle term."
+    },
+    {
+      "type": "mc",
+      "question": "According to Aristotle's four causes, what is the final cause of a knife?",
+      "options": [
+        "The steel it is made of",
+        "Cutting",
+        "Its shape and design",
+        "The blacksmith who made it"
+      ],
+      "answer": 1,
+      "explanation": "The final cause is the purpose or 'that for the sake of which': cutting. Steel is the material cause, shape the formal cause, and the smith the efficient cause."
+    },
+    {
+      "type": "mc",
+      "question": "Someone who is naturally timid deliberately volunteers to speak at meetings until speaking up becomes easy and even enjoyable. Which Aristotelian idea does this best illustrate?",
+      "options": [
+        "Recollection of the Forms",
+        "Catharsis",
+        "Virtue developed through habit",
+        "The unmoved mover"
+      ],
+      "answer": 2,
+      "explanation": "Aristotle held that we become brave by doing brave acts, and that true virtue includes taking pleasure in acting well."
+    },
+    {
+      "type": "mc",
+      "question": "How did Aristotle's ideal of a good constitution differ from Plato's?",
+      "options": [
+        "Aristotle wanted philosopher-kings; Plato wanted democracy",
+        "Aristotle favoured a practical mixed polity with a strong middle class; Plato envisioned rule by philosopher-kings",
+        "Both wanted pure democracy",
+        "Aristotle rejected all government as unnatural"
+      ],
+      "answer": 1,
+      "explanation": "Plato's Republic proposed rule by philosopher-kings, while Aristotle studied real constitutions and recommended a stable mixed polity for most cities."
+    },
+    {
+      "type": "tf",
+      "question": "Socrates wrote several books defending his method, which survive today.",
+      "answer": false,
+      "explanation": "Socrates wrote nothing. We know him mainly through Plato and Xenophon, and through Aristophanes' comic portrait."
+    },
+    {
+      "type": "tf",
+      "question": "Democritus distinguished qualities like sweetness and colour, which exist 'by convention', from atoms and void, which exist in reality.",
+      "answer": true,
+      "explanation": "This distinction anticipates the later contrast between secondary and primary qualities, which Locke would develop (Day 47)."
+    },
+    {
+      "type": "tf",
+      "question": "Plato believed the soul was the form of the body and could not exist without it.",
+      "answer": false,
+      "explanation": "That is Aristotle's view. Plato, especially in the Phaedo, argued that the soul is immortal and exists separately from the body."
+    }
+  ],
+  "goDeeper": {
+    "body": "One of the most famous remarks about this period comes from the twentieth-century philosopher Alfred North Whitehead, who said in *Process and Reality* (1929) that the safest general characterisation of the European philosophical tradition is that it consists of a series of footnotes to Plato. It is an exaggeration, and Whitehead meant it partly as a compliment to the range of questions Plato raised rather than to his answers. But it captures how much of the later conversation was set up in these few centuries.\n\nA more critical scholarly debate concerns how we know any of this. Except for Plato and Aristotle, almost none of the thinkers you have studied survive in their own complete works. The Presocratics come to us as 'fragments', quotations embedded in later authors, sometimes centuries later and often with an axe to grind. Aristotle himself, in *Metaphysics* Book I, wrote the first history of philosophy, but he read his predecessors as stumbling toward his own four causes. Much of what we 'know' about the Presocratics is filtered through Aristotle and his student Theophrastus. The standard collection of fragments, edited by Hermann Diels and later Walther Kranz, is the source of the 'DK' or 'B' numbers you see after Presocratic quotations.\n\nAnother debate concerns origins. Was Greek philosophy a radical break, or did it grow out of Near Eastern cosmologies, Egyptian mathematics and Persian religious ideas? Scholars such as M. L. West have traced many connections, while others stress the novelty of the Greek habit of public, competitive argument. Your answer shapes how you understand the very idea of a 'Western' tradition.",
+    "readings": [
+      {
+        "title": "Ancient Philosophy (A New History of Western Philosophy, Volume 1)",
+        "author": "Anthony Kenny",
+        "note": "A clear, reliable survey by a leading historian of philosophy; use it to review any thinker from Days 1–21."
+      },
+      {
+        "title": "Early Greek Philosophy",
+        "author": "Jonathan Barnes (trans. and ed.)",
+        "note": "The Penguin collection of Presocratic fragments with short introductions; read them in the original sources' words."
+      },
+      {
+        "title": "Ancient Philosophy: A Very Short Introduction",
+        "author": "Julia Annas",
+        "note": "Organised by themes rather than thinkers, which makes it ideal for review and comparison."
+      }
+    ],
+    "questions": [
+      "If you could keep only one Greek thinker's answer to the question 'How should we live?', whose would it be, and what would you lose by discarding the others?",
+      "Was Plato or Aristotle more successful in answering the problem of change posed by Heraclitus and Parmenides?",
+      "Given that many Presocratic ideas reach us through Aristotle, how much should we trust his account of his predecessors?"
+    ]
+  }
+}

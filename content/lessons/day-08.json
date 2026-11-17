@@ -1,0 +1,242 @@
+{
+  "id": "day-08",
+  "day": 8,
+  "title": "The Sophists: Rhetoric, Relativism and Persuasion",
+  "subtitle": "The traveling teachers who sold the art of persuasion and asked whether right and wrong are just human inventions",
+  "philosophers": ["Protagoras", "Gorgias", "Antiphon", "Prodicus", "Hippias"],
+  "era": "c. 450–c. 380 BCE",
+  "estimatedMinutes": 45,
+  "objectives": [
+    "Explain who the Sophists were and why Athenian democracy created a demand for their teaching",
+    "Interpret Protagoras’ claim that “man is the measure of all things” and distinguish versions of relativism",
+    "Describe Gorgias’ view of the power of speech and his provocative arguments about being and knowledge",
+    "Explain the debate between nomos (convention) and physis (nature) and its moral and political stakes",
+    "Assess why the Sophists earned a bad reputation, and what a fairer judgment of them might be"
+  ],
+  "hook": "Imagine you are an ordinary citizen of Athens around 430 BCE. A neighbor accuses you of cheating him over a piece of land. There are no professional lawyers. You must stand up in front of a jury of several hundred fellow citizens and argue your own case, with a water-clock timing your speech. Your opponent is a smooth talker. If you stumble, you could lose your property, your reputation or worse. Next week, in the Assembly, the whole citizen body will debate whether to go to war, and anyone may speak. Those who speak well will shape the fate of the city.\n\nWhat would you pay for someone to teach you how to speak persuasively? Many Athenians paid a great deal. A new kind of expert had appeared: traveling teachers who promised to make young men skilled in speech and successful in public life. They were called **Sophists**. Some were among the most original thinkers of their age. Their most famous claim was that “man is the measure of all things.” Their most famous enemy was Plato, and because of him, their name became an insult that still survives in the word “sophistry.”",
+  "sections": [
+    {
+      "heading": "From the Cosmos to the City",
+      "body": "So far in this course, philosophers have mainly asked about nature: what everything is made of (Days 2 to 7), and whether change is possible (Days 4 and 5). By the middle of the 5th century BCE, the debate had reached an impasse. Parmenides said change is impossible; the pluralists and atomists offered ingenious alternatives; no one could settle the question. Some thinkers began to wonder whether such questions could ever be answered, and turned instead to human affairs: language, law, politics, morality and education.\n\nThe setting was Athens at the height of its power. Since the reforms of Cleisthenes around 508 BCE, Athens had been a **democracy**, meaning rule by the people (*demos*). It was a direct democracy: adult male citizens (not women, foreigners or the many enslaved people) voted personally in the Assembly on laws, war and peace. Large citizen juries decided court cases. Under the leadership of Pericles, from around 460 to his death in 429 BCE, Athens grew rich from its empire, built the Parthenon, and attracted talent from across the Greek world. Anaxagoras, whom you met on Day 6, was one of them.\n\nIn such a society, the ability to speak persuasively was power. And for the first time, it could be taught for money. The word *sophistēs* originally meant something like “expert” or “wise man,” and could be used of poets and sages. In the 5th century it came to mean a professional teacher who traveled from city to city, gave public displays of eloquence, and charged fees for instruction in **rhetoric**, the art of persuasive speaking, along with other subjects such as grammar, poetry, mathematics and politics.\n\nThe Sophists were not a school with shared doctrines. They were individuals, often competitors, with different specialties. **Prodicus** of Ceos was famous for drawing fine distinctions between words that seem to mean the same thing. **Hippias** of Elis was a polymath who boasted he could speak on any subject and had made his own clothes and ring. Most were foreigners in Athens, without citizen rights there. What they shared was a profession, an interest in human affairs, and, in many cases, a skeptical attitude toward traditional beliefs."
+    },
+    {
+      "heading": "Protagoras: Man Is the Measure",
+      "body": "The first and most famous Sophist was **Protagoras** of Abdera (c. 490–c. 420 BCE), from the same town as Democritus. He spent several periods in Athens and knew Pericles. According to a report preserved by Diogenes Laertius, Pericles chose him to write the laws for Thurii, a new colony founded in southern Italy around 444 BCE. That suggests he was respected as a serious political thinker, not merely a speech coach. In Plato’s dialogue *Protagoras*, he says openly that he is a Sophist and that he teaches good judgment in managing one’s own household and the affairs of the city. He charged high fees, but Plato reports that if a student disagreed with the price, he could go to a temple, swear on oath what he thought the teaching was worth, and pay that instead.\n\nProtagoras’ book, often called *Truth*, opened with one of the most famous sentences in philosophy:\n\n> Of all things the measure is man: of the things that are, that they are, and of the things that are not, that they are not. (Fragment B1, quoted in Plato’s *Theaetetus* 152a)\n\nWhat does it mean? Plato, in the *Theaetetus*, interprets it with an example. The same wind blows, and one person feels cold while another does not. Is the wind in itself cold or not? Protagoras, says Plato, would answer that it is cold for the one who feels cold and not cold for the one who does not. There is no further fact about the wind “in itself.” Each person’s perception is true for that person.\n\nThis is a form of **relativism**: the view that truth (or goodness, or beauty) is not absolute but relative to a person, a culture or a point of view. Notice how it connects to Day 7. Democritus said sweetness exists “by convention”; Protagoras goes further and seems to deny any deeper reality behind the appearances that could make one person right and another wrong.\n\nScholars disagree about how far Protagoras pushed this. On a narrow reading, “man” means each individual, and the claim is about perception: how things appear to me is how they are for me. On a broader reading, “man” could mean humanity, or each community, and the claim extends to values, laws and morality: whatever a city judges just is just for that city, as long as it so judges. Plato attributes the broader view to him, combined with a twist: although no opinion is truer than another, some are *better*, more beneficial. The wise person, like a doctor, changes people’s states from worse to better. That is how Protagoras could relativize truth and still claim his teaching was worth paying for.\n\nProtagoras also wrote a line that gives a flavor of his caution about traditional religion: concerning the gods, he said, he could not know whether they exist or not, or what they are like, because many things prevent such knowledge, including the obscurity of the subject and the shortness of human life (B4). This is one of the first recorded statements of **agnosticism**, the view that we cannot know whether gods exist. A later story says his books were publicly burned in Athens; it is uncertain."
+    },
+    {
+      "heading": "Gorgias and the Power of Speech",
+      "body": "**Gorgias** of Leontini in Sicily (c. 485–c. 380 BCE) was the great master of eloquence. He arrived in Athens in 427 BCE as an ambassador asking for help against the city of Syracuse, and ancient sources say the Athenians were dazzled by his style: rhythmic, balanced phrases, rhyming endings, bold contrasts. He reportedly lived past one hundred years of age.\n\nGorgias wrote a startling philosophical work, usually called *On Not-Being* or *On Nature*, preserved in summaries by later writers. It argued for three claims:\n\n1. Nothing exists.\n2. Even if something exists, it cannot be known.\n3. Even if it can be known, it cannot be communicated to anyone else.\n\nThe arguments imitate the style of Parmenides and Zeno, using their own logical tools to reach the opposite conclusion. Scholars disagree about whether Gorgias meant it seriously, as a radical skepticism, or as a parody showing that clever argument can prove anything. Either way, the third claim is especially interesting. Words are not the things they describe; if I speak of a color, you receive sounds, not colors. How can speech ever transfer reality from one mind to another?\n\nYet Gorgias believed speech has enormous power over the mind, even if it cannot carry truth. His most famous surviving work, the *Encomium of Helen*, is a display speech defending Helen of Troy, whom Greek tradition blamed for starting the Trojan War by running off with Paris. Gorgias argues that she was blameless whatever the cause. If the gods or fate decided it, she could not resist. If she was taken by force, the abductor is to blame. If she was persuaded by speech, she is still innocent, because speech is a mighty power. Speech, he says, can stop fear, remove grief, create joy and increase pity. It affects the soul as drugs affect the body: some cure, some kill, some bewitch. And if love overcame her, love too is a power beyond our control.\n\nAt the end, Gorgias calls the whole speech a plaything, a game. That is the unsettling genius of the Sophists. The *Helen* is brilliant, entertaining and at least half-serious. It raises real questions about responsibility and manipulation. But it also demonstrates that a skilled speaker can make almost any case seem convincing. Is that a gift to democracy, or a danger to it?"
+    },
+    {
+      "heading": "Nomos and Physis: Convention Versus Nature",
+      "body": "The deepest debate the Sophists started concerned two Greek words. **Nomos** means law, custom or convention: anything established by human agreement or habit. **Physis** means nature: how things are by themselves, independently of what people decide. Which of our values and institutions are natural, and which are merely conventional?\n\nThe Greeks were increasingly aware of human diversity. The historian Herodotus, writing in the same period, tells a famous story. The Persian king Darius asked some Greeks what they would accept to eat the bodies of their dead fathers. They said no amount of money would make them do it. He then asked people from India, called the Callatiae, who did eat their dead parents, what they would accept to burn them, as the Greeks did. They cried out in horror. Herodotus concludes, quoting the poet Pindar, that custom is king of all (*Histories* 3.38). If funeral customs, held sacred by each people, are simply conventions, what about laws, justice and morality?\n\nSome Sophists answered that laws are conventions, and that convention often fights against nature. Fragments of a work called *Truth* by **Antiphon** the Sophist, found on papyrus in Egypt, argue that the demands of law are agreed upon, not natural, while the demands of nature are necessary. The advantage, Antiphon suggests, is to obey the laws when witnesses are present, and follow nature when no one is watching. He also observed that, by nature, Greeks and foreigners are born alike in all respects, since all breathe through mouth and nose, a remarkable thought in a culture that despised non-Greeks.\n\nThe nomos-physis distinction could cut in very different directions:\n\n- **Egalitarian:** If social distinctions are only conventional, then by nature humans are equal. Some later thinkers would use this argument against slavery.\n- **Cynical:** If justice is only convention, then it has no real claim on a clever person who can escape punishment.\n- **Might makes right:** In Plato’s *Gorgias*, a character called Callicles (perhaps fictional) argues that conventional justice was invented by the weak to restrain the strong, and that natural justice is for the stronger to have more. On Day 13 you will meet Thrasymachus, who claims that justice is simply the advantage of the stronger.\n\nProtagoras himself, in Plato’s dialogue, offered a more positive account. In a myth, he says that Zeus gave all human beings a share of respect and justice, so that they could live together in cities. Laws are human creations, but they are not arbitrary; they are what make civilized life possible, and everyone can learn civic virtue. This was, in effect, a philosophical defense of democracy."
+    },
+    {
+      "heading": "Why “Sophist” Became an Insult",
+      "body": "Today “sophistry” means clever but deceptive reasoning. Why did the Sophists end up with such a bad name?\n\nPart of the answer is that many Athenians distrusted them. They were foreigners, they took money for teaching, which aristocrats thought vulgar, and their teaching seemed to give rich young men an unfair advantage. They questioned tradition and religion. A phrase associated with Protagoras, making the weaker argument the stronger (Aristotle, *Rhetoric* II.24), sounded like a recipe for winning bad cases. Protagoras was also known for teaching that there are two opposing arguments on every question, a method sometimes called **antilogic**. Used well, this trains you to see all sides of an issue. Used badly, it teaches you to argue anything for a fee.\n\nThe comic playwright Aristophanes mocked the new learning in his play *Clouds* (423 BCE), in which a father enrolls his son in a school where he will learn to argue his way out of debts. The head of that school is named Socrates. That is important, because, as you will see on Day 10, this confusion followed Socrates all the way to his trial.\n\nThe greatest damage came from Plato, Socrates’ student. In dialogue after dialogue, Plato portrays the Sophists as vain, shallow or dangerous, and draws a sharp line between them and his teacher. The Sophists, he says, take money; Socrates took none. They claim to know; Socrates claimed ignorance. They aim at winning; Socrates aimed at truth. Aristotle continued the attack, describing sophistry as apparent wisdom that is not real wisdom.\n\nIs this fair? Since the 19th century, when the historian George Grote defended them, many scholars have argued that the Sophists deserve better. They were pioneers in the study of language, grammar and argument. They questioned inherited prejudices. Protagoras offered a serious defense of democratic participation. Their relativism raised questions that philosophers still debate. And the line between Socrates and the Sophists was blurrier than Plato admits: Socrates also questioned tradition and used clever arguments.\n\nBut Plato’s worry was real too. If persuasion is detached from truth, democracy becomes a contest of manipulators, and the people can be talked into anything. That concern sets the stage for tomorrow. On Day 9 you will meet Socrates, who walked the same streets as the Sophists, talked with the same young men, and insisted that the point of argument was not to win but to find out what is true."
+    }
+  ],
+  "keyQuote": {
+    "text": "Of all things the measure is man: of the things that are, that they are, and of the things that are not, that they are not.",
+    "source": "Protagoras, Fragment B1 (DK 80B1), quoted in Plato’s Theaetetus 152a"
+  },
+  "modernConnection": {
+    "title": "Persuasion for Hire, Then and Now",
+    "body": "If the Sophists walked into the 21st century, they would find plenty of work. Political consultants coach candidates on debate performances. Speechwriters craft memorable lines. Public relations firms manage reputations. Advertising agencies test which words and images make people buy. Lawyers, unlike Athenian litigants, are professionals paid to present the strongest case for their clients, whatever they privately believe. Debate students are trained to argue either side of a motion, exactly the practice associated with Protagoras.\n\nThe Sophists’ insight that speech works on the mind like a drug has also been confirmed and industrialized. Psychologists have studied the techniques that shape persuasion, such as framing (describing a surgery as having a 90 percent survival rate rather than a 10 percent death rate changes how people judge it). Social media algorithms learn which messages provoke the strongest emotional reactions and spread them. Gorgias would recognize the power; he might also be alarmed by the scale.\n\nProtagoras’ relativism has modern echoes too. People speak of “my truth” and “your truth,” and anthropologists since the early 20th century have urged us to understand other cultures on their own terms rather than judging them by ours, a lesson Herodotus’ story of the funeral customs anticipates. Many philosophers distinguish this kind of cultural respect from full-blown relativism, which says no culture’s morality can ever be better or worse than another’s, a view that struggles to condemn practices like slavery.\n\nThe comparison should make us fair-minded. Lawyers and debaters are not villains; a justice system and a democracy need people who can make the best case for each side, so that the truth has a chance to emerge. The Sophists were teaching skills a democracy cannot do without. The real question is the one Plato pressed: what keeps persuasion tied to truth and the common good? Today’s answers include fact-checking, free press, education in critical thinking, and rules for honest advertising. None is perfect. The tension the Sophists created, between the power of persuasion and the pursuit of truth, is one every democracy still lives with."
+  },
+  "vocabulary": [
+    {
+      "term": "Sophist",
+      "definition": "A professional traveling teacher of the 5th and 4th centuries BCE who taught rhetoric and skills for public life in exchange for fees.",
+      "example": "A wealthy Athenian father might hire a Sophist to prepare his son for a career in politics."
+    },
+    {
+      "term": "Rhetoric",
+      "definition": "The art of persuasive speaking or writing, especially in public settings such as courts and assemblies.",
+      "example": "Gorgias’ dazzling rhetoric made the Athenians eager to hear him speak."
+    },
+    {
+      "term": "Relativism",
+      "definition": "The view that truth or values are not absolute but relative to an individual, a culture or a point of view.",
+      "example": "Protagoras’ relativism implies that if the wind feels cold to you, it is cold for you."
+    },
+    {
+      "term": "Nomos",
+      "definition": "Law, custom or convention: what is established by human agreement or habit rather than by nature.",
+      "example": "Whether to bury or burn the dead is a matter of nomos, which differs from people to people."
+    },
+    {
+      "term": "Physis",
+      "definition": "Nature: how things are in themselves, independently of human decisions and customs.",
+      "example": "Antiphon argued that by physis all humans are born alike, whatever their city’s laws say."
+    },
+    {
+      "term": "Agnosticism",
+      "definition": "The view that we cannot know whether gods exist or what they are like.",
+      "example": "Protagoras’ remark that he could not know whether the gods exist is an early statement of agnosticism."
+    },
+    {
+      "term": "Antilogic",
+      "definition": "The practice of arguing opposing sides of a question, associated with Protagoras’ claim that there are two arguments on every matter.",
+      "example": "A debate team practicing both sides of a motion is doing a kind of antilogic."
+    },
+    {
+      "term": "Sophistry",
+      "definition": "Clever but misleading reasoning used to persuade rather than to find the truth; a later, negative term shaped by Plato’s criticism of the Sophists.",
+      "example": "Arguing that a broken promise was not really broken because it was made on a Tuesday would be sophistry."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Argue the Other Side",
+    "prompt": "Protagoras trained students to see two arguments on every question; Plato worried this turns truth into a game. Try antilogic for yourself and see what it does to your thinking. Spend 10 to 15 minutes writing.",
+    "steps": [
+      "Choose a question you have a fairly firm opinion on (for example, whether voting should be compulsory, or whether homework should be banned). Write your view in one sentence.",
+      "Write the strongest possible argument for the opposite view, as a skilled Sophist would, in four or five sentences. Make it genuinely persuasive.",
+      "Reread both. Did writing the other side change your confidence, your reasons or your view? Note what happened.",
+      "Decide: is this question one of nomos (a matter of convention, where reasonable communities can differ) or physis (a matter with a correct answer independent of opinion)? Explain briefly.",
+      "Finally, write one rule you would want a good persuader to follow, so that persuasion serves truth rather than manipulation."
+    ]
+  },
+  "summary": [
+    "The Sophists were paid traveling teachers of rhetoric and public life, thriving in democratic Athens, where citizens argued their own court cases and debated policy in the Assembly.",
+    "Protagoras taught that “man is the measure of all things,” a form of relativism about perception and possibly about values, combined with the claim that some views are better, more beneficial, than others.",
+    "Gorgias argued provocatively that nothing exists, could be known or could be communicated, yet held that speech is a mighty power that works on the soul like a drug.",
+    "The nomos-physis debate asked which values are natural and which are conventional, with conclusions ranging from human equality to “might makes right.”",
+    "Plato, Aristotle and Aristophanes gave the Sophists a lasting bad reputation; modern scholars credit them as pioneers of language, argument and democratic thought.",
+    "The Sophists raise a permanent question for democracies: how to keep the power of persuasion tied to truth and the common good."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why was there a strong demand for the Sophists’ teaching in 5th-century Athens?",
+      "options": [
+        "Athens had banned all other forms of education",
+        "In a direct democracy, citizens had to speak in courts and the Assembly, so persuasive speech brought power and protection",
+        "The Persian king required Greek cities to teach rhetoric",
+        "Philosophers of nature had proven that rhetoric was the key to understanding the cosmos"
+      ],
+      "answer": 1,
+      "explanation": "Without professional lawyers and with decisions made by mass votes, the ability to persuade was essential for success and self-defense."
+    },
+    {
+      "type": "mc",
+      "question": "In Plato’s interpretation of Protagoras, what follows if the wind feels cold to one person and not to another?",
+      "options": [
+        "One of them must be mistaken about the true temperature",
+        "The wind has no temperature at all, as Democritus said",
+        "Both are right: it is cold for one and not cold for the other",
+        "They should consult an expert to determine the truth"
+      ],
+      "answer": 2,
+      "explanation": "On this relativist reading, each person’s perception is true for that person, and there is no further fact about the wind in itself."
+    },
+    {
+      "type": "tf",
+      "question": "Protagoras claimed to know for certain that the gods do not exist.",
+      "answer": false,
+      "explanation": "He said he could not know whether the gods exist or what they are like, which is agnosticism, not atheism."
+    },
+    {
+      "type": "mc",
+      "question": "In the Encomium of Helen, what does Gorgias compare the effect of speech on the soul to?",
+      "options": [
+        "The light of the sun on the earth",
+        "A river flowing to the sea",
+        "The motion of atoms in the void",
+        "The effect of drugs on the body"
+      ],
+      "answer": 3,
+      "explanation": "Gorgias says some speeches cure, some harm and some bewitch, just as different drugs act on the body."
+    },
+    {
+      "type": "mc",
+      "question": "What lesson does Herodotus draw from the story of Darius, the Greeks and the Callatiae?",
+      "options": [
+        "Custom is king of all: each people thinks its own customs best",
+        "Greek customs are naturally superior to all others",
+        "Funeral customs are determined by physis, not nomos",
+        "All peoples ultimately share the same customs"
+      ],
+      "answer": 0,
+      "explanation": "Each group was horrified by the other’s funeral practice, showing how deeply people are attached to their own conventions."
+    },
+    {
+      "type": "mc",
+      "question": "Which argument would most likely come from a Sophist who uses the nomos-physis distinction cynically?",
+      "options": [
+        "Laws are given by the gods and must always be obeyed",
+        "Justice is only a convention, so a clever person may ignore it when no one is watching",
+        "All humans are equal by nature, so slavery is unjust",
+        "Laws should be made by philosopher-kings"
+      ],
+      "answer": 1,
+      "explanation": "Antiphon suggested following the law only when witnesses are present. The equality argument uses the same distinction in an egalitarian direction."
+    },
+    {
+      "type": "tf",
+      "question": "In Aristophanes’ comedy Clouds, the head of a school that teaches clever, dishonest arguing is named Socrates.",
+      "answer": true,
+      "explanation": "Aristophanes lumped Socrates in with the Sophists, a confusion that contributed to the prejudice against him at his trial in 399 BCE."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern practice is closest to Protagoras’ antilogic?",
+      "options": [
+        "A scientist repeating an experiment to confirm a result",
+        "A judge reading the law aloud",
+        "A debate team preparing to argue both sides of the same motion",
+        "A journalist reporting only the facts of an event"
+      ],
+      "answer": 2,
+      "explanation": "Antilogic is arguing opposing sides of the same question, which is exactly what competitive debaters train to do."
+    },
+    {
+      "type": "tf",
+      "question": "The Sophists formed a single school with a shared set of doctrines.",
+      "answer": false,
+      "explanation": "They were independent, often competing teachers with different interests and views, united by their profession rather than a common doctrine."
+    },
+    {
+      "type": "mc",
+      "question": "How could Protagoras, according to Plato, hold that no opinion is truer than another and still claim his teaching was valuable?",
+      "options": [
+        "He admitted that his teaching had no value",
+        "He claimed the gods had revealed the truth to him alone",
+        "He argued that only his opinions were true",
+        "He held that although opinions are not truer, some are better or more beneficial, and the wise can improve people’s states"
+      ],
+      "answer": 3,
+      "explanation": "Plato’s Protagoras compares the wise teacher to a doctor who changes a patient’s condition from worse to better, without one condition being truer than the other."
+    }
+  ],
+  "goDeeper": {
+    "body": "Relativism faces a famous objection that goes back to Plato’s *Theaetetus* (around 171a), often called the self-refutation or “turning the tables” argument. If every person’s belief is true for that person, then the belief of Protagoras’ critics, that his doctrine is false, is also true for them. Protagoras must therefore admit that his own doctrine is false for most people. Worse, if someone believes that not all beliefs are true, then by Protagoras’ standard that belief is true too. Philosophers still debate whether this argument succeeds. Defenders of Protagoras object that it quietly drops the qualifier “for them” at a crucial point. In an influential 1976 article, Myles Burnyeat argued that the refutation works nonetheless: once Protagoras puts his theory forward as a general account of truth that applies to everyone, he cannot consistently hold it to be merely true for himself. Not everyone accepts this verdict.\n\nA second debate concerns the scope of Protagoras’ relativism. Was it a theory of perception, of all truth, or of values and laws? Plato’s *Theaetetus* and *Protagoras* seem to present different pictures, and since we have so little of Protagoras’ own writing, scholars reconstruct his position largely from his opponent’s reports.\n\nFinally, there is the question of the Sophists’ place in the history of philosophy. G. B. Kerferd argued that they should be seen as a genuine intellectual movement, the “sophistic movement,” deeply concerned with language, knowledge and society, rather than as mere rhetoric teachers. Their questions about convention and nature lie behind later social contract theories (Hobbes on Day 42, Rousseau on Day 53), and their debates over relativism resurface in modern anthropology, the sociology of knowledge and postmodernism (Day 81).",
+    "readings": [
+      {
+        "title": "The Sophistic Movement",
+        "author": "G. B. Kerferd",
+        "note": "The classic scholarly rehabilitation of the Sophists as serious thinkers; clear and concise."
+      },
+      {
+        "title": "Protagoras",
+        "author": "Plato",
+        "note": "A lively, humorous dialogue; read Protagoras’ Great Speech (320c–328d) with its myth of Prometheus and defense of civic virtue."
+      },
+      {
+        "title": "Encomium of Helen",
+        "author": "Gorgias",
+        "note": "Short and dazzling; read it in one sitting to experience Sophistic rhetoric directly. Available in collections of early Greek philosophy."
+      },
+      {
+        "title": "Theaetetus",
+        "author": "Plato",
+        "note": "Read 151e–171d for Plato’s interpretation of “man is the measure” and the self-refutation argument against it."
+      }
+    ],
+    "questions": [
+      "Is there any area of life where you think Protagoras was right that “man is the measure” (taste in food, beauty, manners)? Where would you draw the line?",
+      "Can teaching persuasion ever be morally neutral, or does the teacher bear some responsibility for how the skill is used?",
+      "If justice is a human convention, does that make it any less binding? Why or why not?"
+    ]
+  }
+}

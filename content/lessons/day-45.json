@@ -1,0 +1,193 @@
+{
+  "id": "day-45",
+  "day": 45,
+  "title": "Spinoza: God or Nature",
+  "subtitle": "An excommunicated lens grinder proves that everything is God, and that freedom means understanding",
+  "philosophers": ["Baruch (Benedict de) Spinoza"],
+  "era": "1632–1677",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to describe Spinoza's life, his excommunication from the Amsterdam Jewish community and his reputation as a dangerous thinker.",
+    "Explain why Spinoza wrote his Ethics in geometrical order, and what he meant by substance, attributes and modes.",
+    "Explain the phrase Deus sive Natura, “God or Nature,” and how Spinoza's God differs from the God of traditional religion.",
+    "Describe Spinoza's determinism and his account of human freedom as understanding rather than free will.",
+    "Evaluate Spinoza's solution to the mind-body problem left by Descartes."
+  ],
+  "hook": "On 27 July 1656, in the Portuguese-Jewish synagogue of Amsterdam, a solemn decree was read out against a twenty-three-year-old member of the congregation. The leaders announced that, having failed to turn him from his evil ways, and having heard of the abominable heresies he practiced and taught and the monstrous deeds he had done, they cast him out of the people of Israel. He was cursed by day and by night, in his lying down and his rising up. No one was to speak with him or write to him, stay under the same roof, come within four cubits of him, or read anything he wrote.\n\nThe young man was Baruch Spinoza. The decree never says exactly what he had said. But within twenty years he would write one of the most astonishing books in philosophy, a book that, like a geometry textbook, set out definitions and axioms and then proved, step by step, that God and Nature are one and the same, that everything happens by necessity, and that human freedom does not mean free will. For a century afterward, calling someone a Spinozist was one of the worst accusations you could make. And yet, a later poet called him a God-intoxicated man.",
+  "sections": [
+    {
+      "heading": "From Amsterdam's Merchants to The Hague's Back Rooms",
+      "body": "**Baruch Spinoza** was born on 24 November 1632 in Amsterdam. His family were Sephardic Jews of Portuguese origin who, like many others, had been forced to live as Christians under the Inquisition in Portugal and had fled to the Dutch Republic, where they could openly return to Judaism. Amsterdam was then one of the richest and most tolerant cities in Europe, a booming port of merchants, printers and refugees.\n\nSpinoza's father was a merchant, and young Baruch studied in the community's school, learning Hebrew, scripture and Jewish commentary. After his father's death in 1654 he ran the family import business with his brother. But he was also learning Latin, the language of scholarship, from Franciscus van den Enden, a former Jesuit and freethinker, and through Latin he discovered Descartes (Day 43 and Day 44) and the new science.\n\nAfter the excommunication, the Hebrew **herem**, Spinoza left the Jewish community for good. He used the Latin form of his name, Benedictus (both Baruch and Benedict mean blessed). He never converted to Christianity, though he had many friends among liberal Protestant groups such as the Collegiants. A later story that a fanatic once tried to stab him outside a theater comes from early biographers and cannot be confirmed.\n\nHe lived quietly in rented rooms, first near Leiden at Rijnsburg, then at Voorburg and finally in The Hague. He earned part of his living grinding lenses for microscopes and telescopes, a skill for which he was respected by scientists like Christiaan Huygens; friends and admirers also gave him modest financial support. In 1673 he was offered a professorship at the University of Heidelberg by the Elector Palatine, the brother of Elisabeth of Bohemia (Day 44). He declined, afraid that he would not be free to philosophize as he wished.\n\nHe died on 21 February 1677, aged forty-four, of a lung disease, possibly made worse by glass dust from his lens work. His great book, the *Ethics*, was published by friends a few months later, with only his initials on the title page."
+    },
+    {
+      "heading": "Why Was He Expelled? The Danger of Spinoza",
+      "body": "We do not know precisely what views led to the herem. The decree mentions only abominable heresies, and Spinoza had published nothing yet. But later sources, and his later writings, suggest what he was probably saying in conversation: that the soul is not immortal, that the Law of Moses was not dictated by God, and that God has no body and is not a person who cares about human affairs, or perhaps that God is simply nature.\n\nIt helps to understand the community's situation. Many of its members had grown up as secret Jews in Catholic Portugal with little Jewish education; the leadership was working hard to rebuild orthodoxy and to reassure their Dutch Calvinist hosts that the Jews were a respectable, God-fearing people. A young man spreading what looked like atheism endangered everyone. Even so, Spinoza's herem was the harshest the community ever issued, and unlike many others it was never lifted.\n\nThe only book Spinoza published under his own name was a guide to Descartes' philosophy (1663). His explosive *Theological-Political Treatise* (1670) appeared anonymously, with a false place of publication. In it he argued that the Bible should be studied like any other historical document, by looking at its language, authors and context; that Moses did not write the first five books of the Bible in their present form; that miracles, understood as violations of the laws of nature, are impossible; and that the true purpose of scripture is to teach obedience and charity, not philosophy. Above all, he argued that in a free republic everyone should be allowed to think what they like and say what they think. It was one of the first great defenses of **freedom of thought** and speech, and it was banned by the Dutch authorities in 1674.\n\nIn 1672, a mob in The Hague murdered and mutilated the republican leaders Johan and Cornelis de Witt. According to a story told later by Leibniz, who visited Spinoza in 1676, the normally calm philosopher wanted to put up a placard near the scene reading *ultimi barbarorum*, the lowest of barbarians, and his landlord locked him in to save his life."
+    },
+    {
+      "heading": "The Ethics: Philosophy in Geometrical Order",
+      "body": "The full title of Spinoza's masterpiece is *Ethics, Demonstrated in Geometrical Order*. It looks like Euclid. Each of its five parts begins with **definitions** and **axioms**, followed by numbered **propositions**, each with a demonstration that refers back to earlier ones, plus explanatory notes called scholia, where Spinoza often writes more freely.\n\nWhy write like this? Spinoza shared Descartes' confidence that reason, proceeding from clear and evident starting points, could reach the truth about everything (the rationalism of Day 43). The geometrical method also expresses his belief that the universe itself has the structure of a proof: everything follows from God's nature with the same necessity with which the properties of a triangle follow from its definition.\n\nThe central concepts come straight from Descartes, but Spinoza uses them more strictly.\n\n- A **substance** is that which is in itself and is conceived through itself: something completely independent, needing nothing else to exist or be understood.\n- An **attribute** is what the intellect perceives as making up the essence of a substance. Descartes had named two, thought and extension.\n- A **mode** is a modification or state of a substance, something that exists in something else and is understood through it. A particular body, an individual idea, you, me, a tree, are all modes.\n\nDescartes had said that, strictly speaking, only God is fully independent, but then he called minds and bodies substances too, in a weaker sense. Spinoza takes the strict definition seriously. If a substance must be completely independent, can there be more than one? He argues that two substances could not share the same attribute, since nothing would distinguish them; that a substance must be infinite, since nothing could limit it; and that God, the absolutely infinite being, has all possible attributes. So if any other substance existed, it would share an attribute with God, which is impossible. Therefore, Spinoza concludes in Part I, there is only one substance, and it is God. Everything else is a mode of God. As he puts it, whatever is, is in God, and nothing can be or be conceived without God. This view, that there is only one fundamental thing, is called **monism**."
+    },
+    {
+      "heading": "Deus sive Natura: God or Nature",
+      "body": "If God is the only substance, and everything is in God, then God is not a person sitting outside the universe and making it, like a carpenter making a table. God is the universe, understood in its deepest, most active and self-explaining aspect. Spinoza uses a famous phrase for this in Part IV of the *Ethics*: ***Deus sive Natura***, God or Nature. The two words name the same reality.\n\nSpinoza distinguishes two ways of looking at it. **Nature naturing** (*natura naturans*) is God as the active, creative power that produces everything. **Nature natured** (*natura naturata*) is the totality of things produced. They are not two separate realities, but the same reality seen as cause and as effect.\n\nThis God has no plans, purposes, emotions or favorites. In the Appendix to Part I, Spinoza attacks the belief that nature acts for ends, which he thinks is the root of superstition. People imagine that God made everything for humanity and humanity to worship him, and when disasters strike, they invent hidden divine purposes. If a stone falls from a roof and kills a man, they ask why the wind happened to blow just then, why the man happened to walk by, and so on, until they take refuge in the will of God, which Spinoza calls the sanctuary of ignorance. Remember Bacon and Galileo rejecting purposes in nature (Day 41)? Spinoza applies the same idea to God.\n\nIs this **pantheism**, the belief that God and the universe are identical? Many call it that, but some scholars prefer panentheism, the view that everything is in God while God is more than the world we know, since God has infinitely many attributes and we know only two. Others think Spinoza's God is just nature with a religious label, so that he was an atheist in all but name. Spinoza himself spoke of God with deep reverence.\n\nThe theory also solves Elisabeth of Bohemia's problem (Day 44). Thought and extension are not two substances that must somehow interact. They are two attributes of one and the same substance, two ways of expressing one reality. So your mind and your body are one and the same thing, conceived first under thought and then under extension. In his words, the order and connection of ideas is the same as the order and connection of things. Nothing needs to push anything across a gap, because there is no gap. This view is often called **dual-aspect monism** or parallelism."
+    },
+    {
+      "heading": "Everything Is Necessary",
+      "body": "If everything follows from God's nature as the properties of a triangle follow from its definition, then nothing could have been otherwise. In nature, Spinoza states in Part I, there is nothing contingent; all things are determined by the necessity of the divine nature to exist and act in a certain way. This is **determinism** in its strongest form, sometimes called necessitarianism: not only does every event have a cause, but this is the only possible world.\n\nWhat about free will? Spinoza says flatly that it is an illusion. People think they are free, he writes in Part II, because they are conscious of their actions but ignorant of the causes by which they are determined. In a letter he gave a vivid example. Imagine a stone set in motion by some external cause. If the stone, while moving, could think and knew it was striving to keep moving, it would believe that it was completely free and moved only because it wanted to. That, he says, is human freedom, which everyone boasts of having. Elsewhere he adds that a drunk man believes he speaks from a free decision the things that, when sober, he wishes he had kept quiet.\n\nThis sounds bleak. But Spinoza thought it was liberating, for several reasons.\n\nFirst, it changes how we respond to others. If people's actions follow necessarily from causes, then hatred, blame and mockery make little sense; understanding does. In his unfinished *Political Treatise* Spinoza wrote that he had taken care not to mock, lament or curse human actions, but to understand them.\n\nSecond, it changes how we face misfortune. If we see that what happened had to happen, we may still grieve, but we stop tormenting ourselves with the thought that things could easily have been different. Spinoza notes that sadness over a lost good is lessened when we see that it could not have been kept.\n\nThird, and most important, determinism is not the end of freedom. It is the beginning of a different idea of freedom."
+    },
+    {
+      "heading": "Freedom as Understanding",
+      "body": "Spinoza defines a thing as **free** when it exists by the necessity of its own nature alone and is determined to act by itself alone. Only God is perfectly free in this sense. But humans can become more or less free, depending on how far their actions flow from their own nature rather than being pushed around by outside forces.\n\nThe key is Spinoza's theory of the emotions, which he calls **affects**. Every thing, he says, strives as far as it can to persevere in its being. This striving, the **conatus**, is the very essence of each thing, from a stone to a person. When our power to act increases, we feel joy; when it decreases, sadness; and desire is the conatus itself, conscious of itself. All other emotions, love, hatred, hope, fear, envy, pride, are built from these three.\n\nMany of our emotions are **passions**, in the literal sense of things we suffer passively. They arise from inadequate, confused ideas: we hate someone because we see only their act, not its causes; we fear the future because we imagine it vaguely. Spinoza called our helplessness before such passions **human bondage**, the title of Part IV.\n\nThe way out is not to fight emotions with willpower, which Spinoza, unlike Descartes, thought we did not have. It is to understand them. In Part V he argues that an emotion which is a passion ceases to be a passion as soon as we form a clear and distinct idea of it. When you truly understand why you are angry, the anger is transformed; you become active rather than passive. Remember the Stoics (Days 25 and 26), who taught that our judgments, not events, disturb us? Spinoza admired them but thought they overestimated our control.\n\nThe highest form of understanding is to see things in their necessary connection to God, from what Spinoza calls the standpoint of eternity (*sub specie aeternitatis*). This brings an **intellectual love of God**, a calm, lasting joy in understanding the whole of which we are part. It is the closest Spinoza comes to salvation, and he seems to have lived it: friends described him as gentle, frugal and serene.\n\nThe free person, Spinoza says, thinks of nothing less than of death, and his wisdom is a meditation not on death but on life. And he ends the *Ethics* with an admission: the path he has shown is very hard, but it can be found, for all things excellent are as difficult as they are rare."
+    }
+  ],
+  "keyQuote": {
+    "text": "All things excellent are as difficult as they are rare.",
+    "source": "Baruch Spinoza, Ethics (1677), Part V, final scholium (Proposition 42)"
+  },
+  "modernConnection": {
+    "title": "Neuroscience, Blame and Naming Your Feelings",
+    "body": "Spinoza's stone that thinks it is free has found new life in science. Since the 1980s, experiments beginning with Benjamin Libet's have recorded brain activity that seems to precede people's conscious awareness of deciding to move. Many scientists and philosophers argue about what these experiments really show, but they have revived the Spinozist question of whether our feeling of free choice reflects the actual causes of our actions. The neuroscientist Robert Sapolsky, in *Determined* (2023), argued that free will does not exist and that recognizing this should make our justice systems less vengeful and more focused on prevention and treatment. That is close to Spinoza's ideal of understanding instead of cursing human actions.\n\nPsychology offers a second connection. Studies by Matthew Lieberman and colleagues found that simply putting feelings into words, called **affect labeling**, can reduce activity in brain regions associated with emotional reactions and lessen distress. Therapies like cognitive behavioral therapy and mindfulness-based approaches encourage people to observe and understand emotions rather than be swept along by them. Spinoza's claim that a passion loses its grip once we form a clear idea of it sounds remarkably like these findings. The neuroscientist Antonio Damasio, after criticizing Descartes (Day 44), wrote a whole book called *Looking for Spinoza* (2003), praising his view of mind and body as one.\n\nThe connections have limits. Spinoza's determinism was a metaphysical claim derived from God's nature, not an experimental result, and modern physics, with quantum indeterminacy, does not straightforwardly support the idea that only one world is possible. Many philosophers today are **compatibilists**, holding that freedom and determinism are compatible, a view that Spinoza partly anticipates but that also gives more room to everyday responsibility than he did. And understanding an emotion does not always dissolve it; grief and trauma can persist despite insight. Still, Spinoza's core suggestion, that the path to freedom runs through understanding the causes of our behavior rather than denying them, is one that modern therapy, neuroscience and criminal justice reform keep rediscovering."
+  },
+  "vocabulary": [
+    {
+      "term": "Herem",
+      "definition": "The Hebrew term for a ban or excommunication from a Jewish community, imposed on Spinoza in 1656.",
+      "example": "After the herem, members of Amsterdam's Jewish community were forbidden to speak with Spinoza."
+    },
+    {
+      "term": "Substance",
+      "definition": "For Spinoza, that which exists in itself and is conceived through itself, needing nothing else; he argued there can be only one, God or Nature.",
+      "example": "Because a substance must be completely independent, Spinoza concluded that you and I cannot be substances."
+    },
+    {
+      "term": "Attribute and mode",
+      "definition": "An attribute is what the intellect perceives as the essence of substance (such as thought or extension); a mode is a particular modification of substance, like an individual body or idea.",
+      "example": "For Spinoza, a human being is a mode of God, expressed both under the attribute of thought and under the attribute of extension."
+    },
+    {
+      "term": "Deus sive Natura",
+      "definition": "Latin for “God or Nature”: Spinoza's phrase expressing that God and Nature are one and the same reality.",
+      "example": "When Einstein said he believed in Spinoza's God, he meant the orderly harmony of Deus sive Natura, not a personal God."
+    },
+    {
+      "term": "Pantheism",
+      "definition": "The view that God and the universe are identical, so that everything is part of God.",
+      "example": "Spinoza is often called the greatest philosopher of pantheism, though some scholars prefer other labels."
+    },
+    {
+      "term": "Determinism",
+      "definition": "The view that every event is necessitated by prior causes; Spinoza held the strong version that nothing could have happened otherwise.",
+      "example": "Spinoza's determinism led him to call free will an illusion born of ignorance of causes."
+    },
+    {
+      "term": "Conatus",
+      "definition": "Latin for striving or endeavor: for Spinoza, the effort of each thing to persevere in its being, which is its very essence.",
+      "example": "A plant turning toward the light and a person fighting illness both express the conatus."
+    },
+    {
+      "term": "Dual-aspect monism",
+      "definition": "The view that mind and body are not two substances but two aspects or expressions of one and the same reality.",
+      "example": "Dual-aspect monism allowed Spinoza to dissolve the interaction problem that troubled Descartes."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Turning a Passion into Understanding",
+    "prompt": "Spinoza claimed that an emotion that controls us loses its grip once we clearly understand its causes. Test this on yourself with a recent strong negative emotion: anger, envy, fear, resentment or shame.",
+    "steps": [
+      "Describe the emotion and the situation that triggered it in a few sentences, as honestly as you can, including what you thought or said at the time.",
+      "Now trace the causes like Spinoza's stone: what external events, past experiences, habits, needs, bodily states (tiredness, hunger) and beliefs combined to produce your reaction? Then do the same for the other person involved, if there was one.",
+      "Ask: if all of this was causally determined, does blame still make sense? Does your feeling about the other person, and about yourself, change?",
+      "Reflect: did understanding the causes weaken the emotion, as Spinoza predicted, or not? What does your experience suggest about whether he was right that freedom is understanding?"
+    ]
+  },
+  "summary": [
+    "Spinoza (1632–1677), a Portuguese-Jewish Dutch thinker, was excommunicated in 1656, lived quietly as a lens grinder, and defended freedom of thought and the historical study of the Bible.",
+    "His Ethics, written in geometrical order like Euclid, argues that there is only one substance, God or Nature (Deus sive Natura), of which all things are modes.",
+    "Spinoza's God is not a person with purposes; belief in divine purposes is the sanctuary of ignorance, and nature has no goals.",
+    "Mind and body are one thing seen under two attributes, thought and extension, which dissolves Descartes' interaction problem.",
+    "Everything happens by necessity and free will is an illusion, but true freedom comes from understanding the causes of our emotions, leading to the intellectual love of God."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why is Spinoza's Ethics written with definitions, axioms and numbered propositions?",
+      "options": ["To make it easy to memorize", "To imitate the Bible", "Because he believed reality itself has a logical, necessary structure that can be demonstrated like geometry", "Because he was forbidden to write ordinary prose"],
+      "answer": 2,
+      "explanation": "The geometrical method reflects Spinoza's rationalism and his view that everything follows from God's nature as theorems follow from definitions."
+    },
+    {
+      "type": "mc",
+      "question": "What does Spinoza mean by Deus sive Natura?",
+      "options": ["God created Nature from nothing", "God and Nature are the same reality", "Nature is evil and God is good", "God is one part of Nature among many"],
+      "answer": 1,
+      "explanation": "The phrase means God or Nature: two names for the one infinite substance of which everything is a mode."
+    },
+    {
+      "type": "tf",
+      "question": "Spinoza believed that God created the world for the sake of human beings and acts according to purposes.",
+      "answer": false,
+      "explanation": "In the Appendix to Part I he attacks this belief as the root of superstition, calling appeals to God's will the sanctuary of ignorance."
+    },
+    {
+      "type": "mc",
+      "question": "How does Spinoza's view handle the interaction problem raised by Elisabeth of Bohemia?",
+      "options": ["Mind and body are one and the same thing conceived under two attributes, so no interaction across a gap is needed", "God moves the body whenever the mind wills", "The pineal gland transmits signals", "The mind is just an illusion produced by the body"],
+      "answer": 0,
+      "explanation": "For Spinoza the order and connection of ideas is the same as the order and connection of things; mind and body are two aspects of one reality."
+    },
+    {
+      "type": "mc",
+      "question": "In Spinoza's example, a stone set in motion that could think would believe it was free. What is the point of the example?",
+      "options": ["Stones have minds", "Only humans are determined", "Physical objects move without causes", "We think we are free because we are aware of our actions but ignorant of their causes"],
+      "answer": 3,
+      "explanation": "Spinoza argues that the feeling of free will comes from consciousness of our desires combined with ignorance of what determines them."
+    },
+    {
+      "type": "mc",
+      "question": "Which of these best describes what Spinoza means by human freedom?",
+      "options": ["The ability to choose otherwise in any situation", "Acting from understanding of causes rather than being driven by passions from outside", "Living without any laws or government", "Ignoring one's emotions completely"],
+      "answer": 1,
+      "explanation": "We become freer as our actions flow from adequate ideas and our own nature, rather than from confused passions."
+    },
+    {
+      "type": "tf",
+      "question": "Spinoza's Theological-Political Treatise argued that the Bible should be studied historically and that a free republic should allow freedom of thought and speech.",
+      "answer": true,
+      "explanation": "Published anonymously in 1670, it is one of the earliest defenses of free expression and a pioneer of historical biblical criticism."
+    },
+    {
+      "type": "mc",
+      "question": "What is the conatus?",
+      "options": ["A Latin word for God", "Spinoza's geometric method", "The striving of each thing to persevere in its being", "A type of passion caused by fear"],
+      "answer": 2,
+      "explanation": "The conatus is the essence of each thing; joy and sadness are increases and decreases in its power to act."
+    },
+    {
+      "type": "mc",
+      "question": "A therapist encourages a client to describe and understand the sources of her anxiety instead of trying to suppress it by force of will. Which Spinozist idea does this most resemble?",
+      "options": ["The ontological argument", "Natura naturata", "The herem", "A passion ceases to be a passion once we form a clear and distinct idea of it"],
+      "answer": 3,
+      "explanation": "Spinoza held that understanding an emotion's causes transforms it from something we suffer into something we grasp actively."
+    },
+    {
+      "type": "tf",
+      "question": "Spinoza accepted a professorship at the University of Heidelberg in 1673 and taught there until his death.",
+      "answer": false,
+      "explanation": "He declined the offer, fearing that the position would limit his freedom to philosophize, and remained in The Hague."
+    }
+  ],
+  "goDeeper": {
+    "body": "Spinoza's afterlife is one of the strangest in philosophy. For about a century he was the archetypal atheist; Hume referred to Spinoza's hideous hypothesis, and the label Spinozist could end careers. Then, in 1785, the so-called Pantheism Controversy erupted in Germany when F. H. Jacobi claimed that the revered writer Lessing had confessed to being a Spinozist. The scandal made Spinoza suddenly fashionable. Goethe, the Romantics and the German Idealists, including Hegel (Day 59), embraced him as a deeply religious thinker. Hegel reportedly said that one must either be a Spinozist or not be a philosopher at all. Later admirers included George Eliot, who translated the *Ethics* into English, Nietzsche (Day 65), who called Spinoza a precursor, and Einstein, who in 1929 told a rabbi who asked him about God that he believed in Spinoza's God, who reveals himself in the orderly harmony of what exists, not in a God concerned with the fates and actions of human beings.\n\nA second debate is political. The historian Jonathan Israel has argued that Spinoza stands at the head of a Radical Enlightenment committed to democracy, equality, freedom of expression and secularism, distinct from the moderate Enlightenment of Locke (Day 52) and Voltaire (Day 54). Critics think this overstates Spinoza's influence and simplifies the period.\n\nA third concerns his Jewish identity. Was Spinoza the first secular Jew, a model for modern Jews who are not religious, or a thinker who left Judaism behind? Writers from Heinrich Heine to Rebecca Goldstein have explored this question. Calls to revoke the herem have been made repeatedly, notably by Israel's first prime minister, David Ben-Gurion, in the 1950s; when the question was formally raised again in 2015, the community's rabbi declined to lift it.",
+    "readings": [
+      { "title": "Ethics", "author": "Baruch Spinoza (trans. Edwin Curley)", "note": "Read the Appendix to Part I on purposes, and the Preface and early propositions of Parts III and V on emotions and freedom." },
+      { "title": "Spinoza: A Life", "author": "Steven Nadler", "note": "The standard modern biography, with a careful account of the herem and Amsterdam's Jewish community." },
+      { "title": "Betraying Spinoza: The Renegade Jew Who Gave Us Modernity", "author": "Rebecca Goldstein", "note": "A short, personal and philosophical exploration of Spinoza's life and Jewish identity." },
+      { "title": "Think Least of Death: Spinoza on How to Live and How to Die", "author": "Steven Nadler", "note": "An accessible guide to the Ethics as a practical philosophy of life." }
+    ],
+    "questions": [
+      "If free will is an illusion, should we still praise and blame people? What would a justice system based on Spinoza's ideas look like?",
+      "Is Spinoza's God really God? What would a traditional believer and an atheist each say about Deus sive Natura?",
+      "Can understanding an emotion really free us from it? Think of cases where it does and where it doesn't."
+    ]
+  }
+}

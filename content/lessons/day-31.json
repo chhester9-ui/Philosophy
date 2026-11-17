@@ -1,0 +1,244 @@
+{
+  "id": "day-31",
+  "day": 31,
+  "title": "Augustine II and Boethius: Time, Two Cities and Consolation",
+  "subtitle": "What is time, what is a city, and what is left when everything is taken away?",
+  "philosophers": ["Augustine of Hippo", "Boethius"],
+  "era": "c. 397–524 CE",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain Augustine's puzzle about time and his answer that time is a 'stretching' of the mind.",
+    "By the end you will be able to describe the two cities of Augustine's City of God and why he wrote it after the sack of Rome.",
+    "By the end you will be able to tell the story of Boethius and summarize the argument of The Consolation of Philosophy, including the wheel of Fortune.",
+    "By the end you will be able to reconstruct Boethius' solution to the problem of divine foreknowledge and human freedom, and evaluate it."
+  ],
+  "hook": "Try this. Without looking anything up, explain what time is. Not how to measure it, not what a clock does, but what time actually *is*. Most of us start confidently and then find ourselves going in circles. Around the year 400, Augustine had exactly the same experience and wrote it down in one of the most honest sentences in philosophy: 'What then is time? If no one asks me, I know; if I wish to explain it to one who asks, I do not know.'\n\nAbout a hundred and twenty years later, a Roman senator named Boethius sat in a prison cell waiting to be executed for a crime he insisted he had not committed. He had lost his wealth, his honors, his family's company and his good name. And there, he tells us, a mysterious woman appeared at his bedside and began to argue with him. Today we follow both men: Augustine as he wrestles with time and with the fall of Rome, and Boethius as he asks what a person still possesses when Fortune has taken everything.",
+  "sections": [
+    {
+      "heading": "Augustine's Riddle of Time",
+      "body": "On Day 30 we met Augustine through the story of his life in the *Confessions*. But the book does not end with his conversion. In Book XI he turns from his own past to a question raised by the first line of Genesis, 'In the beginning God created the heaven and the earth.' A skeptic might ask: what was God doing *before* he made the world? Augustine reports a joking answer that was going around, that God was preparing hell for people who pry into deep questions, and then he refuses to use it. He wants a real answer.\n\nHis real answer is that the question is confused. Time is itself part of creation. God did not make the world *in* time; he made time along with the world. So there was no 'before' in which God sat idle. God exists in **eternity**, which is not a very long time but no time at all: an unchanging present without past or future.\n\nThat solved one problem but opened another. If time is a created thing, what kind of thing is it? Here Augustine runs into a famous paradox. Time seems to have three parts: past, present and future. But the past no longer exists. The future does not exist yet. And the present? If the present lasted any length at all, it could be divided into a part that is already past and a part that is still future. So the present seems to shrink to a point with no duration. Time, it seems, is made of two things that do not exist and one thing with no size. How then can we measure it, as we obviously do when we say one speech was longer than another?\n\nIf you remember Zeno's paradoxes of motion (Day 5), you will recognize the style: a perfectly ordinary experience turns out to be very hard to describe without contradiction."
+    },
+    {
+      "heading": "Time as a Stretching of the Mind",
+      "body": "Augustine's solution is to look inside. Past and future do not exist out in the world, but they do exist in a way in the mind. The past is present to us as **memory**. The future is present to us as **expectation**. And present things are present to us as **attention**. So instead of three times, Augustine suggests, we should speak of three presents: a present of things past, a present of things present and a present of things future.\n\nHe gives a lovely example from everyday life. Suppose I am about to recite a psalm I know by heart. Before I begin, the whole psalm lies ahead in my expectation. As I recite, each verse passes through my attention and is handed over to memory. Expectation shrinks, memory grows, until the whole psalm has passed into memory. What I measure when I say a line was long is not the line itself, which has vanished, but the impression it leaves in my mind.\n\nAugustine's term for this is *distentio animi*, a **distension**, or stretching, **of the mind**. Time, at least time as we can measure it, is the soul stretched out between memory and expectation. He even sees in this a spiritual image: our lives are scattered across moments, pulled forward and backward, while God gathers everything in a single undivided now.\n\nThis is one of the first great attempts to treat time as something bound up with consciousness rather than simply out there in nature. It has impressed thinkers as different as the twentieth-century philosophers Edmund Husserl (Day 75) and Ludwig Wittgenstein, who quoted Augustine's riddle in his *Philosophical Investigations*. Critics reply that Augustine has explained how we *experience* time, not what time is. Surely the earth turned around the sun before any mind existed to remember it. Augustine might answer that he was asking how time can be measured, and measuring needs a measurer. Scholars still debate how far he meant his view to go."
+    },
+    {
+      "heading": "The City of God",
+      "body": "In August 410 an army of Visigoths under their king Alaric entered and plundered the city of Rome. Rome was no longer the political capital, but for eight hundred years no foreign enemy had taken the city, and the shock ran across the Mediterranean. Refugees fled to North Africa. Some pagans offered an explanation: Rome had abandoned its old gods for Christianity, and now the gods had abandoned Rome.\n\nAugustine answered them in his longest work, *The City of God*, twenty-two books written between about 413 and 426. The first part attacks the claim that the old gods ever protected Rome, pointing to the disasters Rome suffered long before Christianity. The second part offers a grand interpretation of all human history.\n\nThe central idea is that humanity is divided into **two cities**, not physical cities but communities defined by what they love. In a much-quoted passage from Book XIV, Augustine says that two loves made two cities: love of self, even to the contempt of God, made the earthly city; love of God, even to the contempt of self, made the heavenly city. Remember from Day 30 that for Augustine we are what we love. Here that idea becomes a theory of society.\n\nThe two cities are mixed together in this life. You cannot simply identify the heavenly city with the Church or the earthly city with the Roman Empire; both contain members of each. Citizens of the heavenly city live in the world as pilgrims, or resident foreigners. They should use the earthly peace and order that governments provide, obey laws and serve the common good, but they must never mistake any political order for their final home.\n\nAugustine was unsentimental about political power. In Book IV he asks what kingdoms are without justice but great robber bands, and he repeats an old story, which he found in Cicero, about a pirate captured by Alexander the Great. Asked how he dared to seize the sea, the pirate answered that he did the same thing as Alexander; he was called a pirate because he had one small ship, while Alexander, with a great fleet, was called an emperor.\n\nThis was a radical move. Greek political philosophy, from Plato's *Republic* (Days 13–14) to Aristotle's *Politics* (Day 21), had treated the well-ordered city as the place where human beings achieve their highest good. Augustine demoted politics. The state can restrain the worst evils and secure a fragile peace, but it cannot save anyone. That modest view of the state, and the idea that our deepest loyalty lies beyond any government, shaped medieval arguments between popes and emperors and still echoes in debates about church and state."
+    },
+    {
+      "heading": "Boethius: The Last Roman",
+      "body": "A century after Augustine's death, the Western Roman Empire was gone. Since 476 there had been no emperor in the West, and Italy was ruled by Theodoric, king of the Ostrogoths, who governed through the old Roman senate and civil service. Into this world was born Anicius Manlius Severinus Boethius, around 477, into one of Rome's grandest families.\n\nBoethius was brilliant, rich and well connected. He became consul in 510, and in 522 his two young sons were made consuls together, an extraordinary honor. He then took the post of master of offices, one of the highest positions at Theodoric's court.\n\nHe also had an enormous intellectual ambition. Fewer and fewer people in the Latin West could read Greek, and Boethius saw that the treasures of Greek philosophy were in danger of being lost. He planned to translate all of Plato and Aristotle into Latin and to show that the two philosophers basically agreed. He never finished, but he did translate and comment on much of Aristotle's logic, along with Porphyry's *Isagoge*, an introduction to Aristotle's logic. For about six hundred years these translations were nearly all of Aristotle that Western Europe could read. A remark in his commentary on Porphyry, about whether genera and species really exist or exist only in the mind, launched the medieval **problem of universals**, which we will meet on Day 34. He is often called the last of the Romans and the first of the scholastics.\n\nThen everything fell apart. Around 523, Boethius defended a fellow senator accused of treasonous correspondence with the emperor in Constantinople, and found himself accused as well, partly on evidence he called forged. He was condemned without a proper hearing, imprisoned (traditionally at Pavia) and executed around 524 or 525. While waiting for death he wrote *The Consolation of Philosophy*, which became one of the most widely read books of the Middle Ages."
+    },
+    {
+      "heading": "Lady Philosophy and the Wheel of Fortune",
+      "body": "The *Consolation* is written as a **prosimetrum**, a work that alternates prose with verse. It opens with Boethius in his cell composing mournful poems with the help of the Muses of poetry. Suddenly a woman appears above him. Her height seems to change, sometimes human-sized, sometimes touching the heavens. On her robe are two Greek letters, Pi for practical philosophy and Theta for theoretical philosophy, joined by a ladder. The robe has been torn, she later explains, by rival schools who each ripped away a scrap and thought they had the whole. This is **Lady Philosophy**, and her first act is to chase away the Muses: self-pitying poetry, she says, only feeds the disease.\n\nHer diagnosis is that Boethius has forgotten who he is. He thinks he has lost his true goods, but he has only lost things that were never really his.\n\nTo show this, she imagines **Fortune** speaking for herself. Fortune turns a wheel, raising some people and lowering others; that is simply what she does. Boethius rode the wheel upward for years without complaint. What right has he to protest now that it has turned? If Fortune stopped changing, she would no longer be Fortune. Lady Philosophy even argues that bad fortune is more useful than good: good fortune deceives us, while bad fortune shows us which friends are real.\n\nThe argument then climbs, in Book III, from false goods to the true good. Wealth, high office, power, fame and pleasure each promise happiness but deliver only a fragment of it, and each can be lost. True happiness must be complete and secure, which means it must be the highest good itself, and that highest good is God. The echoes are deliberate: the Stoics' distinction between what is and is not up to us (Days 25–26), Plato's ascent to the Good (Day 15) and Augustine's ordering of loves (Day 30) all flow together here. In Book IV, Philosophy even argues that the wicked who seem to triumph are actually powerless and wretched, because they have cut themselves off from the good that every human being truly desires."
+    },
+    {
+      "heading": "Foreknowledge, Freedom and the Eternal Now",
+      "body": "In Book V, Boethius raises a final problem, one that has troubled theologians ever since. If God knows everything, God knows today what I will choose tomorrow. And God's knowledge cannot be wrong. So it seems I *must* choose what God foresees. But then my choice is not free, and it would be unjust to reward or punish me for it. This is the problem of **divine foreknowledge** and human freedom.\n\nLady Philosophy's answer has two parts.\n\n1. **Knowledge depends on the knower.** Things are known not according to their own nature but according to the capacity of the one who knows. The senses grasp a shape one way, reason another. So we should not assume God knows the way we do.\n2. **God is eternal, not everlasting.** Boethius gives a definition of **eternity** that became standard for a thousand years: the complete, simultaneous and perfect possession of unending life. God does not live through time, moment by moment, as we do. God holds all of it at once. So God does not really *foresee* our future choices; God simply *sees* them in an eternal present.\n\nAnd seeing does not cause. If you watch a man walking down the street, your seeing him does not force him to walk. Philosophy distinguishes two kinds of necessity: simple necessity (the sun must rise; all humans must die) and conditional necessity (if you know someone is walking, then necessarily he is walking). God's knowledge imposes only the second kind, which leaves the choice itself free.\n\nIt is an elegant solution, and Aquinas (Day 35) and many others adopted it. But critics have pushed back. Some ask whether a timeless God can know what is happening *now*, or interact with a changing world at all. Others argue that if my choice is eternally fixed in God's vision, it is hard to see how I could do otherwise. Interestingly, Augustine had offered a simpler version of the reply in *On Free Choice of the Will*: my remembering what you did yesterday does not force you to have done it, and God's foreknowledge need not force you either.\n\nOne last puzzle. Boethius was a Christian who wrote theological treatises on the Trinity, yet the *Consolation* never mentions Christ, scripture or the Church. Why did a dying Christian find comfort in philosophy alone? Some scholars think he wanted to show how far reason could go unaided; others read the book as quietly incomplete or even ironic. It remains one of the great open questions about the work."
+    }
+  ],
+  "keyQuote": {
+    "text": "What then is time? If no one asks me, I know; if I wish to explain it to one who asks, I do not know.",
+    "source": "Augustine, Confessions XI.14"
+  },
+  "modernConnection": {
+    "title": "Clocks in the Brain and a Universe Without a Now",
+    "body": "Augustine's idea that measured time lives in the mind has a striking modern cousin in psychology and neuroscience. Researchers have shown that our sense of duration is elastic. Time seems to drag when we are bored or afraid and to vanish when we are absorbed; a holiday full of new experiences feels short while it happens but long in memory, because memory stores so much of it. The nineteenth-century psychologist William James spoke of the 'specious present', the few seconds of experience that feel like 'now'. Augustine's psalm example, with expectation shrinking as memory grows, describes the same structure.\n\nBoethius has a modern cousin too, in physics. In Einstein's theory of relativity, observers moving differently disagree about which distant events are simultaneous, so there seems to be no single, universal 'now' sweeping through the cosmos. Many physicists and philosophers therefore favor a 'block universe' picture, in which past, present and future events all exist together in four-dimensional spacetime. When his friend Michele Besso died in 1955, Einstein wrote to Besso's family that for believing physicists the distinction between past, present and future is only a stubbornly persistent illusion. That sounds remarkably like Boethius' God, viewing all of time at once.\n\nThe parallels are real, but honesty demands caution. Neuroscience studies how brains track time; it does not settle Augustine's metaphysical question of what time is. The block universe is one interpretation of physics, not a proven fact, and philosophers still argue about it. And Boethius' eternal viewpoint belongs to God, while the block universe has no viewer at all. Notice, too, that the block universe revives Boethius' problem in a new form: if tomorrow's events already exist in spacetime, in what sense is my choice tomorrow still open? Some philosophers reply, much as Lady Philosophy did, that a fixed fact about what I will do is not the same as a force making me do it."
+  },
+  "vocabulary": [
+    {
+      "term": "Distension of the mind (distentio animi)",
+      "definition": "Augustine's description of time as the mind stretched between memory of the past, attention to the present and expectation of the future.",
+      "example": "When you hum a song you know well, your mind holds the finished notes in memory and the coming ones in expectation, a small distentio animi."
+    },
+    {
+      "term": "Eternity",
+      "definition": "For Augustine and Boethius, a timeless mode of existence; Boethius defined it as the complete, simultaneous and perfect possession of unending life.",
+      "example": "On the Boethian view, God's eternity is not an endless line of years but a single present that contains all times."
+    },
+    {
+      "term": "Two cities",
+      "definition": "Augustine's division of humanity into the earthly city, formed by love of self, and the heavenly city, formed by love of God, mixed together in this life.",
+      "example": "For Augustine, a Roman senator and a slave might both belong to the heavenly city, while a bishop could belong to the earthly one."
+    },
+    {
+      "term": "Prosimetrum",
+      "definition": "A literary form that alternates passages of prose with passages of verse.",
+      "example": "The Consolation of Philosophy is a prosimetrum: Lady Philosophy's arguments are interrupted by poems that sum them up."
+    },
+    {
+      "term": "Wheel of Fortune",
+      "definition": "The image of Fortune turning a wheel that raises and lowers people unpredictably, used by Boethius to show that external goods are never secure.",
+      "example": "A celebrity who rises to fame and falls just as quickly illustrates the turning of the Wheel of Fortune."
+    },
+    {
+      "term": "True and false goods",
+      "definition": "Boethius' distinction between partial, losable goods such as wealth, office, power, fame and pleasure, and the complete, secure good in which true happiness consists.",
+      "example": "Lady Philosophy argues that fame is a false good because it gives only a fragment of happiness and can disappear overnight."
+    },
+    {
+      "term": "Divine foreknowledge",
+      "definition": "God's knowledge of future events, which seems to threaten human freedom if God's knowledge cannot be mistaken.",
+      "example": "The problem of divine foreknowledge asks whether I can freely choose tea tomorrow if God already knows I will choose coffee."
+    },
+    {
+      "term": "Simple vs conditional necessity",
+      "definition": "Boethius' distinction between things that must happen by their nature (simple) and things that are necessary only given some condition, such as being known (conditional).",
+      "example": "If you see me walking, I am necessarily walking (conditional necessity), but your seeing does not force me to walk."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Inventory of Fortune",
+    "prompt": "Lady Philosophy helped Boethius sort what Fortune can take from what it cannot. Do the same sorting for your own life, and test Augustine's idea of time on your own experience.",
+    "steps": [
+      "List ten things that matter to you: possessions, roles, relationships, abilities, qualities of character, beliefs.",
+      "Mark each one F if Fortune could take it away tomorrow (through illness, accident, injustice or bad luck) and S if it seems secure no matter what happens. Be honest: how many S marks do you have?",
+      "For each F item, write one sentence on how you would want to respond if you lost it. Would Lady Philosophy's arguments help you, or do they ask too much?",
+      "Now spend two minutes doing nothing but noticing time pass. Afterward, write down what you actually experienced: was it memory, attention and expectation, as Augustine claimed, or something else?",
+      "Finish with a short paragraph: is Boethius right that the only truly secure good is one that cannot be taken away? What would that good be for you?"
+    ]
+  },
+  "summary": [
+    "In Confessions XI Augustine argued that time was created with the world, so there was no 'before' creation, and that God exists in a timeless eternity.",
+    "Because past and future do not exist and the present has no length, Augustine located measurable time in the mind, as a stretching between memory, attention and expectation.",
+    "The City of God, written after the sack of Rome in 410, divides humanity into two cities defined by two loves and demotes politics from humanity's highest good to a source of fragile peace.",
+    "Boethius, a Roman statesman and translator of Aristotle's logic, wrote The Consolation of Philosophy while awaiting execution around 524; Lady Philosophy teaches him that Fortune's gifts are false goods and that true happiness is the highest good, God.",
+    "Boethius answered the problem of foreknowledge by arguing that God is eternal, seeing all times in one present, and that knowing an event does not cause it."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "How did Augustine answer the question 'What was God doing before he created the world?'",
+      "options": [
+        "God was preparing hell for people who ask such questions",
+        "God was creating other worlds first",
+        "There was no 'before', because time itself was created along with the world",
+        "God was waiting for the right moment"
+      ],
+      "answer": 2,
+      "explanation": "Augustine mentions the joking answer about hell only to reject it; his real answer is that time is part of creation, so the question has no 'before' to refer to."
+    },
+    {
+      "type": "mc",
+      "question": "According to Augustine, in what sense does the past exist now?",
+      "options": [
+        "As memory in the mind",
+        "As a hidden region of the physical universe",
+        "As a Platonic Form",
+        "It does not exist in any sense"
+      ],
+      "answer": 0,
+      "explanation": "Augustine's three presents are memory (the present of things past), attention and expectation."
+    },
+    {
+      "type": "mc",
+      "question": "What event prompted Augustine to write The City of God?",
+      "options": [
+        "The death of his mother Monica",
+        "The sack of Rome by the Visigoths in 410",
+        "The execution of Boethius",
+        "The founding of Constantinople"
+      ],
+      "answer": 1,
+      "explanation": "Pagans blamed the sack of Rome on the abandonment of the old gods, and Augustine wrote to answer them. Boethius lived about a century later."
+    },
+    {
+      "type": "mc",
+      "question": "In The City of God, what divides the two cities?",
+      "options": [
+        "Their geography: Rome versus Jerusalem",
+        "Their form of government: monarchy versus democracy",
+        "Their wealth: rich versus poor",
+        "What their members love: self above God, or God above self"
+      ],
+      "answer": 3,
+      "explanation": "Augustine says two loves made two cities. The cities are mixed in this life and cannot be identified with any physical place or institution."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern situation best illustrates Lady Philosophy's teaching about the Wheel of Fortune?",
+      "options": [
+        "A scientist carefully testing a hypothesis",
+        "A social media star who loses her following overnight after a change in the platform's algorithm",
+        "A student memorizing a list of dates",
+        "A judge applying a law consistently"
+      ],
+      "answer": 1,
+      "explanation": "Fame that depends on forces outside one's control can be raised and lowered unpredictably, which is exactly what Fortune's wheel represents."
+    },
+    {
+      "type": "mc",
+      "question": "How did Boethius define eternity?",
+      "options": [
+        "Time that goes on forever in both directions",
+        "The moment of death",
+        "The complete, simultaneous and perfect possession of unending life",
+        "The memory of all past events"
+      ],
+      "answer": 2,
+      "explanation": "Eternity is not endless time but a timeless present in which all of life is possessed at once."
+    },
+    {
+      "type": "mc",
+      "question": "What was Boethius' greatest contribution to the medieval curriculum before the Consolation?",
+      "options": [
+        "Latin translations and commentaries on Aristotle's logic",
+        "A complete Latin translation of all of Plato's dialogues",
+        "A Latin translation of the Qur'an",
+        "The first university statutes"
+      ],
+      "answer": 0,
+      "explanation": "He planned to translate all of Plato and Aristotle but completed mainly the logical works, which were the West's main access to Aristotle for centuries."
+    },
+    {
+      "type": "tf",
+      "question": "Boethius argued that because God knows all our future choices, we cannot be free.",
+      "answer": false,
+      "explanation": "He raised that worry but answered it: God sees all times in an eternal present, and knowing an event does not cause it."
+    },
+    {
+      "type": "tf",
+      "question": "The Consolation of Philosophy alternates prose passages with poems.",
+      "answer": true,
+      "explanation": "It is a prosimetrum; the poems often sum up or deepen the argument of the prose."
+    },
+    {
+      "type": "tf",
+      "question": "Augustine taught that the heavenly city is simply the same thing as the Christian Church on earth.",
+      "answer": false,
+      "explanation": "Augustine insisted that the two cities are mixed together in this life; both the Church and the empire contain members of each."
+    }
+  ],
+  "goDeeper": {
+    "body": "Boethius' answer to the foreknowledge problem has been one of the most debated ideas in philosophy of religion. In 1965 Nelson Pike published 'Divine Omniscience and Voluntary Action', which sharpened the problem: if God believed eighty years ago that I would mow my lawn on Saturday, and God cannot be wrong, then for me to refrain I would have to make it the case that God had held a false belief, which seems impossible. Boethius' reply is that God never held a belief *eighty years ago*, because God is not in time at all. Eleonore Stump and Norman Kretzmann defended a carefully worked-out version of Boethian eternity in a 1981 article, 'Eternity', arguing that an eternal God can be simultaneous with every moment of time without being located in any of them. Critics such as Anthony Kenny objected that this threatens to make all times simultaneous with each other. Other philosophers, called open theists, simply give up divine foreknowledge of free choices.\n\nThe *Consolation* also had an astonishing cultural afterlife. King Alfred the Great had it translated into Old English in the ninth century; Geoffrey Chaucer translated it into Middle English and used the wheel of Fortune in his poetry; Queen Elizabeth I made her own English translation in 1593. Dante places Boethius among the wise souls in the heaven of the Sun in his *Paradiso*. For more than a millennium, it was the book that educated Europeans turned to in disaster.\n\nAugustine's account of time had a parallel afterlife in philosophy. Wittgenstein opened his *Philosophical Investigations* with a passage from the *Confessions* and later used the time riddle to illustrate how philosophical puzzles arise when we try to define words we use perfectly well.",
+    "readings": [
+      {
+        "title": "Confessions, Book XI",
+        "author": "Augustine, translated by Henry Chadwick",
+        "note": "The meditation on time and eternity; short, difficult and rewarding."
+      },
+      {
+        "title": "The Consolation of Philosophy",
+        "author": "Boethius, translated by Victor Watts (Penguin) or Joel Relihan",
+        "note": "Read Book I for the arrival of Lady Philosophy, Book II for Fortune and Book V for foreknowledge."
+      },
+      {
+        "title": "The City of God",
+        "author": "Augustine, translated by Henry Bettenson",
+        "note": "Book IV.4 (kingdoms as robber bands), Book XIV.28 (the two loves) and Book XIX (on peace) are the essential passages."
+      },
+      {
+        "title": "Boethius: The Consolations of Music, Logic, Theology, and Philosophy",
+        "author": "Henry Chadwick",
+        "note": "A scholarly study of Boethius' life, world and work."
+      }
+    ],
+    "questions": [
+      "Is time something in the world, something in the mind, or both? Could there be time without anyone to experience it?",
+      "Augustine says no political order deserves our ultimate loyalty. Is that a healthy check on power or a recipe for political indifference?",
+      "Does Boethius' 'eternal present' really save human freedom, or does it simply move the problem somewhere else?"
+    ]
+  }
+}

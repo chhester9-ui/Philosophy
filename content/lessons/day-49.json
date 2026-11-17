@@ -1,0 +1,229 @@
+{
+  "id": "day-49",
+  "day": 49,
+  "title": "Hume I: Impressions, Causation and the Problem of Induction",
+  "subtitle": "Why do you expect the sun to rise tomorrow? Hume says: habit, not reason",
+  "philosophers": ["David Hume"],
+  "era": "1711–1776",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to distinguish Hume's impressions from ideas and state the copy principle",
+    "Explain Hume's fork: the division of knowledge into relations of ideas and matters of fact",
+    "Reconstruct Hume's analysis of causation as constant conjunction plus a felt expectation",
+    "State the problem of induction precisely and explain why it is so hard to solve",
+    "Describe Hume's 'sceptical solution': custom as the great guide of life"
+  ],
+  "hook": "You drop a glass. Before it hits the floor, you already flinch, because you know it will shatter. You flip a light switch and expect light. You take a sip of water expecting it to quench your thirst rather than poison you. Your whole life runs on predictions like these. Now ask: how do you know? You have seen glasses break before, of course. But that was the past. What guarantees that the future will be like the past?\n\nThe obvious answer is that it always has been. But notice what that answer does: it uses the past to prove something about the future, which is exactly what we were trying to justify. In the 1730s a young Scotsman in his twenties noticed this little circle and refused to look away from it. David Hume concluded that our most basic beliefs about the world rest not on reason at all, but on habit. It is one of the most unsettling discoveries in the history of philosophy, and nearly three centuries later no one has decisively answered it.",
+  "sections": [
+    {
+      "heading": "Le Bon David",
+      "body": "David Hume was born in Edinburgh in 1711 and grew up on his family's modest estate at Ninewells in the Scottish Borders. He entered Edinburgh University around the age of eleven or twelve, as was then common, left without a degree, and was expected to become a lawyer. Instead he found, as he put it in his short autobiography *My Own Life*, an insurmountable aversion to everything but philosophy and learning. In his late teens he drove himself into a kind of breakdown through intense study, and later, living cheaply in France at La Flèche, where Descartes had gone to school, he wrote his masterpiece.\n\nA *Treatise of Human Nature* appeared in 1739–40, when Hume was in his late twenties. Its subtitle announced the ambition: an attempt to introduce the experimental method of reasoning into moral subjects. Hume wanted to be the Newton of the mind, explaining human thinking by a few general principles, as Newton had explained the heavens by gravitation. The book was a commercial failure. Hume's own verdict, in *My Own Life*, is famous: it fell dead-born from the press.\n\nHe did not give up. He recast the first part as the shorter, more elegant *An Enquiry Concerning Human Understanding* (1748), which is where most readers meet him today. He became famous in his lifetime, though, not as a philosopher but as an essayist and as the author of a bestselling multi-volume *History of England*. His reputation for religious scepticism cost him university chairs at both Edinburgh and Glasgow. Yet he was so genial that in Paris, where he served at the British embassy in the 1760s, the salons called him *le bon David*, the good David. His close friends included the economist Adam Smith (Day 54).\n\nHume is the third of the great British empiricists, after Locke (Day 47) and Berkeley (Day 48). He takes their starting point, that all our ideas come from experience, and follows it with a steadiness neither of them quite managed."
+    },
+    {
+      "heading": "Impressions, Ideas and the Copy Principle",
+      "body": "Hume tidies up Locke's vocabulary. Locke used 'idea' for every content of the mind. Hume divides these contents, which he calls **perceptions**, into two kinds. **Impressions** are our lively, vivid perceptions: what we have when we see, hear, feel, love, hate or desire. **Ideas** are the fainter copies of impressions that we have when we remember or imagine. The difference, he says, is one of force and vivacity. Compare actually burning your hand with remembering burning it: the memory is unmistakably dimmer.\n\nThis leads to Hume's central principle, the **copy principle**: all our simple ideas are copies of preceding impressions. We can combine ideas freely, so we can imagine a golden mountain or a virtuous horse, but the raw materials always come from impressions. Hume offers two pieces of evidence. First, analyse any idea, even the idea of God as an infinitely wise and good being, and you find it is built from impressions of our own minds, augmented without limit. Second, someone born blind has no idea of colour; someone who has never tasted wine has no idea of its taste. Where the impression is missing, so is the idea.\n\nHume honestly notes a possible exception, the **missing shade of blue**. Imagine someone who has seen every shade of blue except one. Shown the full range with a gap, could they imagine the missing shade? Hume thinks they probably could, which would be a simple idea without a prior impression. He dismisses it as too singular to matter. Many philosophers have thought it matters more than he allowed.\n\nThe copy principle is not just psychology. It is a weapon. Whenever a philosopher uses a grand term, such as substance, essence, or necessary connection, Hume asks: from what impression is that idea derived? If none can be found, the term is without meaning. This test is the ancestor of the twentieth-century verification principle you will meet on Day 71."
+    },
+    {
+      "heading": "Hume's Fork",
+      "body": "In section IV of the *Enquiry*, Hume divides all the objects of human reason into two kinds. This division has come to be called **Hume's fork**, because every claim must go down one prong or the other.\n\n**Relations of ideas** are truths we can discover by thought alone, without consulting the world: the truths of geometry, algebra and arithmetic, and anything true by definition. That three times five equals half of thirty, or that a bachelor is unmarried, can be known with certainty because denying them leads to a contradiction. But they tell us nothing about what actually exists.\n\n**Matters of fact** are claims about how the world is: that the sun will rise tomorrow, that fire burns, that Julius Caesar existed. Their opposite is always conceivable without contradiction. You can perfectly well imagine the sun not rising tomorrow, even though it will. So matters of fact cannot be proved by pure reasoning; they must be learned from experience.\n\nThe fork is lethal to the rationalist ambitions we met on Days 43–46. Descartes, Spinoza and Leibniz hoped to prove substantial truths about reality, the existence of God, the nature of substance, the best of all possible worlds, by reason alone. Hume says that is impossible. Pure reason gives you only relations among your own ideas; it can never tell you what exists.\n\nThe *Enquiry* ends with a famous and ferocious paragraph. Take any book of divinity or school metaphysics, and ask: does it contain any abstract reasoning concerning quantity or number? No. Does it contain any experimental reasoning concerning matter of fact and existence? No. Commit it then to the flames, for it can contain nothing but sophistry and illusion.\n\nOne caution. Hume's fork is cleaner on paper than in practice, and Kant, who credited Hume with waking him from his dogmatic slumber, will argue on Day 55 that there is a third kind of knowledge the fork misses. Keep that in mind."
+    },
+    {
+      "heading": "What Is a Cause?",
+      "body": "Almost everything we believe about matters of fact beyond our present senses depends on **causation**. I believe my friend is in France because I received a letter from her; letters are caused by writers. I believe the stove is hot because I see flames, and flames cause heat. So what is our idea of cause and effect, and from what impression does it come?\n\nHume's favourite example is billiards. One ball rolls across the table and strikes another, which then moves. Watch carefully. What do you actually observe? First, **contiguity**: the two balls touch. Second, **priority**: the first ball's motion comes before the second's. Third, if you watch many games, **constant conjunction**: whenever a ball strikes another in this way, the second moves. That is all.\n\nBut our idea of cause includes something more: **necessary connection**, the sense that the first event makes the second happen, that it must follow. Where is the impression of that? Look as hard as you like at the impact and you will not see a force, a power or a necessity. You see one event, then another. Hume argues further that no reasoning about the first ball could tell you, in advance, what it would do. Adam, newly created, could not know from the look and feel of water that it would drown him. Before experience, any effect is conceivable: the second ball might stay still, or the first might bounce back, or both might rise into the air.\n\nSo where does the idea of necessity come from? Hume's answer is ingenious. After we have seen one kind of event constantly followed by another, the mind is carried by **habit**, or **custom**, from the appearance of the one to the expectation of the other. That felt transition in our own minds is the impression from which the idea of necessary connection is copied. We project this inner feeling onto the world, as if the necessity were in the balls. In a phrase from the *Treatise*, the mind has a great propensity to spread itself on external objects.\n\nThis is a radical claim. Causation, the cement of the universe, turns out to be, as far as our knowledge goes, regular succession plus a mental expectation."
+    },
+    {
+      "heading": "The Problem of Induction",
+      "body": "Now we reach the heart of the matter. **Induction** is reasoning from observed cases to unobserved ones: every swan I have seen is white, so the next one will be; the sun has always risen, so it will rise tomorrow. All science and all practical life depend on it. Hume asks: what justifies it?\n\nThe argument can be laid out simply.\n\n1. Any inference from the observed to the unobserved assumes that the future will resemble the past, or that nature is uniform. Call this the **uniformity principle**.\n2. The uniformity principle is not a relation of ideas, because we can conceive of nature changing its course without contradiction. Bread nourished us yesterday; we can imagine it poisoning us tomorrow.\n3. So it must be a matter of fact, known from experience.\n4. But any argument from experience for the uniformity principle would be an inductive argument: nature has been uniform in the past, so it will continue to be. That assumes the very principle it is trying to prove.\n5. Therefore the uniformity principle cannot be justified by reason at all, and neither can any inductive inference.\n\nThis is the **problem of induction**. Notice what Hume is not saying. He is not saying the sun might not rise tomorrow in the sense that it probably will not. He is saying that our confidence that it will rise is not grounded in any reasoning, whether demonstrative or probable.\n\nBertrand Russell later gave the problem a memorable image in *The Problems of Philosophy* (1912). A chicken is fed by the farmer every day of its life, and naturally comes to expect food whenever he appears. Then one day the farmer wrings its neck instead. More refined views of the uniformity of nature, Russell remarks, would have been useful to the chicken.\n\nMany solutions have been tried. Perhaps induction is justified because it has worked so far? That is circular. Perhaps we should claim only probability, not certainty? But probability judgements also assume that the future will resemble the past. Karl Popper, on Day 72, will try to escape by arguing that science does not need induction at all."
+    },
+    {
+      "heading": "The Sceptical Solution: Custom Is the Great Guide",
+      "body": "If reason cannot justify induction, why do we keep reasoning inductively? Hume's answer is that we cannot help it. Nature has not left this to our choice. **Custom**, the habit formed by repeated experience, makes us expect the usual. In the *Enquiry* he calls custom the great guide of human life: without it we would be entirely ignorant of every matter of fact beyond what is immediately present to memory and senses.\n\nHume calls this a **sceptical solution**. It does not answer the sceptical doubt; it explains why the doubt has no grip on our lives. The doubt is real in the study, but it cannot survive outside it. In a wonderful passage at the end of Book I of the *Treatise*, Hume describes being plunged into philosophical melancholy by his own arguments, and then being cured by nature itself: he dines, he plays a game of backgammon, he converses and is merry with his friends, and when he returns to his speculations after a few hours, they appear so cold and strained and ridiculous that he cannot find it in his heart to enter into them further.\n\nThis is not a counsel of despair. Hume distinguishes between the extreme scepticism of Pyrrho (Day 27), which he thinks no one can live by, and a **mitigated scepticism** that teaches modesty and caution. A wise person, he says, proportions belief to the evidence. We should trust experience more where it has been long and uniform and less where it has been short or mixed, avoid sweeping metaphysical speculation, and remember how limited our faculties are.\n\nThere is a deep and still-debated question here. Some readers see Hume as a pure sceptic who shows that our beliefs are irrational. Others, following the scholar Norman Kemp Smith, see him as a **naturalist** who shows that our beliefs are rooted in human nature, so that the demand for a rational justification of everything was misguided from the start. On this second reading, Hume did not destroy knowledge; he relocated its foundations from reason to nature. Tomorrow we will see him apply the same method to the self, morality and religion."
+    }
+  ],
+  "keyQuote": {
+    "text": "Custom, then, is the great guide of human life.",
+    "source": "David Hume, An Enquiry Concerning Human Understanding (1748), Section V, Part I"
+  },
+  "modernConnection": {
+    "title": "Machine Learning, Black Swans and the Chicken's Mistake",
+    "body": "Every machine-learning system is a Humean creature. A model trained to recognise spam, predict house prices or recommend films learns patterns from past data and assumes they will hold for new data. Engineers even have a name for what happens when Hume's uniformity principle breaks down: distribution shift. A fraud-detection model trained before a pandemic may fail badly when spending habits suddenly change. A self-driving system trained in sunny California may struggle in a snowstorm. No amount of past data guarantees the future, and data scientists cannot prove from inside their data that the world will stay the same. They can only monitor, retest and hope.\n\nFinance offers Russell's chicken on a grand scale. Before the 2008 crash, risk models built on decades of data treated a nationwide fall in American house prices as almost impossible, because it had not happened in their records. Nassim Nicholas Taleb's book *The Black Swan* (2007) made Hume's point a bestseller: Europeans had seen only white swans until black ones were found in Australia, and the most important events are often the ones the past gave no hint of. Taleb even retells the story of a turkey fed for a thousand days before Thanksgiving.\n\nHume's analysis of causation is also alive in medicine and data science. Correlation is not causation, we say, which is a very Humean warning: we observe only constant conjunction, and must be careful about the necessary connection we read into it. Randomised controlled trials are, in a sense, a sophisticated way of strengthening our expectations without ever observing causal power itself.\n\nWhere does the analogy break down? Engineers do not, in practice, despair; like Hume after backgammon, they get on with it. And modern statistics has tools Hume lacked for quantifying how confident to be. But all those tools still rest, at bottom, on the assumption he showed we cannot prove."
+  },
+  "vocabulary": [
+    {
+      "term": "Impression",
+      "definition": "Hume's term for a vivid, lively perception, such as a sensation or emotion as it is felt.",
+      "example": "The sting of a bee is an impression; remembering it later is an idea."
+    },
+    {
+      "term": "Copy principle",
+      "definition": "Hume's principle that all simple ideas are copies of earlier impressions.",
+      "example": "By the copy principle, someone born deaf can have no idea of the sound of a trumpet."
+    },
+    {
+      "term": "Hume's fork",
+      "definition": "The division of all knowledge into relations of ideas (known by thought, certain, but not about existence) and matters of fact (known by experience, never certain).",
+      "example": "Hume's fork puts 2 + 2 = 4 on one prong and 'water boils at 100°C at sea level' on the other."
+    },
+    {
+      "term": "Constant conjunction",
+      "definition": "The repeated observed pairing of one kind of event with another, which Hume thought is all we perceive of causation.",
+      "example": "We have seen the constant conjunction of flame and heat, but never the power that links them."
+    },
+    {
+      "term": "Necessary connection",
+      "definition": "The supposed bond by which a cause must produce its effect; Hume traced the idea to the mind's habitual expectation.",
+      "example": "Hume searched the billiard table for a necessary connection and found only one event following another."
+    },
+    {
+      "term": "Induction",
+      "definition": "Reasoning from observed cases to unobserved cases, including from the past to the future.",
+      "example": "Concluding that the next raven will be black because all observed ravens were black is an inference by induction."
+    },
+    {
+      "term": "Problem of induction",
+      "definition": "Hume's argument that inductive inferences cannot be rationally justified without circularly assuming that the future will resemble the past.",
+      "example": "Russell's chicken, surprised by the farmer, is the problem of induction made vivid."
+    },
+    {
+      "term": "Custom (habit)",
+      "definition": "The natural tendency of the mind, after repeated experience, to expect the usual; for Hume, the real basis of causal belief.",
+      "example": "It is custom, not argument, that makes you flinch before the dropped glass hits the floor."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Try to Justify Tomorrow",
+    "prompt": "Pick one prediction you are completely confident about and see whether you can justify it without circular reasoning.",
+    "steps": [
+      "Write down a prediction you are certain of, such as 'the sun will rise tomorrow' or 'my kettle will boil when switched on'.",
+      "List every reason you have for believing it.",
+      "For each reason, ask Hume's question: does this reason assume that the future will resemble the past? Mark each one that does.",
+      "Try to find at least one reason that does not rely on the uniformity of nature. If you find one, test it hard. If you cannot, explain whether this troubles you.",
+      "Write a short paragraph on Hume's sceptical solution: is relying on custom a respectable way to live, or an admission of defeat?"
+    ]
+  },
+  "summary": [
+    "David Hume (1711–1776) aimed to apply Newton's experimental method to the human mind; his Treatise 'fell dead-born from the press' but the Enquiry won readers.",
+    "Perceptions divide into vivid impressions and fainter ideas, and every simple idea is copied from an impression (the copy principle).",
+    "Hume's fork: relations of ideas are certain but say nothing about existence; matters of fact are known only by experience.",
+    "We never observe causal power, only contiguity, priority and constant conjunction; the idea of necessary connection comes from the mind's habit of expectation.",
+    "Induction cannot be justified by reason without circularity, yet custom, the great guide of life, makes us rely on it anyway."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "According to Hume, what distinguishes impressions from ideas?",
+      "options": [
+        "Impressions are about the external world, ideas about the mind",
+        "Impressions are innate, ideas are acquired",
+        "Impressions are more forceful and vivid; ideas are fainter copies",
+        "Impressions are false, ideas are true"
+      ],
+      "answer": 2,
+      "explanation": "Hume says the difference lies in force and vivacity: feeling pain versus remembering it."
+    },
+    {
+      "type": "mc",
+      "question": "On Hume's fork, where does the statement 'all bachelors are unmarried' belong?",
+      "options": [
+        "Relations of ideas",
+        "Matters of fact",
+        "Neither; it should be committed to the flames",
+        "Both, since it is about real people"
+      ],
+      "answer": 0,
+      "explanation": "Its denial is a contradiction, so it can be known by thought alone; it is a relation of ideas."
+    },
+    {
+      "type": "mc",
+      "question": "When watching one billiard ball strike another, what does Hume say we never actually observe?",
+      "options": [
+        "That the balls touch",
+        "That the first ball moves before the second",
+        "That this sequence happens repeatedly",
+        "A necessary connection or power by which the first makes the second move"
+      ],
+      "answer": 3,
+      "explanation": "Contiguity, priority and constant conjunction are observed; necessary connection is not. Its idea comes from the mind's habitual expectation."
+    },
+    {
+      "type": "mc",
+      "question": "Why, according to Hume, can the uniformity of nature not be justified by experience?",
+      "options": [
+        "Because experience is always illusory",
+        "Because any argument from past experience to the future already assumes that the future will resemble the past",
+        "Because the uniformity of nature is a relation of ideas",
+        "Because God might change the laws of nature"
+      ],
+      "answer": 1,
+      "explanation": "Justifying induction by its past success is itself an inductive argument, and so is circular."
+    },
+    {
+      "type": "mc",
+      "question": "A credit-scoring algorithm trained on twenty years of data performs badly after a sudden economic shock changes everyone's behaviour. Which Humean idea does this best illustrate?",
+      "options": [
+        "The copy principle",
+        "The missing shade of blue",
+        "The problem of induction",
+        "Relations of ideas"
+      ],
+      "answer": 2,
+      "explanation": "The model assumed the future would resemble the past; when that assumption failed, so did its predictions."
+    },
+    {
+      "type": "mc",
+      "question": "What is Hume's 'sceptical solution' to his doubts about induction?",
+      "options": [
+        "A proof that the future must resemble the past",
+        "Suspending all belief about the future, as Pyrrho recommended",
+        "Relying on innate ideas planted by God",
+        "Recognising that custom, a natural habit of the mind, leads us to expect regularities even though reason cannot justify them"
+      ],
+      "answer": 3,
+      "explanation": "Hume does not refute the doubt; he explains why human nature makes us rely on induction anyway, and calls custom the great guide of life."
+    },
+    {
+      "type": "mc",
+      "question": "What is the missing shade of blue?",
+      "options": [
+        "A possible counterexample to the copy principle: an idea that might be formed without a prior impression",
+        "An example of a secondary quality that exists in objects",
+        "Hume's illustration of the problem of induction",
+        "A colour that Berkeley claimed only God could perceive"
+      ],
+      "answer": 0,
+      "explanation": "Someone who had seen every shade but one might imagine the missing shade, an idea with no matching impression. Hume admitted the case and set it aside."
+    },
+    {
+      "type": "tf",
+      "question": "Hume's Treatise of Human Nature was an immediate bestseller that made him famous as a philosopher.",
+      "answer": false,
+      "explanation": "Hume said it fell dead-born from the press. His fame in his lifetime came mainly from his essays and History of England."
+    },
+    {
+      "type": "tf",
+      "question": "Hume argued that before any experience, Adam could not have known from looking at water that it would drown him.",
+      "answer": true,
+      "explanation": "Causal knowledge is not available by reason alone; effects can only be learned from experience."
+    },
+    {
+      "type": "tf",
+      "question": "Hume's conclusion is that we should stop forming expectations about the future until induction is proved valid.",
+      "answer": false,
+      "explanation": "Hume thought that impossible and undesirable. He recommended a mitigated scepticism that proportions belief to the evidence."
+    }
+  ],
+  "goDeeper": {
+    "body": "The problem of induction has generated a vast literature. One influential twentieth-century response is the 'new riddle of induction' posed by Nelson Goodman in *Fact, Fiction, and Forecast* (1955). Define 'grue' as: green if first observed before some future date, and blue otherwise. Every emerald we have ever seen is both green and grue. So why do we predict that future emeralds will be green rather than grue? Goodman showed that the problem is not only whether to trust past regularities but which regularities to project, and that the answer seems to depend on our language and habits, a strikingly Humean conclusion.\n\nAnother response, associated with P. F. Strawson, is that asking for a justification of induction is confused: being guided by inductive evidence is simply part of what we mean by being reasonable, just as there is no deeper legal justification for the legal system as a whole. Critics reply that this redefines the problem away.\n\nHume's theory of causation has also split interpreters. The traditional reading is a **regularity theory**: for Hume, causation is nothing but constant conjunction. But a group of scholars sometimes called the 'New Hume' (including Galen Strawson and John P. Wright) argue that Hume believed in real causal powers in nature and only denied that we could know them. The dispute turns on fine details of Hume's language about secret powers and hidden springs. Whichever reading is right, Hume set the agenda: modern philosophers still divide between those who think laws of nature are just patterns in what happens (Humeans) and those who think they are something more.",
+    "readings": [
+      { "title": "An Enquiry Concerning Human Understanding", "author": "David Hume", "note": "Sections II–V and VII cover everything in this lesson in Hume's clearest prose; the final paragraph of Section XII is the 'flames' passage." },
+      { "title": "The Problems of Philosophy", "author": "Bertrand Russell", "note": "Chapter 6, 'On Induction', with the famous chicken; a model of clear writing." },
+      { "title": "Hume: A Very Short Introduction", "author": "A. J. Ayer", "note": "A short introduction by an admirer who carried Hume's ideas into the twentieth century." },
+      { "title": "The Great Infidel: A Life of David Hume", "author": "Roderick Graham", "note": "A readable biography of the man behind the arguments." }
+    ],
+    "questions": [
+      "If induction cannot be rationally justified, is science any more rational than astrology? What would Hume say?",
+      "Is Hume right that we never observe causal power? What about when you push a heavy door and feel the effort?",
+      "Does Hume's sceptical solution satisfy you, or does it simply change the subject?"
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": "day-60",
+  "day": 60,
+  "title": "Schopenhauer: The World as Will",
+  "subtitle": "Behind the curtain of appearances, a blind and restless striving",
+  "philosophers": ["Arthur Schopenhauer"],
+  "era": "1788–1860",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain Schopenhauer's distinction between the world as representation and the world as will.",
+    "By the end you will be able to describe how he reinterpreted Kant's thing-in-itself as a blind, purposeless will.",
+    "By the end you will be able to reconstruct the main arguments for his pessimism, including the pendulum between pain and boredom.",
+    "By the end you will be able to explain the three routes of release he proposed: art, compassion and asceticism.",
+    "By the end you will be able to assess his engagement with Indian and Buddhist thought and his influence on later culture."
+  ],
+  "hook": "In 1820 a thirty-two-year-old unknown named Arthur Schopenhauer was allowed to lecture at the University of Berlin. He chose his hour deliberately: the same time slot as the most famous professor in Germany, G. W. F. Hegel, whom we met yesterday. Schopenhauer was sure the students would come to hear the truth. Almost none came. The course soon collapsed, and he never had a successful academic career.\n\nThe book he had already published, *The World as Will and Representation* (dated 1819, though it appeared at the end of 1818), sold so poorly that much of the print run was reportedly pulped. Yet decades later, in the 1850s, Schopenhauer became famous, and his ideas went on to shape Richard Wagner's music, Friedrich Nietzsche's philosophy (Days 65–66), Sigmund Freud's psychology, Leo Tolstoy's and Thomas Mann's novels, and the young Ludwig Wittgenstein (Day 70). His central claim is as dark as it is gripping: underneath the orderly world we see lies a blind, restless, endlessly hungry force he called the *will*. We are all its puppets, and that is why life is suffering. Is there any way out?",
+  "sections": [
+    {
+      "heading": "A Difficult Man and a Lonely Genius",
+      "body": "Schopenhauer was born in 1788 in the port city of Danzig (today Gdańsk in Poland) to a wealthy merchant family. His father wanted him to become a businessman and took him on a long tour of Europe as a teenager; Schopenhauer later recalled being shaken by scenes of poverty and suffering, including convicts chained in the galleys at Toulon. His father died in 1805, probably by suicide, after a fall from a warehouse. His mother, Johanna Schopenhauer, moved to Weimar, ran a lively literary salon frequented by Goethe, and became a successful novelist. Mother and son quarreled bitterly and eventually stopped speaking.\n\nThe inheritance from his father let Schopenhauer live as an independent scholar for the rest of his life. He wrote his doctoral dissertation on the principle of sufficient reason (the idea, which we saw in Leibniz on Day 46, that everything has a reason why it is so rather than otherwise), then poured his whole system into one big book. After the Berlin fiasco, he settled in Frankfurt in 1833 and lived a regular, solitary life: writing in the mornings, playing the flute, walking his poodles (he named more than one of them Atma, from a Sanskrit word for the self or world-soul), and reading the *Times* in the library.\n\nHe could be vain, bitter and cruel. In one documented episode in 1821, he pushed a seamstress, Caroline Marquet, out of the hallway near his rooms; she was injured, sued him, and he was ordered to pay her a regular sum for many years. He also wrote a notoriously contemptuous essay on women. Recognition came only late, after his collection of essays and aphorisms, *Parerga and Paralipomena* (1851), found a wide readership. He enjoyed his fame for less than a decade before dying in Frankfurt in 1860.\n\nKeep the man in view, but do not let him swallow the ideas. Schopenhauer's philosophy is far more interesting than his character."
+    },
+    {
+      "heading": "The World as Representation",
+      "body": "Schopenhauer's great book opens with a striking sentence: “The world is my representation.” The German word *Vorstellung* (literally, something placed before the mind) is sometimes translated as “idea”; **representation** is the more common choice today.\n\nWhat does he mean? He is building on Kant (Day 55), whom he regarded as the most important philosopher of modern times. Kant argued that the world as we experience it, the world of **phenomena**, is shaped by the forms of our own minds. Space, time and causality are not features we read off from things in themselves; they are the frames through which anything can appear to us at all. Schopenhauer accepted this wholeheartedly, though he simplified Kant's twelve categories down to one, causality.\n\nSo the sun, the earth and your own body, insofar as you perceive them, exist as objects *for a subject*. There is no object without a subject to whom it appears. This is the world as representation: an orderly, law-governed realm of objects arranged in space and time and linked by cause and effect. It is the world that science studies, and science is very good at it.\n\nBut Schopenhauer insists that science only ever tells us how things *relate* to one another. It explains that this ball moves because that ball struck it, and that both obey the law of gravity. What it never tells us is what the forces themselves *are* from the inside. Science describes the frame and the connections, but not the inner nature of what is being connected. Kant concluded that this inner nature, the **thing-in-itself**, is unknowable. Schopenhauer thought there was one place where we can catch a glimpse of it."
+    },
+    {
+      "heading": "The World as Will",
+      "body": "That place is your own body. You experience your body in two completely different ways. From the outside, you can see your arm as an object among objects, moving according to physical and physiological causes. But from the inside, you know your arm's movement directly as an act of *willing*: you want to reach for the cup, and the reaching simply *is* that wanting made visible. The act of will and the movement of the body are not two events linked by cause and effect, Schopenhauer argues; they are one and the same thing known in two ways.\n\nHere, then, is a crack in the wall of representation. In my own case I know what lies behind the appearance: it is **will**. Schopenhauer then takes a daring step. He proposes that the inner nature of *everything* is will. The force that makes a stone fall, the magnet attract iron, the plant turn toward light, the animal hunt and mate, and the human being desire, plan and fear, is ultimately one and the same striving, expressed at different levels.\n\nIt is crucial to see what kind of will this is. It is not a conscious plan or a God with goals. It is a blind, aimless, insatiable urge, a **will to live** that pushes every creature to survive and reproduce without any final purpose. Intelligence and reason, which the Enlightenment had celebrated (Days 52–57), are for Schopenhauer only tools the will has developed to serve its cravings. Our thinking is the servant; our desire is the master. Remember Hume's line on Day 50 that reason is the slave of the passions? Schopenhauer pushes that thought into metaphysics.\n\nThe will is also one. Space and time are only forms of representation, and they are what make multiplicity possible: this tree here, that tree there; this person now, that person then. Schopenhauer calls space and time the **principle of individuation** (*principium individuationis*). Since the thing-in-itself lies beyond space and time, it cannot be divided into many. At the deepest level, the will in you and the will in the stray dog, the oak tree and your worst enemy is the same will. Our sense of being separate individuals is, in the end, a kind of illusion."
+    },
+    {
+      "heading": "Why Life Is Suffering: Schopenhauer's Pessimism",
+      "body": "If reality at bottom is endless craving, what follows for happiness? Schopenhauer's answer made him the most famous **pessimist** in Western philosophy.\n\nHis argument runs like this. To will is to want something you lack, and lacking is a kind of pain. So desire begins in suffering. If the desire is frustrated, we suffer more. If it is satisfied, the satisfaction is brief, because satisfaction is merely the removal of a pain, not a positive good in its own right. And then one of two things happens. Either a new desire immediately takes its place, and the cycle restarts. Or no desire arises, and we fall into **boredom**, an empty, oppressive sense of the worthlessness of existence. Life, he says, swings like a pendulum back and forth between pain and boredom.\n\nHe adds observations from nature. Every animal lives by devouring others; anyone who thinks pleasure outweighs pain, he suggests, should compare the feelings of an animal eating another with those of the animal being eaten. The history of humanity is a record of wars and cruelty. Against Leibniz's claim (Day 46) that this is the best of all possible worlds, Schopenhauer argued it is closer to the worst possible: if it were even a little worse, it could not go on existing at all.\n\nIs this persuasive? Critics have pushed back hard. Is pleasure really only the absence of pain? The joy of hearing a friend's laugh or finishing a hard climb seems positive, not just relief. Many psychologists would also question the idea that boredom is the only alternative to wanting; people describe states of absorbed engagement and contentment. And some suspect Schopenhauer's temperament shaped his metaphysics more than he admitted. Still, his diagnosis of the *structure* of desire, always reaching beyond what it has, has struck many readers as uncomfortably accurate."
+    },
+    {
+      "heading": "Three Escapes: Art, Compassion and Denial of the Will",
+      "body": "If the will is the source of suffering, release must come from quieting it. Schopenhauer describes three routes, each deeper than the last.\n\n1. **Aesthetic contemplation.** When we become absorbed in a painting, a landscape or a poem, we briefly stop seeing things in terms of what we want from them. We become, in his phrase, a *pure, will-less subject of knowledge*, losing ourselves in the object. In those moments the wheel of desire stops turning. Art lets us glimpse the timeless forms behind particular things; he borrows Plato's term **Ideas** (Day 11) for them. Above all the arts stands **music**, which, he argued, does not copy Ideas at all but expresses the will itself directly. That claim made him the philosopher of choice for composers, especially Wagner, whose opera *Tristan und Isolde* is steeped in Schopenhauerian themes.\n\n2. **Compassion.** Ethics, for Schopenhauer, begins when we see through the principle of individuation. The egoist treats others as separate from himself. But the compassionate person feels another's suffering as, in some sense, his own, because at the level of the will it *is* his own. In his essay *On the Basis of Morality* (1840), Schopenhauer argued, against Kant's ethics of duty (Day 56), that **compassion** (*Mitleid*), not rational principle, is the true foundation of morality. He extended it to animals, criticizing Western traditions for treating them as mere things. (The essay was written for a prize competition of the Royal Danish Society; though it was the only entry, it was not awarded the prize.)\n\n3. **Denial of the will.** The final route is the path of the saint and the ascetic: chastity, poverty, fasting, and the gradual extinction of desire itself. Schopenhauer did not live this way, and he did not recommend suicide, which he saw as an *affirmation* of the will (the person wants life, but not on these terms). The book ends with a strange, hushed vision: for those in whom the will has turned and denied itself, this world of ours, with all its suns and galaxies, is nothing."
+    },
+    {
+      "heading": "East Meets West, and a Long Shadow",
+      "body": "Schopenhauer was one of the first major Western philosophers to engage seriously with Indian thought. In 1813–14 in Weimar he was introduced to a Latin translation of Persian versions of the **Upanishads**, the *Oupnek'hat* published by the French scholar Anquetil-Duperron. He later wrote that reading them had been the consolation of his life and would be the consolation of his death. He saw his notion of the will's unity echoed in the Vedantic teaching that the individual self (*atman*) is ultimately identical with ultimate reality (*Brahman*), and the illusion of separateness echoed in the Hindu idea of the **veil of Maya**, which he often invoked. Later he discovered Buddhism, praised it as the finest of religions, and kept a statue of the Buddha in his study. The Buddha's teaching that life is marked by suffering (*dukkha*) and that suffering arises from craving seemed to him a striking confirmation of his views (see Day 87 and the Philosophy Beyond the West track).\n\nHow accurate was his understanding? Scholars note that he had access only to limited and sometimes poor translations, and he arrived at his main ideas largely before studying these traditions deeply. He also tended to read **nirvana** as a kind of nothingness, a reading many Buddhist thinkers reject. So his work is better seen as an early, imperfect bridge than as an expert account. Still, at a time when most European philosophers treated Asian thought as exotic or primitive, he argued that India had reached profound truths independently, and he helped open a dialogue that continues today.\n\nHis influence spread in surprising directions. Nietzsche discovered *The World as Will and Representation* in a Leipzig bookshop in 1865 and was overwhelmed; he would later turn Schopenhauer's will to live into the will to power, and his pessimism into an affirmation of life (Days 65–66). Freud acknowledged that Schopenhauer had anticipated central ideas of psychoanalysis, such as the power of unconscious drives, especially sexuality, over reason. Novelists from Tolstoy to Thomas Mann, and philosophers from Wittgenstein to Max Horkheimer, carried his ideas forward. The lonely failure of the Berlin lecture hall turned out to have a very long shadow."
+    }
+  ],
+  "keyQuote": {
+    "text": "The world is my representation.",
+    "source": "Arthur Schopenhauer, The World as Will and Representation, Volume 1, §1"
+  },
+  "modernConnection": {
+    "title": "The Hedonic Treadmill and the Attention Economy",
+    "body": "In 1971 the psychologists Philip Brickman and Donald Campbell coined a phrase that sounds like Schopenhauer in a lab coat: the **hedonic treadmill**. Their idea was that people adapt quickly to good and bad changes in their lives, returning toward a baseline level of happiness. A raise, a bigger house or a new phone delivers a burst of pleasure that soon fades, and we start wanting the next thing. Later research complicated the picture: some changes, such as unemployment or serious disability, can lower well-being for a long time, and people differ in how much they adapt. But the basic pattern of adaptation is well documented, and it is exactly the pendulum Schopenhauer described: desire, brief relief, then a new desire or boredom.\n\nNeuroscience offers another echo. Researchers such as Kent Berridge distinguish between brain systems for “wanting” and for “liking”. The two can come apart: we can crave something intensely that gives us little pleasure when we get it. Schopenhauer would not have been surprised that wanting is the stronger, more restless force.\n\nNow consider the attention economy. Many apps are designed to exploit the gap between wanting and satisfaction: infinite scroll, notifications and variable rewards keep us reaching for the next hit and leave us oddly unsatisfied. Boredom becomes intolerable, so we fill every gap with the phone. Schopenhauer's suggested escapes also have modern cousins: the absorbed “flow” states studied by Mihaly Csikszentmihalyi, the self-forgetting of deep listening to music, and mindfulness practices drawn partly from the same Buddhist sources he admired.\n\nBut the comparison has limits. Schopenhauer's will is a metaphysical claim about the inner nature of all reality, not a finding of psychology, and nothing in brain science proves that a cosmic will exists. Positive psychology also suggests that many people, on reflection, judge their lives to be worth living and find lasting meaning in relationships and purposeful work, a challenge to his conclusion that existence is something better not to have had. Use him as a sharp diagnosis of desire, not as the last word on happiness."
+  },
+  "vocabulary": [
+    {
+      "term": "Representation (Vorstellung)",
+      "definition": "The world as it appears to a perceiving subject, ordered by space, time and causality; one of the two aspects of the world for Schopenhauer.",
+      "example": "The moon you see tonight exists, as representation, only as an object for a perceiving subject."
+    },
+    {
+      "term": "Will",
+      "definition": "For Schopenhauer, the inner nature of all reality: a single, blind, purposeless striving that appears in every force of nature and every desire.",
+      "example": "Gravity, a plant's growth and your hunger are, for Schopenhauer, expressions of the same will."
+    },
+    {
+      "term": "Thing-in-itself",
+      "definition": "Kant's term for reality as it is independent of how it appears to us; Schopenhauer identified it with will.",
+      "example": "Where Kant said the thing-in-itself is unknowable, Schopenhauer claimed we glimpse it from inside our own bodies."
+    },
+    {
+      "term": "Principle of individuation",
+      "definition": "Space and time considered as what makes things appear as many separate individuals; for Schopenhauer, a feature of appearance, not of ultimate reality.",
+      "example": "Seeing through the principle of individuation, the compassionate person feels another's pain as her own."
+    },
+    {
+      "term": "Pessimism",
+      "definition": "The view that suffering outweighs happiness and that existence is, on balance, bad; Schopenhauer's verdict on life driven by will.",
+      "example": "Schopenhauer's pessimism rests on the claim that satisfaction is only the brief removal of pain."
+    },
+    {
+      "term": "Compassion (Mitleid)",
+      "definition": "Feeling another's suffering as one's own; for Schopenhauer, the true foundation of morality.",
+      "example": "Against Kant's ethics of duty, Schopenhauer argued that compassion, not reason, makes an action truly moral."
+    },
+    {
+      "term": "Veil of Maya",
+      "definition": "An image from Indian thought, used by Schopenhauer, for the illusion of separateness that hides the underlying unity of reality.",
+      "example": "For Schopenhauer, the egoist is still deceived by the veil of Maya, mistaking separateness for ultimate truth."
+    },
+    {
+      "term": "Asceticism",
+      "definition": "The disciplined renunciation of desires and pleasures; for Schopenhauer, the deepest path to the denial of the will.",
+      "example": "Schopenhauer admired the asceticism of saints and monks, even though he did not practice it himself."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Tracking the Pendulum",
+    "prompt": "Schopenhauer claims that life swings between the pain of wanting and the emptiness of boredom, and that only art, compassion or renunciation offer release. Test his claim against your own experience for 10–15 minutes.",
+    "steps": [
+      "Recall something you wanted intensely and eventually got (a purchase, a job, a trip, a relationship). Write down how long the satisfaction lasted and what you wanted next.",
+      "Recall a recent moment of boredom. What did you do to escape it? Did you reach for a screen, a snack, a new plan? What does this suggest about Schopenhauer's pendulum?",
+      "Now recall a moment when you completely forgot yourself in music, nature, art or an activity. Did desire really fall silent? Describe what that felt like.",
+      "Recall an experience of genuine compassion, when another's pain felt almost like your own. Does Schopenhauer's explanation (that at bottom you and they are one) seem plausible, or is there a better explanation?",
+      "Finally, give your verdict: is Schopenhauer's pessimism a profound insight, an exaggeration, or a projection of his temperament? Cite at least one example from your own life."
+    ]
+  },
+  "summary": [
+    "Schopenhauer (1788–1860) accepted Kant's view that the world we experience is representation, shaped by space, time and causality.",
+    "He claimed we glimpse the thing-in-itself from inside our own bodies: it is will, a single, blind, aimless striving underlying everything.",
+    "Because desire springs from lack and satisfaction is only brief relief, life swings like a pendulum between pain and boredom; this is his pessimism.",
+    "Release comes through aesthetic contemplation (above all music), compassion grounded in the unity of all beings, and the ascetic denial of the will.",
+    "He was among the first Western philosophers to draw seriously on the Upanishads and Buddhism, though through limited sources and with some distortion.",
+    "His influence on Nietzsche, Wagner, Freud, Tolstoy and Wittgenstein far exceeded his fame during his lifetime."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "How did Schopenhauer claim we can know something about the thing-in-itself, which Kant held to be unknowable?",
+      "options": [
+        "Through mathematical proofs about space and time",
+        "Through divine revelation recorded in scripture",
+        "Through scientific experiments on matter",
+        "Through our inner experience of our own bodies as willing"
+      ],
+      "answer": 3,
+      "explanation": "We know our own bodily movements from inside as acts of will; Schopenhauer took this as the key to the inner nature of everything."
+    },
+    {
+      "type": "mc",
+      "question": "Which description best fits Schopenhauer's concept of the will?",
+      "options": [
+        "A blind, aimless, insatiable striving present in all of nature",
+        "A rational plan by which God guides history toward freedom",
+        "The conscious decisions humans make after careful deliberation",
+        "A purely psychological feeling with no metaphysical significance"
+      ],
+      "answer": 0,
+      "explanation": "The will is not conscious or purposeful; it is a blind urge appearing in gravity, plant growth, animal instinct and human desire alike."
+    },
+    {
+      "type": "mc",
+      "question": "According to Schopenhauer, why is satisfaction never lasting happiness?",
+      "options": [
+        "Because society forbids us from enjoying pleasures",
+        "Because satisfaction is only the removal of a pain, after which either a new desire or boredom follows",
+        "Because pleasures are always sinful",
+        "Because the body cannot physically feel pleasure for more than a minute"
+      ],
+      "answer": 1,
+      "explanation": "Desire springs from lack; satisfying it merely removes the lack, and life then swings to a new desire or to boredom."
+    },
+    {
+      "type": "mc",
+      "question": "Why did Schopenhauer rank music above all the other arts?",
+      "options": [
+        "Because it is the oldest art form",
+        "Because it is easiest to learn",
+        "Because it copies the Ideas of natural objects most accurately",
+        "Because it expresses the will itself directly rather than copying Ideas"
+      ],
+      "answer": 3,
+      "explanation": "Other arts present Ideas, the timeless forms of things; music, he argued, expresses the inner nature of the will directly."
+    },
+    {
+      "type": "mc",
+      "question": "Which scenario best illustrates Schopenhauer's account of compassion as the basis of morality?",
+      "options": [
+        "A man helps a stranger only because a law requires it",
+        "A student follows a rule because she has calculated it maximizes happiness",
+        "A woman rushes to comfort an injured child because the child's pain feels as though it were her own",
+        "A merchant is honest because honesty is good for business"
+      ],
+      "answer": 2,
+      "explanation": "Compassion means experiencing another's suffering as one's own, seeing through the illusion of separateness; the other cases rest on law, calculation or self-interest."
+    },
+    {
+      "type": "mc",
+      "question": "What does Schopenhauer mean by the principle of individuation?",
+      "options": [
+        "The rule that each person should develop their unique talents",
+        "Space and time as what make things appear as many separate individuals",
+        "The legal principle that each person owns their own body",
+        "The idea that every soul is reborn as a different individual"
+      ],
+      "answer": 1,
+      "explanation": "Space and time are forms of representation that divide the one will into apparent individuals; beyond them, reality is one."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern idea most closely echoes Schopenhauer's pendulum between pain and boredom?",
+      "options": [
+        "The hedonic treadmill, on which people adapt to gains and soon want more",
+        "The theory of evolution by natural selection",
+        "The democratic peace thesis",
+        "The verification principle"
+      ],
+      "answer": 0,
+      "explanation": "The hedonic treadmill describes adaptation to new pleasures followed by renewed wanting, much like Schopenhauer's cycle of desire."
+    },
+    {
+      "type": "tf",
+      "question": "Schopenhauer recommended suicide as the best way to deny the will.",
+      "answer": false,
+      "explanation": "He argued that suicide actually affirms the will to live, since the person wants life but not on these terms; true denial is ascetic renunciation."
+    },
+    {
+      "type": "tf",
+      "question": "Schopenhauer saw parallels between his philosophy and the Upanishads and Buddhism, but his knowledge of these traditions came through limited translations.",
+      "answer": true,
+      "explanation": "He read the Upanishads via Anquetil-Duperron's Latin version of a Persian translation, and his reading of ideas like nirvana is debated by scholars."
+    },
+    {
+      "type": "tf",
+      "question": "When Schopenhauer scheduled his Berlin lectures at the same hour as Hegel's, he attracted large crowds away from Hegel.",
+      "answer": false,
+      "explanation": "Very few students came, and the course soon collapsed; Schopenhauer only became famous decades later, in the 1850s."
+    }
+  ],
+  "goDeeper": {
+    "body": "Schopenhauer's system faces a famous internal puzzle. He claims the thing-in-itself is will. But he also accepts Kant's view that we can only know things as they appear under the forms of representation. How, then, can he know what the thing-in-itself is? In the second volume of his main work (1844) he softened his claim: our inner awareness of willing is still a kind of appearance, though the thinnest veil, since it is in time if not in space. So will is the thing-in-itself as closely as we can know it, and he even hints that what remains beyond it might have qualities we cannot name. Scholars like Christopher Janaway and Julian Young have debated whether this retreat rescues his metaphysics or quietly undermines it.\n\nA second debate concerns pessimism itself. Is it a philosophical thesis, a claim about value that can be argued for, or a mood? Contemporary philosophers have revived the question. David Benatar's *Better Never to Have Been* (2006) defends **anti-natalism**, the view that coming into existence is always a harm, using an asymmetry between pain and pleasure that recalls Schopenhauer. Critics respond that such arguments rely on contestable claims about the value of absent pleasures. Meanwhile, Nietzsche took Schopenhauer's starting point and asked whether a person who fully saw life's suffering could still say yes to it all; you will meet his answer on Day 66. Ask yourself whether pessimism and joy are really incompatible, or whether seeing life clearly might be the condition for loving it.",
+    "readings": [
+      {
+        "title": "Schopenhauer: A Very Short Introduction",
+        "author": "Christopher Janaway",
+        "note": "A concise, reliable guide to the system, the pessimism and the aesthetics."
+      },
+      {
+        "title": "The World as Will and Representation, Volume 1",
+        "author": "Arthur Schopenhauer (trans. E. F. J. Payne, or Norman, Welchman and Janaway)",
+        "note": "Read Book 1, §1–2, Book 2 on the body and will, Book 3 on art and music, and §56–59 of Book 4 on suffering."
+      },
+      {
+        "title": "Schopenhauer and the Wild Years of Philosophy",
+        "author": "Rüdiger Safranski",
+        "note": "A vivid biography placing Schopenhauer among Goethe, Hegel and the turbulent intellectual world of his time."
+      },
+      {
+        "title": "The Philosophy of Schopenhauer",
+        "author": "Bryan Magee",
+        "note": "A sympathetic and thorough study, with chapters on his influence on Wagner and Wittgenstein."
+      }
+    ],
+    "questions": [
+      "Is pleasure merely the absence of pain, or can it be a positive good in its own right?",
+      "If compassion rests on the idea that all beings are ultimately one, does compassion collapse if that metaphysics is false?",
+      "Can a philosopher's personal character fairly be used to evaluate their ideas?"
+    ]
+  }
+}

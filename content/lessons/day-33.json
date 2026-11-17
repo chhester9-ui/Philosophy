@@ -1,0 +1,240 @@
+{
+  "id": "day-33",
+  "day": 33,
+  "title": "Al-Ghazali, Averroes and Maimonides: Debates on Faith and Reason",
+  "subtitle": "Does fire burn cotton, or does God? A three-way argument across the medieval Mediterranean",
+  "philosophers": ["al-Ghazali", "Averroes (Ibn Rushd)", "Moses Maimonides"],
+  "era": "c. 1058–1204 CE",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain why al-Ghazali attacked the philosophers in The Incoherence of the Philosophers and which three doctrines he judged most serious.",
+    "By the end you will be able to reconstruct al-Ghazali's critique of necessary causation and compare it with later skepticism about cause and effect.",
+    "By the end you will be able to summarize Averroes' reply, including his claim that religious law commands the study of philosophy.",
+    "By the end you will be able to describe Maimonides' project in the Guide for the Perplexed and explain negative theology."
+  ],
+  "hook": "Hold a match to a ball of cotton. It catches fire. Do it a thousand times and it will catch fire a thousand times. Surely the fire *makes* the cotton burn. What could be more obvious?\n\nAround 1095, a famous professor in Baghdad wrote that this is not obvious at all. All we ever observe, he said, is that the burning happens *when* the fire touches the cotton. We never observe the fire *producing* the burning. The real cause, he argued, is God, who creates the burning each time in a regular pattern, and who could, if he chose, let the cotton sit unharmed in the flames. A century later a judge in Córdoba replied that whoever denies causes denies reason itself. And in Cairo, a Jewish physician tried to show perplexed believers how to keep both their faith and their philosophy. Today we listen in on one of the great arguments of the Middle Ages.",
+  "sections": [
+    {
+      "heading": "Al-Ghazali: The Professor Who Walked Away",
+      "body": "Abu Hamid **al-Ghazali** (1058–1111) was born in Tus, in northeastern Iran. A gifted student of law and theology, he rose fast. In 1091 the powerful vizier Nizam al-Mulk appointed him to the most prestigious teaching post in the Islamic world, at the Nizamiyya college in Baghdad. Hundreds of students came to his lectures.\n\nAl-Ghazali tells the rest of the story in his autobiography, *Deliverance from Error*, and it reads like a medieval cousin of Augustine's *Confessions* (Day 30). As a young man, he says, he went through a period of radical doubt. He came to question whether even the senses and reason could be trusted; perhaps waking life is to some higher state as dreams are to waking. The doubt lasted about two months and was cured, he says, not by an argument but by a light that God cast into his heart. Afterward he set out to examine every group claiming to possess the truth: theologians, philosophers, those who followed an infallible religious teacher, and the Sufis, the mystics of Islam.\n\nThen, in 1095, at the height of his fame, came a second crisis. He realized that his teaching was driven by love of reputation. He found himself unable to speak in his lectures and unable to eat. He gave away his wealth, left Baghdad and spent years traveling, to Damascus, Jerusalem and Mecca, living the disciplined life of a Sufi. He concluded that the deepest knowledge of God comes through direct experience, which the Sufis call 'tasting', rather than through argument alone. Late in life he returned to teaching for a time, and he died in his hometown of Tus in 1111.\n\nAl-Ghazali was not an enemy of reason in general. He praised mathematics and wrote handbooks of Aristotelian logic, which he thought every theologian should master. His target was narrower: the *faylasufs*, especially Avicenna (Day 32), who claimed to *demonstrate*, with the certainty of geometry, claims about God and the cosmos."
+    },
+    {
+      "heading": "The Incoherence of the Philosophers",
+      "body": "To attack the philosophers fairly, al-Ghazali first wrote a clear summary of their views, *The Intentions of the Philosophers*. (Ironically, when it was translated into Latin without its preface, European readers took al-Ghazali for a faithful follower of Avicenna.) Then came the attack: *The Incoherence of the Philosophers* (*Tahafut al-falasifa*).\n\nHis strategy is clever. He does not try to prove his own theology. He tries to show that the philosophers' arguments fail on their *own* terms: they claim demonstrative certainty, but their proofs are full of hidden assumptions. In twenty discussions he examines their doctrines. Most he labels as mistaken innovations. But three, he argues, are so contrary to Islam that holding them amounts to unbelief:\n\n1. That the world is **eternal**, with no beginning in time.\n2. That God knows **particular** things only in a universal way, so that God would not know, for example, that a particular person had just prayed.\n3. That there is **no bodily resurrection**; only souls survive death.\n\nOn the eternity of the world, for example, al-Ghazali argues that the philosophers cannot prove that a timeless God could not have willed from eternity that the world should begin at a certain moment. Their 'proofs' merely assume what they claim to show.\n\nThe effect was enormous. The book did not end philosophy in the Islamic world; historians now reject that old story, since philosophers and theologians went on studying and debating Avicenna for centuries. But it changed the terms of debate. After al-Ghazali, theologians absorbed Aristotelian logic and much of Avicenna's metaphysics, while rejecting the conclusions he condemned."
+    },
+    {
+      "heading": "Does Fire Burn Cotton?",
+      "body": "The most famous chapter of the *Incoherence*, the seventeenth discussion, is about **causation**. The philosophers held that causes *necessarily* produce their effects: given fire and cotton in contact, burning must follow, because that is the nature of fire. Al-Ghazali denies that we have any reason to believe in this necessary connection.\n\nHis argument: the only evidence for it is observation. But observation shows only that burning occurs *together with* contact with fire. It does not show burning occurring *through* the fire. Seeing two things happen together, however often, is not seeing one make the other happen.\n\nWhat then really causes the burning? Al-Ghazali, following the Ash'arite school of theology, says it is God, who creates each event directly. The regular order of nature exists because God customarily creates events in a regular pattern. Our confidence that fire will burn cotton is based on **habit** or custom, not on any necessity in the fire. This view, in which created things have no real causal power of their own and God is the only true cause, is called **occasionalism**: the fire is merely the occasion on which God creates the burning.\n\nThis allows for miracles. The Qur'an tells how Abraham was thrown into a fire and not burned. If fire burned by necessity, that would be impossible; if burning is a custom of God's creating, God can suspend it.\n\nThe obvious objection: if nothing is necessary, could anything happen? Could the book I left on the shelf have turned into a boy? Al-Ghazali raises this himself. He replies that God has created in us the knowledge that he will not do such things, so our ordinary expectations are reliable, even though the impossibility is not logical.\n\nIf you skip ahead to Day 49, you will find David Hume, in the eighteenth century, arguing that we never perceive a necessary connection between cause and effect, only constant conjunction, and that our expectation comes from **custom**. Hume reached a very different, secular conclusion, and there is no evidence he read al-Ghazali, but the parallel is striking."
+    },
+    {
+      "heading": "Averroes: The Judge Who Defended Philosophy",
+      "body": "At the other end of the Islamic world, in al-Andalus (Muslim Spain), a very different thinker answered al-Ghazali. Abu al-Walid Muhammad **Ibn Rushd** (1126–1198), known in Latin as **Averroes**, was born in Córdoba into a family of distinguished judges. He became a judge himself, in Seville and Córdoba, and also a physician to the Almohad rulers.\n\nAccording to a story preserved by a later historian, the philosopher Ibn Tufayl introduced him to the caliph Abu Ya'qub Yusuf, who asked him what philosophers thought about the heavens: were they eternal or created? Averroes was frightened at first, since the question was dangerous, but the caliph proved knowledgeable and friendly. Later the caliph complained that Aristotle was hard to understand and wished someone would explain him. Averroes took on the task. His commentaries on almost all of Aristotle's works, some short, some vast and line by line, became so authoritative that medieval Latin writers called him simply **the Commentator**, just as Aristotle was simply the Philosopher.\n\nAverroes wanted to recover the real Aristotle. He thought Avicenna had compromised too much with theology, and he criticized him often. But he thought al-Ghazali had attacked philosophy itself, and he replied point by point in *The Incoherence of the Incoherence*, quoting al-Ghazali's text and answering it.\n\nOn causation, Averroes' reply is forceful. To deny that things have natures and real powers is to deny that we can know anything. Knowledge, for an Aristotelian, *is* knowledge of things through their causes (Day 18). If fire has no nature that makes it burn, then there is no such thing as fire, only a series of events God happens to create, and science becomes impossible. Denying causes, as he puts it in effect, means denying reason.\n\nHis life ended in drama. Around 1195, for reasons historians still debate, the caliph al-Mansur turned against him; some of his books were burned and he was exiled for a time. He was restored to favor shortly before his death in Marrakesh in 1198."
+    },
+    {
+      "heading": "The Decisive Treatise: Truth Cannot Contradict Truth",
+      "body": "Averroes' most important statement on faith and reason is a short legal opinion, the *Decisive Treatise*. As a judge, he asks a legal question: does the religious law (the *shari'a*) permit the study of philosophy, forbid it or command it?\n\nHis answer: for those who are able, it *commands* it. The Qur'an repeatedly urges people to reflect on the heavens and the earth and to consider the signs of God. Philosophy, the study of the world by demonstration, is the most perfect way of doing exactly that. Like al-Kindi (Day 32), he adds that we should gladly use the work of earlier peoples, even non-Muslims, just as we use their tools.\n\nWhat if philosophy and scripture seem to disagree? Averroes' central principle is that **truth does not contradict truth**. If a demonstration proves something that conflicts with the apparent sense of a scriptural passage, the passage must be **interpreted allegorically**. Scripture is written to reach everyone, so it uses different levels of argument for different people: rhetorical persuasion for the many, dialectical argument for the theologians, and demonstration for the philosophers. All three reach the same truth.\n\nAverroes also insisted that allegorical interpretations should not be broadcast to ordinary people, who might be confused; he blamed theologians, including al-Ghazali, for stirring up the public with philosophical controversy.\n\nIn the Islamic world, Averroes had relatively few followers. In Latin Europe, his influence was immense. Some thirteenth-century teachers at Paris, called **Latin Averroists**, defended Aristotle's conclusions, including the eternity of the world and the claim that all humans share a single intellect, a view Aquinas attacked in 1270. They were accused of teaching a 'double truth', that something could be true in philosophy and false in faith. Averroes himself never held this; for him there was one truth reached by different roads. The church condemned a long list of philosophical propositions at Paris in 1277."
+    },
+    {
+      "heading": "Maimonides and the Guide for the Perplexed",
+      "body": "Moses ben Maimon, **Maimonides** (1138–1204), was also born in Córdoba, only twelve years after Averroes. But his life was shaped by upheaval. When the Almohads, who were intolerant of Jews and Christians, took power, his family was forced to leave, wandering through Spain and North Africa before settling around 1166 in Fustat, the old city of Cairo. There his brother David, a merchant who supported the family, drowned on a voyage in the Indian Ocean; Maimonides wrote that grief left him bedridden for about a year. He became a physician, eventually serving the court of Saladin's chief minister, and a leader of Egypt's Jewish community.\n\nHe wrote the *Mishneh Torah*, a massive code organizing the whole of Jewish law, and then, around 1190, his philosophical masterpiece, *The Guide for the Perplexed*, written in Arabic in Hebrew letters. Who is perplexed? A faithful Jew who has studied philosophy and is troubled because the Bible seems to say things philosophy shows are false: that God has a hand, sits on a throne, gets angry. Maimonides shows that such passages are figurative.\n\nHe goes much further, with an approach called **negative theology**. God is absolutely one and simple, utterly unlike anything created. So no positive attribute truly applies to God. When we say God is 'wise' or 'powerful' in the way a person is, we are speaking falsely. What we can do is say what God is *not*: not a body, not ignorant, not powerless, not many. Each negation removes an error and brings us a little closer, like learning what a ship is by being told, one by one, everything it is not. In the end, Maimonides says, quoting a verse from the Psalms, silence is praise to you.\n\nOn the eternity of the world, Maimonides took a careful middle path. He argued that neither Aristotle's arguments for eternity nor the theologians' arguments for creation are true demonstrations. Since reason cannot settle the matter, he accepted creation on the authority of the Torah. But he added a remarkable admission: if eternity had been demonstrated, he would have reinterpreted the scriptural passages, just as he did with God's 'hand'.\n\nNotice the three positions: al-Ghazali limits the claims of philosophy; Averroes subordinates the literal sense of scripture to demonstration; Maimonides sets reason free but insists on its limits. Thomas Aquinas, whom we meet on Day 35, read both Averroes and 'Rabbi Moses' closely."
+    }
+  ],
+  "modernConnection": {
+    "title": "Science and Religion: Conflict, Separation or Translation?",
+    "body": "The argument between al-Ghazali, Averroes and Maimonides lives on in modern debates about science and religion, and their positions map surprisingly well onto today's options.\n\nSome see open **conflict**: the biologist Richard Dawkins, for instance, argues that religious claims are hypotheses about the world that science has shown to be false or unsupported. Others favor **separation**. In 1997 the paleontologist Stephen Jay Gould proposed 'non-overlapping magisteria', the idea that science covers facts about the natural world while religion covers meaning and value, so the two need never clash. A third group, sometimes called concordists, follow something like Averroes' rule that truth cannot contradict truth: when science establishes something, such as the age of the universe or evolution, scripture should be read in a way that fits it. In 1996 Pope John Paul II told the Pontifical Academy of Sciences that evolution was 'more than a hypothesis', and many Jewish, Christian and Muslim thinkers read creation stories non-literally, as Maimonides read the Bible's 'hand of God'.\n\nAl-Ghazali has modern heirs too. Some philosophers argue that the laws of nature describe regularities without explaining why they hold, which echoes his point that we observe only conjunction. Others warn against 'scientism', the belief that science can answer every meaningful question, much as al-Ghazali warned against philosophers claiming more certainty than their arguments delivered.\n\nBut the comparison has limits. Medieval 'reason' usually meant Aristotle's philosophy, a complete system that claimed demonstrative certainty, while modern science is experimental, mathematical and always open to revision. Averroes could assume that a true demonstration was final; a modern scientist expects today's best theory to be refined. And the medieval debates took place among believers who shared basic assumptions about God, which many modern participants do not. The old arguments help us see the shape of the problem, not the answer."
+  },
+  "vocabulary": [
+    {
+      "term": "Incoherence (Tahafut)",
+      "definition": "Al-Ghazali's term for the internal failure of the philosophers' arguments; also the title of his book and of Averroes' reply.",
+      "example": "Al-Ghazali argued that the philosophers' proofs showed incoherence because they assumed what they claimed to demonstrate."
+    },
+    {
+      "term": "Occasionalism",
+      "definition": "The view that created things have no real causal power and that God is the only true cause, creating each effect on the occasion of its apparent cause.",
+      "example": "According to occasionalism, God, not the flame, makes the cotton burn."
+    },
+    {
+      "term": "Necessary connection",
+      "definition": "A link between cause and effect such that, given the cause, the effect must follow; al-Ghazali, and later Hume, denied that we observe any such link.",
+      "example": "We see the match touch the cotton and the cotton burn, but al-Ghazali asks where we ever see the necessary connection."
+    },
+    {
+      "term": "Sufism",
+      "definition": "The mystical tradition within Islam, which seeks direct experiential knowledge of God through discipline, devotion and contemplation.",
+      "example": "After his crisis al-Ghazali adopted Sufism, convinced that experience could reach where argument could not."
+    },
+    {
+      "term": "Allegorical interpretation",
+      "definition": "Reading a text as having a deeper, non-literal meaning, especially when its literal sense conflicts with what reason has demonstrated.",
+      "example": "Maimonides used allegorical interpretation to read 'the hand of God' as a figure for God's power."
+    },
+    {
+      "term": "Truth does not contradict truth",
+      "definition": "Averroes' principle that philosophy and revelation, properly understood, cannot genuinely conflict, since both are true.",
+      "example": "Because truth does not contradict truth, Averroes thought an apparent clash meant someone had misread scripture or made a bad argument."
+    },
+    {
+      "term": "Latin Averroism",
+      "definition": "A movement among some thirteenth-century Paris teachers who followed Averroes' reading of Aristotle, including on the eternity of the world and the unity of the intellect.",
+      "example": "Aquinas wrote against Latin Averroism in his treatise On the Unity of the Intellect."
+    },
+    {
+      "term": "Negative theology",
+      "definition": "The approach that describes God only by saying what God is not, since no positive human concept truly applies to God.",
+      "example": "In negative theology, 'God is not a body' is a truer statement than 'God is wise'."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Stage the Debate",
+    "prompt": "Imagine al-Ghazali, Averroes and Maimonides around one table. Your job is to make each argue as well as possible, then decide who wins.",
+    "steps": [
+      "Pick an everyday causal claim you are sure of (for example, 'aspirin relieves headaches' or 'the kettle boils because it is heated'). Write al-Ghazali's challenge to it in two or three sentences.",
+      "Now write Averroes' reply. What would we lose if we gave up the idea that things have real natures and powers?",
+      "Choose a case where a sacred text, a tradition or a long-held belief of yours seems to conflict with something you learned from science or experience. Write how Averroes, al-Ghazali and Maimonides would each handle the conflict.",
+      "Try negative theology on something other than God: describe a deep experience you have had (love, grief, awe) only by saying what it was not. Does this reveal anything positive description misses?",
+      "Finish with a paragraph: which of the three strategies for relating faith and reason seems most honest to you, and why?"
+    ]
+  },
+  "summary": [
+    "Al-Ghazali (1058–1111), a celebrated Baghdad professor who left his post for the Sufi path, attacked the philosophers in The Incoherence of the Philosophers for claiming demonstrations they could not deliver.",
+    "He condemned three doctrines as unbelief: the eternity of the world, God's knowing particulars only universally, and the denial of bodily resurrection.",
+    "Al-Ghazali argued that we never observe a necessary connection between cause and effect; God creates events in a customary order (occasionalism), which leaves room for miracles.",
+    "Averroes (1126–1198), the great commentator on Aristotle, replied that denying causes destroys knowledge and argued in the Decisive Treatise that religious law commands philosophy, since truth cannot contradict truth.",
+    "Maimonides (1138–1204) wrote The Guide for the Perplexed to reconcile Torah and philosophy, interpreting bodily language about God figuratively, developing negative theology and arguing that the world's eternity cannot be demonstrated."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Which of these was NOT one of the three doctrines al-Ghazali condemned as unbelief?",
+      "options": [
+        "The world is eternal",
+        "God knows particulars only in a universal way",
+        "Mathematics gives certain knowledge",
+        "There is no bodily resurrection"
+      ],
+      "answer": 2,
+      "explanation": "Al-Ghazali praised mathematics. The three doctrines he judged incompatible with Islam concerned the eternity of the world, God's knowledge of particulars and bodily resurrection."
+    },
+    {
+      "type": "mc",
+      "question": "What, according to al-Ghazali, does observation actually show us about fire and cotton?",
+      "options": [
+        "That fire necessarily produces burning",
+        "That cotton has a nature which makes it burn",
+        "That burning happens only by chance",
+        "That burning occurs together with contact with fire, not that the fire produces it"
+      ],
+      "answer": 3,
+      "explanation": "Al-Ghazali's point is that we observe conjunction, not necessary connection; the true cause, he held, is God."
+    },
+    {
+      "type": "mc",
+      "question": "Which later philosopher made an argument about causation strikingly similar to al-Ghazali's?",
+      "options": [
+        "Aristotle",
+        "David Hume",
+        "Plato",
+        "Thomas Aquinas"
+      ],
+      "answer": 1,
+      "explanation": "Hume (Day 49) argued that we perceive only constant conjunction and that our expectation of effects comes from custom, though he drew a secular conclusion."
+    },
+    {
+      "type": "mc",
+      "question": "In the Decisive Treatise, what does Averroes conclude about the study of philosophy?",
+      "options": [
+        "Religious law commands it for those capable of it",
+        "Religious law forbids it as foreign and dangerous",
+        "It is permitted only for judges",
+        "It should be taught equally to everyone, including allegorical readings of scripture"
+      ],
+      "answer": 0,
+      "explanation": "Averroes argued that the Qur'an's call to reflect on creation commands philosophy for the able, but warned against spreading allegorical interpretations to the general public."
+    },
+    {
+      "type": "mc",
+      "question": "Why did medieval Latin writers call Averroes 'the Commentator'?",
+      "options": [
+        "Because he wrote a commentary on the Bible",
+        "Because he commented on court cases as a judge",
+        "Because he wrote a commentary on al-Ghazali's autobiography",
+        "Because his commentaries on Aristotle were considered the most authoritative"
+      ],
+      "answer": 3,
+      "explanation": "Just as Aristotle was 'the Philosopher', Averroes' detailed commentaries made him 'the Commentator'."
+    },
+    {
+      "type": "mc",
+      "question": "A student reads 'the eyes of the Lord' in scripture. How would Maimonides advise her to understand it?",
+      "options": [
+        "Literally: God has physical eyes",
+        "Figuratively, since God has no body; the phrase points to something like God's knowledge or providence",
+        "As a mistake in the text that should be deleted",
+        "As a sign that philosophy is useless"
+      ],
+      "answer": 1,
+      "explanation": "The Guide shows that bodily language about God is figurative, because God is incorporeal and utterly unlike creatures."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best expresses negative theology?",
+      "options": [
+        "God does not exist",
+        "We can know God fully through reason",
+        "We come closer to God by understanding what God is not",
+        "God is wise in exactly the way a wise person is wise"
+      ],
+      "answer": 2,
+      "explanation": "Negative theology removes false conceptions one by one, since no positive human attribute truly applies to God."
+    },
+    {
+      "type": "tf",
+      "question": "Averroes taught a 'double truth' doctrine: a claim can be true in philosophy and false in religion.",
+      "answer": false,
+      "explanation": "This was an accusation made against some Latin Averroists. Averroes himself held that there is one truth, reached by different roads."
+    },
+    {
+      "type": "tf",
+      "question": "Maimonides held that reason cannot demonstrate either the eternity of the world or its creation.",
+      "answer": true,
+      "explanation": "He judged the arguments on both sides inconclusive and accepted creation on the authority of the Torah, while admitting he would reinterpret scripture if eternity were proven."
+    },
+    {
+      "type": "tf",
+      "question": "Al-Ghazali rejected logic entirely as a pagan invention.",
+      "answer": false,
+      "explanation": "He wrote handbooks of Aristotelian logic and recommended it to theologians; his attack targeted the philosophers' metaphysical claims."
+    }
+  ],
+  "goDeeper": {
+    "body": "Scholars have long debated whether al-Ghazali was really an occasionalist. In the seventeenth discussion he actually offers two positions. The first is the strict view: God directly creates every effect. The second is more conciliatory: perhaps fire does have a nature that burns, but God could still prevent it, for instance by giving the cotton a quality that resists burning, as with a fireproof substance. Some interpreters, such as Richard Frank, argued that al-Ghazali was closer to Avicenna than he admitted; others, like Michael Marmura, defended the traditional occasionalist reading. Frank Griffel's *Al-Ghazali's Philosophical Theology* argues that al-Ghazali deliberately left the question open, insisting only that the philosophers had not *proven* necessary causation.\n\nOccasionalism also had a European career. In the seventeenth century, the French philosopher Nicolas Malebranche, a follower of Descartes, argued that God is the only true cause, partly to solve Descartes' problem of how mind and body interact (Day 44). And the debate about whether laws of nature *govern* events or merely *describe* regularities continues in contemporary philosophy of science.\n\nOn the side of Maimonides, scholars argue about how 'esoteric' the *Guide* is. Maimonides warns in the introduction that he has deliberately scattered his views and even included contradictions, so that only careful readers will understand. In the twentieth century, Leo Strauss made this the basis of a famous theory of 'writing between the lines' under conditions of persecution, and argued that Maimonides may have been more radical, for instance on creation, than he openly said. Other scholars find Strauss's reading overdone. The debate raises a general question: how should we read authors who had good reasons not to say everything plainly?",
+    "readings": [
+      {
+        "title": "Deliverance from Error",
+        "author": "al-Ghazali, translated by Richard J. McCarthy (as Freedom and Fulfillment) or W. Montgomery Watt",
+        "note": "A short, gripping intellectual autobiography; read alongside Augustine's Confessions."
+      },
+      {
+        "title": "The Incoherence of the Philosophers",
+        "author": "al-Ghazali, translated by Michael E. Marmura",
+        "note": "A parallel Arabic-English edition; the Seventeenth Discussion on causation is the essential chapter."
+      },
+      {
+        "title": "The Book of the Decisive Treatise",
+        "author": "Averroes, translated by Charles E. Butterworth",
+        "note": "A short, lucid argument for philosophy's place in religious life."
+      },
+      {
+        "title": "The Guide for the Perplexed",
+        "author": "Moses Maimonides, translated by Shlomo Pines",
+        "note": "The standard English translation. Start with the introduction and Part I, chapters 50–60, on divine attributes."
+      }
+    ],
+    "questions": [
+      "Is our confidence that fire will burn cotton based on reason or on habit? Does it matter for how we live?",
+      "Averroes thought some truths should not be explained to the general public. Is there ever a good reason for intellectual secrecy?",
+      "Can we meaningfully talk about something by saying only what it is not? What would be lost if we spoke about God, or about anything, only in negations?"
+    ]
+  }
+}

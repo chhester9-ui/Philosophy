@@ -1,0 +1,244 @@
+{
+  "id": "day-36",
+  "day": 36,
+  "title": "Aquinas II and William of Ockham: Natural Law and the Razor",
+  "subtitle": "A law written in human nature, and a razor that shaved the medieval world down to size",
+  "philosophers": ["Thomas Aquinas", "William of Ockham"],
+  "era": "c. 1265–1347 CE",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to explain Aquinas' theory of natural law, including his four kinds of law and the first precept of practical reason.",
+    "By the end you will be able to apply the doctrine of double effect to a concrete case and state the conditions of a just war.",
+    "By the end you will be able to state Ockham's razor correctly and show how Ockham used it to defend nominalism.",
+    "By the end you will be able to explain why many historians see Ockham as a turning point between the medieval and modern worlds."
+  ],
+  "hook": "In April 1963 Martin Luther King Jr. sat in a jail cell in Birmingham, Alabama, arrested for leading a march without a permit. White clergymen had published a statement calling his protests 'unwise and untimely' and urging patience and obedience to the law. King replied in a long letter, partly written in the margins of a newspaper. How, he asked, can a person urge obedience to some laws and disobedience to others? His answer: there are just laws and unjust laws, and an unjust law is no law at all. To explain the difference, he turned to a thirteenth-century friar: an unjust law, he wrote, citing Thomas Aquinas, is a human law that is not rooted in eternal law and natural law.\n\nToday we look at the moral theory King was drawing on, Aquinas' idea that there is a law written into human nature that any rational person can grasp. Then we meet the English friar who, a generation later, took a razor to much of Aquinas' carefully built world: William of Ockham.",
+  "sections": [
+    {
+      "heading": "Four Kinds of Law",
+      "body": "On Day 35 we saw Aquinas argue from the world to God. In the second part of the *Summa Theologiae* he turns to how human beings should live, and a central piece of that account is a short treatise on law.\n\nAquinas defines **law** as an ordinance of reason for the common good, made by whoever has care of the community, and promulgated (made known). Notice what this rules out. A command that is irrational, or serves only the ruler's private interest, or is kept secret, is not truly a law, whatever it is called.\n\nHe then distinguishes four kinds of law:\n\n1. **Eternal law**: God's rational plan for the whole universe, the order by which everything is directed to its proper end.\n2. **Natural law**: the part of the eternal law that rational creatures can grasp by reason. Animals follow the eternal law by instinct; human beings *participate* in it knowingly, by understanding what is good for them.\n3. **Human law**: the particular laws made by communities, such as traffic laws, tax laws or criminal codes.\n4. **Divine law**: the law revealed in scripture, the Old and New Testaments, which guides human beings toward their supernatural end and covers inner motives that human law cannot reach.\n\nThe heart of the theory is natural law, and its central claim is bold: there are objective moral truths, rooted in what human beings are, that every rational person can come to know without needing a holy book. That is why natural law theory has appealed far beyond Christianity, and why King could invoke it in an argument addressed to all Americans."
+    },
+    {
+      "heading": "Natural Law: Good Is to Be Done",
+      "body": "How do we know what natural law requires? Aquinas says that, just as theoretical reason has a first principle that cannot be proved but is known by itself (a thing cannot both be and not be, Aristotle's law of non-contradiction from Day 17), practical reason, reason about what to do, also has a first principle: **good is to be done and pursued, and evil is to be avoided**.\n\nThis sounds empty. Of course we should do good! But Aquinas fills it in by looking at human nature. Whatever we are naturally inclined toward, reason grasps as good. And we have inclinations at three levels:\n\n- Like every being, we are inclined to **preserve our existence**. So the natural law forbids, for example, throwing away human life.\n- Like other animals, we are inclined to **sexual union and the raising of offspring**.\n- As rational beings, we are inclined to **know the truth**, including the truth about God, and to **live in society**. So the natural law directs us to avoid ignorance and not to harm those we must live with.\n\nYou can hear Aristotle in the background (Days 19–20): every living thing has a nature with its own flourishing, and human flourishing includes reason and community. Aquinas has given Aristotle's ethics a legal shape, grounded in God's plan.\n\nHow does natural law relate to human law? Some human laws follow directly from it as conclusions: 'do not murder' follows from 'do not harm others'. Others are **determinations**, specific choices where natural law leaves options open. Natural law says we must protect life on the roads; it does not say whether to drive on the left or the right. Each community decides.\n\nThis leads to King's point. A human law that flatly contradicts natural law is, Aquinas says, not a law but a perversion of law. He credits the idea to Augustine, who had written that a law that is not just does not seem to be a law at all. But Aquinas is no anarchist. He adds that human law should not try to forbid every vice, only the more serious ones that harm others, since laws must suit ordinary people. And sometimes, he says, one may obey even an unjust law to avoid scandal or public disorder. Natural law gives a standard for criticizing laws, not a license to ignore any law one dislikes."
+    },
+    {
+      "heading": "Double Effect and Just War",
+      "body": "Two of Aquinas' ideas have had particularly long careers in practical ethics.\n\nThe first appears in a short discussion of whether it is lawful to kill someone in self-defense. Aquinas observes that one act can have **two effects**: one intended, the other outside the intention. Moral acts take their character from what is intended. If you are attacked and defend yourself, your act has two effects: saving your own life and the death of the attacker. If you intend only to save your life, and use no more force than necessary, the attacker's death is a side effect, not your aim, and the act can be lawful. If you use excessive force, or intend the death, it is not.\n\nLater moralists, especially from the sixteenth century on, developed this into the **doctrine of double effect**, usually stated as four conditions for an act with a good and a bad effect:\n\n1. The act itself must be good or at least morally neutral.\n2. The agent must intend only the good effect; the bad effect may be foreseen but not intended.\n3. The bad effect must not be the *means* by which the good effect is achieved.\n4. There must be a proportionately serious reason for allowing the bad effect.\n\nAquinas himself never listed these four conditions, but the core idea, that intending harm differs from foreseeing it, is his.\n\nThe second idea is **just war**. Aquinas, building on Augustine, asks whether it is ever lawful to go to war. He says yes, if three conditions are met: the war must be declared by a **legitimate authority**, not a private person; there must be a **just cause**, such as punishing or repelling a wrong; and those who fight must have a **right intention**, aiming at good and peace rather than cruelty or domination. Later thinkers, such as the Spanish theologian Francisco de Vitoria in the sixteenth century and the Dutch jurist Hugo Grotius in the seventeenth, expanded this into rules about how war may be fought: protect noncombatants, use proportionate force. Much of today's international law of war descends from this tradition."
+    },
+    {
+      "heading": "William of Ockham: A Friar on the Run",
+      "body": "**William of Ockham** was born around 1287, probably in the village of Ockham in Surrey, south of London. He joined the **Franciscans**, the order founded by Francis of Assisi and committed to radical poverty, and studied theology at Oxford. He wrote a large commentary on the standard theology textbook of the time and many works on logic, but he never received the full title of master. In 1324 he was summoned to the papal court at Avignon to answer charges that some of his teachings were heretical.\n\nThere he was drawn into a bitter conflict. Pope John XXII had rejected the Franciscan claim that Christ and the apostles owned nothing, a claim the Franciscans saw as the basis of their way of life. Ockham studied the pope's statements and concluded that the pope himself was a heretic. In 1328 he fled Avignon at night with the head of the Franciscan order, was excommunicated, and found protection with the pope's enemy, the Emperor Louis of Bavaria. A famous story has Ockham telling the emperor to defend him with the sword while he defended the emperor with the pen; it is almost certainly a later legend. He spent his last two decades in Munich writing about the limits of papal power and died there around 1347.\n\nOckham was a philosopher of extraordinary logical sharpness. His *Summa of Logic* is one of the great medieval logic textbooks. But he is remembered above all for a principle of economy that, centuries later, was given the name **Ockham's razor**."
+    },
+    {
+      "heading": "The Razor and Nominalism",
+      "body": "Ockham never used the word 'razor', and the famous slogan 'entities must not be multiplied beyond necessity' does not appear in his surviving works; it comes from later writers. What he did write, several times, is that **plurality is never to be posited without necessity**, and that it is pointless to do with more what can be done with fewer.\n\nThe principle is simple: don't assume that more things exist than you need to explain what you know, whether by experience, reason or revelation. It is a principle of **parsimony**. If two theories explain the same evidence, prefer the one with fewer assumptions. It does not say the simplest theory is always true; it says the burden of proof is on whoever adds extra entities.\n\nOckham's favorite target was universals. Remember the debate from Day 34. Realists, including Aquinas in a moderate form, held that individuals share real **common natures**: there is something, humanity, that is really in Socrates and really in Plato. Ockham asked: what work does this common nature do? Everything we want to explain can be explained by individual things and their resemblances. A universal, for Ockham, is not a thing in the world but a **sign**: a concept in the mind, or a word, that stands for many individuals. Outside the mind, he insisted, everything that exists is individual. This is **nominalism** in its most rigorous medieval form.\n\nHe applied the razor across the board. Aristotle's list of ten basic categories of being, he argued, could be cut down to substances and qualities; quantity, relation, place and the rest are not extra *things*, only ways of talking about substances and qualities. The result was a stripped-down picture of reality: individual things, known by direct experience of them, which Ockham called **intuitive cognition**.\n\nNotice how different this is from Aquinas. Aquinas saw the world as full of natures and purposes that reason could read off from things, up to the first cause. Ockham saw a world of individuals, each known through experience, with far fewer hidden structures behind them."
+    },
+    {
+      "heading": "God's Power and the Seeds of Modernity",
+      "body": "Ockham's thought had a theological engine: an intense emphasis on God's freedom and power. Like other theologians of his time, he distinguished God's **absolute power** (everything God could do without contradiction) from God's **ordained power** (what God has actually chosen to do). The world's order is real, but it is not necessary; God could have made it otherwise.\n\nThis had consequences for ethics. For Aquinas, moral rules flow from human nature, which reflects God's wisdom; God commands murder to be avoided because it is bad for beings like us. Ockham placed more weight on God's will: actions are good or bad because of what God freely commands. Philosophers call this a **voluntarist** view, from Latin *voluntas*, will, as opposed to Aquinas' **intellectualism**. It revives a question first posed in Plato's *Euthyphro*: is something good because God commands it, or does God command it because it is good? Scholars debate how far Ockham really went; he also gave right reason a central role in ethics.\n\nIt also had consequences for faith and reason. Ockham doubted that many traditional proofs, including several of Aquinas' arguments for God's attributes, were true demonstrations. Many truths of faith, he thought, rest on revelation, not on proof. The great synthesis of Aquinas, in which reason climbs most of the way to God, began to come apart.\n\nWhy do historians call Ockham a bridge to the modern world? Several reasons, all debated:\n\n- His focus on individuals known through experience anticipates the empiricism of Locke and Hume (Days 47–49).\n- His use of parsimony became a guiding principle of science.\n- His separation of what reason can prove from what faith accepts made room for each to develop independently.\n- In the poverty dispute he developed a language of individual **rights** that some historians, notably Brian Tierney, see as a source of modern natural rights theory (Day 52).\n- His theology influenced the 'modern way' (*via moderna*) taught in late medieval universities, the tradition in which the young Martin Luther was trained.\n\nCritics, especially in the Thomist tradition, tell the same story in a darker key: Ockham's nominalism emptied nature of purpose and meaning, leaving a world of bare facts and arbitrary will. Either way, the medieval conversation that began with Augustine (Day 30) reached a turning point with Ockham. Tomorrow's review (Day 37) will help you see the whole arc, before the Renaissance opens a new chapter on Day 38."
+    }
+  ],
+  "keyQuote": {
+    "text": "Plurality is never to be posited without necessity.",
+    "source": "William of Ockham, a principle stated in several of his works, including his commentary on Peter Lombard's Sentences"
+  },
+  "modernConnection": {
+    "title": "Double Effect in the Hospital and on the Battlefield, and the Razor in the Lab",
+    "body": "Aquinas' doctrine of double effect is still at work in two of the hardest places in modern life.\n\nIn hospitals, palliative care doctors sometimes give dying patients high doses of pain-relieving drugs or sedatives that might, in some cases, shorten life. Many medical ethics guidelines, and some court rulings, distinguish this from euthanasia using reasoning very close to double effect: the doctor intends to relieve suffering, foresees a risk of hastening death, does not use death as the means of relief, and has a proportionate reason. Critics argue that the line between intending and foreseeing is psychologically blurry and morally unimportant: if you know the result, why does your private intention matter? Many defenders of assisted dying make exactly this argument.\n\nIn war, the rules of international humanitarian law distinguish between deliberately targeting civilians, which is forbidden, and attacking a legitimate military target while foreseeing civilian deaths, which can be lawful if the expected harm is not excessive relative to the military advantage. This proportionality rule, codified in the 1977 Additional Protocol I to the Geneva Conventions, echoes Aquinas' self-defense reasoning. Critics point out that 'collateral damage' can become a convenient label for enormous suffering, and that a warring state is rarely an impartial judge of its own intentions.\n\nOckham's razor, meanwhile, lives in every laboratory and data center. Scientists prefer simpler models that fit the data. In machine learning, a model with too many adjustable parameters can 'overfit', memorizing noise in its training data rather than learning the real pattern, and so fail on new cases; techniques that penalize complexity are, in effect, mathematical razors. But note the limits. Ockham's razor is a rule of thumb, not a law of nature. Nature is sometimes more complicated than our simplest theory, and modern AI systems with billions of parameters work surprisingly well, a puzzle that has made researchers rethink what 'simplicity' really means."
+  },
+  "vocabulary": [
+    {
+      "term": "Natural law",
+      "definition": "For Aquinas, the rational creature's participation in God's eternal law: moral principles rooted in human nature and knowable by reason.",
+      "example": "Natural law theory holds that the wrongness of torturing innocents can be known by reason, without consulting scripture."
+    },
+    {
+      "term": "Eternal law",
+      "definition": "God's rational plan by which the whole universe is ordered to its ends.",
+      "example": "For Aquinas, the planets follow eternal law without knowing it; humans can grasp part of it as natural law."
+    },
+    {
+      "term": "Doctrine of double effect",
+      "definition": "The principle that an act with a good and a bad effect may be permissible if the bad effect is foreseen but not intended, is not the means to the good effect, and is outweighed by a proportionate reason.",
+      "example": "A doctor who gives strong pain relief to a dying patient, foreseeing but not intending a shortened life, may appeal to the doctrine of double effect."
+    },
+    {
+      "term": "Just war",
+      "definition": "A war that meets moral conditions; Aquinas named legitimate authority, just cause and right intention.",
+      "example": "A war launched by a private militia to seize land would fail Aquinas' just war test on authority and cause."
+    },
+    {
+      "term": "Ockham's razor (parsimony)",
+      "definition": "The principle that plurality should not be posited without necessity: do not assume more entities or causes than needed to explain the evidence.",
+      "example": "When the lights flicker during a storm, Ockham's razor favors a power fluctuation over a ghost."
+    },
+    {
+      "term": "Nominalism",
+      "definition": "The view that only individual things exist and that universals are signs, words or concepts that stand for many individuals.",
+      "example": "For Ockham's nominalism, there is no 'humanity' outside the mind, only individual humans."
+    },
+    {
+      "term": "Absolute vs ordained power",
+      "definition": "The distinction between everything God could do without contradiction (absolute power) and what God has actually chosen to do (ordained power).",
+      "example": "By absolute power God could have created a world with different laws of nature; by ordained power God created this one."
+    },
+    {
+      "term": "Voluntarism vs intellectualism",
+      "definition": "Voluntarism grounds moral rules mainly in God's will; intellectualism grounds them in God's reason and in the natures of things.",
+      "example": "Aquinas' intellectualism says murder is commanded against because it is bad for us; a voluntarist stresses that it is wrong because God forbids it."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Laws, Intentions and the Razor",
+    "prompt": "Use Aquinas' tools on a real moral question, then turn Ockham's razor on your own beliefs.",
+    "steps": [
+      "Choose a current law, rule or policy you think may be unjust. Using Aquinas' definition (an ordinance of reason, for the common good, by proper authority, made known), identify exactly which condition it fails, if any.",
+      "Decide what Aquinas would advise: obey, disobey, or obey to avoid greater disorder? Write two or three sentences, comparing your answer with King's choices in Birmingham.",
+      "Apply the four conditions of double effect to a hard case of your choice (a medical decision, a self-defense case, a military strike). Which condition is most difficult to judge?",
+      "List three things you believe exist or are true but cannot directly observe (for example, other people's feelings, luck, fate, dark matter). Apply Ockham's razor: which are needed to explain your experience, and which could be shaved away?",
+      "Finish with a paragraph: does the razor favor a world of individual things, as Ockham thought, or can a realist about universals use the razor too?"
+    ]
+  },
+  "summary": [
+    "Aquinas defines law as an ordinance of reason for the common good, made by proper authority and promulgated, and distinguishes eternal, natural, human and divine law.",
+    "Natural law begins from the first precept that good is to be done and evil avoided, filled in by natural human inclinations; an unjust human law is a perversion of law, an idea Martin Luther King Jr. invoked in 1963.",
+    "Aquinas' discussion of self-defense grounds the doctrine of double effect, and his three conditions for a just war (authority, just cause, right intention) shaped later international law.",
+    "William of Ockham (c. 1287–1347), a Franciscan who fled the papal court, held that plurality should not be posited without necessity and used this principle to defend nominalism.",
+    "Ockham's stress on individuals, experience and God's free will loosened the medieval synthesis and is often seen, approvingly or critically, as a seed of modern empiricism, science and rights theory."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Which of these is NOT part of Aquinas' definition of law?",
+      "options": [
+        "An ordinance of reason",
+        "For the common good",
+        "Approved by a majority vote of citizens",
+        "Promulgated, or made known"
+      ],
+      "answer": 2,
+      "explanation": "Aquinas requires reason, the common good, proper authority and promulgation; he does not require democratic approval."
+    },
+    {
+      "type": "mc",
+      "question": "What is the first precept of natural law according to Aquinas?",
+      "options": [
+        "Love your neighbor as yourself",
+        "Obey those in authority",
+        "Maximize pleasure for the greatest number",
+        "Good is to be done and pursued, and evil is to be avoided"
+      ],
+      "answer": 3,
+      "explanation": "This self-evident principle of practical reason is filled in by our natural inclinations to life, family, truth and society."
+    },
+    {
+      "type": "mc",
+      "question": "A country requires drivers to drive on the left. For Aquinas, this law is best described as...",
+      "options": [
+        "a determination of natural law, a specific choice where natural law leaves options open",
+        "a direct conclusion from natural law",
+        "an unjust law, since natural law does not mention driving",
+        "part of divine law"
+      ],
+      "answer": 0,
+      "explanation": "Natural law requires protecting life on the roads, but which side to drive on is left for each community to determine."
+    },
+    {
+      "type": "mc",
+      "question": "According to the doctrine of double effect, which of these is NOT permitted?",
+      "options": [
+        "Defending yourself with proportionate force, foreseeing that the attacker may die",
+        "Giving pain relief to a dying patient, foreseeing a small risk of shortening life",
+        "Deliberately killing civilians in order to frighten an enemy government into surrender",
+        "Bombing a military factory while foreseeing some unintended civilian harm, if proportionate"
+      ],
+      "answer": 2,
+      "explanation": "Killing civilians to frighten the enemy uses their deaths as the means to the goal, which violates the third condition."
+    },
+    {
+      "type": "mc",
+      "question": "Which set lists Aquinas' three conditions for a just war?",
+      "options": [
+        "Victory is likely, costs are low, allies agree",
+        "Legitimate authority, just cause, right intention",
+        "Self-defense only, no civilian casualties, approval of the pope",
+        "Majority support, proportionate force, quick end"
+      ],
+      "answer": 1,
+      "explanation": "Aquinas named these three; rules on proportion and protecting noncombatants were elaborated by later thinkers."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best expresses Ockham's razor as Ockham himself put it?",
+      "options": [
+        "The simplest theory is always true",
+        "Only what can be seen exists",
+        "Plurality is never to be posited without necessity",
+        "Faith must always yield to reason"
+      ],
+      "answer": 2,
+      "explanation": "Ockham's principle places the burden of proof on whoever posits more entities; it does not guarantee that the simplest theory is true."
+    },
+    {
+      "type": "mc",
+      "question": "How did Ockham use the razor against realism about universals?",
+      "options": [
+        "He argued that common natures do no explanatory work that individuals and their resemblances cannot do",
+        "He argued that universals exist only in God's mind",
+        "He argued that individuals are illusions and only universals exist",
+        "He argued that universals exist as Platonic Forms"
+      ],
+      "answer": 0,
+      "explanation": "For Ockham, everything outside the mind is individual; universals are signs that stand for many individuals."
+    },
+    {
+      "type": "tf",
+      "question": "In his Letter from Birmingham Jail, Martin Luther King Jr. appealed to Aquinas to distinguish just from unjust laws.",
+      "answer": true,
+      "explanation": "King described an unjust law, citing Aquinas, as a human law not rooted in eternal and natural law."
+    },
+    {
+      "type": "tf",
+      "question": "The phrase 'entities must not be multiplied beyond necessity' appears frequently in Ockham's writings.",
+      "answer": false,
+      "explanation": "That famous wording comes from later writers. Ockham wrote that plurality should not be posited without necessity."
+    },
+    {
+      "type": "tf",
+      "question": "Ockham fled the papal court at Avignon and found protection with the Emperor Louis of Bavaria.",
+      "answer": true,
+      "explanation": "After concluding that Pope John XXII was a heretic in the poverty dispute, Ockham fled in 1328 and spent his final years in Munich."
+    }
+  ],
+  "goDeeper": {
+    "body": "Natural law theory had a major revival in the twentieth century. John Finnis, in *Natural Law and Natural Rights* (1980), developed a 'new natural law theory' with Germain Grisez. They argue that the first principles of practical reason identify a set of **basic goods**, such as life, knowledge, play, aesthetic experience, friendship, practical reasonableness and religion, which are self-evidently worth pursuing and are not derived from facts about human nature. This was partly a response to the objection, associated with Hume (Day 50), that you cannot derive an 'ought' from an 'is'. Critics, including more traditional Thomists, reply that Finnis cuts natural law off from its metaphysical roots in human nature.\n\nThe doctrine of double effect also faces a sharp philosophical challenge known as the **closeness problem**. In a famous case, a group of cave explorers can escape only by blowing up a large man stuck in the exit. Do they intend his death, or only the removal of his body from the exit, foreseeing his death? If the second description is allowed, almost any harm can be redescribed as a side effect. Philosophers such as Philippa Foot, who introduced the trolley problem in 1967 partly to explore double effect, and later Warren Quinn and Frances Kamm, have proposed refinements. You will meet trolley problems properly on Day 83.\n\nFinally, the 'Ockham as father of modernity' story is itself contested. Historians of science note that the razor was used long before Ockham, by Aristotle and others, and that the Scientific Revolution owed more to mathematics and experiment than to nominalism. Michael Allen Gillespie's *The Theological Origins of Modernity* (2008) argues that nominalism's all-powerful God reshaped the modern world; others think intellectual history rarely runs in such straight lines.",
+    "readings": [
+      {
+        "title": "Treatise on Law (Summa Theologiae I-II, Questions 90–97)",
+        "author": "Thomas Aquinas, translated by Richard J. Regan or Alfred J. Freddoso",
+        "note": "Short and readable; question 94 on natural law is the key text."
+      },
+      {
+        "title": "Letter from Birmingham Jail",
+        "author": "Martin Luther King Jr.",
+        "note": "A modern classic of natural law reasoning applied to civil disobedience; read the passage on just and unjust laws."
+      },
+      {
+        "title": "Natural Law and Natural Rights",
+        "author": "John Finnis",
+        "note": "The major modern restatement of natural law theory; demanding but influential."
+      },
+      {
+        "title": "Ockham: Philosophical Writings",
+        "author": "William of Ockham, translated by Philotheus Boehner",
+        "note": "A selection with Latin and English texts covering his logic, knowledge and theology."
+      }
+    ],
+    "questions": [
+      "Is there a moral law that any rational person can know, regardless of culture or religion? What would count as evidence for or against it?",
+      "Does it matter morally whether you intend a harm or merely foresee it, if the outcome is the same?",
+      "Is the simplest explanation more likely to be true, or just more convenient for us? Why might nature favor simplicity?"
+    ]
+  }
+}

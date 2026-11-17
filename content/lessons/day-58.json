@@ -1,0 +1,289 @@
+{
+  "id": "day-58",
+  "day": 58,
+  "title": "Review: The Age of Reason",
+  "subtitle": "Rights, contracts, tolerance and the courage to think: pulling the Enlightenment together",
+  "philosophers": ["John Locke", "Jean-Jacques Rousseau", "Voltaire", "Denis Diderot", "Adam Smith", "Mary Wollstonecraft", "Immanuel Kant"],
+  "era": "1689–1795",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to compare how Locke, Rousseau and Kant justified political authority.",
+    "By the end you will be able to explain how Voltaire, Smith and Wollstonecraft widened the Enlightenment's circle of concern, and where it remained narrow.",
+    "By the end you will be able to connect Kant's theory of knowledge, ethics and politics through his three great questions.",
+    "By the end you will be able to identify the main internal tensions of the Enlightenment that the nineteenth century inherited.",
+    "By the end you will be able to use the key vocabulary of Days 52–57 accurately."
+  ],
+  "hook": "Here is a thought experiment. Gather the thinkers of the last six days around one dinner table — say in Paris in the 1780s, though in reality some of them never met. John Locke, long dead, is our honored ghost. Voltaire is making everyone laugh. Rousseau has quarrelled with nearly all of them and sits sulking in a corner. Adam Smith is quietly taking notes on how people's sympathy for each other shifts as the wine flows. Mary Wollstonecraft wants to know why the conversation about the rights of man keeps forgetting half the human race. And at the head of the table, Kant, who never left East Prussia, asks one question after another: what can we know, what ought we to do, and what may we hope?\n\nThese people disagreed sharply. But they shared a conviction that was new in its scale and confidence: that human reason, used freely and publicly, could criticize every inherited authority — kings, churches, traditions, even reason itself — and build a better world. Today we step back from the details and ask how their answers fit together, where they clashed, and what problems they left for the century that followed.",
+  "sections": [
+    {
+      "heading": "The Big Picture: What Was the Enlightenment?",
+      "body": "The **Enlightenment** is the name historians give to a broad European intellectual movement of roughly the late seventeenth and eighteenth centuries. It was never a single school with one doctrine. It included English constitutionalists, French satirists, Scottish moral philosophers and German professors. What united them was a family of attitudes:\n\n- **Confidence in reason and evidence**, inspired by the success of the Scientific Revolution (Day 41) and especially Newton.\n- **Suspicion of inherited authority**, whether the divine right of kings, the power of established churches, or unexamined custom.\n- **Universalism**: the idea that humans everywhere share a common nature and common rights.\n- **Belief in progress**: the hope that knowledge, education and better institutions could steadily improve human life.\n- **Tolerance and freedom of thought** as conditions for all of the above.\n\nKant gave the movement its motto on Day 57: *sapere aude*, have courage to use your own understanding. But notice that each figure we studied gave that motto a different emphasis. For Locke, reason reveals natural rights that governments must protect. For Voltaire, reason is a weapon against fanaticism. For Rousseau, reason must be joined to the right feelings and to a just community, or it becomes a tool of vanity. For Smith, morality grows from sentiment and sympathy, educated by reflection. For Wollstonecraft, reason is the birthright of every human being, and denying it to women is a crime against both women and virtue. For Kant, reason must first criticize itself to know its own limits.\n\nThis week's material grew directly out of the debates we finished on Day 51. The Rationalists and Empiricists fought about where knowledge comes from. The Enlightenment took those tools out of the study and into politics, religion and everyday life."
+    },
+    {
+      "heading": "How They Answered the Same Question: Why Should I Obey?",
+      "body": "Remember Hobbes (Day 42): in the state of nature, life would be nasty, brutish and short, so we hand almost unlimited power to a sovereign. The thinkers of this unit accepted the idea of a **social contract** but drew very different conclusions.\n\n**Locke** (Day 52), in his *Second Treatise of Government* (published 1689, dated 1690), describes a state of nature that is not a war of all against all. People already have **natural rights** to life, liberty and property, known by the law of nature, which is reason. Property arises when we mix our labor with the common resources of nature, within limits: there must be enough and as good left for others, and nothing should be allowed to spoil. We create government by **consent** to protect these rights more securely. If government becomes tyrannical and violates them, the people may resist and replace it: the **right of revolution**. Jefferson's Declaration of Independence (1776) echoes this logic closely.\n\n**Rousseau** (Day 53) thought Locke had smuggled modern, competitive humans back into the state of nature. In his account, natural humans were solitary, peaceful and moved by simple self-love and pity. Society, property and comparison bred **amour-propre**, the hunger for others' esteem, along with inequality and dependence. Hence the famous opening of *The Social Contract* (1762): man is born free, and everywhere he is in chains. Rousseau's solution was a contract in which each person gives themselves wholly to the community and is governed by the **general will** — the will aimed at the common good, not the mere sum of private interests. In obeying laws we make together, we obey only ourselves. Critics then and now worry about his line that those who refuse to obey the general will may be forced to be free.\n\n**Kant** (Days 56–57) did not base authority on a historical contract at all. For him the social contract is an idea of reason: a test that asks whether a law is one that a whole people *could* have agreed to. He insisted on rights, the rule of law and freedom of the pen, and favored republican government. Yet he denied a right of violent revolution, even against a bad ruler; reform must come through public argument.\n\nSo three answers: obey because you consented and your rights are protected (Locke); obey because the law expresses the general will you share (Rousseau); obey because the law could be willed by all rational citizens, while arguing freely to improve it (Kant)."
+    },
+    {
+      "heading": "The Expanding Circle — and Its Limits",
+      "body": "A striking theme of Day 54 was the widening of moral concern. Who counts as a full member of the moral and political community?\n\n**Voltaire** campaigned for religious **toleration**. His *Treatise on Toleration* (1763) responded to the case of Jean Calas, a Protestant merchant in Toulouse who was tortured and executed in 1762 on the false charge of murdering his son to prevent his conversion to Catholicism. Voltaire's campaign helped win Calas a posthumous rehabilitation in 1765. Note a common myth: the famous line “I disapprove of what you say, but I will defend to the death your right to say it” was not written by Voltaire. It was coined by his biographer Evelyn Beatrice Hall in 1906 as a summary of his attitude.\n\n**Denis Diderot** and his collaborators, including Jean le Rond d'Alembert for the early volumes, compiled the *Encyclopédie* (1751–1772), a massive attempt to gather all useful knowledge, including the practical arts and trades, and to subject everything to critical examination. It was repeatedly banned and continued anyway.\n\n**Adam Smith**, better known for *The Wealth of Nations* (1776), first wrote *The Theory of Moral Sentiments* (1759). There he argued that morality grows from **sympathy**, our capacity to imagine ourselves in another's situation, and from the voice of an **impartial spectator** we learn to internalize when judging our own conduct. This is an approach closer to Hume (Day 50) than to Kant: morality rooted in feeling, refined by reflection.\n\n**Mary Wollstonecraft**, in *A Vindication of the Rights of Woman* (1792), turned Enlightenment universalism against the Enlightenment itself. If reason is what gives humans dignity and rights, then women — who share reason — must have them too. She attacked Rousseau's *Emile*, which prescribed that the girl Sophie be educated only to please and serve a man. Women seemed frivolous, Wollstonecraft argued, because they were denied education and trained for dependence; virtue cannot flourish without independence.\n\nAnd yet the circle remained narrow in important ways. Locke helped draft the *Fundamental Constitutions of Carolina* (1669), which gave colonists absolute power over enslaved people, and he invested in the Royal African Company. Rousseau wrote that women should be educated relative to men. Kant made racist claims in his anthropology lectures (Day 57). Historians argue about how to weigh these failures. One powerful view is that the Enlightenment's own universal principles became the strongest tools for exposing its hypocrisies — as Wollstonecraft showed, and as abolitionists and later thinkers would show again (Day 86)."
+    },
+    {
+      "heading": "Kant's Three Questions: One System",
+      "body": "Near the end of the *Critique of Pure Reason*, Kant said that all the interests of reason come together in three questions: What can I know? What ought I to do? What may I hope? Our three Kant days map neatly onto them.\n\n**What can I know?** (Day 55). Woken by Hume, Kant asked how **synthetic a priori** knowledge — informative yet necessary — is possible. His **Copernican revolution** answered: objects as we experience them must conform to the structure of our minds. Space and time are forms of intuition; the **categories**, such as cause and effect, are rules of the understanding. We can know **phenomena**, but never things in themselves.\n\n**What ought I to do?** (Day 56). Because the noumenal self cannot be known, freedom cannot be disproved, and morality requires it. The only thing good without qualification is a good will. Morality takes the form of a **categorical imperative**, unlike hypothetical imperatives that depend on our desires. Act only on maxims you can will as universal law; treat humanity always as an end, never merely as a means.\n\n**What may I hope?** (Day 57, and his works on religion and history). We may hope for a world in which people think for themselves, in which republics form a federation of peace, and in which our awe before the sublime and the moral law points beyond nature. Kant believed we may also rationally hope for God and immortality, not as things known, but as postulates that make sense of the moral life.\n\nSee how the parts fit. The limits set in the first *Critique* are what make room for the freedom in the second. The autonomy of the moral agent reappears as the courage of the enlightened citizen and the republican constitution. The faculty that feels the sublime is the same reason that gives the moral law. Kant's philosophy is unusual in being a true system: change one piece and the others move."
+    },
+    {
+      "heading": "Tensions the Enlightenment Left Behind",
+      "body": "The Age of Reason ended not in a calm consensus but in revolution, war and fierce disagreement. Its unresolved tensions set the agenda for the next unit.\n\n1. **Reason versus feeling.** Rousseau and Smith thought sentiment was central to morality; Kant demoted it. The Romantics, and Schopenhauer (Day 60), would push back hard against cold reason.\n2. **Individual versus community.** Locke's rights-bearing individual and Rousseau's general will pull in opposite directions. Mill (Day 62) will defend individual liberty against the tyranny of the majority; Hegel (Day 59) and Marx (Day 63) will argue that individuals are shaped by their communities and history.\n3. **Universal rights versus real exclusion.** Rights declared for all were withheld from women, enslaved people and the colonized. This gap fuels Wollstonecraft's work, Mill's *Subjection of Women* (Day 62) and the critics of Day 86.\n4. **Duty versus consequences.** Kant judged actions by their maxims; Bentham and Mill (Day 61) would judge them by their effects on happiness. This is still the central fault line in ethics.\n5. **Progress or illusion?** The French Revolution began with the *Declaration of the Rights of Man* (1789) and descended into the Terror (1793–94). Did that show reason's power to remake society, or its danger? Hegel would try to show that history really does progress, through conflict; Marx would say the progress was real but ran through class struggle.\n6. **The thing in itself.** Kant's limits on knowledge frustrated his successors. If we cannot know reality in itself, what are we to make of it? Hegel and Schopenhauer will give opposite answers.\n\nIt is worth remembering that the Enlightenment's critics often used its own tools. To argue that reason is limited, you must reason. To criticize the hypocrisy of universal rights, you must believe in universal rights. That is perhaps the Enlightenment's most enduring legacy: not a finished set of answers, but a habit of critique that can be turned on anything, including itself."
+    }
+  ],
+  "keyQuote": {
+    "text": "All the interests of my reason, speculative as well as practical, combine in the three following questions: 1. What can I know? 2. What ought I to do? 3. What may I hope?",
+    "source": "Immanuel Kant, Critique of Pure Reason (1781/1787), A805/B833"
+  },
+  "modernConnection": {
+    "title": "Is the Enlightenment Still Running?",
+    "body": "Look around and the Enlightenment's fingerprints are everywhere. Constitutions with bills of rights trace back to Locke. Elections and referendums embody the idea that legitimate power rests on consent, and arguments about what “the people” really want echo Rousseau's general will. The United Nations and the European Union recall Kant's federation of free states. Religious freedom laws descend from Voltaire's campaigns. Wikipedia is, in spirit, Diderot's *Encyclopédie* rebuilt by volunteers. The global push for girls' education carries forward Wollstonecraft's argument that a mind denied education cannot be blamed for its ignorance.\n\nThere is also a live public argument about whether the Enlightenment is succeeding or failing. Some writers, like the psychologist Steven Pinker in *Enlightenment Now* (2018), argue with charts that reason, science and humanism have produced dramatic gains in life expectancy, literacy and wealth, and a decline in many forms of violence. Critics reply that these averages hide inequality and environmental damage, that progress was often built on colonial extraction, and that faith in technocratic reason can be its own kind of dogma. Others worry about the opposite problem: that a flood of misinformation, conspiracy theories and polarization shows that free public reasoning does not automatically produce enlightenment at all.\n\nWhat would our dinner-table guests say? Kant would point out that he never said we live in an enlightened age, only an age of enlightenment: the process is fragile and always unfinished. Rousseau would warn that progress in science and wealth can coexist with moral decline and inflamed amour-propre — he would probably have strong opinions about social media. Wollstonecraft would ask who is still excluded from the conversation. Smith would observe that sympathy weakens with distance, so it is easier to care about neighbors than about distant strangers or future generations.\n\nThe honest conclusion is that the Enlightenment is not a finished building we live in, but a set of tools and promises. Whether they are kept depends on whether people keep using their own understanding."
+  },
+  "vocabulary": [
+    {
+      "term": "Natural rights",
+      "definition": "Rights that people have by nature, prior to any government — for Locke, life, liberty and property — which governments exist to protect.",
+      "example": "The Declaration of Independence appeals to natural rights that no government grants and none may take away."
+    },
+    {
+      "term": "Consent of the governed",
+      "definition": "The principle that political authority is legitimate only if those subject to it have agreed to it, in some sense.",
+      "example": "For Locke, a government without the consent of the governed has no rightful authority."
+    },
+    {
+      "term": "General will",
+      "definition": "Rousseau's term for the collective will of a people aimed at the common good, distinct from the sum of private interests (the will of all).",
+      "example": "Rousseau argued that a law expressing the general will frees citizens rather than oppressing them."
+    },
+    {
+      "term": "Amour-propre",
+      "definition": "Rousseau's term for self-love that depends on comparison with others and craves their esteem; a source of vanity and inequality.",
+      "example": "Counting likes on a post and feeling crushed by a friend's higher number is amour-propre at work."
+    },
+    {
+      "term": "Toleration",
+      "definition": "Allowing beliefs and practices one disagrees with, especially in religion; a central Enlightenment cause championed by Locke and Voltaire.",
+      "example": "Voltaire's campaign in the Calas affair made toleration a cause célèbre across Europe."
+    },
+    {
+      "term": "Synthetic a priori",
+      "definition": "Kant's term for judgments that add real information about the world yet are known necessarily, independently of experience.",
+      "example": "Kant thought geometry and the principle that every event has a cause were synthetic a priori."
+    },
+    {
+      "term": "Categorical imperative",
+      "definition": "Kant's supreme moral principle, an unconditional command of reason binding every rational being regardless of their desires.",
+      "example": "The categorical imperative forbids a false promise even when it would solve all your problems."
+    },
+    {
+      "term": "Sapere aude",
+      "definition": "“Dare to be wise”: Kant's motto for the Enlightenment, meaning have courage to use your own understanding.",
+      "example": "Instead of just forwarding the viral claim, she checked the evidence herself — sapere aude in action."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Draft a Constitution for a New Settlement",
+    "prompt": "Imagine a group of 1,000 people founding a new settlement on an empty island. They ask you to advise them, using only the thinkers of Days 52–57. Spend 10–15 minutes drafting the first principles of their constitution, and justify each one by naming the thinker who would support it.",
+    "steps": [
+      "Decide what makes the government legitimate: consent (Locke), the general will (Rousseau), or what all rational citizens could will (Kant). Write one sentence explaining your choice.",
+      "List three rights every settler will have. For each, note who would defend it (Locke on property, Voltaire on religious freedom, Wollstonecraft on education, Kant on freedom of the pen) and whether anyone in the group would object.",
+      "Decide how the settlement will treat outsiders who arrive by boat. Use Kant's idea of cosmopolitan right and Smith's observation that sympathy weakens with distance.",
+      "Identify one tension in your constitution (for example, majority rule versus individual rights) and write a short paragraph on how you would resolve it — and which thinker would disagree with your resolution."
+    ]
+  },
+  "summary": [
+    "The Enlightenment was a diverse movement united by confidence in reason, suspicion of inherited authority, universalism, toleration and hope for progress.",
+    "Locke grounded government in consent and natural rights, Rousseau in the general will, and Kant in what all rational citizens could will, while rejecting a right of revolution.",
+    "Voltaire, Diderot, Smith and Wollstonecraft widened the moral circle through toleration, critical knowledge, sympathy and women's equality, though major exclusions remained.",
+    "Kant's three questions unify his system: limits on knowledge make room for freedom, which grounds the categorical imperative, autonomy and the hope for perpetual peace.",
+    "The Enlightenment left tensions — reason versus feeling, individual versus community, duty versus consequences, rights versus exclusion — that drive nineteenth-century philosophy."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "According to Locke, how does a person come to own property?",
+      "options": [
+        "By being granted it by the sovereign",
+        "By mixing their labor with resources from nature, within limits",
+        "By inheriting it from their ancestors",
+        "By the general will of the community"
+      ],
+      "answer": 1,
+      "explanation": "Locke's labor theory of property holds that mixing your labor with common resources makes them yours, provided enough and as good is left and nothing spoils."
+    },
+    {
+      "type": "mc",
+      "question": "What did Locke believe the people may do when a government systematically violates their natural rights?",
+      "options": [
+        "Nothing; they must obey as Hobbes said",
+        "Only petition the king for mercy",
+        "Withdraw into private life",
+        "Resist and replace it, exercising a right of revolution"
+      ],
+      "answer": 3,
+      "explanation": "Locke's right of revolution influenced the Declaration of Independence. Kant, by contrast, rejected a right of violent revolution."
+    },
+    {
+      "type": "tf",
+      "question": "Rousseau's “general will” is simply the sum of what each individual privately wants.",
+      "answer": false,
+      "explanation": "Rousseau distinguished the general will (aimed at the common good) from the will of all (the sum of private interests)."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern experience best illustrates Rousseau's idea of amour-propre?",
+      "options": [
+        "Feeling anxious because a rival's social media post got more likes than yours",
+        "Eating when you are hungry",
+        "Paying taxes you think are unfair",
+        "Enjoying a quiet walk alone"
+      ],
+      "answer": 0,
+      "explanation": "Amour-propre is self-love that depends on comparison and others' esteem. Simple self-preservation, like eating, is closer to Rousseau's amour de soi."
+    },
+    {
+      "type": "tf",
+      "question": "The line “I disapprove of what you say, but I will defend to the death your right to say it” was written by Voltaire himself.",
+      "answer": false,
+      "explanation": "It was coined in 1906 by his biographer Evelyn Beatrice Hall as a summary of his attitude."
+    },
+    {
+      "type": "mc",
+      "question": "In The Theory of Moral Sentiments, Adam Smith grounded morality mainly in…",
+      "options": [
+        "the categorical imperative",
+        "divine commands revealed in scripture",
+        "sympathy and the judgment of an impartial spectator",
+        "calculations of economic self-interest"
+      ],
+      "answer": 2,
+      "explanation": "Smith's ethics rests on sympathy, our imaginative sharing of others' situations, refined by an internalized impartial spectator."
+    },
+    {
+      "type": "mc",
+      "question": "What was Mary Wollstonecraft's main criticism of Rousseau's Emile?",
+      "options": [
+        "It gave girls too much freedom.",
+        "It ignored the importance of religion.",
+        "It was too critical of society.",
+        "It trained girls like Sophie only to please men, denying them the rational education that virtue requires."
+      ],
+      "answer": 3,
+      "explanation": "Wollstonecraft argued that women's apparent frivolity was produced by an education for dependence, and that reason and virtue have no sex."
+    },
+    {
+      "type": "mc",
+      "question": "What problem did Hume pose that, by Kant's own account, interrupted his “dogmatic slumber”?",
+      "options": [
+        "We never perceive necessary connection, so causal knowledge seems to rest on mere habit",
+        "God's existence cannot be proved",
+        "Ethics is based on self-interest",
+        "Matter does not exist"
+      ],
+      "answer": 0,
+      "explanation": "Hume's analysis of causation and induction threatened the necessity of scientific laws, prompting Kant's Critique."
+    },
+    {
+      "type": "tf",
+      "question": "For Kant, we can have knowledge of phenomena but not of things in themselves.",
+      "answer": true,
+      "explanation": "Knowledge requires the forms of intuition and the categories, which apply only to things as they appear to us."
+    },
+    {
+      "type": "mc",
+      "question": "“If you want to be trusted, keep your promises.” In Kant's terms, this is…",
+      "options": [
+        "a categorical imperative",
+        "a hypothetical imperative",
+        "a synthetic a priori judgment",
+        "a contradiction in the will"
+      ],
+      "answer": 1,
+      "explanation": "It applies only if you want to be trusted, so it is hypothetical. A categorical imperative would say simply: keep your promises."
+    },
+    {
+      "type": "mc",
+      "question": "A company designs its cancellation process to be deliberately confusing so customers keep paying without realizing it. Which Kantian principle most directly condemns this?",
+      "options": [
+        "Sapere aude",
+        "The principle of cosmopolitan right",
+        "Treat humanity never merely as a means",
+        "Purposiveness without purpose"
+      ],
+      "answer": 2,
+      "explanation": "The design only works because customers cannot see and consent to it, so it uses them merely as means to profit."
+    },
+    {
+      "type": "tf",
+      "question": "In Toward Perpetual Peace, Kant called for a single world government to replace all existing states.",
+      "answer": false,
+      "explanation": "He proposed a voluntary federation of free states, fearing that a world government would become a soulless despotism."
+    },
+    {
+      "type": "mc",
+      "question": "Which pair of thinkers agree most closely that feeling and sentiment are central to morality?",
+      "options": [
+        "Kant and Locke",
+        "Kant and Voltaire",
+        "Locke and Voltaire",
+        "Smith and Hume"
+      ],
+      "answer": 3,
+      "explanation": "Smith, like Hume, rooted morality in sentiment and sympathy. Kant explicitly placed morality in reason rather than feeling."
+    },
+    {
+      "type": "mc",
+      "question": "For Kant, what is the key difference between the beautiful and the sublime?",
+      "options": [
+        "The sublime begins with our faculties being overwhelmed by vastness or power, then reveals the superiority of our reason; beauty is a harmonious free play of the faculties.",
+        "Beauty is found only in art, the sublime only in nature.",
+        "The beautiful is objective; the sublime is a matter of private preference.",
+        "There is no real difference; they are two words for the same feeling."
+      ],
+      "answer": 0,
+      "explanation": "Beauty pleases through harmony; the sublime moves from pain to pleasure as reason discovers its power over overwhelming nature."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best captures how Locke, Rousseau and Kant differ on political authority?",
+      "options": [
+        "All three agree that the sovereign's power should be absolute.",
+        "Locke grounds it in consent to protect rights, Rousseau in the general will, Kant in what all rational citizens could will.",
+        "All three base authority on divine right.",
+        "Locke and Kant reject the social contract; only Rousseau accepts it."
+      ],
+      "answer": 1,
+      "explanation": "Each uses contract ideas differently. None accepts divine right or Hobbes-style absolutism, and Kant treats the contract as an idea of reason."
+    }
+  ],
+  "goDeeper": {
+    "body": "Historians have increasingly questioned the idea that there was a single Enlightenment. Jonathan Israel, in a series of massive books beginning with *Radical Enlightenment* (2001), argued for a sharp divide between a “radical” Enlightenment, rooted in Spinoza (Day 45) and committed to democracy, equality and secularism, and a “moderate” mainstream, represented by Locke, Voltaire and Kant, which sought compromise with monarchy and religion. Critics reply that Israel's division is too neat and too focused on Spinoza; others, like J. G. A. Pocock, prefer to speak of many “Enlightenments”: Scottish, French, German, Protestant, Catholic and Jewish, each with its own priorities.\n\nA second debate concerns the Enlightenment's relation to modern oppression. In *Dialectic of Enlightenment* (1944), written in exile during the Second World War, Max Horkheimer and Theodor Adorno (Day 80) argued that Enlightenment reason, by aiming to master nature, turned into a tool for dominating people too, ending in bureaucracy, mass culture and even totalitarianism. Defenders of the Enlightenment, from Jürgen Habermas to Steven Pinker, reply that the cure for the misuse of reason is better reason, not less.\n\nA third line of inquiry recovers neglected voices. Scholars now study Enlightenment women such as Émilie du Châtelet, who translated Newton into French; Moses Mendelssohn's defense of Jewish emancipation; and the Haitian Revolution (1791–1804), in which enslaved people claimed the universal rights of man more consistently than the French Republic did. Asking whose Enlightenment it was does not abolish the movement's ideals. Often it applies them more honestly than their first authors did.",
+    "readings": [
+      {
+        "title": "The Enlightenment: A Very Short Introduction",
+        "author": "John Robertson",
+        "note": "A compact, up-to-date survey of the movement's ideas and the historians' debates about it."
+      },
+      {
+        "title": "A Vindication of the Rights of Woman",
+        "author": "Mary Wollstonecraft",
+        "note": "Read the Introduction and Chapter 5, her direct attack on Rousseau's treatment of women."
+      },
+      {
+        "title": "Dialectic of Enlightenment",
+        "author": "Max Horkheimer and Theodor W. Adorno",
+        "note": "Difficult but famous; the first essay, “The Concept of Enlightenment”, sets out the critique."
+      }
+    ],
+    "questions": [
+      "Was the Enlightenment's exclusion of women and enslaved people a betrayal of its principles or a sign that the principles themselves were flawed?",
+      "Which of the three accounts of political authority — Locke's, Rousseau's or Kant's — best justifies the government you live under today?",
+      "Is critique of reason, using reason, a strength of the Enlightenment or an unavoidable paradox?"
+    ]
+  }
+}
