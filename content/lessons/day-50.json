@@ -1,0 +1,229 @@
+{
+  "id": "day-50",
+  "day": 50,
+  "title": "Hume II: The Self, Morality and Religion",
+  "subtitle": "No self to find, no ought from an is, and no miracle worth believing: Hume turns his method on everything",
+  "philosophers": ["David Hume"],
+  "era": "1711–1776",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to explain Hume's bundle theory of the self and why he could find no impression of a self",
+    "Explain what Hume meant by calling reason the slave of the passions, and how moral judgement rests on sentiment",
+    "State the is-ought gap and explain why it matters for any argument that moves from facts to values",
+    "Summarise Hume's argument about testimony for miracles",
+    "Reconstruct Philo's main objections to the design argument in the Dialogues Concerning Natural Religion"
+  ],
+  "hook": "Try a small experiment right now. Close your eyes and look inward for your self: not your thoughts, not your feelings, not the itch on your arm or the sound of traffic, but the thing that has them. The one who is doing the looking. Take a minute. What did you find?\n\nIf you are like most people, you found a stream: a worry, a half-remembered tune, a sensation of your weight in the chair, a flicker of impatience with this very exercise. In 1739 David Hume tried the same experiment and reported the same result. He could never catch himself without a perception, and never observe anything but the perception. Yesterday (Day 49) we watched Hume take apart our confidence in causation and induction. Today he turns the same patient, ruthless method on three things people hold even more dearly: the self, morality and God. What survives is surprising, and much of it is still argued over in laboratories and lecture halls today.",
+  "sections": [
+    {
+      "heading": "Looking for the Self and Finding a Bundle",
+      "body": "Remember Hume's test from yesterday, the **copy principle**: every genuine idea must be traced back to some impression. Descartes (Day 43) had treated the self as the most certain thing of all, a thinking substance that stays one and the same through all its changing thoughts. Locke (Day 47) had tied personal identity to memory. Hume asks the blunt question: from what impression is our idea of the self derived?\n\nIf there were an impression of the self, it would have to stay constant and unchanging through our whole lives, since that is what the self is supposed to be. But no impression is like that. Pain and pleasure, grief and joy, passions and sensations succeed one another and never all exist at the same time. In the section of the *Treatise* titled 'Of Personal Identity', Hume writes that when he enters most intimately into what he calls himself, he always stumbles on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure.\n\nHis conclusion is that each of us is nothing but a **bundle** or collection of different perceptions, which succeed each other with inconceivable rapidity and are in perpetual flux and movement. This is the **bundle theory** of the self. Hume offers an image: the mind is a kind of theatre, where perceptions make their appearance, pass, repass, glide away and mingle in an infinite variety. Then he immediately warns us not to be misled by his own metaphor. There is no stage, no building, standing apart from the performance. There are only the perceptions.\n\nWhy, then, do we so stubbornly believe in a single, continuing self? Hume gives the same kind of answer he gave for causation. The mind moves so smoothly from one closely related perception to the next, linked by resemblance and causation, that we mistake a smooth succession for a single unchanging thing. He compares it to a republic or commonwealth, which keeps its identity even as its members, laws and constitution change. Personal identity is real enough for practical life, but it is a product of the imagination's habits rather than a hidden metaphysical core. Heraclitus (Day 4), who said you cannot step into the same river twice, would have understood.\n\nHume himself was not fully satisfied. In an Appendix to the *Treatise* he confessed that, on reviewing this section, he found himself in a labyrinth, unable either to correct his former opinions or to make them consistent. Scholars still debate exactly what troubled him. It is a striking moment of honesty: a great philosopher admitting, in print, that he could not make his own theory work."
+    },
+    {
+      "heading": "Reason, the Slave of the Passions",
+      "body": "Most of the philosophers we have met assumed that a good life means reason in charge. Plato (Day 13) pictured reason as the charioteer steering the horses of spirit and appetite. The Stoics (Days 25–26) wanted reason to purge us of unruly passions. Descartes and Spinoza (Days 43–45) hoped clear understanding would govern the emotions.\n\nHume overturns this whole tradition in Book II of the *Treatise* with one of the most famous sentences in philosophy:\n\n> Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.\n\nWhat does he mean? By **passions** Hume means desires, emotions and aversions: wanting, fearing, loving, hating. By reason he means the faculty that works out relations of ideas (as in mathematics) and matters of fact (by reasoning about causes). Neither of these, he argues, can by itself move us to act. Knowing that this road leads to the bakery does nothing unless you want bread. Knowing that smoking causes cancer changes your behaviour only because you already care about not dying. Reason can tell you how to get what you want and can correct false beliefs about the world, but the wanting itself comes from somewhere else.\n\nIt follows, Hume says, that a passion cannot be contrary to reason in the strict sense, unless it rests on a false belief. In a deliberately shocking line he writes that it is not contrary to reason to prefer the destruction of the whole world to the scratching of my finger. He does not mean such a preference is acceptable. He means that what is wrong with it is not a mistake in logic or in fact. The monster who prefers it has not miscalculated anything. What has gone wrong is in the heart.\n\nThis picture, sometimes called the **Humean theory of motivation**, still dominates debates about action today: beliefs tell us how the world is, desires tell us where we want it to go, and only the two together produce action. Kant (Day 56) will push back hard, insisting that pure practical reason can itself command us."
+    },
+    {
+      "heading": "Morality Is Felt, Not Deduced",
+      "body": "If reason alone cannot move us, and morality obviously does move us (we feel guilt, admiration, outrage), then Hume concludes that moral distinctions are not derived from reason. They come from **moral sentiment**, a feeling of approval or disapproval.\n\nHe illustrates this with an example. Take any action allowed to be vicious, say wilful murder. Examine it in all lights and see if you can find the matter of fact, or real existence, that you call vice. You will find only certain passions, motives, volitions and thoughts. The vice entirely escapes you, Hume says, until you turn your reflection into your own breast and find a sentiment of disapproval arising in you towards the action. Vice and virtue, on this view, are a bit like colours, which Locke had called secondary qualities (Day 47): not features of objects themselves, but responses of observers to them.\n\nThis does not make morality arbitrary or merely personal. Hume believed human beings share a common nature, and in particular a capacity he calls **sympathy**: our tendency to catch and share the feelings of others, much as one string vibrating makes another resonate. When we judge character from a general, impartial point of view rather than from our own narrow interest, our sentiments broadly agree. In his *Enquiry Concerning the Principles of Morals* (1751), which he thought the best of all his writings, Hume suggests that the qualities we call virtues are those that are useful or agreeable to their possessor or to others. Benevolence, justice, courage and good humour all pass this test. He mocked the 'monkish virtues' of celibacy, fasting, penance and self-denial, which he thought served no one.\n\nHis friend Adam Smith developed this sentiment-based ethics further, as you will see on Day 54. And the whole approach is a direct ancestor of modern moral psychology."
+    },
+    {
+      "heading": "The Is-Ought Gap",
+      "body": "Near the start of Book III of the *Treatise* there is a short paragraph, almost an aside, that has become one of the most discussed passages in ethics. Hume says that in every system of morality he has read, the author proceeds for some time in the ordinary way of reasoning, establishing facts about God or human affairs. Then, suddenly, instead of the usual linking words 'is' and 'is not', every proposition is connected with an 'ought' or an 'ought not'. This change is imperceptible, Hume says, but of the last consequence. Since 'ought' expresses a new relation, a reason should be given for how it can be deduced from the others, which are entirely different.\n\nThis is the **is-ought gap**, sometimes called **Hume's law**. The point is logical: from premises that only describe how things are, you cannot validly deduce a conclusion about how things ought to be. Consider:\n\n1. Lying causes people distress.\n2. Therefore, you ought not to lie.\n\nAs it stands, the argument is invalid. To make it work you need an extra premise that is itself an 'ought': you ought not to cause people distress. The values have to be put in somewhere; they cannot be squeezed out of pure facts.\n\nThe gap is easy to miss in everyday arguments. 'It's natural, so it's good.' 'Everybody does it, so it's fine.' 'Evolution made us competitive, so we should be.' Each slides from an is to an ought without saying so. Remember Aquinas' natural law (Day 36), which reasons from human nature to moral precepts. Hume's challenge to such theories is to show exactly how the bridge is built.\n\nPhilosophers disagree about how strong the point is. Some, like the twentieth-century philosopher John Searle, tried to show that certain facts, such as the fact that someone made a promise, already contain obligations. Others think 'thick' words like *cruel* or *rude* blend description and evaluation so thoroughly that the gap blurs. But nearly everyone agrees Hume found something real: whenever someone moves from facts to values, it is worth asking what hidden value premise is doing the work."
+    },
+    {
+      "heading": "Of Miracles",
+      "body": "Section X of the *Enquiry Concerning Human Understanding* (1748), 'Of Miracles', caused more scandal than anything else Hume published. It applies his theory of evidence to religious testimony.\n\nThe argument starts with a principle we met yesterday: a wise man proportions his belief to the evidence. When we hear testimony, we weigh it. How reliable is the witness? How many witnesses are there? How likely is the event itself, given all our experience?\n\nNow, Hume defines a **miracle** as a violation of the laws of nature. And a law of nature, such as that dead people stay dead, is supported by the most firm and unalterable experience we have: countless observations without a single exception. So any report of a miracle sets two bodies of evidence against each other: the testimony on one side, and all of human experience on the other. Hume's conclusion is a famous maxim: no testimony is sufficient to establish a miracle unless the testimony is of such a kind that its falsehood would be more miraculous than the fact it endeavours to establish. If someone tells me they saw a dead man restored to life, I ask myself which is more likely, that they are deceived or deceiving, or that the event really happened. I always reject the greater miracle.\n\nHume then adds practical reasons to doubt miracle reports in particular. No miracle, he claims, has been attested by enough people of good sense, education and integrity, in a public enough place, to rule out deception. Humans love wonder and surprise, and enjoy repeating astonishing tales. Miracle stories abound chiefly among what he calls ignorant and barbarous nations, a phrase that shows his own era's prejudices. And the miracles of rival religions cancel each other out, since each is offered as proof of a faith that denies the others.\n\nCritics have pressed back. If we always rejected reports of unprecedented events, would we ever accept genuine scientific surprises? Defenders reply that Hume is not saying miracles are impossible, only that testimony alone cannot rationally establish them. Debate over whether his argument is subtly circular continues today."
+    },
+    {
+      "heading": "Dialogues on Natural Religion and a Calm Death",
+      "body": "Hume's most careful treatment of religion, the *Dialogues Concerning Natural Religion*, was so dangerous that he held it back for some twenty-five years. It was published only in 1779, three years after his death, arranged through his nephew. Written in the style of Cicero's dialogues, it features three characters: **Cleanthes**, who defends belief in God from the evidence of nature; **Demea**, an orthodox believer who prefers abstract proofs; and **Philo**, a sceptic.\n\nCleanthes presents the **design argument**. Look round the world, he says: it is like one great machine, subdivided into countless lesser machines, all adjusted to each other with astonishing precision, just as human contrivances are. Since like effects have like causes, the Author of Nature must be somewhat similar to the mind of man, though much greater.\n\nPhilo takes this apart, using Hume's own account of causal reasoning. We learn that houses have architects by repeatedly seeing houses being built; but we have no experience of worlds being made, and the universe is unique. Why compare it to a machine rather than to an animal or a plant, which grow without designers? Even if we grant a designer, the argument cannot tell us there is only one, or that it is infinite, or good. For all we know, Philo suggests, our world might be the crude first attempt of some infant deity who abandoned it, or the work of a committee of lesser gods.\n\nThen comes the **problem of evil**, which Philo frames with the ancient questions he attributes to Epicurus (Day 24): Is God willing to prevent evil, but not able? Then he is impotent. Is he able, but not willing? Then he is malevolent. Is he both able and willing? Whence then is evil? You met Augustine's and Leibniz's replies on Days 30 and 46. Philo argues that even if evil is compatible with a good God, the world as we observe it could never give us evidence for one.\n\nWhich character speaks for Hume? The dialogue ends ambiguously, and scholars still disagree, though most see much of Hume in Philo. Eighty years later, Darwin's theory of natural selection (1859) would offer what Philo lacked: a detailed natural explanation of apparent design.\n\nHume died in Edinburgh in August 1776. James Boswell visited him that summer and was unsettled to find him calm and cheerful while denying any afterlife. Adam Smith wrote a public letter describing his friend as approaching as nearly to the idea of a perfectly wise and virtuous man as perhaps human frailty will permit. Smith later remarked that this single letter brought him far more abuse than his entire attack on the commercial system of Britain in *The Wealth of Nations*. Hume was not a saint: a notorious footnote in his essay 'Of National Characters' contains crude racist claims, which critics in his own century already challenged. But his death became, for the Enlightenment, a demonstration that one could face the end with serenity and without faith."
+    }
+  ],
+  "keyQuote": {
+    "text": "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.",
+    "source": "David Hume, A Treatise of Human Nature (1739–40), Book II, Part III, Section III"
+  },
+  "modernConnection": {
+    "title": "The Emotional Dog and Its Rational Tail",
+    "body": "In 2001 the psychologist Jonathan Haidt published a paper with a very Humean title: 'The Emotional Dog and Its Rational Tail'. His experiments presented people with stories designed to trigger moral disgust but contain no harm, for example siblings who secretly and safely sleep together once and never tell anyone. Most people instantly judged it wrong. When asked why, they offered reasons about harm, and when the experimenter pointed out that the story ruled those reasons out, they kept the judgement anyway, saying something like 'I can't explain it, I just know it's wrong.' Haidt called this moral dumbfounding. His conclusion was that moral judgements usually come first, as quick intuitions, and reasoning arrives afterwards like a lawyer hired to defend them. In his book *The Righteous Mind* (2012) he explicitly names Hume as his guide.\n\nNeuroscience points in a similar direction. Antonio Damasio's *Descartes' Error* (1994) described patients with damage to a region of the frontal lobes who kept their intelligence and could reason about options in the abstract, yet made disastrous real-life decisions. Damasio argued that their emotional signals had been disconnected from their reasoning, and that without feeling, reason does not know what to care about. Hume's 'slave of the passions' looks less like a provocation and more like a lab report.\n\nThe bundle theory has modern echoes too. Brain science has found no single place where all experience comes together for a central self to watch, and some philosophers, such as Derek Parfit, have argued that personal identity matters less than we think.\n\nBut the analogy has limits. Haidt describes how people do reason; Hume also said reason ought only to serve the passions, a claim about its proper role that no experiment can settle (notice the is-ought gap lurking here). And Haidt himself stresses that reasoning does change minds, especially when other people challenge our rationalisations. Hume would agree: sentiment is corrected by reflection and conversation, from a general point of view."
+  },
+  "vocabulary": [
+    {
+      "term": "Bundle theory",
+      "definition": "Hume's view that the self is nothing but a collection of perceptions in constant flux, with no underlying unchanging subject.",
+      "example": "On the bundle theory, there is no 'you' behind your thoughts, only the thoughts themselves, linked together."
+    },
+    {
+      "term": "Passions",
+      "definition": "Hume's word for desires, emotions and aversions, which he held to be the source of all motivation.",
+      "example": "Your hunger and your love of your children are both passions in Hume's sense."
+    },
+    {
+      "term": "Moral sentiment",
+      "definition": "A feeling of approval or disapproval that, for Hume, is the real basis of moral judgement.",
+      "example": "The disgust you feel on hearing of cruelty to a child is, for Hume, a moral sentiment."
+    },
+    {
+      "term": "Sympathy",
+      "definition": "For Hume, the natural tendency to share and resonate with the feelings of others; the foundation of our moral sentiments.",
+      "example": "Wincing when you see a stranger trip on the stairs is sympathy at work."
+    },
+    {
+      "term": "Is-ought gap (Hume's law)",
+      "definition": "The principle that no conclusion about what ought to be can be validly deduced from premises that only state what is.",
+      "example": "Arguing that 'it's natural, so it's right' ignores the is-ought gap."
+    },
+    {
+      "term": "Miracle",
+      "definition": "As Hume defines it, a violation of the laws of nature, such as a dead person returning to life.",
+      "example": "Hume argued that testimony for a miracle is always outweighed by the uniform experience behind the law it would violate."
+    },
+    {
+      "term": "Design argument",
+      "definition": "The argument that the order and apparent purpose of the natural world show it was made by an intelligent designer.",
+      "example": "Cleanthes compares the world to a vast machine to support the design argument."
+    },
+    {
+      "term": "Problem of evil",
+      "definition": "The difficulty of reconciling the existence of suffering and wickedness with a God who is all-powerful and wholly good.",
+      "example": "Philo uses the problem of evil to argue that nature gives no evidence of a benevolent creator."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Find the Hidden Ought",
+    "prompt": "Arguments that slide from facts to values are everywhere. Spend 10–15 minutes hunting them down and repairing them.",
+    "steps": [
+      "Write down three everyday arguments that move from a fact to a recommendation. You might take them from advertising, politics, parenting advice or your own habits (for example, 'Humans evolved to eat meat, so we should eat meat').",
+      "For each one, underline the factual premise and circle the 'ought' conclusion.",
+      "Add the missing value premise that would make the argument valid (for example, 'We should do whatever we evolved to do').",
+      "Ask whether you actually believe that hidden premise. If not, does the argument collapse?",
+      "Finally, reflect: when you made your judgement about each argument, did a feeling come first and the reasons second, as Hume and Haidt suggest?"
+    ]
+  },
+  "summary": [
+    "Looking inward, Hume found no impression of a constant self, only perceptions; the self is a bundle held together by the imagination's habits.",
+    "Reason is the slave of the passions: it can guide us to our goals and correct false beliefs, but cannot by itself motivate action.",
+    "Moral distinctions come from sentiment, shaped by sympathy and an impartial point of view; virtues are qualities useful or agreeable to ourselves or others.",
+    "The is-ought gap: you cannot validly deduce what ought to be from premises that only describe what is.",
+    "Testimony for a miracle is always outweighed unless its falsehood would be more miraculous than the event; in the Dialogues, Philo dismantles the design argument and presses the problem of evil."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why did Hume conclude that we have no idea of a simple, unchanging self?",
+      "options": [
+        "Because the self is a Platonic Form that cannot be perceived",
+        "Because when he looked inward he found only particular, changing perceptions and no constant impression of a self",
+        "Because God alone knows our true self",
+        "Because memory is always unreliable"
+      ],
+      "answer": 1,
+      "explanation": "By the copy principle, the idea of an unchanging self would need an unchanging impression, and introspection reveals only a flux of perceptions."
+    },
+    {
+      "type": "mc",
+      "question": "What did Hume mean by saying reason is the slave of the passions?",
+      "options": [
+        "That people are usually too emotional to think clearly",
+        "That we should suppress reason and follow our feelings",
+        "That reason cannot by itself motivate action; it serves desires by showing how to satisfy them",
+        "That the passions are always rational"
+      ],
+      "answer": 2,
+      "explanation": "Hume's claim concerns motivation: reason informs us about means and facts, but desire supplies the ends."
+    },
+    {
+      "type": "mc",
+      "question": "Which argument most clearly commits the slide that Hume's is-ought gap warns against?",
+      "options": [
+        "'Most people in this town own cars, so most families here have a driver.'",
+        "'All triangles have three sides, so this triangle has three sides.'",
+        "'The bridge is closed, so traffic will be heavy on the other road.'",
+        "'Competition is natural in the animal kingdom, so society should be organised around competition.'"
+      ],
+      "answer": 3,
+      "explanation": "It moves from a fact about nature to a recommendation without stating the value premise needed to connect them. The others go from facts to facts."
+    },
+    {
+      "type": "mc",
+      "question": "According to Hume's maxim on miracles, when should we accept testimony that a miracle occurred?",
+      "options": [
+        "Only if the falsehood of the testimony would be more miraculous than the event it reports",
+        "Whenever at least two independent witnesses agree",
+        "Whenever the witness is a religious authority",
+        "Never, because miracles are logically impossible"
+      ],
+      "answer": 0,
+      "explanation": "Hume weighs the improbability of the testimony being false against the improbability of the event. He does not claim miracles are logically impossible."
+    },
+    {
+      "type": "mc",
+      "question": "In the Dialogues Concerning Natural Religion, which character defends the design argument by comparing the world to a machine?",
+      "options": [
+        "Philo",
+        "Demea",
+        "Cleanthes",
+        "Pamphilus"
+      ],
+      "answer": 2,
+      "explanation": "Cleanthes argues from analogy with human contrivances; Philo is the sceptic who criticises him, and Demea prefers a priori proofs."
+    },
+    {
+      "type": "mc",
+      "question": "Which of these is one of Philo's objections to the design argument?",
+      "options": [
+        "The world is too small to need a designer",
+        "We have no experience of worlds being made, and the universe is unique, so the analogy with human artefacts is weak",
+        "Machines are never well designed",
+        "The design argument proves too many virtues in God"
+      ],
+      "answer": 1,
+      "explanation": "Causal inference rests on repeated experience of similar cases, which we lack for universes. Philo also notes that the world could as well be compared to an animal or plant."
+    },
+    {
+      "type": "mc",
+      "question": "In Hume's moral theory, what role does sympathy play?",
+      "options": [
+        "It allows us to share others' feelings, which grounds our moral approval and disapproval",
+        "It is a weakness that reason must overcome",
+        "It is a divine gift that reveals moral laws",
+        "It explains how we perceive causal connections"
+      ],
+      "answer": 0,
+      "explanation": "Sympathy lets the pleasures and pains of others affect us; viewed from a general standpoint, this produces shared moral sentiments."
+    },
+    {
+      "type": "tf",
+      "question": "Hume published the Dialogues Concerning Natural Religion at the height of his fame, in 1748.",
+      "answer": false,
+      "explanation": "He withheld the Dialogues for many years; they appeared posthumously in 1779. The year 1748 saw the Enquiry Concerning Human Understanding, which contains the essay on miracles."
+    },
+    {
+      "type": "tf",
+      "question": "Hume admitted in an Appendix to the Treatise that he was not satisfied with his own account of personal identity.",
+      "answer": true,
+      "explanation": "He described finding himself in a labyrinth, unable to correct his earlier views or make them consistent."
+    },
+    {
+      "type": "tf",
+      "question": "For Hume, the vice in a wilful murder is a property you can find in the act itself if you examine it carefully enough.",
+      "answer": false,
+      "explanation": "Hume argued that you find only motives and actions; the vice appears only when you consult the sentiment of disapproval in your own breast."
+    }
+  ],
+  "goDeeper": {
+    "body": "Hume's ethics poses a deep question that runs through the rest of this course: if morality is grounded in feeling, can moral claims be true or false? Some twentieth-century philosophers took Hume towards **emotivism**, the view that saying 'murder is wrong' is like saying 'murder, boo!' (you will meet A. J. Ayer's version on Day 71). Later 'expressivists' such as Simon Blackburn have tried to show how a sentiment-based ethics can still earn talk of truth, error and moral progress, a project Blackburn calls quasi-realism. Others read Hume differently, as a kind of 'ideal observer' theorist: moral truths are facts about what a well-informed, impartial, sympathetic observer would approve. Which reading is right matters, because it decides whether Hume's ethics leaves room for saying that a whole society got morality wrong.\n\nThe bundle theory has its own surprising afterlife. Readers have long noticed its closeness to the Buddhist doctrine of *anatta*, no-self (Day 87). The psychologist Alison Gopnik has explored whether Hume could have encountered Buddhist ideas while writing the *Treatise* at La Flèche, where the Jesuit college had connections with missionaries who had been to Tibet. She presents this as an intriguing historical possibility, not an established fact, and the evidence is circumstantial.\n\nFinally, the argument about miracles has been reformulated in probability theory. Some philosophers, such as John Earman in *Hume's Abject Failure* (2000), argue that Hume's maxim, made precise with Bayes' theorem, is either trivial or wrong. Others defend it as a sound rule of thumb for weighing extraordinary reports, an ancestor of the slogan that extraordinary claims require extraordinary evidence.",
+    "readings": [
+      { "title": "Dialogues Concerning Natural Religion", "author": "David Hume", "note": "Short, witty and still the best critique of the design argument; Parts II, V and X–XI are the core." },
+      { "title": "An Enquiry Concerning Human Understanding", "author": "David Hume", "note": "Section X, 'Of Miracles', can be read in under an hour." },
+      { "title": "The Righteous Mind", "author": "Jonathan Haidt", "note": "Part I explains the 'intuitions come first' model and its debt to Hume." },
+      { "title": "How to Read Hume", "author": "Simon Blackburn", "note": "A short, lively guide to the key passages by a leading modern Humean." }
+    ],
+    "questions": [
+      "If there is no enduring self, does it make sense to punish someone today for a crime 'they' committed twenty years ago?",
+      "Can a sentiment-based ethics explain moral progress, such as the abolition of slavery, or does it reduce progress to a change in feelings?",
+      "Is Hume's argument about miracles fair to religious believers, or does it stack the deck against any unprecedented event?"
+    ]
+  }
+}

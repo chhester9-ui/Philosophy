@@ -1,0 +1,198 @@
+{
+  "id": "day-41",
+  "day": 41,
+  "title": "Bacon, Galileo and the Scientific Revolution",
+  "subtitle": "A telescope, a trial and a lawyer's plan to rebuild all of human knowledge",
+  "philosophers": ["Francis Bacon", "Galileo Galilei", "Nicolaus Copernicus"],
+  "era": "1543–1642",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain the shift from the Earth-centered cosmos of Aristotle and Ptolemy to the Sun-centered system of Copernicus.",
+    "Describe Galileo's telescopic discoveries, his idea that the book of nature is written in mathematics, and the real story of his trial.",
+    "Name and illustrate Francis Bacon's four idols of the mind.",
+    "Explain Bacon's new method of careful induction and what he meant by linking knowledge and power.",
+    "Evaluate the strengths and weaknesses of Bacon's and Galileo's pictures of science."
+  ],
+  "hook": "In January 1610, in the university town of Padua, a forty-five-year-old professor of mathematics pointed a homemade tube of lenses at the planet Jupiter. Next to it he saw three small points of light lined up in a row. The following night they had shifted. Over the next weeks he counted four of them, and they kept changing places, sometimes on one side of the planet, sometimes on the other, sometimes vanishing behind it. Galileo Galilei realized that he was watching moons circling Jupiter, things no human being had ever seen.\n\nIt sounds like a small observation. It was a bomb. Educated Europeans had long been taught that everything in the heavens circled the Earth. Here were bodies that plainly circled something else. The old picture of the cosmos was cracking, and with it a way of knowing that relied on the authority of Aristotle and ancient books.\n\nAt almost the same moment in England, a brilliant, ambitious lawyer named Francis Bacon was announcing that all of human knowledge needed to be torn down and rebuilt from the ground up, on a new foundation of observation and experiment. Today we meet the Scientific Revolution, and ask what it did to philosophy.",
+  "sections": [
+    {
+      "heading": "The Old Cosmos: A Universe Built Around Us",
+      "body": "To feel the shock of what happened, you need to picture the universe as a thoughtful person in 1500 would have pictured it.\n\nAt the center sat the Earth, heavy, still and imperfect. Around it, like the layers of an onion, turned a series of crystalline spheres carrying the Moon, the Sun, the planets and finally the fixed stars. This was largely Aristotle's picture (Day 18 and Day 19). Below the Moon, things were made of four elements, earth, water, air and fire, and they changed, decayed and died. Above the Moon, everything was made of a perfect fifth element, the aether, and moved in perfect, eternal circles. Heaven and Earth obeyed different rules.\n\nThe astronomer Claudius Ptolemy, working in Alexandria around 150 CE, had turned this picture into a precise mathematical tool in the book later known as the *Almagest*. Planets do something odd: occasionally they seem to stop and go backward across the sky for a while. To explain this, Ptolemy had each planet ride on a small circle, an **epicycle**, whose center itself moved around a larger circle. The system was complicated, but it predicted planetary positions well enough to make calendars and horoscopes for over a thousand years.\n\nThe picture also fitted common sense: the ground does not feel as if it is moving, and a stone dropped on a spinning Earth should surely land far behind us. It seemed to fit religion too: Aquinas (Day 35) had woven Aristotle's cosmos into theology, and several Bible verses spoke of the Sun moving and the Earth standing firm.\n\nRemember Aristotle's teleology (Day 19)? A stone falls because it seeks its natural place, the center of the universe. The cosmos was full of purposes, an idea that was also about to be challenged."
+    },
+    {
+      "heading": "Copernicus and Kepler: Moving the Earth",
+      "body": "In 1543 a Polish church administrator and astronomer named **Nicolaus Copernicus** (1473–1543) published *On the Revolutions of the Heavenly Spheres*. According to a well-known story, he received a printed copy on his deathbed. The book proposed that the Sun, not the Earth, stood near the center, and that the Earth was a planet, spinning daily on its axis and circling the Sun yearly. This is **heliocentrism** (from the Greek *helios*, sun), as opposed to **geocentrism**.\n\nThe Greek astronomer Aristarchus of Samos had suggested this around 270 BCE, but Copernicus worked it out mathematically. His system explained the backward loops of the planets elegantly: they are an illusion caused by the Earth overtaking slower outer planets, the way a car you pass on the highway seems to slide backward.\n\nCopernicus still used perfect circles and epicycles, and his system was not at first more accurate than Ptolemy's. A Lutheran theologian, Andreas Osiander, added an unsigned preface saying its ideas need not be true, only convenient for calculation, and for decades many astronomers used the numbers without believing the Earth moved.\n\nThe decisive mathematical improvement came from the German astronomer Johannes Kepler (1571–1630), using the superb naked-eye observations of the Danish nobleman Tycho Brahe. In his *New Astronomy* (1609) Kepler showed that the orbit of Mars is not a circle but an **ellipse**. With elliptical orbits, the epicycles could finally go, and the Sun-centered system became far simpler and more accurate than anything before it.\n\nNotice what had happened: a beautiful, ancient belief in perfectly circular heavenly motion was dropped because the data would not fit it. Letting stubborn observations overturn cherished assumptions is at the heart of science."
+    },
+    {
+      "heading": "Galileo: The Telescope and the Book of Nature",
+      "body": "**Galileo Galilei** (1564–1642) was born in Pisa, the son of a musician and music theorist. He taught mathematics at Pisa and then at Padua, where he spent what he later called the best years of his life. He was witty and combative, gifts that won him both fame and enemies.\n\nIn 1609 he heard of a Dutch device that made distant things look close, built a better one, and turned it to the sky. In March 1610 his sensational *The Starry Messenger* reported that:\n\n- The Moon has mountains and valleys, so it is not a perfect, smooth heavenly sphere but a rough world like ours.\n- The Milky Way is made of countless stars invisible to the naked eye.\n- Jupiter has four moons, which he named the Medicean stars after his hoped-for patrons, the Medici rulers of Florence. (It worked: he got a job at their court.)\n\nSoon afterward he observed that Venus shows a full set of phases, like the Moon, which is what the Sun-centered system predicts and the Ptolemaic system cannot explain.\n\nGalileo's deeper revolution was in physics. Through experiments with balls rolling down inclined planes, he worked out that falling bodies accelerate uniformly, and he developed an early version of the idea of inertia: a moving body keeps moving unless something stops it. That answered the old objection: a stone dropped from a tower on a moving Earth shares the Earth's motion and lands at the foot of the tower. (The famous story of Galileo dropping two balls from the Leaning Tower of Pisa comes from his late biographer Vincenzo Viviani and may well be a legend.)\n\nIn *The Assayer* (1623) Galileo stated his vision in a famous image. Philosophy, he wrote, is written in the grand book of the universe, which stands open before our eyes, but we cannot read it until we learn its language, and that language is **mathematics**, whose characters are triangles, circles and other geometric figures. In the same book he argued that tastes, smells and colors exist only in the perceiver, while shape, size, number and motion belong to the objects themselves. This distinction between **primary and secondary qualities**, which echoes Democritus (Day 7), will be taken up by Locke on Day 47. Nature, for Galileo, is matter in measurable motion, not a realm of purposes."
+    },
+    {
+      "heading": "The Trial of Galileo: Facts and Myths",
+      "body": "Galileo became the leading public champion of Copernicus, and this brought him into conflict with the Church. In a 1615 letter to the Grand Duchess Christina, he argued that the Bible was written to teach salvation, not astronomy, and quoted a cardinal's quip that the Holy Spirit's intention is to teach us how one goes to heaven, not how the heavens go. Where scripture and demonstrated science seemed to clash, he said, scripture should be reinterpreted, as Augustine had advised long before.\n\nIn 1616 the Church declared the Sun-centered view contrary to scripture, placed Copernicus's book on the Index of forbidden books until corrected, and Cardinal Robert Bellarmine warned Galileo not to hold or defend it. For years Galileo kept relatively quiet. Then in 1632, under a new pope, Urban VIII, who had once been friendly to him, he published the *Dialogue Concerning the Two Chief World Systems*. It was officially even-handed but obviously pro-Copernican, and the defender of Aristotle in it was a character called Simplicio, a name suggesting simpleton. The pope's own favorite argument was placed in Simplicio's mouth.\n\nIn 1633, aged sixty-nine, Galileo was tried by the Roman Inquisition, found vehemently suspected of heresy, and made to kneel and **abjure**, formally renounce, the view that the Earth moves. He was threatened with torture as part of the procedure but was not tortured. He spent his last nine years under house arrest at his villa near Florence, where, going blind, he wrote his great work on motion, *Two New Sciences* (1638).\n\nSome myths need correcting. The muttered words And yet it moves first appear in print over a century later and are almost certainly legend. Nor was the trial simply science versus religion: many churchmen were astronomers, Galileo was a sincere Catholic, wounded papal pride mattered a great deal, and his evidence was not yet conclusive (his favorite proof, from the tides, was wrong). Still, the episode remains a powerful warning about authorities punishing inquiry. In 1992 Pope John Paul II formally acknowledged that the Church's judges had erred."
+    },
+    {
+      "heading": "Francis Bacon: The Great Instauration",
+      "body": "While Galileo was looking through his telescope, **Francis Bacon** (1561–1626) was climbing the ladder of English politics. A lawyer and courtier, he rose under King James I to become Lord Chancellor, England's highest legal office, in 1618. In 1621 he was impeached for accepting gifts from people with cases before him. He admitted the charges, was fined, briefly held in the Tower of London and barred from office. He spent his remaining years writing. (The story that he died of a chill caught stuffing a chicken with snow comes from the gossip John Aubrey and may be exaggerated.)\n\nBacon was not a working scientist like Galileo but a philosopher of science, perhaps the first great one. His grand plan, which he called the **Great Instauration** (renewal), was nothing less than to rebuild human knowledge from scratch. The most important part, the *New Organon* (1620), was named in deliberate challenge to Aristotle's logical works, collectively called the *Organon*, the instrument. Bacon wanted a new instrument for the mind.\n\nBacon complained that two thousand years of learning had produced endless disputes but few useful discoveries. The scholastics (Day 34 and Day 35) were, he thought, too clever by half: they spun elaborate arguments from a few hasty generalizations and then defended them with syllogisms (Day 17). The syllogism can show what follows from your premises, but it cannot tell you whether the premises are true.\n\nBacon expressed his view with a memorable image from the *New Organon*. The **empirics**, he said, are like ants: they only collect and use. The rationalists are like spiders: they spin webs out of their own substance. The bee takes the middle course: it gathers material from the flowers of the field and garden, but transforms and digests it by its own power. True philosophy should be like the bee, combining experiment and reason."
+    },
+    {
+      "heading": "The Idols of the Mind",
+      "body": "Before building, you must clear the ground. Bacon's most lasting contribution is his diagnosis of the errors that distort human thinking, which he called the **idols of the mind**. (Idol here means a false image or phantom, as in idolatry.) There are four:\n\n1. **Idols of the Tribe** are errors common to the whole human race. Our senses are limited, and our understanding is like an uneven mirror that distorts what it reflects. We see more order than there is. Above all, once we adopt an opinion we gather everything to support it and neglect or explain away contrary cases. Bacon tells the ancient story of a man shown pictures in a temple of sailors who had prayed and survived shipwreck, and asked whether he now admitted the power of the gods. Yes, he replied, but where are the pictures of those who prayed and drowned?\n2. **Idols of the Cave** are the errors of the individual, from personal temperament, education and favorite authors. The name nods to Plato's Cave (Day 12): each of us lives in a private cave that bends the light of nature. One person loves novelty, another antiquity; one sees differences everywhere, another resemblances.\n3. **Idols of the Marketplace** arise from language, from words formed in everyday dealings among people. Words can name things that do not exist, or be vague and confused, so that learned men end up arguing about words rather than things.\n4. **Idols of the Theatre** come from philosophical systems and dogmas, which Bacon compared to stage plays: elegant made-up worlds, more beautiful than true.\n\nThe list is remarkably modern; the idols of the Marketplace even anticipate twentieth-century worries about language (Day 73). Bacon's point is that the mind is not a clear window; it must be disciplined."
+    },
+    {
+      "heading": "A New Method: Induction, Experiment and Power",
+      "body": "Bacon's cure was a new form of **induction**, reasoning from particular observations to general laws. Aristotle had used induction too (Day 17), but Bacon thought ordinary induction, which simply lists examples that agree, was childish: a single counterexample can overturn it. He proposed instead a slow, step-by-step method that rises gradually from observations to modest generalizations, then to broader ones.\n\nHis example was heat. Make tables of cases where heat is present (sunlight, fire, friction), similar cases where it is absent (moonlight), and cases where it varies in degree. Then, crucially, exclude: rule out every proposed nature of heat that fails to appear in all the positive cases or appears in the negative ones. Bacon thought he had found that heat is a kind of rapid, restrained motion of small particles, a conclusion strikingly close to later physics. He also stressed that one well-designed experiment can decide between rival theories: a **crucial experiment**.\n\nWhy do all this? Here Bacon made his most famous claim. In the *New Organon* he wrote that human knowledge and human power come to the same thing, because where the cause is not known, the effect cannot be produced. Hence the slogan **knowledge is power**, a phrase Bacon had used in Latin in an earlier work. And he added that nature, to be commanded, must be obeyed: we can control nature only by first submitting to how it actually works. The goal of science, for Bacon, was not contemplation but the relief of the human condition through useful inventions. Printing, gunpowder and the compass, he noted, had changed the world more than any philosophy.\n\nHis unfinished utopia *New Atlantis* (published 1627) imagined Salomon's House, a research institution working for the common good. It inspired the founders of the Royal Society of London (1660), one of the first scientific academies.\n\nBacon had blind spots. He underrated mathematics, Galileo's key, and bold guesses: real scientists often leap to a hypothesis first and test it later. He was lukewarm about Copernicus. And modern critics worry that his language of commanding nature encouraged an exploitative attitude to the environment. But his insistence on experiment, organized collaboration and vigilance against our own biases helped define the modern scientific spirit. It also posed a deep question that David Hume will press on Day 49: what justifies inferring general laws from particular cases at all?"
+    }
+  ],
+  "keyQuote": {
+    "text": "Nature, to be commanded, must be obeyed.",
+    "source": "Francis Bacon, New Organon (1620), Book I, aphorism 3 (a common English rendering)"
+  },
+  "modernConnection": {
+    "title": "Idols in the Lab: Bias, Replication and the Feed",
+    "body": "Bacon's idols of the mind read like a summary of modern cognitive psychology. His story about the shipwreck survivors' pictures is a textbook case of what researchers now call **survivorship bias**, and his description of the mind seizing on supporting cases is **confirmation bias**, documented in countless experiments since the 1960s. Psychologists have essentially spent a century filling in Bacon's idols of the Tribe with data.\n\nThe idols matter inside science too. In 2015 a large team called the Open Science Collaboration tried to repeat one hundred published psychology studies and found that well under half produced clearly similar results. Part of the problem was Baconian: researchers, hoping for exciting findings, unconsciously favored analyses that confirmed their hypotheses, and journals preferred to publish positive results while failed experiments sat in file drawers. That is the shipwreck problem again: we saw the pictures of the survivors, not of the drowned. Reforms such as **pre-registration**, in which scientists publicly commit to their hypotheses and methods before collecting data, and publishing negative results, are institutional versions of Bacon's discipline. He believed individuals could not overcome the idols alone; only organized, collective methods could. Modern science agrees.\n\nThe idols of the Marketplace have found a new home online. Slogans and loaded labels shape debates before any facts are examined, and recommendation algorithms, by showing us more of what we already engage with, can amplify the idols of the Cave by sealing each user inside a personalized world.\n\nThe comparison has limits. Bacon thought a good enough method would almost mechanically produce truth, leveling the differences between clever and ordinary minds. Modern philosophers of science, like Popper and Kuhn (Day 72), doubt that any such method exists; creativity, guesswork and community judgment remain essential. And Bacon's equation of knowledge with power has a darker side. The same science that relieves suffering also builds weapons and surveillance tools, and decisions about how to use it are not themselves scientific. Bacon would remind us that knowledge gives power; he says less about who should hold it."
+  },
+  "vocabulary": [
+    {
+      "term": "Heliocentrism",
+      "definition": "The view that the Earth and planets revolve around the Sun, proposed mathematically by Copernicus in 1543, as opposed to geocentrism, which places the Earth at the center.",
+      "example": "Galileo's discovery of the phases of Venus counted strongly in favor of heliocentrism."
+    },
+    {
+      "term": "Epicycle",
+      "definition": "A small circle whose center moves around a larger circle, used in Ptolemaic astronomy to explain the apparent backward motion of planets.",
+      "example": "Kepler's ellipses finally allowed astronomers to do without epicycles."
+    },
+    {
+      "term": "Primary and secondary qualities",
+      "definition": "The distinction between properties that belong to objects themselves (shape, size, motion, number) and those that exist only in the perceiver's experience (color, taste, smell).",
+      "example": "For Galileo, the sweetness of honey is a secondary quality, while the shape of its particles is primary."
+    },
+    {
+      "term": "Idols of the mind",
+      "definition": "Bacon's name for the systematic sources of error in human thinking: idols of the Tribe, the Cave, the Marketplace and the Theatre.",
+      "example": "Bacon thought the idols of the mind must be cleared away before true science could begin."
+    },
+    {
+      "term": "Induction",
+      "definition": "Reasoning from particular observations to general conclusions; Bacon proposed a careful, step-by-step version using tables and the exclusion of rival explanations.",
+      "example": "By induction from many cases of heat and its absence, Bacon concluded that heat is a kind of motion."
+    },
+    {
+      "term": "Crucial experiment",
+      "definition": "An experiment designed so that its outcome decides between two competing hypotheses.",
+      "example": "The phases of Venus served as a crucial experiment between the Ptolemaic and Copernican systems."
+    },
+    {
+      "term": "Knowledge is power",
+      "definition": "Bacon's slogan expressing the idea that understanding the causes of things gives us the ability to produce effects and improve human life.",
+      "example": "Vaccines are a vivid illustration of Bacon's maxim that knowledge is power."
+    },
+    {
+      "term": "Abjure",
+      "definition": "To formally and publicly renounce a belief, as Galileo was forced to renounce the motion of the Earth in 1633.",
+      "example": "Kneeling before the Inquisition, Galileo had to abjure the Copernican view."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Hunting Your Own Idols",
+    "prompt": "Bacon believed that before we can learn anything reliably, we must catch our own minds in the act of distorting things. Choose one belief you hold fairly strongly about the world (for example about a diet, a political issue, a sports team, a technology, or a type of person) and put it through Bacon's inspection.",
+    "steps": [
+      "Write down the belief in one sentence, and list the three strongest pieces of evidence you have for it.",
+      "Idols of the Tribe: ask where the drowned sailors are. What cases would count against your belief, and have you looked for them as hard as for the supporting ones?",
+      "Idols of the Cave and Theatre: what in your personal history, temperament, favorite sources or group loyalties might incline you to this belief?",
+      "Idols of the Marketplace: are there loaded or vague words in how you phrased the belief? Rewrite it in the most neutral, precise language you can.",
+      "Design a simple Baconian test, an observation or small experiment that could actually show you were wrong. Reflect: how confident are you now, compared to when you started?"
+    ]
+  },
+  "summary": [
+    "The medieval cosmos, built from Aristotle and Ptolemy, placed a motionless Earth at the center of perfect heavenly spheres; Copernicus (1543) moved the Sun to the center, and Kepler replaced circles with ellipses.",
+    "Galileo's telescope revealed moons of Jupiter, lunar mountains and the phases of Venus; he argued that nature's book is written in mathematics and that colors and tastes exist only in the perceiver.",
+    "Galileo was tried by the Inquisition in 1633 and forced to abjure, but the trial was more complex than a simple clash of science and religion, and And yet it moves is a legend.",
+    "Francis Bacon's New Organon diagnosed four idols of the mind (Tribe, Cave, Marketplace, Theatre) and proposed a slow, careful method of induction based on experiment and the exclusion of rival explanations.",
+    "Bacon linked knowledge with power and saw science as a collective enterprise for improving human life, an ideal that inspired the Royal Society, though he underrated mathematics and bold hypotheses."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What did Copernicus's 1543 book propose?",
+      "options": ["That the planets move in ellipses", "That the Earth is a planet that moves around the Sun", "That the Moon has mountains", "That the universe is infinite and contains countless suns"],
+      "answer": 1,
+      "explanation": "Copernicus placed the Sun near the center and made the Earth a moving planet; ellipses came later with Kepler, and lunar mountains with Galileo."
+    },
+    {
+      "type": "mc",
+      "question": "Which of Galileo's observations was especially hard to explain in the Ptolemaic, Earth-centered system?",
+      "options": ["The stars twinkle", "The Sun rises in the east", "Venus shows a full set of phases like the Moon", "The Moon looks larger near the horizon"],
+      "answer": 2,
+      "explanation": "A full cycle of phases for Venus is predicted if Venus circles the Sun, but cannot occur in Ptolemy's arrangement."
+    },
+    {
+      "type": "tf",
+      "question": "Historians are confident that Galileo muttered And yet it moves after his abjuration in 1633.",
+      "answer": false,
+      "explanation": "The phrase first appears in print over a century later and is almost certainly a legend."
+    },
+    {
+      "type": "mc",
+      "question": "A gambler remembers every time his lucky shirt preceded a win and forgets all the losses. Which of Bacon's idols does this best illustrate?",
+      "options": ["Idols of the Marketplace", "Idols of the Theatre", "Idols of the Cave", "Idols of the Tribe"],
+      "answer": 3,
+      "explanation": "Noticing supporting cases and neglecting contrary ones is a general human tendency, which Bacon assigned to the idols of the Tribe."
+    },
+    {
+      "type": "mc",
+      "question": "Two philosophers argue for hours about whether fortune exists, but it turns out they mean completely different things by the word. Which idol is at work?",
+      "options": ["Idols of the Marketplace", "Idols of the Tribe", "Idols of the Theatre", "Idols of the Cave"],
+      "answer": 0,
+      "explanation": "Idols of the Marketplace arise from language, when words are vague or name nothing real, so disputes become about words rather than things."
+    },
+    {
+      "type": "mc",
+      "question": "In Bacon's image, why should true philosophy be like the bee?",
+      "options": ["Because bees work alone", "Because it should both gather material from experience and transform it by reason", "Because it should only collect facts without theorizing", "Because it should spin systems from its own mind"],
+      "answer": 1,
+      "explanation": "Ants merely collect (pure empiricism), spiders spin webs from themselves (pure rationalism); the bee gathers and digests, combining both."
+    },
+    {
+      "type": "tf",
+      "question": "Galileo held that colors, tastes and smells exist only in the perceiver, while shape, size and motion belong to objects themselves.",
+      "answer": true,
+      "explanation": "In The Assayer he drew this distinction, later called primary and secondary qualities, which Locke developed on Day 47."
+    },
+    {
+      "type": "mc",
+      "question": "What was Bacon's main complaint about the syllogistic logic of the scholastics?",
+      "options": ["It was too mathematical", "It relied too much on experiments", "It could show what follows from premises but could not establish whether the premises were true", "It was invented by Plato"],
+      "answer": 2,
+      "explanation": "Bacon thought scholastics built on hasty generalizations; the syllogism tests validity, not the truth of the starting points."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern practice best embodies Bacon's warning against the idols, applied at the level of institutions?",
+      "options": ["Trusting the most famous scientist's opinion", "Publishing only exciting positive results", "Choosing statistical tests after seeing the data", "Pre-registering hypotheses and methods before collecting data"],
+      "answer": 3,
+      "explanation": "Pre-registration guards against researchers unconsciously favoring confirming results, a collective safeguard of the kind Bacon thought necessary."
+    },
+    {
+      "type": "tf",
+      "question": "A common criticism of Bacon is that he underrated the role of mathematics and bold hypotheses in science.",
+      "answer": true,
+      "explanation": "Galileo's success depended on mathematics, and real discovery often starts from a daring guess, both of which Bacon's patient table-making downplayed."
+    }
+  ],
+  "goDeeper": {
+    "body": "Was there really a Scientific Revolution? The phrase became standard in the twentieth century, but historians now argue about it. Steven Shapin famously opened his short book on the subject by declaring that there was no such thing as the Scientific Revolution, and this is a book about it. His point was that the changes were gradual, uneven and contested, that they had deep roots in medieval natural philosophy (scholars like Jean Buridan had already developed ideas about motion that anticipate inertia), and that the people involved did not think of themselves as doing science in our sense. Newton spent enormous energy on alchemy and biblical prophecy.\n\nA second debate concerns method. Bacon pictured science as cautious induction from data; Galileo combined mathematics, idealized thought experiments and selective experiment. Later philosophers have mostly sided with something closer to Galileo. William Whewell in the nineteenth century stressed the creative colligation of facts by a new idea, and Karl Popper (Day 72) rejected inductive method altogether in favor of bold conjectures and attempted refutations. Yet Bacon's emphasis on organized research and on correcting bias looks prophetic in an age of large research teams and statistics.\n\nA third debate is about meaning. The historian Alexandre Koyré described the period as the passage from the closed world to the infinite universe, and E. A. Burtt argued that by stripping nature of purposes and secondary qualities, the new science left human beings, with their colors, values and meanings, strangely homeless in a cosmos of colorless matter in motion. That problem, how minds fit into a mechanical world, will dominate Descartes (Day 44) and much of modern philosophy, right up to the hard problem of consciousness (Day 84).",
+    "readings": [
+      { "title": "The Scientific Revolution", "author": "Steven Shapin", "note": "A short, provocative introduction that questions whether there was a single revolution at all." },
+      { "title": "New Organon", "author": "Francis Bacon (ed. Lisa Jardine and Michael Silverthorne)", "note": "Read Book I, aphorisms 1–70, which include the ant, spider and bee and the four idols." },
+      { "title": "Discoveries and Opinions of Galileo", "author": "Galileo Galilei (trans. Stillman Drake)", "note": "Contains The Starry Messenger, the Letter to the Grand Duchess Christina and excerpts from The Assayer." },
+      { "title": "Galileo in Rome: The Rise and Fall of a Troublesome Genius", "author": "William R. Shea and Mariano Artigas", "note": "A balanced account of the trial that separates fact from myth." }
+    ],
+    "questions": [
+      "Was the Church wrong in 1633 only because it punished Galileo, or also because it demanded certainty before accepting a new theory? How much evidence should we require before overturning a well-established view?",
+      "Bacon said nature, to be commanded, must be obeyed. Is the goal of science to understand nature, to control it, or both? Does the answer matter ethically?",
+      "Which of Bacon's four idols do you think does the most damage in public life today, and why?"
+    ]
+  }
+}

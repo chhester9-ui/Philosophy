@@ -1,0 +1,242 @@
+{
+  "id": "day-25",
+  "day": 25,
+  "title": "Early Stoicism: Living According to Nature",
+  "subtitle": "A shipwrecked merchant, a painted porch and the idea that virtue is the only thing that truly matters",
+  "philosophers": ["Zeno of Citium", "Cleanthes", "Chrysippus"],
+  "era": "c. 300–200 BCE",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to tell the founding story of Stoicism and name its three early leaders",
+    "Explain the Stoic picture of the cosmos as a rational, living whole governed by logos and fate",
+    "Explain why the Stoics held that virtue is the only good and how they classified 'preferred' and 'dispreferred' indifferents",
+    "Describe the Stoic theory of the passions as mistaken judgments and the goal of apatheia",
+    "Compare Stoic ethics with Aristotle, the Cynics and Epicurus, and connect the Stoic theory of emotion to modern psychology"
+  ],
+  "hook": "Around 312 BCE, a Phoenician merchant from Citium on the island of Cyprus was sailing with a cargo of purple dye when his ship was wrecked near Athens. He made his way into the city and, according to the story preserved by Diogenes Laertius, sat down in a bookshop where someone was reading aloud from Xenophon's memoirs of Socrates. Delighted, he asked where men like Socrates could be found. At that moment Crates the Cynic, whom you met on Day 23, happened to walk past. The bookseller pointed: follow that man.\n\nThe merchant was **Zeno of Citium**, and he later reportedly joked that he had made a prosperous voyage when he was shipwrecked. Within a couple of decades he was teaching in a public colonnade in the Athenian marketplace, the *Stoa Poikile* or Painted Porch, named for its murals of famous battles. His followers became known as the people of the Stoa: the **Stoics**. Over the next five centuries, Stoicism became the most influential philosophy of the Greco-Roman world. Today we look at its foundations: a breathtaking picture of the universe as a single rational living being, and a demanding claim that the only thing that is truly good is virtue.",
+  "sections": [
+    {
+      "heading": "Three Founders and a System",
+      "body": "Early Stoicism, often called the Old Stoa, was shaped by three heads of the school.\n\n- **Zeno of Citium** (c. 334–262 BCE) founded the school around 300 BCE. Besides Crates the Cynic, he studied with philosophers in the circles of Plato's Academy and of the Megarian school, famous for logic. His early *Republic* was strongly Cynic in flavour: it imagined a community of the wise with no temples, law courts or coinage. Later Stoics were somewhat embarrassed by it.\n- **Cleanthes** (c. 330–230 BCE), a former boxer, was so poor that he reportedly drew water for gardens at night so that he could study philosophy by day. His *Hymn to Zeus*, which survives, praises the divine reason that steers all things.\n- **Chrysippus** (c. 280–206 BCE) was the great systematiser. He is said to have written more than seven hundred books, none of which survives complete. Ancient writers said that without Chrysippus there would have been no Stoa.\n\nA warning about sources: almost all early Stoic writing is lost. We reconstruct it from later reports by Cicero, Seneca, Plutarch (who was often hostile), Sextus Empiricus, Diogenes Laertius Book 7 and others. Scholars still debate details.\n\nThe Stoics divided philosophy into three parts: **logic**, **physics** and **ethics**. They loved images for how the parts fit together. One compared philosophy to a fertile field: logic is the protective fence, physics the soil and trees, ethics the fruit. Another compared it to an egg. The point was that the parts are inseparable. You cannot know how to live without understanding the world you live in, and you cannot understand anything without reasoning well.\n\nStoic logic was a genuine achievement. Aristotle's syllogisms (Day 17) worked with terms like 'all humans' and 'mortal'. Chrysippus developed a logic of whole propositions connected by words like 'if', 'and' and 'or', for example: if it is day, it is light; it is day; therefore it is light. This **propositional logic** is the ancestor of the logic that runs inside modern computers, though it was largely forgotten until logicians in the nineteenth and twentieth centuries rediscovered its importance."
+    },
+    {
+      "heading": "A Living, Rational Cosmos",
+      "body": "To understand Stoic ethics, start with Stoic physics. The Stoics were **materialists**: only bodies are real in the full sense, because only bodies can act or be acted upon. Even the soul, and even god, are bodies.\n\nBut Stoic matter is not dead stuff. The whole cosmos is shot through with an active principle called **pneuma**, a fiery 'breath' blending fire and air, which holds things together and gives each its character. In a stone it produces cohesion; in a plant, growth; in an animal, perception and impulse; in a human, reason. And this active principle is identical with **logos**, the rational order of the universe, which the Stoics also called god, nature, Zeus, fate and providence. These are not different things but different names for one thing.\n\nYou may hear an echo of Heraclitus (Day 4), with his ever-living fire and his logos that governs all things. The Stoics consciously drew on him. They also held that the cosmos goes through endless cycles: it is periodically consumed in a great conflagration (*ekpyrosis*), returns to pure fire, and is then reborn, with many Stoics holding that each cycle repeats the last in every detail.\n\nThis picture has two dramatic consequences.\n\nFirst, **everything happens by fate**. Every event is part of an unbroken chain of causes woven by the divine logos. But because that logos is perfectly rational and good, fate is also **providence**: the whole is arranged for the best, even if individual parts look bad to us.\n\nSecond, humans have a special place. Our reason is a fragment of the divine reason that runs the cosmos. When we think clearly, we are, quite literally, participating in god's mind. That gives every human being a kinship with every other, and with the universe itself.\n\nHow can we be responsible if everything is fated? Chrysippus answered with a famous analogy reported by Cicero. Push a cylinder and it rolls; push a cone and it spins. The push starts the motion, but how the object moves depends on its own shape. Likewise, events outside us present impressions to our minds, but whether we assent to them depends on our own character. This makes Chrysippus an early **compatibilist**, someone who holds that determinism and moral responsibility can coexist. A later image, attributed to Zeno and Chrysippus by an ancient Christian writer, puts it more starkly: we are like a dog tied to a cart. If it chooses to follow, it walks freely; if not, it is dragged anyway."
+    },
+    {
+      "heading": "Living in Agreement with Nature",
+      "body": "Zeno defined the goal of life as living in agreement. Cleanthes expanded it to living in agreement with **nature**, and Chrysippus explained this as living according to experience of what happens by nature. Since nature is rational, this means living according to reason: your own reason, in harmony with the reason of the cosmos.\n\nWhy should that be the goal? The Stoics built a fascinating argument from child development called **oikeiosis**, often translated 'appropriation' or 'familiarisation'. From the moment of birth, every animal is drawn to preserve itself; it treats its own body and life as 'belonging' to it. A newborn creature seeks food and avoids danger without being taught. As humans grow, reason develops, and something remarkable happens: we come to recognise that what really belongs to us, what is most truly our own, is not just our body but our rational nature. We then value acting rationally, with consistency and order, more than anything we originally sought.\n\nThe Stoics added that our natural affection extends outward: to our children, our families and ultimately to all rational beings. A later Stoic named Hierocles, writing in the second century CE, pictured each of us at the centre of a series of concentric circles: self, family, relatives, fellow citizens, humanity. The task of moral progress is to draw the circles inward, treating distant people more like those close to us. This is where the Cynics' 'citizen of the world' (Day 23) becomes a positive programme: all humans share in one rational community, a city of gods and humans that spans the cosmos.\n\nCompare Epicurus (Day 24). He also began from what newborn animals seek, but concluded that it is pleasure. The Stoics replied that animals seek first not pleasure but self-preservation, and that pleasure is a by-product. That small dispute about babies decided two entirely different philosophies of life."
+    },
+    {
+      "heading": "Virtue Is the Only Good",
+      "body": "Now comes the claim that made Stoicism famous, and infamous. **Virtue is the only good** and vice is the only evil. Everything else, including health, wealth, reputation, pleasure, even life itself, is neither good nor bad. The Stoics called these things **indifferents** (*adiaphora*).\n\nThis is the Cynic-Socratic line from Day 23, sharpened. Why think it? The Stoic answer is that a genuine good must always benefit its possessor and can never be used badly. Wealth can be used to do evil; health can make a tyrant more effective. Only virtue, the knowledge of how to live, is good in every circumstance. So only virtue is necessary and sufficient for happiness.\n\nThis set the Stoics against Aristotle. On Day 20 you saw Aristotle argue that the virtuous person also needs some external goods, like friends, health and moderate wealth, and that someone who suffers terrible misfortune, like King Priam of Troy, cannot be called happy. The Stoics bit the bullet: a virtuous person is happy even on the rack.\n\nBut the Stoics were not crazy. They added a crucial distinction. Some indifferents are **preferred** (*proegmena*): health, wealth, good reputation, and life itself. It is natural and appropriate to choose them. Others are **dispreferred**: illness, poverty, pain. It is natural to avoid them. The wise person will usually pursue health and avoid poverty. What changes is the attitude. These things are selected, not desired as if happiness depended on them. Their value is real, but it is a different kind of value from virtue.\n\nCicero reports a helpful analogy. Imagine an archer. Her task is to do everything in her power to aim well and shoot well. Hitting the target is what she aims at, but her success as an archer lies in shooting well, not in whether a sudden gust of wind carries the arrow away. Likewise, the Stoic aims at preferred things, like her family's health, but her good lies in acting wisely, justly and courageously in pursuit of them, which no gust of fortune can take away.\n\nThe Stoic ideal was the **sage**, the perfectly wise person. Since virtue is a single, unified knowledge, you either have it or you do not. The Stoics notoriously held that everyone who is not a sage is equally a fool, just as someone drowning an arm's length below the surface drowns as surely as someone at the bottom of the sea. They admitted that sages are rarer than the phoenix, perhaps nonexistent. Most of us are 'progressors', making progress toward wisdom."
+    },
+    {
+      "heading": "The Passions as Mistaken Judgments",
+      "body": "The Stoic theory of emotions is perhaps their most original contribution. It begins with a theory of the mind.\n\nThings constantly present us with **impressions** (*phantasiai*): it appears that this is a dog, that I am insulted, that losing my job would be terrible. We then give or withhold **assent**. Zeno illustrated this with his hand, as Cicero reports. An open hand with fingers spread is an impression. Bending the fingers is assent. A closed fist is a firm grasp of something true, which the Stoics called cognition. And gripping the fist tightly with the other hand is knowledge, which only the sage has.\n\nFor the Stoics, all human action passes through assent. And this is the key to the **passions** (*pathe*). A passion, such as terror, rage or crushing grief, is not something that simply happens to us, like a headache. It is a judgment we have assented to: specifically, a judgment that something indifferent is genuinely good or bad, and that it is right to react strongly. Chrysippus held that passions are judgments, or follow directly from them. If I am furious that you insulted me, I have assented to the impression that your insult harmed me, a real evil, and that I should strike back.\n\nThe Stoics listed four main types of passion: **distress** at a present evil, **fear** of a future evil, **appetite** or craving for a future good, and **pleasure** or elation at a present good. In each case, the error is the same: treating an indifferent as a true good or evil.\n\nChrysippus compared a passion to running downhill. A walker can stop at will; a runner, carried by momentum, cannot. Passions are excessive impulses that run away with us and disobey reason.\n\nThe goal is **apatheia**, freedom from passions. This is the source of our word 'apathy', but it does not mean indifference or numbness. The Stoic sage still has **good feelings** (*eupatheiai*): joy at virtue, reasonable caution and well-wishing toward others. Later Stoics added that even the sage feels involuntary first reactions, a jolt at a sudden noise or a blush, but does not assent to them.\n\nThe obvious objection is that this sounds cold. Should a parent not grieve a child? Critics from ancient times to now, including Martha Nussbaum, who greatly admires the Stoics, have pressed this. The Stoics answered that love and care are fully compatible with apatheia; what they reject is the belief that a loss is a genuine evil that has ruined your life. Whether that answer satisfies you is one of the deepest questions this lesson raises. On Day 26 you will see how the Roman Stoics made all this practical."
+    }
+  ],
+  "keyQuote": {
+    "text": "The end is to live in agreement with nature.",
+    "source": "Zeno of Citium, as reported by Diogenes Laertius, Lives of the Eminent Philosophers 7.87"
+  },
+  "modernConnection": {
+    "title": "Your Emotions Have Opinions",
+    "body": "For much of the twentieth century, psychologists tended to treat emotions as bodily reactions: a racing heart, a surge of adrenaline, an automatic response we feel and then label. But from the 1960s onward, **appraisal theories** of emotion, developed by psychologists such as Magda Arnold and Richard Lazarus, argued something the Stoics would recognise. Emotions depend on how we evaluate a situation. The same event, being passed over for a promotion, can produce anger (someone wronged me), shame (I failed), relief (I did not want the extra stress) or calm (it is not important), depending on the appraisal. Change the appraisal and you change the emotion.\n\nThe philosopher Martha Nussbaum, in *Upheavals of Thought* (2001), built a modern theory of emotions directly on Chrysippus. Emotions, she argues, are judgments that ascribe great importance to things outside our control. Unlike the Stoics, though, she thinks many of those judgments are true. It really is important when someone we love dies, and grief is the right response. So she keeps Stoic cognitivism while rejecting Stoic apatheia.\n\nThe Stoic idea of oikeiosis also has a modern echo. Peter Singer's book *The Expanding Circle* (1981) argued that moral progress has largely consisted in widening the circle of beings whose interests we count, from family and tribe to nation, humanity and perhaps animals. Hierocles' concentric circles, drawn inward, are an ancient version of the same picture.\n\nWhere does the comparison break down? Appraisal theorists do not claim, as Chrysippus did, that emotions simply are judgments; most see judgment as one component among bodily, motivational and social ones. Some neuroscientists, such as Lisa Feldman Barrett, argue that emotions are constructed from many ingredients in ways that do not map neatly onto any ancient theory. And almost no modern psychologist recommends eliminating strong emotion; the goal is regulation, not apatheia. The Stoics would reply that by 'passion' they meant only the excessive, mistaken kind. Whether that defence works is still an open debate."
+  },
+  "vocabulary": [
+    {
+      "term": "Logos (Stoic)",
+      "definition": "The rational principle that pervades and governs the whole cosmos, identified by the Stoics with god, nature, fate and providence; human reason is a fragment of it.",
+      "example": "A Stoic who accepts a misfortune calmly is trusting that it belongs to the rational order of the logos."
+    },
+    {
+      "term": "Pneuma",
+      "definition": "In Stoic physics, the active, fiery 'breath' of fire and air that pervades matter, holding things together and giving them their qualities.",
+      "example": "For the Stoics, the same pneuma that makes a rock cohere makes a human being able to reason, only in a more refined state."
+    },
+    {
+      "term": "Oikeiosis",
+      "definition": "The Stoic theory of 'appropriation': the natural process by which a creature comes to regard things as belonging to it, beginning with self-preservation and, in humans, extending to reason and to all rational beings.",
+      "example": "Hierocles' image of drawing the circles of concern inward is a picture of oikeiosis extended to humanity."
+    },
+    {
+      "term": "Indifferents (adiaphora)",
+      "definition": "Everything other than virtue and vice, such as health, wealth, reputation and life, which the Stoics held to be neither good nor bad in themselves.",
+      "example": "For a Stoic, losing money is the loss of an indifferent, not a genuine harm."
+    },
+    {
+      "term": "Preferred indifferents",
+      "definition": "Indifferents that it is natural and appropriate to select, such as health and wealth, though they do not make a person good or happy; their opposites are dispreferred indifferents.",
+      "example": "A Stoic will still go to the doctor, because health is a preferred indifferent, but will not think illness can ruin her life."
+    },
+    {
+      "term": "Passions (pathe)",
+      "definition": "In Stoicism, excessive, irrational emotional impulses, such as distress, fear, craving and elation, that result from assenting to the false judgment that an indifferent is truly good or bad.",
+      "example": "Panic before a job interview is, in Stoic terms, a passion rooted in the false belief that failing would be a real evil."
+    },
+    {
+      "term": "Apatheia",
+      "definition": "The Stoic goal of freedom from the passions; not numbness or indifference, but a calm compatible with 'good feelings' such as joy and well-wishing.",
+      "example": "A Stoic in apatheia can still love her friends and feel joy, but she will not be destroyed by loss."
+    },
+    {
+      "term": "Compatibilism",
+      "definition": "The view that determinism, the idea that every event is fixed by prior causes, is compatible with free will and moral responsibility; Chrysippus defended an early version.",
+      "example": "Chrysippus' cylinder analogy is a compatibilist argument: the push is fated, but how you roll depends on your own character."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Catch an Emotion in the Act of Judging",
+    "prompt": "Test the Stoic claim that strong emotions contain hidden judgments by examining one of your own recent emotional reactions.",
+    "steps": [
+      "Recall a recent moment of strong emotion: anger at a driver, anxiety about a deadline, envy at someone's success, or disappointment at news. Describe the situation in two neutral, factual sentences.",
+      "Now write the judgment hidden in the emotion, in the Stoic form: 'This is genuinely good or bad for me, and it is right to react strongly.' Be specific.",
+      "Classify the thing your emotion was about. Is it virtue or vice (your own character and choices), or an indifferent (health, money, reputation, other people's actions)? If an indifferent, is it preferred or dispreferred?",
+      "Rewrite the judgment as a Stoic would: acknowledge any real preference ('I would prefer to have been on time') without the claim of genuine harm. Does the rewrite change how you feel?",
+      "Finally, play the critic: is there anything important the Stoic rewrite leaves out? Write three sentences on whether some strong emotions are appropriate responses that we should keep."
+    ]
+  },
+  "summary": [
+    "Zeno of Citium founded Stoicism around 300 BCE at the Painted Porch in Athens, after studying with the Cynic Crates; Cleanthes and Chrysippus developed it into a system.",
+    "The Stoics divided philosophy into logic, physics and ethics; Chrysippus built an early propositional logic.",
+    "The cosmos is a single material, living whole pervaded by pneuma and governed by logos, which is also god, nature, fate and providence; Chrysippus reconciled fate and responsibility with his cylinder analogy.",
+    "The goal of life is to live in agreement with nature, that is, with reason; through oikeiosis we come to value our rational nature and to see all humans as kin.",
+    "Virtue is the only good; health, wealth and even life are indifferents, some preferred and some dispreferred, which are selected but not needed for happiness.",
+    "Passions are mistaken judgments that treat indifferents as true goods or evils; the goal is apatheia, freedom from passion, which still allows good feelings like joy."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Where does the name 'Stoic' come from?",
+      "options": [
+        "From the Greek word for 'calm'",
+        "From the Stoa Poikile, the Painted Porch in Athens, where Zeno taught",
+        "From Stoicus, Zeno's teacher",
+        "From the Latin word for 'endure'"
+      ],
+      "answer": 1,
+      "explanation": "Zeno taught in a public colonnade, the Stoa Poikile, so his followers were called 'those from the Stoa'."
+    },
+    {
+      "type": "mc",
+      "question": "In Stoic physics, what is the logos?",
+      "options": [
+        "A collection of atoms moving randomly in the void",
+        "A separate, unchanging world of Forms",
+        "The rational, active principle that pervades and governs the cosmos, also called god, nature and fate",
+        "A purely human convention invented by philosophers"
+      ],
+      "answer": 2,
+      "explanation": "For the Stoics, logos is the divine reason immanent in the material world. It is not a separate realm like Plato's Forms, and it is the opposite of the Epicurean picture of chance collisions."
+    },
+    {
+      "type": "mc",
+      "question": "What was Chrysippus trying to show with the analogy of the rolling cylinder?",
+      "options": [
+        "That events are fated, yet how we respond depends on our own character, so we are still responsible",
+        "That atoms swerve unpredictably",
+        "That the universe is round",
+        "That pleasure and pain are equally balanced"
+      ],
+      "answer": 0,
+      "explanation": "The push (the external cause) starts the motion, but the cylinder rolls because of its own shape. Likewise, our assent depends on us. This is an early form of compatibilism."
+    },
+    {
+      "type": "mc",
+      "question": "According to the Stoics, how should a wise person regard wealth?",
+      "options": [
+        "As a genuine good necessary for happiness",
+        "As a genuine evil to be avoided at all costs",
+        "As irrelevant in every way, so that being rich or poor makes no difference to what one should choose",
+        "As a preferred indifferent: natural to select, but not good in itself or needed for happiness"
+      ],
+      "answer": 3,
+      "explanation": "Wealth is an indifferent because it can be used well or badly, but it is preferred, so it is appropriate to select it, other things being equal."
+    },
+    {
+      "type": "mc",
+      "question": "In Cicero's archer analogy, where does the archer's real success lie?",
+      "options": [
+        "In hitting the target every time",
+        "In doing everything in her power to aim and shoot well, whatever the wind does",
+        "In winning prizes and reputation",
+        "In refusing to shoot at all"
+      ],
+      "answer": 1,
+      "explanation": "The target corresponds to preferred indifferents; the archer's excellence lies in her skilful effort, which is up to her, just as the Stoic's good lies in acting virtuously."
+    },
+    {
+      "type": "mc",
+      "question": "A student feels terror before an exam. How would Chrysippus diagnose this?",
+      "options": [
+        "As a purely physical reaction that has nothing to do with belief",
+        "As a sign that the student lacks pneuma",
+        "As a mistaken judgment that failing would be a genuine evil and that strong reaction is appropriate",
+        "As a perfectly rational response the sage would share"
+      ],
+      "answer": 2,
+      "explanation": "For the Stoics, passions are, or follow from, assent to false judgments that indifferents like exam results are truly good or bad."
+    },
+    {
+      "type": "mc",
+      "question": "How did the Stoics disagree with Aristotle about happiness?",
+      "options": [
+        "Aristotle thought some external goods are needed for full happiness; the Stoics held virtue alone is sufficient",
+        "Aristotle thought pleasure was the goal; the Stoics thought it was virtue",
+        "Aristotle denied that virtue matters for happiness",
+        "They did not disagree at all"
+      ],
+      "answer": 0,
+      "explanation": "On Day 20 you saw Aristotle argue that misfortune like Priam's can ruin happiness. The Stoics held that the virtuous person is happy whatever happens."
+    },
+    {
+      "type": "tf",
+      "question": "Stoic apatheia means having no feelings at all.",
+      "answer": false,
+      "explanation": "Apatheia is freedom from passions, the excessive and mistaken emotions. The sage still has 'good feelings' such as joy, caution and well-wishing."
+    },
+    {
+      "type": "tf",
+      "question": "The early Stoics were materialists who held that even god and the soul are bodies.",
+      "answer": true,
+      "explanation": "Stoic physics counts as real only what can act or be acted on, which means bodies, including the fiery pneuma that is god and the soul."
+    },
+    {
+      "type": "tf",
+      "question": "Many of Chrysippus' books survive complete and are the main source for early Stoicism.",
+      "answer": false,
+      "explanation": "Although he reportedly wrote over seven hundred books, none survives complete. Early Stoicism is reconstructed from later writers such as Cicero, Seneca, Plutarch and Diogenes Laertius."
+    }
+  ],
+  "goDeeper": {
+    "body": "One of the most intriguing debates about early Stoicism concerns the passions. Chrysippus held that passions are judgments of the rational mind. His later follower Posidonius (c. 135–51 BCE) disagreed, arguing, as Plato had with his tripartite soul (Day 13), that the soul has non-rational parts that can produce emotion independently of judgment. Our main report of this debate comes from the doctor Galen, who sided with Posidonius and Plato. Modern scholars disagree about how fairly Galen reported Chrysippus, and the debate maps strikingly onto modern arguments about whether emotions are cognitive or more primitive.\n\nA second debate concerns fate. Critics pressed the 'lazy argument': if it is fated that you will recover from illness, you will recover whether or not you call a doctor; so why call one? Chrysippus answered that some events are 'co-fated': your recovery and your calling the doctor are fated together. You cannot have one without the other. Cicero's short treatise *On Fate* preserves this argument, and it remains a lively topic in discussions of determinism and free will.\n\nA third question is whether Stoic ethics is consistent. If health has no value for happiness, why prefer it? Critics like the Academic Carneades (Day 27) accused the Stoics of using new words for old ideas: calling health 'preferred' instead of 'good' seemed a mere verbal trick. Defenders, such as the scholars A. A. Long and Brad Inwood, argue that the Stoics were marking a real difference between two kinds of value: the value of what is worth selecting, and the value of what is worth being.\n\nIf you want to see how these ideas lived in practice, Day 26 shows the Roman Stoics turning them into daily exercises.",
+    "readings": [
+      {
+        "title": "Lives of the Eminent Philosophers, Book 7",
+        "author": "Diogenes Laertius",
+        "note": "The fullest ancient summary of early Stoic doctrine, including Zeno's life, the parts of philosophy, the passions and the indifferents."
+      },
+      {
+        "title": "On Ends (De Finibus), Book 3",
+        "author": "Cicero",
+        "note": "A clear exposition of Stoic ethics, including oikeiosis, the archer analogy and preferred indifferents."
+      },
+      {
+        "title": "Stoicism",
+        "author": "John Sellars",
+        "note": "An excellent short introduction to the whole Stoic system, physics and logic as well as ethics."
+      },
+      {
+        "title": "The Hellenistic Philosophers, Volume 1",
+        "author": "A. A. Long and D. N. Sedley",
+        "note": "For the ambitious: the standard sourcebook of translated fragments with commentary, organised by topic."
+      }
+    ],
+    "questions": [
+      "Is it coherent to say health is not good but is still worth choosing? What exactly is the difference between 'good' and 'preferred'?",
+      "If everything is fated, does it still make sense to blame or praise people? Is the cylinder analogy convincing?",
+      "Should we aim to eliminate strong emotions such as grief and anger, or are some of them fitting responses to how the world really is?"
+    ]
+  }
+}

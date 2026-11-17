@@ -1,0 +1,244 @@
+{
+  "id": "day-87",
+  "day": 87,
+  "title": "Philosophy in Global Dialogue",
+  "subtitle": "While the Greeks were asking their questions, others across the world were asking them too.",
+  "philosophers": ["Confucius", "Laozi", "Zhuangzi", "Siddhartha Gautama (the Buddha)", "Nagarjuna", "John Mbiti", "Desmond Tutu"],
+  "era": "c. 6th century BCE–present",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain the core Confucian ideas of ren, li, the junzi and the rectification of names.",
+    "By the end you will be able to describe the Daoist ideas of the Dao and wu wei, and compare them with Heraclitus.",
+    "By the end you will be able to summarize the Buddha's Four Noble Truths and the doctrine of no-self, and compare it with Hume's bundle theory.",
+    "By the end you will be able to explain Nagarjuna's idea of emptiness and the Southern African ideal of Ubuntu.",
+    "By the end you will be able to evaluate the benefits and pitfalls of comparing philosophical traditions across cultures."
+  ],
+  "hook": "Picture the world around 500 BCE. In Ephesus, Heraclitus is writing riddling sentences about fire and flux (Day 4). In Italy, the Pythagoreans are gathering around number and the soul (Day 3). Within roughly a century, in the state of Lu in eastern China, a former minor official named Kong Qiu is teaching a small band of students how to become genuinely good people. In northeastern India, a prince turned wandering ascetic sits beneath a tree and, according to tradition, wakes up to the nature of suffering. None of these people knew the others existed.\n\nThe German philosopher Karl Jaspers called this period the **Axial Age**: a stretch of centuries, roughly 800 to 200 BCE, when several civilizations independently produced reflective traditions that still shape billions of lives. Historians argue about how neat the pattern really is, but the coincidence is striking. Today we take the tour we have postponed. We will meet Confucius, Laozi, the Buddha, Nagarjuna and the African ideal of Ubuntu, and at each stop we will ask: where do they meet the Greeks and later Western thinkers you already know, and where do they take us somewhere the West never went?",
+  "sections": [
+    {
+      "heading": "Confucius: Becoming Fully Human",
+      "body": "**Confucius** (traditionally 551–479 BCE) is the Latinized name of Kong Qiu, later honored as Kongzi, Master Kong. He lived during a time of political breakdown, when the old Zhou dynasty's authority had collapsed and rival states competed through war and intrigue. Like Socrates (Day 9), he wrote nothing himself. What we have is the *Analects*, a collection of his sayings and conversations assembled by later disciples, probably over several generations.\n\nConfucius believed society could be repaired, not by laws and punishments, but by cultivating character. His central ideal is **ren**, often translated as humaneness or benevolence: the full flowering of human goodness in our relations with others. Asked to sum up his teaching in a single word, he answered with reciprocity, and he gave a negative version of the Golden Rule: do not impose on others what you yourself do not desire (*Analects* 15.24).\n\nRen is expressed through **li**, ritual propriety. Li includes religious ceremonies, but also everyday courtesies: how to greet a guest, mourn a parent, or speak to an elder. Confucius thought these forms were not empty etiquette. By practicing them, we train our feelings until respect and care become second nature. If that sounds familiar, it should: Aristotle (Day 20) also argued that we become virtuous by habit, by doing virtuous acts until they become part of who we are. Confucius' ideal person is the **junzi**, the exemplary or noble person, whose nobility comes from character rather than birth.\n\nTwo more ideas stand out. Confucius placed great weight on family relationships, especially **filial piety** (xiao), respect and care for one's parents, as the root from which wider virtue grows. And he called for the **rectification of names**: society falls into disorder when words no longer match realities, when a ruler is called a ruler but does not act like one. Compare Socrates' insistence on defining terms, or Orwell's worry that corrupted language corrupts thought.\n\nConfucius also shares Socrates' intellectual honesty. In *Analects* 2.17 he tells a student that to know what you know and to know what you do not know, that is knowledge. The big difference: where Socrates questioned, often leaving people puzzled, Confucius taught, offering a positive vision of a good life within a web of relationships. Later Confucians debated whether human nature is basically good (Mencius) or needs to be shaped by education and ritual (Xunzi), a debate that would have interested both Rousseau (Day 53) and Hobbes (Day 42)."
+    },
+    {
+      "heading": "Laozi, Zhuangzi and the Way",
+      "body": "Daoism offers a striking contrast. Its founding text, the *Daodejing*, is attributed to **Laozi** (\"Old Master\"), traditionally said to be an older contemporary of Confucius. Most scholars today think Laozi is a legendary figure and that the text was compiled over time, reaching something like its current form around the fourth or third century BCE.\n\nThe *Daodejing* opens with a famous paradox, usually rendered something like: the Dao that can be spoken of is not the constant Dao. The **Dao** means \"the Way\": the source and pattern of all things, which cannot be captured in words or concepts. Wittgenstein's closing line in the *Tractatus* (Day 70), about passing over in silence what cannot be spoken of, is a tempting comparison, though Wittgenstein's reasons were logical rather than mystical.\n\nThe Daoist ideal of action is **wu wei**, literally \"non-action,\" better understood as effortless action: acting in harmony with the way things naturally unfold rather than forcing them. The text's favorite image is water, which is soft and yielding yet wears away the hardest stone. Where Confucius wanted more ritual and cultivation, the *Daodejing* suggests that much of our striving, rule-making and cleverness is the problem.\n\nThe Greek parallel that leaps out is **Heraclitus** (Day 4). Both see reality as constant change governed by an underlying order (logos for Heraclitus, Dao for Laozi). Both delight in the **unity of opposites**: the *Daodejing* says that high and low, long and short, being and non-being give rise to each other. But there is a difference in mood. Heraclitus admired strife and war as the father of all things; the *Daodejing* prizes softness, humility and yielding.\n\nThe second great Daoist, **Zhuangzi** (c. 4th century BCE), was a playful, funny writer. In his most famous story he dreams he is a butterfly, wakes up, and cannot tell whether he is Zhuangzi who dreamed of being a butterfly or a butterfly now dreaming of being Zhuangzi. Descartes (Day 43) would use the dream argument nearly two thousand years later to drive himself toward certainty. Zhuangzi used it to loosen our grip on certainty and enjoy the transformations of things. Same puzzle, opposite destinations."
+    },
+    {
+      "heading": "The Buddha: Suffering and No-Self",
+      "body": "**Siddhartha Gautama**, known as the **Buddha** (\"the awakened one\"), lived in northeastern India; scholars now tend to place his death around 400 BCE, though older dates in the sixth century BCE are also given. Traditional accounts say he grew up a sheltered prince, encountered old age, sickness and death, left home to seek liberation, tried extreme asceticism, rejected it, and attained awakening while meditating. The details come from texts written down centuries later, so treat them as sacred biography rather than documented history.\n\nHis teaching begins with the **Four Noble Truths**, structured like a medical diagnosis:\n\n1. Life involves **dukkha**: suffering, unsatisfactoriness, the sense that things never quite hold together.\n2. Dukkha arises from craving or thirst: grasping at pleasures, at existence, at things being other than they are.\n3. Dukkha can cease; this cessation is **nirvana**, literally a \"blowing out\" of the fires of craving.\n4. The way to cessation is the **Noble Eightfold Path**: right view, intention, speech, action, livelihood, effort, mindfulness and concentration.\n\nThe Buddha called his path the **Middle Way** between indulgence and harsh self-denial, an idea that invites comparison with Aristotle's golden mean (Day 20). The parallels with Hellenistic philosophy are also strong: like the Epicureans and Stoics (Days 24–26), the Buddha treated philosophy as therapy for a troubled mind, and his diagnosis of craving resembles Epicurus' analysis of unnecessary desires.\n\nThe most philosophically radical teaching is **anatta**, or **no-self**. When you look for a permanent, unchanging self, you find only a flow of bodily forms, sensations, perceptions, mental formations and consciousness, all **impermanent** (anicca). A later text, *The Questions of King Milinda*, makes the point with a chariot: is the chariot the wheels? The axle? The pole? None of them alone, yet \"chariot\" is a convenient name for the assembled parts. So too with \"self.\"\n\nTwenty-two centuries later, David Hume (Day 50) looked inward and reported that he could never catch himself without a perception, concluding that the self is a bundle of perceptions. The resemblance is remarkable. The difference lies in the purpose: Hume was making an empirical observation and then went off to dine and play backgammon; for the Buddha, seeing through the self is the key to liberation from suffering."
+    },
+    {
+      "heading": "Nagarjuna and Emptiness",
+      "body": "About six centuries after the Buddha, the Indian monk **Nagarjuna** (c. 150–250 CE) wrote one of the most rigorous works in the history of philosophy, the *Mulamadhyamakakarika* (Fundamental Verses on the Middle Way). He founded the **Madhyamaka**, or Middle Way, school.\n\nNagarjuna's central concept is **emptiness** (shunyata). To say that everything is empty is not to say that nothing exists. It means everything is empty of **svabhava**, intrinsic, independent existence. Everything exists only through **dependent origination**: through causes, conditions, parts and the concepts we use to pick it out. A table depends on wood, carpenters, the tree, the rain that fed the tree, and our practice of calling some objects tables. Nothing stands alone, the way Parmenides' Being (Day 5) or Aristotle's substance (Day 18) was supposed to.\n\nNagarjuna's method is dazzling. He takes concepts such as causation, motion, time and the self, and shows that if we assume they have intrinsic existence, they collapse into contradiction, much as Zeno (Day 5) tried to show that motion was impossible. He often tests a claim against four possibilities, known as the **tetralemma**: something is, is not, both is and is not, or neither is nor is not. This looks like it violates Aristotle's laws of non-contradiction and excluded middle (Day 17). Scholars still debate whether it really does, or whether Nagarjuna is rejecting the presuppositions behind each option.\n\nTo avoid nihilism, Nagarjuna distinguishes **two truths**: conventional truth, in which tables, persons and causes are real enough to live by, and ultimate truth, in which all are empty. Famously, he adds that emptiness itself is empty; it is not a new hidden essence. Readers of the Greek Skeptics (Day 27) will notice a kinship with Sextus Empiricus, who compared his arguments to a purgative that flushes itself out along with everything else."
+    },
+    {
+      "heading": "Ubuntu: I Am Because We Are",
+      "body": "Our final stop is southern Africa. **Ubuntu** is a term from the Nguni languages, such as Zulu and Xhosa, often explained through the proverb *umuntu ngumuntu ngabantu*: a person is a person through other persons. The Kenyan philosopher and theologian **John Mbiti**, in *African Religions and Philosophy* (1969), summed up the African view of the individual in a phrase that has traveled the world: I am because we are, and since we are, therefore I am.\n\nPlace that beside Descartes' \"I think, therefore I am\" (Day 43) and you see the contrast at once. Descartes found certainty in a solitary mind that could doubt everything, even other people. Ubuntu starts from relationships: who I am is constituted by my place in a community, and I become a full person by how I treat others. The Nigerian philosopher Ifeanyi Menkiti argued in 1984 that, on this view, personhood is something one achieves over a lifetime, not something one simply has.\n\nThe closest Western parallels are Aristotle's claim that humans are political animals who cannot flourish alone (Day 21) and the ethics of care (Day 85). Ubuntu became world-famous through South Africa's **Truth and Reconciliation Commission**, chaired by Archbishop **Desmond Tutu** after apartheid ended. Tutu argued that ubuntu favored restorative justice, which seeks to heal relationships, over purely retributive justice.\n\nCritics, including African philosophers, ask hard questions. Is Ubuntu too vague to guide action? Can a community-centered ethic protect individuals who dissent? Philosophers such as Thaddeus Metz have tried to make it precise, proposing that right actions are those that honor relationships of identity and solidarity with others."
+    },
+    {
+      "heading": "Comparing Without Flattening",
+      "body": "Comparative philosophy has a troubled history. Hegel (Day 59) dismissed Confucius as offering only practical moral maxims and nothing speculative. Yet Leibniz (Day 46) admired Chinese thought, corresponded with Jesuit missionaries in China, and was thrilled to find his binary arithmetic apparently mirrored in the hexagrams of the ancient *Yijing*. There have even been real meetings: Pyrrho, founder of Greek skepticism (Day 27), traveled to India with Alexander the Great's army, and ancient sources say he met naked Indian sages there; scholars dispute how much he learned from them.\n\nTwo dangers lurk. One is **exoticism**: treating other traditions as mystical opposites of a rational West, ignoring Indian logic, Chinese debates about language and Mohist arguments. The other is **flattening**: assuming Confucius is just Aristotle in a robe. Good comparison does both: it notices real kinships and lets each tradition challenge the questions the others take for granted."
+    }
+  ],
+  "keyQuote": {
+    "text": "I am because we are; and since we are, therefore I am.",
+    "source": "John S. Mbiti, African Religions and Philosophy (1969)"
+  },
+  "modernConnection": {
+    "title": "Mindfulness Apps and the Journey of Buddhist Ideas",
+    "body": "If you have ever used a meditation app or sat through a workplace mindfulness session, you have met a descendant of the Buddha's Eightfold Path. In 1979 the American scientist Jon Kabat-Zinn founded a program at the University of Massachusetts Medical School called Mindfulness-Based Stress Reduction, which adapted Buddhist meditation techniques into a secular course for patients with chronic pain and stress. Later, Mindfulness-Based Cognitive Therapy combined these methods with the cognitive therapy that, as you saw on Day 26, owes a debt to the Stoics. Clinical trials have found evidence that it can reduce relapse in recurrent depression. Today mindfulness is taught in hospitals, schools, militaries and corporations, and meditation apps are a large industry.\n\nThis is a genuine case of global philosophical dialogue changing ordinary lives. The core Buddhist observation, that suffering is worsened by how we grasp at and resist experience, turns out to be something people from very different cultures can test in their own minds.\n\nBut the bridge also shows the dangers discussed above. Critics such as Ronald Purser have coined the term \"McMindfulness\" for versions that strip meditation from its ethical setting and sell it as a productivity tool: calmer employees who can tolerate an exhausting job. In the Buddha's teaching, mindfulness was one part of a path that also includes right speech, right action and right livelihood. A meditation practice designed to make you a more efficient, less troubled competitor might strike a traditional teacher as feeding the very craving it was meant to cure.\n\nThere is also a scientific caution. Research by psychologists Joseph Henrich, Steven Heine and Ara Norenzayan (2010) found that most psychology studies used participants from WEIRD societies (Western, educated, industrialized, rich and democratic), who are unusual in many ways, including in how individualistic their sense of self is. That finding gives Ubuntu's relational picture of the person some empirical support. But it also warns us against easy stereotypes of an \"individualist West\" and a \"collectivist East\" or South. Real people everywhere are more varied than such labels allow."
+  },
+  "vocabulary": [
+    {
+      "term": "Axial Age",
+      "definition": "Karl Jaspers' name for the period, roughly 800 to 200 BCE, in which several civilizations independently developed influential philosophical and religious traditions.",
+      "example": "Confucius, the Buddha and Socrates are all often counted as figures of the Axial Age."
+    },
+    {
+      "term": "Ren",
+      "definition": "The central Confucian virtue of humaneness or benevolence: the full realization of goodness in one's relations with others.",
+      "example": "A manager who treats a struggling employee with patience and dignity shows ren."
+    },
+    {
+      "term": "Li",
+      "definition": "Confucian ritual propriety: the ceremonies, customs and courtesies through which respect is expressed and character is trained.",
+      "example": "For Confucius, bowing to an elder is li, and practicing it shapes genuine respect."
+    },
+    {
+      "term": "Wu wei",
+      "definition": "The Daoist ideal of 'non-action' or effortless action: acting in harmony with the natural flow of things rather than forcing outcomes.",
+      "example": "A skilled surfer riding a wave rather than fighting it is a common illustration of wu wei."
+    },
+    {
+      "term": "Dukkha",
+      "definition": "The Buddhist term for suffering or unsatisfactoriness, the first of the Four Noble Truths.",
+      "example": "The disappointment you feel moments after buying something you craved is a small taste of dukkha."
+    },
+    {
+      "term": "Anatta (no-self)",
+      "definition": "The Buddhist teaching that there is no permanent, unchanging self, only a changing process of bodily and mental events.",
+      "example": "The chariot analogy illustrates anatta: 'self', like 'chariot', names a collection of parts."
+    },
+    {
+      "term": "Emptiness (shunyata)",
+      "definition": "Nagarjuna's teaching that all things lack intrinsic, independent existence and exist only through dependent origination.",
+      "example": "A smartphone's emptiness shows in its dependence on minerals, factories, networks, software and users."
+    },
+    {
+      "term": "Ubuntu",
+      "definition": "A southern African ethical ideal expressed as 'a person is a person through other persons', locating personhood in community and relationships.",
+      "example": "Desmond Tutu appealed to ubuntu in arguing for restorative rather than purely retributive justice."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "A Dialogue Across Traditions",
+    "prompt": "Stage a short imaginary conversation between a thinker from today and one from an earlier day of the course, on a question they both cared about.",
+    "steps": [
+      "Choose one pair: Confucius and Aristotle (on how we become good), Zhuangzi and Descartes (on dreaming), the Buddha and Hume (on the self), Nagarjuna and Parmenides (on what truly exists), or Ubuntu and Descartes (on what makes a person).",
+      "Write down in one or two sentences each what the two thinkers would say about the shared question. Use what you have learned, not stereotypes.",
+      "Write a short exchange (six to ten lines) in which each responds to the other's strongest point. Where do they genuinely agree? Where does one expose something the other missed?",
+      "Finally, note which side you find more convincing and why. Did the comparison change how you see the Western thinker?"
+    ]
+  },
+  "summary": [
+    "During the Axial Age, Greece, China and India independently produced reflective traditions; comparing them reveals both kinship and real difference.",
+    "Confucius taught that society is repaired through cultivated character: ren expressed through li, filial piety and the rectification of names, with clear parallels to Aristotle's virtue as habit.",
+    "Daoism's Dao and wu wei echo Heraclitus' flux and unity of opposites, but prize yielding over strife; Zhuangzi's butterfly dream anticipates Descartes but loosens rather than seeks certainty.",
+    "The Buddha diagnosed suffering as rooted in craving and taught no-self, which parallels Hume's bundle theory; Nagarjuna argued that all things are empty of intrinsic existence.",
+    "Ubuntu holds that a person is a person through other persons, a relational view that contrasts with Descartes' solitary cogito and informed South Africa's Truth and Reconciliation Commission."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "How did Confucius think a good person and a good society are produced?",
+      "options": [
+        "Mainly through strict laws and harsh punishments",
+        "By withdrawing from society to live in the wilderness",
+        "Through cultivating character by practicing ritual propriety and humane relationships",
+        "By calculating the greatest happiness for the greatest number"
+      ],
+      "answer": 2,
+      "explanation": "Confucius emphasized ren cultivated through li; he distrusted reliance on laws and punishments, and the other options belong to other traditions."
+    },
+    {
+      "type": "mc",
+      "question": "Which Greek thinker's ideas most closely parallel the Daodejing's emphasis on constant change and the unity of opposites?",
+      "options": [
+        "Heraclitus",
+        "Parmenides",
+        "Democritus",
+        "Thrasymachus"
+      ],
+      "answer": 0,
+      "explanation": "Heraclitus taught that everything flows and that opposites are unified, though he praised strife where Daoism prizes yielding."
+    },
+    {
+      "type": "mc",
+      "question": "A gardener stops trying to force a plant into an artificial shape and instead works with its natural growth habits. This best illustrates:",
+      "options": [
+        "Filial piety",
+        "Wu wei",
+        "The tetralemma",
+        "The rectification of names"
+      ],
+      "answer": 1,
+      "explanation": "Wu wei is effortless action in harmony with the natural course of things rather than forcing outcomes."
+    },
+    {
+      "type": "mc",
+      "question": "According to the Second Noble Truth, what is the origin of suffering?",
+      "options": [
+        "The anger of the gods",
+        "Ignorance of mathematics",
+        "Poverty and social inequality alone",
+        "Craving or grasping"
+      ],
+      "answer": 3,
+      "explanation": "The Second Noble Truth identifies craving or thirst as the source of dukkha."
+    },
+    {
+      "type": "mc",
+      "question": "Which Western philosopher's view of the self most closely resembles the Buddhist doctrine of no-self?",
+      "options": [
+        "Descartes, who held the self is a thinking substance",
+        "Plato, who believed in an immortal soul",
+        "Hume, who described the self as a bundle of perceptions",
+        "Aquinas, who saw the soul as the form of the body"
+      ],
+      "answer": 2,
+      "explanation": "Hume reported finding no self beyond a bundle of perceptions, closely paralleling the Buddhist analysis, though for different purposes."
+    },
+    {
+      "type": "mc",
+      "question": "What does Nagarjuna mean by saying all things are 'empty'?",
+      "options": [
+        "Nothing exists at all",
+        "All things lack intrinsic, independent existence and arise through dependent origination",
+        "The physical world is an illusion created by God",
+        "Only empty space is real"
+      ],
+      "answer": 1,
+      "explanation": "Emptiness is the absence of svabhava (intrinsic existence), not nonexistence; Nagarjuna explicitly guarded against nihilism with his two truths."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best captures the contrast between Ubuntu and Descartes' starting point?",
+      "options": [
+        "Descartes starts from the solitary thinking self; Ubuntu holds that a person becomes a person through relationships with others",
+        "Both hold that the self is known only through doubt",
+        "Ubuntu denies that individuals exist at all, while Descartes affirms it",
+        "Descartes emphasized community while Ubuntu emphasized solitude"
+      ],
+      "answer": 0,
+      "explanation": "Descartes' cogito is reached by a single doubting mind; Mbiti's 'I am because we are' grounds personhood in community."
+    },
+    {
+      "type": "tf",
+      "question": "Most scholars today regard the Daodejing as the work of a single historical author, Laozi, written in one sitting in the sixth century BCE.",
+      "answer": false,
+      "explanation": "Laozi is widely considered legendary, and the text was likely compiled over time, reaching roughly its current form around the fourth or third century BCE."
+    },
+    {
+      "type": "tf",
+      "question": "Leibniz admired Chinese philosophy and saw a parallel between his binary arithmetic and the hexagrams of the Yijing.",
+      "answer": true,
+      "explanation": "Leibniz corresponded with Jesuits in China and was struck by the apparent match between binary numbers and the Yijing hexagrams."
+    },
+    {
+      "type": "tf",
+      "question": "The Buddha's 'Middle Way' rejects both indulgence in sensual pleasure and extreme self-mortification.",
+      "answer": true,
+      "explanation": "After trying severe asceticism, the Buddha taught a path between indulgence and self-denial, often compared with Aristotle's mean."
+    }
+  ],
+  "goDeeper": {
+    "body": "One of the most exciting meeting points between traditions today is in **logic**. Western logic, from Aristotle (Day 17) to Frege and Russell (Day 69), long treated the law of non-contradiction as sacred. But since the late twentieth century, logicians such as Graham Priest have developed **paraconsistent logics** and defended **dialetheism**, the view that some contradictions may be true. Priest and the Buddhist scholar Jay Garfield have argued that Nagarjuna's tetralemma and his claims about the limits of thought can be read with these tools, so that Nagarjuna becomes not a mystic flouting logic but a rigorous thinker exploring its boundaries. Others, including many traditional Buddhist commentators, reject this reading and insist that Nagarjuna's apparent contradictions dissolve once you see what each claim is denying. Either way, the debate shows comparative philosophy doing real philosophical work rather than just cataloging similarities.\n\nAnother lively area is **Confucian role ethics**. Henry Rosemont Jr. and Roger Ames argued that Confucianism should not be squeezed into Western categories like virtue ethics at all: for Confucius, we are not individuals who then take on roles; we simply are our roles, as child, parent, friend, teacher and citizen. Others, such as Bryan Van Norden, defend reading Confucius as a virtue ethicist comparable to Aristotle. The disagreement echoes Ubuntu's relational view of personhood and MacIntyre's emphasis on narrative and tradition (Day 85).\n\nFinally, there is a meta-question: who gets to count as a philosopher? Some university departments are now arguing over whether to rename themselves departments of 'Western philosophy' if they teach nothing else. The Philosophy Beyond the West track takes up Confucianism, Daoism, Buddhist philosophy, Indian philosophy, and African and Latin American philosophy in depth.",
+    "readings": [
+      {
+        "title": "The Analects",
+        "author": "Confucius (compiled by his disciples), trans. Edward Slingerland",
+        "note": "Slingerland's translation includes traditional commentary that explains the context of each saying; start with Books 1, 2 and 4."
+      },
+      {
+        "title": "Zhuangzi: The Essential Writings",
+        "author": "Zhuangzi, trans. Brook Ziporyn",
+        "note": "Chapter 2 contains the butterfly dream and some of the most mind-bending skeptical passages in any tradition."
+      },
+      {
+        "title": "What the Buddha Taught",
+        "author": "Walpola Rahula",
+        "note": "A clear, classic introduction by a Sri Lankan scholar-monk, with translated passages from early texts."
+      },
+      {
+        "title": "Taking Back Philosophy: A Multicultural Manifesto",
+        "author": "Bryan W. Van Norden",
+        "note": "A short, provocative argument that philosophy departments should include Chinese, Indian, African and other traditions."
+      }
+    ],
+    "questions": [
+      "Is the Buddhist no-self doctrine a discovery about the mind, a practical technique for reducing suffering, or both? Could it be true but unhelpful, or helpful but false?",
+      "Does Confucius' emphasis on ritual and family offer anything modern individualistic societies have lost? What might be its dangers?",
+      "When we compare traditions, how can we tell a deep similarity from a superficial one?"
+    ]
+  }
+}

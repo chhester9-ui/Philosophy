@@ -1,0 +1,246 @@
+{
+  "id": "day-04",
+  "day": 4,
+  "title": "Heraclitus: Flux and Logos",
+  "subtitle": "The riddling philosopher who saw the world as a river and a fire, held together by a hidden order",
+  "philosophers": ["Heraclitus"],
+  "era": "c. 535–c. 475 BCE (active around 500 BCE)",
+  "estimatedMinutes": 45,
+  "objectives": [
+    "Describe what is known about Heraclitus and why his writing survives only in fragments",
+    "Explain the river fragment and the difference between radical flux and stability through change",
+    "Explain the unity of opposites with examples, and what Heraclitus meant by calling war or strife the father of all",
+    "Explain why Heraclitus chose fire as the basic element of the cosmos and what he meant by the logos",
+    "Evaluate the strengths and weaknesses of a view that puts change at the center of reality"
+  ],
+  "hook": "Look at a candle flame for a minute. It seems like a single, steady thing: the same flame, same shape, same golden color. But nothing in it stays. Wax is constantly drawn up the wick, turned to vapor, burned and released as heat, light and gas. The flame you see now is made of entirely different stuff from the flame you saw a few seconds ago. Its sameness is a sameness of pattern, not of material. Blow it out and the pattern stops.\n\nNow ask whether you are more like a stone or more like that flame. Your body is constantly taking in food, water and air and giving off heat and waste. Around 500 BCE, a proud and difficult thinker from the city of Ephesus suggested that the whole universe is more like a flame than a stone: a ceaseless process that keeps its shape only by constantly changing. And he claimed that hidden inside all this change there is an order, which he called the **logos**. Few people understood him, and he did not seem to mind.",
+  "sections": [
+    {
+      "heading": "The Obscure Man of Ephesus",
+      "body": "**Heraclitus** lived in Ephesus, a wealthy Greek city on the coast of what is now western Turkey, just up the coast from Miletus, home of the thinkers you met on Day 2. Ancient sources place the peak of his career around 500 BCE, so he was probably born around 535 BCE and died around 475 BCE. Those dates are approximate, as nearly all dates for these early thinkers are.\n\nAlmost all biographical detail comes from Diogenes Laertius, a writer of the 3rd century CE who collected anecdotes of very mixed reliability. According to that tradition, Heraclitus came from an aristocratic family and gave up a hereditary honorary title to his brother. He is said to have deposited his book in the great temple of Artemis at Ephesus. Diogenes also tells a grim story about his death: suffering from dropsy, he supposedly covered himself in manure hoping to dry out the fluid, and died. Treat that one as legend; ancient biographers liked to give philosophers ironic deaths.\n\nWhat we can be sure of is his personality as it comes through in his own words. He was scornful of nearly everyone. He mocked the poets Homer and Hesiod, and he wrote that much learning does not teach understanding, otherwise it would have taught Hesiod and Pythagoras (Day 3), as well as the thinkers Xenophanes and Hecataeus (Fragment B40). He thought most people sleepwalk through life, failing to notice what is right in front of them.\n\nHe was also famously hard to read. Later Greeks nicknamed him *ho skoteinos*, “the Obscure.” A later tradition, popular in Renaissance paintings, called him “the weeping philosopher,” contrasting him with the “laughing philosopher” Democritus, whom you will meet on Day 7. That pairing is a later literary invention, not history.\n\nHeraclitus wrote one book, probably in prose. It is lost. What survives are around 100 to 130 short **fragments**, quotations preserved by later authors who were often quoting him to support their own views. Scholars number them using the standard collection by Hermann Diels and Walther Kranz (hence labels like B12). Many fragments read like riddles or proverbs, and this seems to be deliberate. Heraclitus wanted his readers to work for understanding, just as he thought the world itself makes us work for it. As he put it, nature loves to hide (B123)."
+    },
+    {
+      "heading": "You Cannot Step Into the Same River Twice",
+      "body": "Heraclitus is most famous for an idea usually summed up as “everything flows,” in Greek *panta rhei*. Interestingly, that slogan does not appear in any surviving fragment. It is a later summary of his view. Plato, in his dialogue *Cratylus* (402a), reports that Heraclitus said all things move and nothing stays still, and compared existing things to the flow of a river, saying you could not step twice into the same river.\n\nThe closest words we have from Heraclitus himself are probably these, preserved by a later writer:\n\n> Upon those who step into the same rivers, different and again different waters flow. (Fragment B12)\n\nRead that slowly, because it says something subtler than Plato’s version. It speaks of stepping into the *same* rivers. The river is the same; the water is different. In fact, the river stays the same river precisely *because* the water keeps flowing. A river whose water stopped moving would no longer be a river at all. It would be a pond, or a swamp.\n\nSo scholars distinguish two readings of Heraclitus:\n\n1. **Radical flux:** everything is changing in every respect all the time, so nothing has any stable identity. This is roughly how Plato understood Heraclitus, and it worried Plato because, if nothing is stable, it seems nothing can be known.\n2. **Stability through change:** things keep their identity through constant, regular change. The pattern persists while the material is replaced. This is how many modern scholars, such as G. S. Kirk, read the river fragment.\n\nThe radical reading was taken to an extreme by a later follower named **Cratylus**. According to Aristotle (*Metaphysics* IV.5), Cratylus criticized Heraclitus for saying you cannot step into the same river twice, because he thought you could not do it even once. In the end, Aristotle reports, Cratylus decided he should not say anything at all and merely moved his finger. If the world changes so fast that words cannot fix on anything, communication becomes impossible.\n\nThe second reading makes Heraclitus look much more interesting than a man simply announcing that things change. Everyone knows things change. His point is that **change** and **identity** are not enemies. The flame, the river and your body are all things whose being consists in a kind of balanced activity. Another fragment puts it in four Greek words: changing, it rests (B84a)."
+    },
+    {
+      "heading": "The Unity of Opposites",
+      "body": "The second great Heraclitean theme is the **unity of opposites**: the claim that things we normally think of as opposed are actually bound together, or are in some way the same. His examples are vivid and worth meeting directly (all are close paraphrases of the fragments):\n\n- The road up and the road down are one and the same (B60). A mountain path is “up” for the climber and “down” for the person descending, but it is one road.\n- Sea water is both the purest and the most polluted water: for fish it is drinkable and life-giving, for humans it is undrinkable and deadly (B61).\n- Disease makes health pleasant and good, hunger makes fullness good, weariness makes rest good (B111).\n- The same thing is in us living and dead, waking and sleeping, young and old: these change into each other (B88).\n\nThese examples work in different ways. Some show that one thing has opposite qualities depending on the point of view (the road, the sea water). Some show that opposites depend on each other for their meaning and value (you only appreciate health because sickness exists). And some show that opposites turn into one another over time (the young become old, the waking fall asleep). Heraclitus does not carefully separate these types, and later philosophers, beginning with Aristotle, accused him of simply contradicting himself, saying that the same thing both is and is not.\n\nA more charitable reading is that Heraclitus was pointing to something real: opposites form systems. Hot and cold, day and night, up and down are not separate things that happen to sit side by side. Each is defined by its relation to the other, and the world is a constant interplay between them. Remember Anaximander on Day 2, who imagined opposites committing “injustice” against each other and paying the penalty in turn. Heraclitus inherits that picture of cosmic balance but gives it a sharper edge.\n\nHis most striking image is the bow and the lyre. People do not understand, he says, how something that differs from itself agrees with itself: there is a back-turning **harmony**, as of the bow and the lyre (B51). A strung bow looks perfectly still. But its stillness is the result of two forces pulling hard against each other, the wood bending one way and the string pulling the other. Release the tension and the bow is useless. A lyre makes music only because its strings are under tension. For Heraclitus, the apparent calm of the world is like that: a hidden tension of opposites. A hidden harmony, he says, is better than an obvious one (B54). You may hear an echo of the Pythagorean idea of harmony from Day 3, but Heraclitus stresses tension and struggle where the Pythagoreans stressed peaceful proportion."
+    },
+    {
+      "heading": "War, Strife and Justice",
+      "body": "Heraclitus pushed the unity of opposites to a conclusion that shocked many readers:\n\n> War is the father of all and king of all. (Fragment B53)\n\nAnd elsewhere: war is common, and justice is strife, and all things happen according to strife and necessity (B80).\n\nThis sounds brutal, as if Heraclitus were celebrating violence. But the Greek word *polemos* (war) and its relative *eris* (strife) are being used here in a broad, cosmic sense. Heraclitus means the ongoing contest of opposing forces that keeps the world in being. He criticized Homer for praying that strife would vanish from among gods and men, because, if that prayer were answered, the whole world would come to an end. No tension, no bow; no contrast between high and low notes, no music; no conflict of hot and cold, no seasons.\n\nThe idea that justice *is* strife is especially surprising. We usually think of justice as the end of conflict. Heraclitus seems to mean that justice in the cosmos is not a peaceful resting state but the balance that is maintained *through* opposition, the way a fair contest needs two sides pushing against each other. No single opposite is allowed to win permanently. As one fragment puts it, the sun will not overstep its measures; if it does, the Furies, the ministers of Justice, will find it out (B94).\n\nThe word **measures** is crucial. Heraclitus’ world is not chaos. Change happens in regular, balanced amounts. Day gives way to night, summer to winter, and back again, according to fixed proportions. This is what distinguishes his view from the idea that everything is random. Strife is constant, but so is the order within it."
+    },
+    {
+      "heading": "Ever-Living Fire",
+      "body": "Remember the Milesian question from Day 2: what is the **arche**, the first principle of all things? Thales said water and Anaximenes said air. Heraclitus gave his own answer, and it fits his philosophy perfectly:\n\n> This world-order, the same for all, no god or human made, but it always was and is and will be: an ever-living fire, kindling in measures and going out in measures. (Fragment B30)\n\nWhy fire? Because fire is not really a stuff at all; it is a process. A flame exists only while it is consuming fuel and transforming it into something else. If Heraclitus thinks the world is a structured process of constant change, then fire is the natural symbol, and perhaps more than a symbol, of that process.\n\nNotice three features of this fragment. First, the cosmos was not created; it always was and always will be. No god designed it, which puts Heraclitus in the naturalistic tradition of the Milesians. Second, it is the same for all, a common world rather than a private one. Third, again, the fire kindles and goes out in *measures*. It is a controlled burn.\n\nHeraclitus described the cycle of transformations elsewhere: fire turns into sea, and sea turns partly into earth and partly back into a fiery state. He also used a striking economic image: all things are an exchange for fire, and fire for all things, as goods are exchanged for gold and gold for goods (B90). Ephesus was a trading city, and coined money was a fairly recent invention in that part of the world. Gold can turn into wheat, wine or cloth and back again while its value is conserved. Fire is like the cosmic currency.\n\nThis loosely anticipates the idea that something is conserved through physical change, though Heraclitus had no concept of energy and no experiments."
+    },
+    {
+      "heading": "The Logos: The Hidden Order",
+      "body": "Now we come to the most important and most debated word in Heraclitus. His book seems to have opened like this:\n\n> Although this logos holds always, humans fail to understand it, both before hearing it and when they have first heard it. (Fragment B1, opening)\n\nThe Greek word **logos** is notoriously rich. In everyday Greek it could mean word, speech, story, account, explanation, reason, proportion or ratio. Heraclitus seems to use it on several levels at once. On one level it is simply his own account, the message of his book. On a deeper level it is what that account describes: the rational structure of the world, the measured order according to which all things happen. Listening not to me but to the logos, he says, it is wise to agree that all things are one (B50).\n\nSo the logos is the pattern behind the flux: the measures of the fire, the balance of opposites, the hidden harmony of the bow. It is common to all, yet most people live as though they had a private understanding of their own (B2). Heraclitus compares them to sleepers. Each dreamer lives in his own private world; the waking share one common world. Philosophy, for him, is a kind of waking up.\n\nHow do we find the logos? Not by piling up facts, which is why he mocked much learning. He did value the senses; he said he preferred things that can be seen and heard. But the senses are bad witnesses for people with uncomprehending souls. Understanding requires interpretation, the way an oracle requires interpretation. He also turned inward: I searched myself, he wrote (B101). And he added that you would never find the limits of the soul, however far you travelled, so deep is its logos (B45).\n\nTwo more fragments show how far his ideas reach. Character is a person’s fate, or more literally, a person’s character is their *daimon*, their guiding spirit (B119). Your destiny comes from who you are, not from outside powers. And he thought human laws are nourished by one divine law, which is why the people must fight for their law as for their city walls (B114, B44).\n\nThe idea of a rational order running through the cosmos had a long future. The Stoics, whom you will meet in Unit 4, adopted both Heraclitus’ fire and his logos as central concepts. The opening of the Gospel of John, “In the beginning was the Word,” uses the same Greek word, *logos*, though in a very different, Christian sense. And the very word logic comes from logos.\n\nHeraclitus also set up the next great fight in Greek philosophy. If change is the fundamental reality, can we trust our minds to grasp anything stable? Tomorrow, on Day 5, Parmenides will answer with a thunderclap: change is impossible, and the senses that show it to us are deceiving us."
+    }
+  ],
+  "keyQuote": {
+    "text": "Upon those who step into the same rivers, different and again different waters flow.",
+    "source": "Heraclitus, Fragment B12 (DK 22B12)"
+  },
+  "modernConnection": {
+    "title": "Are You the Same Person You Were Ten Years Ago?",
+    "body": "You have probably heard the claim that every cell in your body is replaced every seven years, so you are literally a different person. The real story is messier and more Heraclitean. Cells turn over at very different rates. The lining of your gut renews itself every few days, and red blood cells last about four months. But in 2005 the Swedish biologist Jonas Frisén and his colleagues used traces of carbon-14 from Cold War nuclear tests to date human cells, and found that some, including many neurons in the cerebral cortex, appear to last a lifetime. Even those long-lived cells constantly swap their molecules with their surroundings. There is no fixed seven-year cycle, but there is constant exchange of material.\n\nSo what makes you the same person? Not the stuff, which keeps flowing like the river’s water. Something more like a pattern: the structure of your body, the continuity of your memories and character, the shape that persists while the material passes through. Biologists call the body’s self-regulating balance homeostasis, an organism holding itself steady through constant adjustment. Heraclitus would have recognized the idea immediately. Changing, it rests.\n\nThe same insight helps with modern institutions. A university, a football club or a company can keep its identity for centuries while every member is replaced. Software is “the same app” through hundreds of updates. A famous ancient puzzle, the Ship of Theseus, reported by Plutarch, asks whether a ship whose planks have all been gradually replaced is still the same ship. Heraclitus offers one answer: identity can belong to the ongoing process rather than to the parts.\n\nThe comparison has limits. Heraclitus was not a biologist, and his logos was a cosmic, even divine principle, not a set of biochemical feedback loops. And the pattern view of identity raises its own puzzles. If your character is your fate, what happens when your character changes, through illness, trauma or simply growing up? Are you then a new person? Heraclitus gives us a powerful way of seeing ourselves as processes, but he leaves us to work out where one river ends and another begins."
+  },
+  "vocabulary": [
+    {
+      "term": "Fragment",
+      "definition": "A short passage from a lost work, preserved because a later author quoted or paraphrased it; for the early Greek philosophers, fragments are often our only direct evidence.",
+      "example": "We know Heraclitus’ river image only from a fragment quoted centuries later."
+    },
+    {
+      "term": "Flux",
+      "definition": "Continuous flow or change; the Heraclitean view that all things are constantly changing.",
+      "example": "The radical flux reading says nothing has any stable identity at all."
+    },
+    {
+      "term": "Unity of opposites",
+      "definition": "Heraclitus’ claim that apparent opposites are connected, depend on each other or turn into each other, so that they form a single system.",
+      "example": "The road up and the road down being one road is a classic example of the unity of opposites."
+    },
+    {
+      "term": "Logos",
+      "definition": "A Greek word meaning word, account, reason or proportion; for Heraclitus, the rational order or underlying structure according to which all things happen.",
+      "example": "Heraclitus complained that the logos is common to all, yet most people fail to grasp it."
+    },
+    {
+      "term": "Harmony (back-turning harmony)",
+      "definition": "For Heraclitus, the unity produced by opposing forces in tension, as in a strung bow or lyre.",
+      "example": "A bridge stays up through a back-turning harmony of compression and tension."
+    },
+    {
+      "term": "Measures",
+      "definition": "Fixed proportions or limits within which change happens, ensuring that the cosmic process stays balanced.",
+      "example": "The world-fire kindles and goes out in measures, so change never becomes chaos."
+    },
+    {
+      "term": "Strife (polemos / eris)",
+      "definition": "Conflict or opposition, which Heraclitus treated as the creative force that keeps the cosmos in being.",
+      "example": "Calling strife the father of all means that the contest of opposites produces everything."
+    },
+    {
+      "term": "Arche",
+      "definition": "The first principle or basic source of all things, the question the early Greek philosophers asked about the cosmos.",
+      "example": "Heraclitus answered the question of the arche with fire, a process rather than a stable stuff."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Your Own River",
+    "prompt": "Heraclitus suggests that things keep their identity not despite change but through it. Test this idea on the thing you know best: yourself. Spend 10 to 15 minutes writing.",
+    "steps": [
+      "List five ways you have changed in the past ten years (body, beliefs, tastes, relationships, skills).",
+      "Now list what has stayed the same. Be specific. Is it a material thing, a memory, a character trait, a pattern of habits, a name?",
+      "Pick one pair of opposites in your life (work and rest, solitude and company, confidence and doubt). Write a few sentences on whether each depends on the other, in the spirit of “disease makes health pleasant.”",
+      "Write two or three sentences answering: are you more like a stone or a flame? Defend your answer.",
+      "Finally, write one objection to Heraclitus’ view. Keep it; you will see Parmenides make a very different objection on Day 5."
+    ]
+  },
+  "summary": [
+    "Heraclitus of Ephesus (active c. 500 BCE) wrote one book that survives only in riddling fragments; he was nicknamed “the Obscure,” and much of his biography is legend.",
+    "His river fragment says different waters flow upon those who step into the same rivers: identity can persist through constant change, though Plato read him as teaching radical flux.",
+    "The unity of opposites holds that opposites depend on each other, belong to one system or turn into each other, like the road up and the road down.",
+    "Strife or “war” is the father of all: the cosmos is kept in being by a balanced tension of opposing forces, like a strung bow or lyre.",
+    "The cosmos is an ever-living fire, uncreated, kindling and going out in measures; all things are exchanged for fire as goods for gold.",
+    "The logos is the hidden rational order of the world, common to all but grasped by few; the idea passed to the Stoics and lives on in the word “logic.”"
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why do we have only fragments of Heraclitus’ thought?",
+      "options": [
+        "He refused to write anything down, like Socrates",
+        "His followers destroyed his book after his death",
+        "His book was lost, and only short quotations by later authors survive",
+        "His book was written in a code that has never been deciphered"
+      ],
+      "answer": 2,
+      "explanation": "Heraclitus wrote one book, which is lost. What survives are quotations and paraphrases preserved by later writers, often for their own purposes."
+    },
+    {
+      "type": "mc",
+      "question": "According to the “stability through change” reading of the river fragment, what makes a river the same river?",
+      "options": [
+        "The fact that its water molecules never change",
+        "Its continuing pattern of flow, which persists precisely because the water keeps changing",
+        "The name people give to it, which is purely conventional",
+        "Nothing; on this reading there is no such thing as the same river"
+      ],
+      "answer": 1,
+      "explanation": "On this reading the river keeps its identity through the regular flow of different waters. The last option describes the radical flux reading instead."
+    },
+    {
+      "type": "tf",
+      "question": "The famous slogan “panta rhei” (everything flows) appears word for word in the surviving fragments of Heraclitus.",
+      "answer": false,
+      "explanation": "The slogan is a later summary of his views. The closest genuine fragments are about rivers and flowing waters."
+    },
+    {
+      "type": "mc",
+      "question": "What did Heraclitus mean by the image of the bow and the lyre?",
+      "options": [
+        "That music is the highest form of philosophy",
+        "That war and art are equally valuable",
+        "That the gods use weapons and instruments to rule the world",
+        "That apparent stability and harmony result from opposing forces held in tension"
+      ],
+      "answer": 3,
+      "explanation": "A strung bow or lyre looks still, but its function depends on wood and string pulling against each other. This is his “back-turning harmony.”"
+    },
+    {
+      "type": "mc",
+      "question": "Which modern situation best illustrates Heraclitus’ idea that identity can persist through change?",
+      "options": [
+        "A football club that keeps its identity for a century while every player is replaced",
+        "A diamond that stays chemically unchanged for millions of years",
+        "A photograph that captures a single moment forever",
+        "A rule that can never be amended"
+      ],
+      "answer": 0,
+      "explanation": "The club, like the river, stays the same through constant replacement of its members. The diamond and photograph illustrate permanence, not stability through change."
+    },
+    {
+      "type": "mc",
+      "question": "Why was fire a fitting choice for Heraclitus’ basic element?",
+      "options": [
+        "Because fire was considered sacred to Zeus",
+        "Because fire is a process that exists only by constantly transforming its fuel",
+        "Because Thales had already proven that water could not be the first principle",
+        "Because fire is the only element that does not change"
+      ],
+      "answer": 1,
+      "explanation": "A flame is an ongoing transformation that keeps its form while its material changes, which matches Heraclitus’ view of the cosmos as an ordered process."
+    },
+    {
+      "type": "tf",
+      "question": "Heraclitus held that the cosmos was created at a particular moment by a god.",
+      "answer": false,
+      "explanation": "Fragment B30 says no god or human made the world-order; it always was, is and will be an ever-living fire."
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following best captures Heraclitus’ concept of the logos?",
+      "options": [
+        "A private opinion that differs from person to person",
+        "A collection of many facts gathered by careful research",
+        "The common rational order or structure according to which all things happen",
+        "The physical substance from which the cosmos is made"
+      ],
+      "answer": 2,
+      "explanation": "The logos is the hidden, shared order of the world. Heraclitus explicitly contrasted it with private understanding and mocked mere accumulation of facts."
+    },
+    {
+      "type": "tf",
+      "question": "Heraclitus’ follower Cratylus reportedly argued that you cannot step into the same river even once.",
+      "answer": true,
+      "explanation": "Aristotle reports this. Cratylus took flux so radically that he supposedly ended up refusing to speak and only moved his finger."
+    },
+    {
+      "type": "mc",
+      "question": "When Heraclitus says “war is the father of all,” what is the most accurate interpretation?",
+      "options": [
+        "Military conquest is the highest human achievement",
+        "Opposing forces in constant, balanced contest produce and sustain everything",
+        "The Trojan War was the origin of Greek civilization",
+        "People should avoid conflict because it destroys everything"
+      ],
+      "answer": 1,
+      "explanation": "He uses war or strife in a cosmic sense: the tension of opposites is creative and keeps the world in being. Reading it as praise of literal warfare is a crude misreading."
+    }
+  ],
+  "goDeeper": {
+    "body": "How radical was Heraclitus really? Since antiquity there have been two main pictures. Plato and Aristotle presented him as the philosopher of universal flux, someone whose view implied that nothing is stable enough to be known. Plato’s *Theaetetus* and *Cratylus* use a “Heraclitean” theory of flux as a foil, and Plato’s own theory of unchanging Forms (Day 11) can be read partly as a response: if the physical world is in flux, true knowledge must be of something beyond it.\n\nMany 20th-century scholars, notably G. S. Kirk, argued that this was a distortion. On their reading, the river fragment emphasizes the persistence of the river, and the doctrine of measures shows that Heraclitus cared above all about order and balance. Change is real and constant, but it is regulated. Others, such as Daniel Graham, have argued that Plato’s reading should not be dismissed so quickly, and the debate continues partly because so few fragments survive and their wording is sometimes uncertain. Fragment B49a, “we step and do not step into the same rivers, we are and are not,” for example, may not be authentic.\n\nThere is also a philosophical debate about the unity of opposites. Aristotle thought Heraclitus violated the law of non-contradiction, which you will meet on Day 17. Defenders reply that sea water being healthy for fish and harmful for humans is not a contradiction at all, because the opposites hold in different respects. The question is whether Heraclitus saw that, or whether he was gesturing at something stronger. In the 19th century, G. W. F. Hegel (Day 59) admired Heraclitus intensely and claimed there was no proposition of Heraclitus he had not taken up into his own logic, which sees reality developing through the tension and resolution of opposites. Friedrich Nietzsche also revered him as a thinker who affirmed becoming over being.",
+    "readings": [
+      {
+        "title": "The Art and Thought of Heraclitus",
+        "author": "Charles H. Kahn",
+        "note": "Gives the fragments in Greek and English with a sensitive commentary that treats Heraclitus as a deliberate literary artist."
+      },
+      {
+        "title": "The Presocratic Philosophers",
+        "author": "G. S. Kirk, J. E. Raven and M. Schofield",
+        "note": "The standard sourcebook; the Heraclitus chapter presents the key fragments and the stability-through-change reading."
+      },
+      {
+        "title": "Early Greek Philosophy",
+        "author": "Jonathan Barnes (translator and editor)",
+        "note": "An inexpensive Penguin collection of the fragments of all the Presocratics; read the Heraclitus section in one sitting."
+      },
+      {
+        "title": "Cratylus",
+        "author": "Plato",
+        "note": "See around 402a and the closing pages for Plato’s report of Heraclitus and his worry about knowledge in a world of flux."
+      }
+    ],
+    "questions": [
+      "Is the unity of opposites a deep insight, a clever play on words, or a genuine contradiction? Choose one example fragment and argue your case.",
+      "If everything is constantly changing, what would it mean to know something? Does knowledge require something that does not change?",
+      "Heraclitus says character is fate. Do you agree that who you are matters more to how your life goes than what happens to you?"
+    ]
+  }
+}

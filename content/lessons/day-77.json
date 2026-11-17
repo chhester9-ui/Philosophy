@@ -1,0 +1,250 @@
+{
+  "id": "day-77",
+  "day": 77,
+  "title": "Sartre: Existence Precedes Essence",
+  "subtitle": "No blueprint, no excuses: you are what you make of yourself",
+  "philosophers": ["Jean-Paul Sartre"],
+  "era": "1905–1980",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to explain what Sartre meant by “existence precedes essence” using his paper-knife example.",
+    "By the end you will be able to describe radical freedom, anguish and responsibility, and why Sartre said we are condemned to be free.",
+    "By the end you will be able to define bad faith and analyse Sartre's examples of the café waiter and the woman on a date.",
+    "By the end you will be able to explain the look and what “hell is other people” does and does not mean.",
+    "By the end you will be able to state the strongest objections to Sartre's view of freedom."
+  ],
+  "hook": "Picture a café waiter in Paris in the early 1940s. He moves a little too quickly, bends forward a little too eagerly, balances his tray with a showy precision, like a performer. Jean-Paul Sartre, who did much of his writing at café tables, watched such a waiter and asked a strange question: what is this man doing? His answer was that he is *playing at being a waiter*. He is trying to turn himself into a waiter the way an inkwell is an inkwell, solidly and completely, so that he never has to face the fact that at any moment he could put the tray down and walk out.\n\nThat little scene contains the whole of Sartre's philosophy. Human beings, he argued, have no fixed nature, no blueprint, no essence handed to them by God or biology. We simply find ourselves existing, and then we must make ourselves through our choices. This is exhilarating, and it is also terrifying, which is why we spend so much energy pretending it is not true. After the Second World War, this message turned Sartre into the most famous intellectual on earth, and the word **existentialism** into a fashion, a scandal and a way of life.",
+  "sections": [
+    {
+      "heading": "A Philosopher of the Café and the Street",
+      "body": "Jean-Paul Sartre (1905–1980) was born in Paris. His father, a naval officer, died when Jean-Paul was about fifteen months old, and he grew up largely in the home of his maternal grandfather, Charles Schweitzer, a teacher of German, surrounded by books. His childhood memoir, *Words* (1963), describes a bookish boy who decided early that writing would justify his existence.\n\nHe studied at the elite École Normale Supérieure. In 1929 he came first in the national examination for philosophy teachers, the *agrégation*; second place went to a brilliant young woman named Simone de Beauvoir, who became his lifelong partner and intellectual companion (you meet her properly tomorrow, Day 78). They never married or lived together, and they agreed to an open relationship that has fascinated and troubled readers ever since.\n\nA famous story, told by Beauvoir in her memoirs, captures the turning point. Around 1932–33, in a Montparnasse bar, their friend Raymond Aron, back from Germany, pointed to his apricot cocktail and said, in effect, that if you were a phenomenologist you could talk about this cocktail and make philosophy out of it. Sartre was thrilled: here was a way to do philosophy about lived, concrete experience. He went to Berlin in 1933–34 to study Husserl (Day 75), and later read Heidegger (Day 76).\n\nHis novel *Nausea* (1938) followed a lonely man, Roquentin, who is overwhelmed by the sheer, pointless thereness of things: a chestnut tree root, a pebble, his own hand. Then came the war. Sartre was drafted, captured in 1940 and held as a prisoner of war until 1941. Back in occupied Paris he published his enormous philosophical treatise *Being and Nothingness* (1943) and the play *No Exit* (1944). After the Liberation, a public lecture in October 1945, published as *Existentialism Is a Humanism* (1946), was so crowded that people reportedly fainted. Existentialism had arrived."
+    },
+    {
+      "heading": "Existence Precedes Essence",
+      "body": "Sartre's slogan, **existence precedes essence**, is easiest to grasp through his own example from *Existentialism Is a Humanism*: a paper-knife, the blade people once used to open envelopes and uncut book pages.\n\nBefore a craftsman makes a paper-knife, he has an idea of it: what it is for, how it should be shaped, how it is produced. That idea is its **essence**, the set of features that make it the kind of thing it is. For a paper-knife, essence comes first and existence second. The knife exists *in order to* realise a plan someone had.\n\nFor centuries, Sartre says, people thought of human beings the same way. If God created us, then God had an idea of humanity in mind, just as the craftsman had an idea of the knife. Each of us would be the realisation of a divine blueprint, and our task would be to live up to our nature.\n\nSartre, an atheist, draws the opposite conclusion. If there is no God, there is no designer and no blueprint. So for human beings, existence comes first. We first exist, turn up in the world, and only afterwards define ourselves by what we do. There is no human nature that tells me in advance whether I am brave or cowardly, generous or mean. I *become* brave by acting bravely. As Sartre puts it, man is nothing else but what he makes of himself.\n\nRemember Nietzsche's announcement of the death of God (Day 65)? Sartre takes it with full seriousness. Without God, there are no values written in the sky, and no excuses either. Notice that Sartre's claim applies only to humans. A tree or a stone simply is what it is. Only a being with consciousness can stand back from what it is and choose what to become."
+    },
+    {
+      "heading": "Being and Nothingness: Two Kinds of Being",
+      "body": "In *Being and Nothingness* Sartre builds the theory behind the slogan. He distinguishes two basic kinds of being.\n\n**Being-in-itself** (*en-soi*) is the being of things: rocks, tables, inkwells. It is solid, complete and simply what it is. A rock does not wonder about being a rock.\n\n**Being-for-itself** (*pour-soi*) is the being of consciousness. Following Husserl's idea of intentionality (Day 75), Sartre holds that consciousness is always consciousness *of* something; it has no inner contents of its own. It is a kind of openness or gap in the fullness of being. That is why Sartre links consciousness to **nothingness**. Consciousness can always step back, question, imagine what is not, and say no.\n\nHis most famous illustration is about an absence. I arrive at a café to meet my friend Pierre, a quarter of an hour late. I look around: the tables, the customers, the mirrors, the smoke. Pierre is not there. His absence is not one more object in the room, yet it is real to me: the whole café becomes a background against which Pierre fails to appear. Only a consciousness with expectations could bring that particular nothing into the world.\n\nThis gap is also the root of freedom. Because consciousness is never simply identical with what it is, I am never simply identical with my past, my job, my character or my feelings. Sartre's paradoxical formula is that the for-itself is what it is not and is not what it is. In plainer words: I am always more than the facts about me, because I am always choosing what to make of them.\n\nThose facts Sartre calls **facticity**: my body, my birthplace, my past, my social situation, everything about me that is simply given. My capacity to go beyond these facts by projecting myself toward the future he calls **transcendence**. Human existence is a constant tension between the two."
+    },
+    {
+      "heading": "Condemned to Be Free: Anguish and Responsibility",
+      "body": "If there is no human nature and no God, then human beings are radically free. Sartre's striking way of putting this, in *Existentialism Is a Humanism*, is that man is *condemned* to be free: condemned because he did not create himself, yet free because, once thrown into the world, he is responsible for everything he does. We cannot choose not to choose. Refusing to decide is itself a decision.\n\nThis freedom brings **anguish** (*angoisse*), Sartre's version of the anxiety you met in Kierkegaard (Day 64) and Heidegger (Day 76). His example: walking along a narrow path at the edge of a cliff. Fear is fear of falling, of the path crumbling. Anguish is something stranger: the dizzy realisation that nothing actually stops me from throwing myself over. My own freedom, not the cliff, is what makes me tremble.\n\nSartre adds a second, heavier layer of **responsibility**. When I choose, he argues, I am not only choosing for myself; I am implicitly affirming an image of what a human being ought to be. If I marry, I commit not only myself but, in a sense, humanity to monogamy. So I should always ask: what would happen if everyone acted as I am acting? You may hear an echo of Kant's universal law (Day 56). Critics find this hard to square with the rest of his theory, but his point is that every choice makes a statement about human value.\n\nHe illustrates the burden with a real dilemma brought to him by a former student during the Occupation. His brother had been killed in 1940, his father leaned toward collaboration, and his mother lived only for him. Should he escape to England to join the Free French and fight, or stay to care for his mother? No ethical theory, Sartre argued, could decide it for him: Christian charity and Kantian duty pulled both ways. Even choosing an adviser is already a choice, since you know roughly what each adviser will say. Sartre's answer to the student was simply: you are free, so choose, that is, invent.\n\nSartre calls this condition of facing choice without God or human nature to lean on **abandonment**. Yet he insisted existentialism was an optimistic philosophy of action: it puts our destiny in our own hands."
+    },
+    {
+      "heading": "Bad Faith: The Waiter and the Date",
+      "body": "Freedom is hard to bear, so we flee from it. Sartre's name for this flight is **bad faith** (*mauvaise foi*), a kind of self-deception in which we pretend to ourselves that we are not free, or that we are free in a way that ignores the facts. It is not ordinary lying, where I know the truth and hide it from someone else. In bad faith I am both deceiver and deceived, hiding from myself what at some level I know.\n\nNow return to the waiter from the hook. He plays his role so hard that he tries to *be* a waiter in the way a rock is a rock, as if waiting tables were his essence rather than a role he is constantly choosing. Sartre is not mocking waiters as such. The point is that anyone who says *I am just a waiter, I have no choice* is treating facticity as if it were the whole story, denying transcendence.\n\nSartre's second example is a woman on a first date. Her companion says flattering things and then takes her hand. To leave the hand there would be to consent to flirtation; to pull it away would break the charming mood. So she does neither: she leaves her hand in his, but behaves as if it were not hers, a mere thing resting on the table, while she talks brilliantly about lofty ideas. She is pretending that her body is just an object, so that she does not have to decide. Readers today notice that this example ignores the pressures on her; Beauvoir (Day 78) would make such situations a central topic.\n\nBad faith can also run the other way: pretending we are pure transcendence, unconstrained by our past and situation. Someone who says *my past mistakes have nothing to do with who I am* is also in bad faith. Sartre's ideal, which he sometimes calls authenticity, is to hold both truths together: I have a body, a history and a situation, and I am always free to take them up in one way rather than another.\n\nThe common excuses of daily life, *that's just how I am*, *I was only following orders*, *I had no choice*, are, for Sartre, the voice of bad faith."
+    },
+    {
+      "heading": "The Look and “Hell Is Other People”",
+      "body": "Other people complicate freedom. Sartre's famous scene: driven by jealousy, I am crouched at a keyhole, peering into a room. I am wholly absorbed in what I see. Suddenly I hear footsteps in the hall. Someone is looking at me. In an instant I become aware of myself as an object in another person's world: a snoop, a voyeur. I feel **shame**.\n\nSartre calls this **the look** (*le regard*). Under another's gaze, I acquire a self I cannot control, my **being-for-others**. The other person can see me as a coward, a bore, an attractive body, and I cannot simply choose what they see. So, in Sartre's often bleak analysis, human relations become a struggle: each of us tries to be a free subject and to turn the other into an object, or else tries to capture the other's freedom, as he argues lovers do. Hegel's master and slave (Day 59) lurk in the background.\n\nThis is the setting of *No Exit* (1944). Three dead people, Garcin, Inès and Estelle, are shown into a room in hell furnished in the Second Empire style. There are no torturers, no flames, no mirrors, and the lights never go off. Slowly they realise that each is the torturer of the others: each needs the others to see them as they wish to be seen, and each refuses. Garcin, desperate for someone to believe he was not a coward, finally says the line that became famous: *hell is other people*.\n\nThe line is often quoted as if Sartre meant that other people are simply awful. Sartre himself later explained otherwise. His point was that we depend on others' judgments to know ourselves, so if our relations with others are twisted or corrupted, the other can only be hell. The characters are trapped because they have stopped acting; they are dead, so they can no longer change what they were, and must accept others' verdicts. The living, by contrast, can still act and alter the picture."
+    },
+    {
+      "heading": "Engagement, Criticism and Legacy",
+      "body": "After the war Sartre turned increasingly to politics. He founded the journal *Les Temps modernes* in 1945 and argued that writers must be **engaged** (*engagé*), using their words to change society. He moved toward Marxism, for some years defending the Soviet Union, breaking with it over the invasion of Hungary in 1956, opposing French colonial war in Algeria, and later supporting student radicals in 1968. His *Critique of Dialectical Reason* (1960) tried to combine existentialism and Marxism. His quarrel with Albert Camus in 1952 became legendary (Day 79). In 1964 he refused the Nobel Prize for Literature, saying a writer should not let himself be turned into an institution. Tens of thousands followed his funeral in 1980.\n\nThe criticisms matter as much as the ideas:\n\n- **Freedom overstated.** Is a starving worker or a prisoner really as free as Sartre suggests? Maurice Merleau-Ponty argued that freedom is always situated and embodied; Beauvoir pressed similar points. Sartre himself later admitted that his early view of freedom had been too absolute, and gave far more weight to class and history.\n- **No guidance.** If values are simply chosen, what makes one choice better than another? Critics say Sartre's ethics collapses into “anything goes”. Sartre replied that choices must at least be made lucidly and must respect freedom, but he never finished the ethics he promised.\n- **Psychology.** Temperament, genes and upbringing shape us powerfully; many find Sartre's denial of any human nature implausible.\n- **Heidegger's rejection.** Sartre drew heavily on Heidegger, but Heidegger's *Letter on Humanism* (1946) rejected Sartre's reading and his reversal of essence and existence.\n- **Political judgment.** His years of excusing Soviet repression, and later Maoist enthusiasms, damaged his reputation.\n\nYet his central challenge remains hard to dodge. Every time you say *I had no choice*, Sartre asks: really?"
+    }
+  ],
+  "keyQuote": {
+    "text": "Man is condemned to be free.",
+    "source": "Jean-Paul Sartre, Existentialism Is a Humanism (1946)"
+  },
+  "modernConnection": {
+    "title": "“That's Just How I Am”: Personality Labels and Bad Faith",
+    "body": "Few ideas are more popular today than personality types. People introduce themselves as an introvert, an INTJ, a Scorpio, a people-pleaser, a type A. Online quizzes sort us into houses, love languages and attachment styles. Some of these labels are useful shorthand, and some have real scientific backing; the Big Five personality traits, for example, are stable and partly heritable.\n\nSartre would ask a sharp question: what are you *doing* with the label? There is a difference between *I tend to find big parties draining* and *I'm an introvert, so I can't be expected to speak up in meetings*. The first describes your facticity. The second turns it into an essence, a fixed nature that decides for you. That move, Sartre would say, is bad faith: using a description of the past as an excuse about the future. The same pattern appears in *I'm just bad at maths*, *that's my generation*, or *the algorithm made me watch it*.\n\nSartre's ideas also echo in workplace culture. Modern jobs often ask us to perform a role with as much enthusiasm as his waiter: the always-cheerful customer service voice, the personal brand on a professional networking site. Sociologists such as Arlie Hochschild have studied this as emotional labour. Sartre helps us notice the gap between the role and the person playing it, and to ask whether we are choosing the role or hiding in it.\n\nBut the comparison has limits, and they run in Sartre's direction of weakness. Psychology and neuroscience suggest our options really are shaped by temperament, upbringing, illness and circumstance; telling a person with depression that they are simply choosing their mood is cruel and false. Social scientists would add that poverty, discrimination and exhaustion narrow real choices. The fairest lesson is a balanced one, close to what Sartre and Beauvoir eventually arrived at: you are not infinitely free, but you are never merely a label. Within your situation, there is almost always something you can choose."
+  },
+  "vocabulary": [
+    {
+      "term": "Existentialism",
+      "definition": "A twentieth-century philosophical movement focused on individual existence, freedom, choice and responsibility in a world without given meaning.",
+      "example": "Existentialism asks not what humans are in general but how I should live, given that I must choose."
+    },
+    {
+      "term": "Existence precedes essence",
+      "definition": "Sartre's claim that humans first exist and only afterwards define what they are through their choices, because there is no prior design or human nature.",
+      "example": "Unlike a paper-knife, made according to a plan, a person becomes generous only by acting generously: existence precedes essence."
+    },
+    {
+      "term": "Being-for-itself",
+      "definition": "Sartre's term for the being of consciousness, which is never simply what it is and can always question, negate and go beyond its situation; contrasted with being-in-itself, the solid being of things.",
+      "example": "A table is in-itself; the person who can imagine sawing it up for firewood is for-itself."
+    },
+    {
+      "term": "Facticity",
+      "definition": "The given facts of a person's existence that they did not choose, such as body, past, birthplace and social situation.",
+      "example": "Being born in 1905 in Paris was part of Sartre's facticity."
+    },
+    {
+      "term": "Transcendence",
+      "definition": "For Sartre, consciousness's capacity to go beyond its facticity by projecting itself toward future possibilities and choosing what to make of the given.",
+      "example": "An injured athlete who becomes a coach shows transcendence: the injury is a fact, but its meaning is chosen."
+    },
+    {
+      "term": "Anguish",
+      "definition": "The dizzying awareness of one's own freedom and responsibility, in which nothing outside oneself determines what one will do.",
+      "example": "Standing at the cliff edge and realising that nothing stops you from jumping is Sartre's example of anguish."
+    },
+    {
+      "term": "Bad faith",
+      "definition": "Self-deception in which a person flees from their freedom, either by treating themselves as a fixed thing or by ignoring the facts of their situation.",
+      "example": "Saying *I had no choice, it's just my job* about a choice you could have refused can be bad faith."
+    },
+    {
+      "term": "The look",
+      "definition": "Sartre's term for the experience of being seen by another person, which makes me aware of myself as an object in their world and gives me a being-for-others I cannot control.",
+      "example": "The sudden shame of being caught peering through a keyhole is Sartre's illustration of the look."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Catching Yourself in Bad Faith",
+    "prompt": "Use Sartre's ideas to examine your own excuses honestly, and then test whether his view of freedom is too strong.",
+    "steps": [
+      "Write down three sentences you have said recently that begin with or mean *I had no choice*, *that's just how I am* or *I can't*.",
+      "For each, separate the facticity (the real facts of the situation) from the choice (what you could have done differently, even at a cost).",
+      "Pick one and rewrite it in Sartre's language: *I chose to ... because I preferred ... to ...*. How does it feel to own the choice?",
+      "Now argue against Sartre: describe a situation, real or imagined, in which saying *you are free, so choose* would be unfair or cruel.",
+      "Finish with a short paragraph: how free are we, really? Where would you draw the line between facticity and freedom?"
+    ]
+  },
+  "summary": [
+    "Sartre (1905–1980), the leading figure of French existentialism, held that for humans existence precedes essence: without God there is no blueprint, so we make ourselves through our choices.",
+    "Consciousness (being-for-itself) is never simply what it is; it can always negate and transcend its facticity, which is the root of radical freedom.",
+    "We are condemned to be free: freedom brings anguish and a responsibility that, Sartre argued, extends to an image of humanity as a whole.",
+    "Bad faith is self-deception that flees freedom, as in the waiter who plays at being a waiter or the woman who pretends her hand is a mere thing.",
+    "Under the look of others we become objects; “hell is other people” means that twisted dependence on others' judgments can imprison us, not that others are simply bad.",
+    "Critics argue that Sartre overstated freedom, gave too little ethical guidance and underrated psychology and social constraint; he later moderated his views himself."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why does Sartre use the example of a paper-knife?",
+      "options": [
+        "To show that tools are more important than people",
+        "To show that for manufactured objects essence comes before existence, unlike for humans",
+        "To prove that God exists as the craftsman of the world",
+        "To illustrate the experience of anguish"
+      ],
+      "answer": 1,
+      "explanation": "A craftsman has the idea of the knife before making it, so its essence precedes its existence. Sartre argues that without God, humans have no such prior design."
+    },
+    {
+      "type": "mc",
+      "question": "Which statement best expresses “existence precedes essence”?",
+      "options": [
+        "Humans have a fixed nature they must discover and live up to",
+        "Only things that exist have properties",
+        "Biology determines character before birth",
+        "People first exist and then define themselves through their actions"
+      ],
+      "answer": 3,
+      "explanation": "For Sartre there is no human nature given in advance; we become what we are by what we do."
+    },
+    {
+      "type": "tf",
+      "question": "In Sartre's view, refusing to make a decision is a way of escaping freedom altogether.",
+      "answer": false,
+      "explanation": "Sartre holds that we are condemned to be free: not choosing is itself a choice for which we are responsible."
+    },
+    {
+      "type": "mc",
+      "question": "According to Sartre, what is the difference between fear and anguish at the edge of a cliff?",
+      "options": [
+        "Fear is of falling; anguish is the awareness that nothing stops me from choosing to jump",
+        "Fear is rational; anguish is a medical condition",
+        "Fear concerns other people; anguish concerns God",
+        "There is no difference; they are two words for the same feeling"
+      ],
+      "answer": 0,
+      "explanation": "Fear has an external object, such as the crumbling path. Anguish is vertigo before one's own freedom."
+    },
+    {
+      "type": "mc",
+      "question": "A manager says, “I'd love to help you, but rules are rules and I'm just the manager.” He could easily make an exception. Which concept fits best?",
+      "options": [
+        "Transcendence",
+        "The look",
+        "Bad faith",
+        "Being-in-itself"
+      ],
+      "answer": 2,
+      "explanation": "Like the waiter, he treats his role as a fixed essence that decides for him, hiding from himself that he is choosing."
+    },
+    {
+      "type": "mc",
+      "question": "What is Sartre's point about the woman on a date who leaves her hand in her companion's without acknowledging it?",
+      "options": [
+        "She shows that women have no freedom",
+        "She treats her own body as a mere thing so she can avoid making a decision",
+        "She proves that love is impossible",
+        "She is acting authentically by keeping her options open"
+      ],
+      "answer": 1,
+      "explanation": "She separates herself from her hand, pretending it is an object, to postpone a choice. That is bad faith."
+    },
+    {
+      "type": "tf",
+      "question": "In Sartre's play *No Exit*, hell contains no torturers or flames; the three characters torment one another.",
+      "answer": true,
+      "explanation": "The room has no instruments of torture. Each character needs the others' judgment and each is the others' torturer."
+    },
+    {
+      "type": "mc",
+      "question": "What does Sartre's keyhole example illustrate?",
+      "options": [
+        "That jealousy is always irrational",
+        "That consciousness has hidden unconscious contents",
+        "The nothingness of an absent friend",
+        "How the look of another makes me aware of myself as an object and gives me a being-for-others"
+      ],
+      "answer": 3,
+      "explanation": "Hearing footsteps, the voyeur suddenly sees himself through another's eyes and feels shame."
+    },
+    {
+      "type": "tf",
+      "question": "Sartre accepted the Nobel Prize for Literature in 1964 as recognition of existentialism.",
+      "answer": false,
+      "explanation": "He refused it, saying a writer should not allow himself to be turned into an institution."
+    },
+    {
+      "type": "mc",
+      "question": "Which is the strongest version of the objection that Sartre overstated freedom?",
+      "options": [
+        "Freedom is always situated: body, class, history and psychology really limit what choices are open to us",
+        "Sartre was an atheist, so his views cannot be trusted",
+        "People enjoy freedom, so they would never flee from it",
+        "Cafés are not a proper setting for philosophy"
+      ],
+      "answer": 0,
+      "explanation": "Merleau-Ponty, Beauvoir and later Sartre himself stressed that freedom operates within real constraints; the other options are not serious arguments."
+    }
+  ],
+  "goDeeper": {
+    "body": "Two debates are worth pursuing. The first concerns **whether Sartre's ethics can work**. *Existentialism Is a Humanism* claims both that values are invented and that in choosing for myself I choose for all humanity. Critics saw a tension here (Sartre himself later regretted the lecture's publication): how can a choice with no prior standard bind everyone? One influential defence argues that freedom itself is the one value Sartre cannot coherently deny: anyone who lucidly recognises that values come from freedom must respect freedom, including other people's. That line of thought was developed far more carefully by Beauvoir in *The Ethics of Ambiguity* (tomorrow's lesson). Sartre's own notes toward an ethics were published only after his death as *Notebooks for an Ethics*.\n\nThe second debate concerns **who influenced whom**. The traditional story made Sartre the philosopher and Beauvoir the follower. Scholars such as Margaret Simons and Kate and Edward Fullbrook have argued that Beauvoir's novel *She Came to Stay* (1943) and her conversations with Sartre shaped key ideas in *Being and Nothingness*, especially about the look and the struggle between consciousnesses. The truth may be a genuine partnership, but the question is a useful lesson in how intellectual history can overlook women.\n\nFinally, compare Sartre's account of bad faith with Freud. Sartre rejected the idea of an unconscious that deceives us behind our backs; he thought self-deception must be done by consciousness itself. He proposed instead an **existential psychoanalysis**, which looks for a person's fundamental project, the basic choice of self that runs through a life, and applied it in long biographies of Baudelaire, Jean Genet and Gustave Flaubert.",
+    "readings": [
+      {
+        "title": "Existentialism Is a Humanism",
+        "author": "Jean-Paul Sartre",
+        "note": "The short 1945 lecture: the clearest entry point, with the paper-knife and the student's dilemma."
+      },
+      {
+        "title": "Being and Nothingness",
+        "author": "Jean-Paul Sartre",
+        "note": "Huge and difficult. Read Part One, chapter 2 on bad faith (the waiter and the date) and Part Three on the look."
+      },
+      {
+        "title": "No Exit and Three Other Plays",
+        "author": "Jean-Paul Sartre",
+        "note": "*No Exit* reads in under an hour and dramatises being-for-others."
+      },
+      {
+        "title": "At the Existentialist Café",
+        "author": "Sarah Bakewell",
+        "note": "A lively, reliable group biography of Sartre, Beauvoir, Camus, Heidegger and their circle."
+      }
+    ],
+    "questions": [
+      "Is there anything about you that is truly fixed, an essence you did not choose? How do you know?",
+      "Can a philosophy of radical freedom tell us which choices are better than others?",
+      "Is the waiter really in bad faith, or is wholeheartedly playing a role sometimes a good way to live?"
+    ]
+  }
+}

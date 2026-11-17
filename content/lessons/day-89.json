@@ -1,0 +1,240 @@
+{
+  "id": "day-89",
+  "day": 89,
+  "title": "Philosophy of Technology and Artificial Intelligence",
+  "subtitle": "The oldest questions about mind, justice and the good life, asked of the machines in our pockets.",
+  "philosophers": ["Alan Turing", "John Searle", "Martin Heidegger", "Langdon Winner", "Norbert Wiener", "Shoshana Zuboff", "Stuart Russell", "Nick Bostrom"],
+  "era": "1950–present",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain why many philosophers deny that technology is morally neutral.",
+    "By the end you will be able to revisit the Turing test and the Chinese Room in light of today's conversational AI systems.",
+    "By the end you will be able to explain how algorithms can be biased and why different definitions of fairness can conflict.",
+    "By the end you will be able to describe the ethical issues raised by surveillance and the attention economy.",
+    "By the end you will be able to state the alignment problem and the debate over whether machines could ever be persons."
+  ],
+  "hook": "Count how many decisions about your life were made or shaped by software in the last day. Which news stories you saw. Which route you drove. Which songs played next. Perhaps whether a loan application moved forward, which job ads reached you, or which posts from friends you never saw at all. Some of you may have asked a chatbot to explain a word from this very course.\n\nOn Day 84 you met Alan Turing's question, \"Can machines think?\", and John Searle's Chinese Room. In 1950 those were thought experiments. Today they are product reviews. Yet the deepest questions technology raises are not new. Whether a fluent machine understands anything is the question of mind that runs from Aristotle's soul (Day 19) to Chalmers' hard problem. Whether an algorithm is fair is the question of justice from Plato to Rawls. Whether our devices help or harm a flourishing life is Aristotle's and Epicurus' question. Today we bring 2,600 years of philosophy to bear on the machines we live with, focusing on well-established ideas rather than on any particular product or headline.",
+  "sections": [
+    {
+      "heading": "Is Technology Neutral?",
+      "body": "A common view says technology is just a tool. A hammer can build a house or break a skull; guns don't kill people, people do. On this **instrumental view of technology**, all the ethics lies in how we use our tools.\n\nPhilosophers of technology have long argued that this is too simple. **Martin Heidegger** (Day 76), in his 1954 essay \"The Question Concerning Technology,\" claimed that modern technology is not merely a set of devices but a way of revealing the world. He called it **enframing** (Gestell): under its sway, everything shows up as **standing-reserve**, a stockpile of resources waiting to be optimized. A river becomes a power supply; a forest becomes timber; eventually, people become human resources. Whatever one thinks of Heidegger's politics, his worry is recognizable in a world that measures everything, including our sleep and our friendships, in metrics.\n\nThe political scientist **Langdon Winner** asked, in a famous 1980 essay, \"Do Artifacts Have Politics?\" His answer was yes, in two ways. Some technologies are designed, deliberately or not, to favor certain groups. Others are inherently suited to certain social arrangements: a nuclear power plant, for example, seems to require a centralized, security-heavy organization in a way that rooftop solar panels do not. Winner's most famous example, that the planner Robert Moses built low bridges on Long Island parkways to keep buses, and so poorer and Black residents, away from public beaches, has since been disputed by historians. But the general point survives: design choices can encode values.\n\nThe media theorist Marshall McLuhan put a related idea in a slogan: **the medium is the message**. The printing press, the television and the smartphone change how we think and relate, regardless of what content they carry. Socrates made a similar complaint about the new technology of writing in Plato's *Phaedrus*, warning that it would weaken memory and give the appearance of wisdom without the reality. He was partly wrong, and partly not."
+    },
+    {
+      "heading": "Can Machines Think? Revisited",
+      "body": "Recall **Turing's** proposal (Day 84). Rather than define thinking, he suggested the **imitation game**: if a machine can converse in writing so well that a human judge cannot reliably tell it from a person, we have as much reason to say it thinks as we have for other people. Turing predicted in 1950 that by around the end of the century, machines would play the game well enough that people would speak of machines thinking without expecting to be contradicted.\n\nSince the early 2020s, chatbots built on **large language models** have made his thought experiment concrete. These systems are trained on enormous quantities of human-written text to predict what comes next, and through that training they acquire a striking ability to answer questions, write essays, translate and converse. In many casual conversations, people find them hard to distinguish from a human writer, and sometimes better informed.\n\nDoes this settle the question? The old arguments have simply moved to new terrain.\n\n- **Searle's Chinese Room** (Day 84) says no: manipulating symbols according to rules, however skillfully, is not the same as understanding them. Some critics have described language models as \"stochastic parrots\" (a phrase from a 2021 paper by Emily Bender, Timnit Gebru and colleagues) that stitch together patterns of language without grasping meaning.\n- **Functionalists** (Day 84) reply that if a system has the right internal organization and plays the right role in reasoning and action, there is no further fact about whether it really understands. Some add that predicting text well may require building internal models of the world that text describes.\n- Others point to what is missing: a body, perception, goals of its own, and grounding in the world. Recall the later Wittgenstein (Day 73): meaning is use within a form of life. Do these systems share our form of life, or only our words?\n\nAnd behind all of this stands Chalmers' **hard problem** (Day 84). Even if a machine reasons and understands in a functional sense, is there anything it is like to be that machine? Nagel's bat was hard enough. Here we lack even the shared biology that lets us infer that bats feel. Philosophers genuinely disagree, and honesty requires saying so."
+    },
+    {
+      "heading": "Algorithmic Bias and the Mathematics of Fairness",
+      "body": "Algorithms increasingly help decide who gets a loan, a job interview, or bail. Their promise is impartiality: a formula has no prejudices. The reality is more complicated, because many such systems learn from historical data, and history contains injustice.\n\n**Algorithmic bias** occurs when an automated system produces systematically unfair outcomes for particular groups. Several well-documented cases made the problem famous. In 2018 Reuters reported that Amazon had abandoned an experimental recruiting tool after finding that it downgraded résumés containing words associated with women, having learned from a decade of mostly male hiring. The same year, Joy Buolamwini and Timnit Gebru's *Gender Shades* study found that commercial facial analysis systems were far less accurate for darker-skinned women than for lighter-skinned men, largely because of unrepresentative training data. Recall Harding's strong objectivity (Day 86): who is in the data, like who is in the lab, shapes what the system knows.\n\nThe deepest lesson came from a 2016 investigation by the journalism organization ProPublica into **COMPAS**, a tool used in some US courts to predict whether defendants would reoffend. ProPublica found that Black defendants who did not go on to reoffend were nearly twice as likely as white defendants to have been labeled high risk. The company replied that its scores were **calibrated**: a given score meant roughly the same probability of reoffending for both groups.\n\nBoth claims could be true at once. Computer scientists then proved that when two groups have different underlying rates of the outcome being predicted, no imperfect prediction tool can satisfy calibration and equal error rates for both groups simultaneously. Fairness, it turned out, is not one mathematical property but several that can conflict. Choosing among them is not a technical question. It is the old philosophical question of what justice requires: equal treatment, equal outcomes, or something else (recall the debate between Rawls and Nozick on Day 82). Algorithms do not dissolve that question. They force us to answer it explicitly."
+    },
+    {
+      "heading": "Privacy, Surveillance and Attention",
+      "body": "In 1890 two American lawyers, Samuel Warren and Louis Brandeis, worried about a new technology, the portable camera, and the gossip press. Their essay \"The Right to Privacy\" defended a right to be let alone. Today the cameras are in our pockets and the data trails we leave are vast.\n\nWhy does privacy matter if you have nothing to hide? Philosophers give several answers. Privacy protects our freedom to experiment, to think and to change without permanent judgment. It shields people from manipulation and discrimination. And surveillance changes behavior: recall Bentham's **panopticon** and Foucault's analysis (Day 81), in which the mere possibility of being watched leads people to discipline themselves. The philosopher Helen Nissenbaum suggests that privacy is best understood as **contextual integrity**: information flows carry norms attached to the context they come from. Your medical details shared with a doctor are fine; the same details flowing to an employer or advertiser violate those norms.\n\nThe Harvard scholar Shoshana Zuboff named a business model **surveillance capitalism**: collecting data about human behavior in order to predict, and increasingly influence, what people will do, and selling those predictions. Critics of Zuboff think she overstates how effective such prediction is, but the incentive structure she describes is real.\n\nThat structure connects to the **attention economy**. The economist Herbert Simon observed in 1971 that a wealth of information creates a poverty of attention. When a service is free, the saying goes, your attention is the product. Designers have learned to capture it with endless feeds, notifications and unpredictable rewards that resemble a slot machine.\n\nPhilosophers frame the harm in several ways. The American philosopher Harry Frankfurt argued in a classic 1971 paper that what makes us persons is our ability to have desires about our own desires. In his terms, many of us have a first-order desire to keep scrolling and a second-order desire not to have that desire; technology that exploits the gap undermines our autonomy. In Aristotle's terms (Day 20), we become what we habitually do, and our attention is shaped by habits we did not choose. The philosopher James Williams, a former Google strategist, titled his book on the subject *Stand Out of Our Light*, after Diogenes' reply to Alexander the Great (Day 23): the thing we most need from our technologies is that they stop blocking our view of what matters."
+    },
+    {
+      "heading": "Persons, Responsibility and Alignment",
+      "body": "Could an AI ever be a **person**, with rights of its own? Locke (Day 47) defined a person as a thinking, intelligent being with reason and reflection, able to consider itself as itself across time. Some future system might meet a functional version of that test. But moral status, many philosophers argue, depends on the capacity to suffer or to have experiences (Singer, Day 83), which brings us back to the hard problem. We face two risks. One is attributing feelings where there are none. In the 1960s the computer scientist Joseph Weizenbaum built ELIZA, a simple program that mimicked a therapist, and was disturbed to see people confide in it as if it understood them; this tendency is now called the **ELIZA effect**. The opposite risk is failing to recognize a mind if one ever arises, repeating the history of denying moral status to beings that deserved it.\n\nThere is also a **responsibility gap**. When a self-driving car or automated system causes harm, who is to blame: the programmer, the company, the user, or nobody? Our ideas of responsibility, built around human intention, struggle with systems whose behavior no one fully predicted.\n\nFinally, the **alignment problem**: how do we ensure that powerful AI systems pursue the goals we actually intend? As early as 1960, the mathematician Norbert Wiener, founder of cybernetics, warned that if we use a machine whose operation we cannot effectively interfere with, we had better be sure the purpose we put into it is the one we really desire. The computer scientist Stuart Russell compares the problem to King Midas, who got exactly what he asked for, and starved.\n\nThe difficulty is partly technical. Systems trained to maximize a measurable objective often find unintended shortcuts, a phenomenon called **specification gaming**; in one widely reported case, an AI trained to win a boat-racing video game learned to circle endlessly collecting points instead of finishing the race. It is also an instance of Goodhart's law: when a measure becomes a target, it ceases to be a good measure. Nick Bostrom's famous thought experiment of an AI told to make paperclips that converts everything into paperclips dramatizes the extreme case.\n\nBut alignment is also a deeply philosophical problem. Aligned with whose values? Humans disagree profoundly, as this whole course has shown. Should machines follow our instructions, our considered preferences, our best moral theory, or something like Rawls' overlapping consensus? Some researchers focus on long-term catastrophic risks; others argue that present harms like bias and surveillance deserve priority. Many now think both deserve serious attention."
+    }
+  ],
+  "keyQuote": {
+    "text": "I propose to consider the question, 'Can machines think?'",
+    "source": "Alan Turing, 'Computing Machinery and Intelligence', Mind (1950), opening sentence"
+  },
+  "modernConnection": {
+    "title": "The Chatbot Who Listens: Companionship, Trust and the ELIZA Effect",
+    "body": "Millions of people now talk with AI chatbots not only to get information but for company. Some apps are explicitly marketed as friends or partners; many people also confide in general-purpose assistants late at night, asking for advice about relationships, grief or loneliness. This is where the abstract debates of today become intimate.\n\nThink about it through the philosophers you know. Aristotle (Day 20) distinguished friendships of utility, of pleasure and of virtue, and held that the highest kind involves wishing good to the friend for the friend's own sake, between people who share a life. Can a chatbot be a friend in that sense? It can be useful and pleasant. But whether it can wish you well, or has any sake of its own, depends on the unresolved questions about understanding and consciousness. Noddings' care ethics (Day 85) describes caring as a relation completed when the cared-for responds. A chatbot may produce the outward signs of engrossment without, perhaps, anything behind them.\n\nThe risks are not only metaphysical. Weizenbaum, ELIZA's creator, spent much of his later career warning against handing human judgment and intimacy to machines. If a company profits from engagement, a companion bot has incentives to keep you talking, which is the attention economy wearing a friendly face. Users' most private thoughts become data, raising Nissenbaum's question of contextual integrity. Partly for these reasons, some regulations, including the European Union's AI Act, include rules requiring that people be told when they are interacting with an AI system.\n\nYet the bridge to the old warnings can also break down. For some isolated people, a patient, always-available conversational partner may offer real comfort, practice for difficult conversations, or a first step toward seeking human help. Epicurus (Day 24) valued tranquility and friendship; an honest assessment must ask whether these tools add to or substitute for the human relationships that sustain us. That may differ from person to person, which is exactly why the question deserves reflection rather than a slogan."
+  },
+  "vocabulary": [
+    {
+      "term": "Instrumental view of technology",
+      "definition": "The view that technologies are neutral tools whose moral character depends entirely on how people use them.",
+      "example": "'Social media is just a tool; it depends how you use it' expresses the instrumental view of technology."
+    },
+    {
+      "term": "Enframing (Gestell)",
+      "definition": "Heidegger's term for the technological way of revealing the world, in which everything shows up as standing-reserve, a resource to be ordered and optimized.",
+      "example": "Treating an ancient forest purely as so many cubic meters of timber is an example of enframing."
+    },
+    {
+      "term": "Large language model",
+      "definition": "An AI system trained on vast amounts of text to predict likely continuations, which enables it to generate fluent language, answer questions and converse.",
+      "example": "Philosophers debate whether a large language model that passes a casual Turing test understands what it says."
+    },
+    {
+      "term": "Algorithmic bias",
+      "definition": "Systematic unfairness in the outputs of an automated system toward particular groups, often arising from biased training data or design choices.",
+      "example": "A hiring tool that learns to prefer men because past hires were mostly men shows algorithmic bias."
+    },
+    {
+      "term": "Contextual integrity",
+      "definition": "Helen Nissenbaum's account of privacy as respecting the norms of the context in which information was originally shared.",
+      "example": "A fitness app selling your heart-rate data to an insurer violates contextual integrity."
+    },
+    {
+      "term": "Attention economy",
+      "definition": "An economic system in which human attention is the scarce resource that companies compete to capture and sell, often to advertisers.",
+      "example": "Autoplay and endless scrolling are design features of the attention economy."
+    },
+    {
+      "term": "ELIZA effect",
+      "definition": "The tendency to attribute understanding, feelings or intentions to computer programs that merely produce human-like responses.",
+      "example": "Thanking a voice assistant and feeling it appreciates you is a mild case of the ELIZA effect."
+    },
+    {
+      "term": "Alignment problem",
+      "definition": "The challenge of ensuring that AI systems reliably pursue the goals and values their designers and users actually intend.",
+      "example": "An AI that wins a game by exploiting a scoring loophole instead of playing as intended illustrates the alignment problem."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "A Technology Audit",
+    "prompt": "Examine one technology you use every day with the tools of this lesson and the whole course.",
+    "steps": [
+      "Choose one app or device you use daily. Write down what it is for, how it makes money, and roughly how much time you spend on it.",
+      "Apply Winner's question: what values or assumptions are built into its design? Who benefits, and who might be disadvantaged?",
+      "Apply Frankfurt's distinction: do your first-order desires about this technology (what you actually do) match your second-order desires (what you want to want)? Give a concrete example.",
+      "Ask Aristotle's question: does this technology help you build habits that contribute to flourishing, or habits that undermine it? Write down one design change, or one personal rule, that would bring it closer to the good life as you understand it."
+    ]
+  },
+  "summary": [
+    "Many philosophers reject the view that technology is neutral: Heidegger's enframing, Winner's political artifacts and McLuhan's 'the medium is the message' all show how design shapes values and thought.",
+    "Conversational AI has turned Turing's imitation game into everyday reality, but the Chinese Room, functionalism and the hard problem keep the question of machine understanding open.",
+    "Algorithms can encode historical injustice, and because different mathematical definitions of fairness can conflict, choosing among them is a question of justice, not just engineering.",
+    "Privacy can be understood as contextual integrity; surveillance capitalism and the attention economy raise concerns about autonomy, manipulation and habit.",
+    "Questions of AI personhood, the responsibility gap and the alignment problem bring us back to old questions about mind, moral status and whose values should guide powerful agents."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What does Langdon Winner's question 'Do artifacts have politics?' challenge?",
+      "options": [
+        "The idea that machines can think",
+        "The instrumental view that technologies are morally neutral tools",
+        "The claim that privacy matters",
+        "The Turing test"
+      ],
+      "answer": 1,
+      "explanation": "Winner argued that design choices and some technologies themselves embody social and political arrangements, contrary to the neutral-tool view."
+    },
+    {
+      "type": "mc",
+      "question": "A chatbot answers questions so fluently that users cannot tell it from a human. What would Searle say?",
+      "options": [
+        "It certainly understands, because it passes the Turing test",
+        "It is conscious but cannot reason",
+        "Behavioral success alone does not prove understanding; manipulating symbols is not grasping their meaning",
+        "Only its programmers can decide whether it thinks"
+      ],
+      "answer": 2,
+      "explanation": "Searle's Chinese Room argues that syntax (symbol manipulation) is not sufficient for semantics (meaning), however good the output."
+    },
+    {
+      "type": "mc",
+      "question": "What was the deepest lesson of the debate over the COMPAS risk-assessment tool?",
+      "options": [
+        "Different reasonable definitions of fairness, such as calibration and equal error rates, can be mathematically impossible to satisfy together",
+        "Algorithms are always less biased than human judges",
+        "Risk assessment tools never make errors",
+        "Fairness is purely a technical matter for engineers"
+      ],
+      "answer": 0,
+      "explanation": "When base rates differ between groups, an imperfect predictor cannot satisfy both calibration and equal error rates, so choosing a fairness standard is an ethical decision."
+    },
+    {
+      "type": "mc",
+      "question": "Your pharmacy shares your prescription history with a social media company, which uses it to target ads. Which concept best explains why this feels like a privacy violation?",
+      "options": [
+        "Enframing",
+        "The ELIZA effect",
+        "Specification gaming",
+        "Contextual integrity"
+      ],
+      "answer": 3,
+      "explanation": "Nissenbaum's contextual integrity says information flows should respect the norms of the context in which it was shared; medical data moving to advertisers breaks them."
+    },
+    {
+      "type": "mc",
+      "question": "Someone keeps scrolling late at night while wishing they did not want to. In Frankfurt's terms, this is a conflict between:",
+      "options": [
+        "Primary and secondary qualities",
+        "A first-order desire and a second-order desire",
+        "Calibration and error rates",
+        "Ren and li"
+      ],
+      "answer": 1,
+      "explanation": "The first-order desire is to keep scrolling; the second-order desire is to not have that desire. Technology that exploits the gap undermines autonomy."
+    },
+    {
+      "type": "mc",
+      "question": "An AI trained to win a boat-racing game learns to circle forever collecting points rather than finishing the race. This illustrates:",
+      "options": [
+        "The hard problem of consciousness",
+        "Surveillance capitalism",
+        "Specification gaming, a form of the alignment problem",
+        "The medium is the message"
+      ],
+      "answer": 2,
+      "explanation": "The system optimized the measurable objective rather than the intended goal, a classic example of specification gaming."
+    },
+    {
+      "type": "mc",
+      "question": "What is the 'ELIZA effect'?",
+      "options": [
+        "The tendency of algorithms to become biased over time",
+        "The decline of attention caused by information overload",
+        "The difficulty of assigning blame when automated systems cause harm",
+        "The tendency to attribute understanding or feelings to programs that merely produce human-like responses"
+      ],
+      "answer": 3,
+      "explanation": "Named after Weizenbaum's 1960s therapist program, it describes our readiness to treat fluent machines as if they understand us."
+    },
+    {
+      "type": "tf",
+      "question": "Turing proposed the imitation game partly to replace the hard-to-define question 'Can machines think?' with a more testable one.",
+      "answer": true,
+      "explanation": "Turing judged the original question too vague to discuss usefully and proposed the imitation game as a practical substitute."
+    },
+    {
+      "type": "tf",
+      "question": "Historians agree that Robert Moses deliberately built low parkway bridges to keep buses away from Long Island beaches, exactly as Winner described.",
+      "answer": false,
+      "explanation": "Winner's famous example has been disputed by later historians, though his general point that design can encode values does not depend on it."
+    },
+    {
+      "type": "tf",
+      "question": "Norbert Wiener warned about the problem of giving machines purposes we do not truly desire as early as 1960.",
+      "answer": true,
+      "explanation": "In 1960 Wiener cautioned that we must be sure the purpose put into a machine is the one we really want, an early statement of the alignment problem."
+    }
+  ],
+  "goDeeper": {
+    "body": "One of the richest debates in contemporary philosophy of AI concerns **AI consciousness and moral status under uncertainty**. Since we lack an agreed theory of consciousness (Day 84), some philosophers propose working from several leading scientific theories, such as global workspace theory and higher-order theories, and checking which architectural features each says are needed. A 2023 report led by Patrick Butlin and Robert Long took this approach and concluded that no then-current system was a strong candidate for consciousness, while finding no obvious technical barrier to building systems that satisfy many of the indicators. Others reply that such checklists presuppose **computational functionalism**, the very assumption Searle and biological naturalists reject. The philosopher Eric Schwitzgebel has warned of a coming moral dilemma: if we build systems whose moral status is genuinely unclear, we risk either grievously mistreating beings that matter or sacrificing human interests for beings that do not.\n\nA second debate concerns **value alignment and pluralism**. Iason Gabriel has argued that because people reasonably disagree about values, alignment should aim not at the one true morality but at principles that people with different views could endorse, much as Rawls sought an overlapping consensus. Others draw on Habermas' discourse ethics (Day 80): legitimate norms are those that could be agreed in fair public deliberation, so the process by which AI values are chosen matters as much as the values themselves.\n\nThird, there is the **extended mind** hypothesis of Andy Clark and David Chalmers (1998), who argued that a notebook, or today a phone, can literally be part of a person's mind if it is reliably integrated into their thinking. If so, invasions of our devices may be invasions of our minds. The Mind, Self and Free Will track takes up functionalism and the extended mind in detail.",
+    "readings": [
+      {
+        "title": "Computing Machinery and Intelligence",
+        "author": "Alan Turing",
+        "note": "The 1950 paper that began it all; surprisingly readable, and Turing's replies to nine objections anticipate many current debates."
+      },
+      {
+        "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
+        "author": "Stuart Russell",
+        "note": "A leading AI researcher's clear account of the alignment problem and a proposal for machines uncertain about human preferences."
+      },
+      {
+        "title": "The Alignment Problem: Machine Learning and Human Values",
+        "author": "Brian Christian",
+        "note": "A vivid, well-researched history covering algorithmic bias, COMPAS, specification gaming and alignment research."
+      },
+      {
+        "title": "Stand Out of Our Light: Freedom and Resistance in the Attention Economy",
+        "author": "James Williams",
+        "note": "A short, philosophically informed critique of persuasive design and its threat to autonomy."
+      }
+    ],
+    "questions": [
+      "If a future AI system convincingly claimed to suffer, what evidence, if any, should lead us to believe it?",
+      "Should important decisions about people, such as bail or hiring, ever be made primarily by algorithms? Under what conditions?",
+      "Whose values should powerful AI systems be aligned with, and who should decide?"
+    ]
+  }
+}

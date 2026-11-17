@@ -1,0 +1,193 @@
+{
+  "id": "day-44",
+  "day": 44,
+  "title": "Descartes II: God, Mind and Body",
+  "subtitle": "How a lonely thinking thing proves God, regains the world and splits itself in two",
+  "philosophers": ["René Descartes", "Elisabeth of Bohemia"],
+  "era": "1641–1650",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain Descartes' trademark argument and his version of the ontological argument for God's existence.",
+    "Describe the problem of the Cartesian circle and Descartes' attempted reply.",
+    "Explain mind-body dualism and the main arguments Descartes gave for it.",
+    "Reconstruct Elisabeth of Bohemia's interaction problem and assess Descartes' answers, including the pineal gland.",
+    "Trace how later thinkers, from Spinoza to modern neuroscience, responded to Cartesian dualism."
+  ],
+  "hook": "At the end of Day 43 we left René Descartes in an odd position. He was absolutely certain of one thing: that he existed as a thinking thing. Everything else, his body, the fire in front of him, other people, the whole physical universe, was still under suspicion. A demon might be inventing it all.\n\nHow do you get out of your own head? Descartes' answer was surprising, even to many of his admirers. The bridge from the mind to the world, he argued, is God. If a perfect God exists, he would not let us be deceived about what we perceive clearly and distinctly. Prove God, and the world comes back.\n\nBut the world came back in a strange shape. When Descartes rebuilt reality, he found it split into two utterly different kinds of thing: minds, which think but take up no space, and bodies, which take up space but cannot think. That split, called dualism, made sense of a great deal. It also created a puzzle so stubborn that it is still with us, and the person who stated it most sharply was a twenty-four-year-old princess in exile.",
+  "sections": [
+    {
+      "heading": "The Trademark Argument: An Idea Too Big for Me",
+      "body": "In the Third Meditation, Descartes looks around inside his mind, the only place he can be sure of, and takes inventory of his ideas. He sorts them into three kinds: some seem to be born with me (**innate ideas**), some seem to come from outside (**adventitious ideas**, like the sensation of heat from a fire), and some I make up myself (**invented ideas**, like a mermaid or a golden mountain).\n\nAmong his ideas he finds one that is special: the idea of God, a being who is infinite, eternal, all-knowing, all-powerful and perfect. Where could such an idea come from?\n\nDescartes appeals to a principle he thinks is evident by the natural light of reason: there must be at least as much reality in a cause as in its effect. Something cannot come from nothing, and the more perfect cannot come from the less perfect. A child's drawing of a cathedral is easy to explain; a detailed architectural plan for a cathedral demands an explanation that involves real architectural knowledge somewhere along the line.\n\nApply this to ideas. As mental events, all ideas are equal. But in what they *represent*, ideas differ enormously. My idea of a pebble represents something small and finite; my idea of God represents something infinite and perfect. Descartes argues that I, a finite, doubting, imperfect being, could not be the source of an idea of infinite perfection. (Indeed, the fact that I doubt shows I am imperfect, and I could only recognize my imperfection by comparison with an idea of the perfect.) Nor could the idea come from my parents or other finite things. Only a being that actually has all those perfections could have caused it. So God exists.\n\nAnd where did the idea get into me? God placed it there at my creation. In one of his most memorable images, Descartes says it is no surprise that God should have put this idea in me to be, as it were, the mark of the craftsman stamped on his work. That is why this proof is called the **trademark argument**.\n\nCritics immediately asked whether we really have a positive idea of infinity, or only the negative idea of the finite plus the thought of no limit. Hobbes, in his objections, denied that he had any idea of God at all, only the word. And the causal principle itself, though it sounds plausible, is not obviously true for ideas: we routinely form ideas of things far greater than ourselves."
+    },
+    {
+      "heading": "A Second Proof, Human Error and the Return of the World",
+      "body": "In the Fifth Meditation Descartes offers a different proof, a version of the **ontological argument** we met with Anselm on Day 34. Just as I cannot think of a triangle without its angles adding up to two right angles, or of a mountain without a valley, I cannot think of a supremely perfect being that lacks existence, since existence is a perfection. So existence belongs to God's very essence: God necessarily exists. Kant (Day 55) will later attack this by arguing that existence is not a property like being triangular.\n\nIf God is perfect, God is no deceiver, because deception springs from some defect. But then why do I ever make mistakes? The Fourth Meditation offers a theory of error. My intellect, my power to understand, is limited; my **will**, my power to affirm or deny, is unlimited, in a sense the most God-like thing about me. Error arises when I let my will run ahead of my intellect, affirming things I do not clearly and distinctly perceive. The fault is mine, not God's. The cure is discipline: assent only to what is clear and distinct. This echoes Augustine's free-will account of evil (Day 30) applied to belief.\n\nNow, in the Sixth Meditation, Descartes regains the physical world. I find in myself a passive ability to receive sensations, and a strong natural inclination to believe that they come from bodies. If they did not, and God had given me this inclination anyway, God would be a deceiver. So bodies exist.\n\nBut notice what kind of bodies return. Not the colorful, fragrant, noisy world of the senses, but bodies as the mathematical physicist understands them: things with size, shape and motion, which Descartes calls **extension**. Colors, sounds and tastes are, as Galileo said (Day 41), effects in the mind. The senses are reliable guides to what is useful or harmful to the body, but the intellect alone tells us what bodies really are. Descartes has rebuilt the world, and it is precisely the world of the new mechanical science."
+    },
+    {
+      "heading": "The Cartesian Circle",
+      "body": "Many readers smelled a problem at once. The theologian Antoine Arnauld stated it in the fourth set of objections to the *Meditations*, and it has been called the **Cartesian circle** ever since.\n\nHere is the difficulty. Descartes says:\n\n1. I can be sure that whatever I clearly and distinctly perceive is true, *only because* I know that God exists and is no deceiver.\n2. But I can be sure that God exists *only because* I clearly and distinctly perceive the steps of the proof.\n\nThat looks like a circle: the reliability of clear and distinct perception is used to prove God, and God is used to guarantee the reliability of clear and distinct perception. It is like a man who, asked why you should trust him, replies: because I'm honest, and you can trust me about that.\n\nDescartes replied that there is no circle, because of a distinction between two situations. While I am actually attending to a clear and distinct perception, such as the cogito, I cannot doubt it; my mind is compelled to assent. What God guarantees is not those present perceptions but my *memory* of having clearly perceived something, once my attention has moved on. Without God, I could later wonder whether I had been deceived about conclusions I proved last week. With God, I can rely on my past demonstrations and build a lasting science.\n\nIs this a good reply? Scholars disagree. Some think it works, at least partly. Others point out that the proof of God is long and complicated, so it cannot all be held in one moment of attention, and the circle returns. Still others think Descartes' real aim was never to answer a skeptic who doubts reason itself, which may be impossible without using reason, but to show that reason, used carefully, is internally consistent and self-supporting.\n\nThe circle reveals a deep problem for any foundationalist project (Day 43): if you doubt the very tools you use to reason, you have nothing left to reason with. It is a problem we will meet again with Hume's questioning of induction (Day 49)."
+    },
+    {
+      "heading": "Two Kinds of Thing: Mind and Body",
+      "body": "The Sixth Meditation also delivers Descartes' most famous and most controversial conclusion: **substance dualism**, the view that reality contains two fundamentally different kinds of **substance** (independent thing). There is mind, or thinking substance (*res cogitans*), whose essence is thought and which has no size, shape or location. And there is body, or extended substance (*res extensa*), whose essence is extension in space and which cannot think. You are a mind joined to a body, but the real you, the I of the cogito, is the mind.\n\nDescartes gives two main arguments.\n\n- **The conceivability argument.** I can clearly and distinctly conceive of myself as a thinking thing without a body, and of a body as an extended thing that does not think. Whatever I can clearly and distinctly conceive apart, God could create apart. So mind and body are really distinct; my mind could exist without my body. Remember Avicenna's floating man (Day 32), who knows he exists without any awareness of his body? Descartes' argument is in the same family.\n- **The divisibility argument.** Every body can be divided into parts. But I cannot divide my mind; I cannot distinguish any parts within myself, as a thing that thinks. It is one and the same mind that wills, senses and understands. If you lose a foot, nothing is taken away from the mind. So mind and body have opposite natures.\n\nThe consequences were large. Since the body is a machine, science can study it mechanically, without souls or purposes; and since the mind is not physical, it can survive the body's death.\n\nThe flip side is that animals, which Descartes thought lacked minds, are mere machines. In the *Discourse* (Part 5) he proposed two tests for telling a real mind from a machine: no machine could arrange words flexibly to reply meaningfully to whatever is said in its presence, and no machine could act intelligently across the endless variety of life's situations. These tests anticipate the Turing test (Day 84). Whether Descartes thought animals feel nothing at all is debated, but his followers' views were used to justify cruel experiments.\n\nDescartes did insist that mind and body are closely united. I am not lodged in my body merely as a sailor is in a ship, he wrote. If I were, I would notice damage to my body intellectually, the way a sailor sees a hole in the hull. Instead, I *feel* pain and hunger; mind and body are intermingled into a kind of unit. But how?"
+    },
+    {
+      "heading": "Elisabeth of Bohemia's Challenge",
+      "body": "In May 1643 Descartes received a letter from **Elisabeth of Bohemia** (1618–1680). She was the daughter of Frederick V, the Elector Palatine, who had been briefly king of Bohemia before being driven out at the start of the Thirty Years' War, and of Elizabeth Stuart, daughter of King James I of England. The family lived in exile in The Hague. Elisabeth was formidably learned, especially in mathematics, and had read the *Meditations* closely.\n\nHer question was short and devastating. How, she asked, can the soul of a human being, which is only a thinking substance, determine the bodily spirits to perform voluntary actions? Every movement of a body, she reasoned, seems to happen by pushing, which requires contact, and contact requires a surface and extension. But Descartes had defined the mind as entirely unextended. So how can something with no size, shape or location push anything?\n\nThis is the **interaction problem**, and it remains the classic objection to substance dualism. Descartes needs mind and body to interact constantly: I decide to raise my arm, and it rises; a pin pricks my finger, and I feel pain. But he has defined them in a way that seems to make interaction impossible.\n\nDescartes' replies were gracious but evasive. He suggested that the union of mind and body is a **primitive notion**, a basic idea that cannot be explained in terms of other ideas, just as extension and thought are. We understand it not through metaphysics but through the senses and ordinary life. He even advised her not to spend too much time on metaphysics, remarking that he devoted only a few hours a year to thoughts that occupy the intellect alone. He also compared the mind's action on the body to the way people of his time thought of heaviness acting on a stone.\n\nElisabeth was not persuaded. She replied that it would be easier for her to concede matter and extension to the soul than to concede that an immaterial being could move a body and be moved by it. In other words, she found materialism more plausible than Descartes' answer.\n\nTheir correspondence continued until Descartes' death in 1650, ranging over physics, the passions, grief, politics and Machiavelli (Day 39). He dedicated his *Principles of Philosophy* (1644) to her, and their exchanges helped shape *The Passions of the Soul* (1649). For centuries Elisabeth was remembered mainly as Descartes' admirer. Today she is recognized as one of his most penetrating critics, and as a philosopher in her own right."
+    },
+    {
+      "heading": "The Pineal Gland and the Fate of Dualism",
+      "body": "Descartes did offer a physical location for the meeting of mind and body: the **pineal gland**, a small structure deep in the center of the brain. Why there? Most parts of the brain come in pairs, left and right, but we have one unified experience, so he reasoned that the soul's seat must be single. He also believed the gland hung among the brain's fluid-filled cavities, where it could be nudged by, and could nudge, the **animal spirits**, a fine, fast-moving fluid that he thought flowed through the nerves and worked the muscles like a hydraulic system.\n\nThis answer is fascinating but does not solve Elisabeth's problem; it only moves it. However small the gland, it is still extended, and the question of how an unextended mind can move it remains untouched. (Modern neuroscience also shows the pineal gland mainly secretes melatonin, a hormone regulating sleep.)\n\nDescartes' successors tried different escapes:\n\n- **Occasionalism.** Nicolas Malebranche argued that mind and body never truly act on each other; on the occasion of my willing, God moves my arm. Only God is a true cause.\n- **Dual-aspect monism.** Spinoza (Day 45) proposed that mind and body are not two substances but two aspects of one and the same reality, so there is nothing to explain about interaction.\n- **Pre-established harmony.** Leibniz (Day 46) held that God synchronized minds and bodies in advance, like two perfectly matched clocks.\n- **Materialism.** Hobbes (Day 42), and later many scientists, simply dropped the immaterial mind: thinking is something the brain does.\n\nIn 1949 the English philosopher Gilbert Ryle mocked Descartes' view as the dogma of the **ghost in the machine**, arguing that it rests on a category mistake: treating the mind as a hidden extra thing inside the body, rather than a way of describing what intelligent creatures do.\n\nYet dualism has never fully died. The question it was trying to answer, how subjective experience relates to the physical brain, is still unsolved, and on Day 84 we will meet the hard problem of consciousness, which some philosophers think pushes us back toward at least some form of dualism. Descartes may have asked the question better than he answered it, and that is an achievement too."
+    }
+  ],
+  "keyQuote": {
+    "text": "I am not merely present in my body as a sailor is present in a ship.",
+    "source": "René Descartes, Meditations on First Philosophy (1641), Sixth Meditation (trans. Cottingham)"
+  },
+  "modernConnection": {
+    "title": "Brain Chips, Placebos and the Ghost That Will Not Leave",
+    "body": "Elisabeth's question has become a laboratory question. Since the early 2000s, research teams have implanted tiny electrode arrays in the motor cortex of people paralyzed by stroke or spinal injury. When these patients intend to move a computer cursor or a robotic arm, software decodes the pattern of electrical activity in their neurons and moves the device. Some have typed messages or even had attempted speech converted into words on a screen. These **brain-computer interfaces** look like the answer to how intention moves matter: through electrochemical signals in neurons, with no ghostly push required.\n\nOn the other side, the **placebo effect**, the way belief and expectation can measurably reduce pain, and the well-documented effects of stress on the immune system, show how deeply what we call mind and body are entangled. Neuroscientist Antonio Damasio's book *Descartes' Error* (1994) argued that emotions, rooted in bodily states, are essential to good reasoning, and that Descartes' separation of a pure thinking mind from the body was a mistake. Modern medicine increasingly treats the person as a unified system, much as Descartes' talk of intermingling hinted but his theory could not explain.\n\nYet dualist intuitions are alive in popular culture. The dream of **mind uploading**, transferring a person to a computer, assumes that the real you is something that could be moved from one physical home to another, a very Cartesian thought, though usually stated in materialist terms as information or pattern. Many people across cultures also find it natural to believe in a soul that survives death.\n\nWe should be honest about what neuroscience has and has not shown. It has shown in ever finer detail that mental life depends on the brain: damage the brain and you change the mind. Brain-computer interfaces show that the correlations are reliable enough to engineer. But correlation and dependence are not yet explanation. Why particular patterns of neural firing should feel like anything at all from the inside, the question Descartes' sharp division made vivid, has no agreed answer. The interaction problem has been transformed, not simply dissolved."
+  },
+  "vocabulary": [
+    {
+      "term": "Innate ideas",
+      "definition": "Ideas that are present in the mind from birth rather than acquired through experience; for Descartes, these include the idea of God and basic mathematical truths.",
+      "example": "Locke would later attack Descartes' belief in innate ideas (Day 47)."
+    },
+    {
+      "term": "Trademark argument",
+      "definition": "Descartes' argument that the idea of an infinite, perfect God could only have been caused by such a God, who stamped it in us like a craftsman's mark.",
+      "example": "The trademark argument relies on the principle that a cause must have at least as much reality as its effect."
+    },
+    {
+      "term": "Ontological argument",
+      "definition": "An argument that God exists based on the concept of God alone; Descartes argued that a supremely perfect being must have existence, since existence is a perfection.",
+      "example": "Descartes compared his ontological argument to the way a mountain cannot be conceived without a valley."
+    },
+    {
+      "term": "Cartesian circle",
+      "definition": "The objection, raised by Arnauld, that Descartes uses clear and distinct perception to prove God exists, and then uses God to guarantee clear and distinct perception.",
+      "example": "Descartes tried to escape the Cartesian circle by distinguishing present perception from memory."
+    },
+    {
+      "term": "Substance dualism",
+      "definition": "The view that reality contains two fundamentally different kinds of substance: thinking, unextended minds and extended, unthinking bodies.",
+      "example": "Substance dualism allowed Descartes to treat the body as a machine while keeping the soul immortal."
+    },
+    {
+      "term": "Extension",
+      "definition": "Taking up space, having length, breadth and depth; for Descartes, the essential property of all bodies.",
+      "example": "Because the mind lacks extension, Descartes thought it could not be divided into parts."
+    },
+    {
+      "term": "Interaction problem",
+      "definition": "The problem of explaining how an immaterial mind and a material body can causally affect each other, famously posed by Elisabeth of Bohemia.",
+      "example": "Brain-computer interfaces have revived interest in the interaction problem."
+    },
+    {
+      "term": "Pineal gland",
+      "definition": "A small single structure in the center of the brain that Descartes proposed as the main point where mind and body interact.",
+      "example": "Locating the soul in the pineal gland did not explain how an unextended mind could move it."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Writing to Descartes",
+    "prompt": "Imagine you are Elisabeth of Bohemia, or simply yourself, writing a letter to Descartes in 1643. Your goal is to press him on the relation between mind and body, using examples from your own experience and from what we now know.",
+    "steps": [
+      "Describe three ordinary experiences in which mind and body seem to affect each other (for example, blushing when embarrassed, deciding to stand up, feeling anxious after too much coffee).",
+      "For each, explain what Descartes' dualism would say is happening, and where the interaction problem arises.",
+      "Choose one alternative view from today's lesson (occasionalism, Spinoza's dual aspects, Leibniz's harmony or materialism) and explain how it would describe the same three experiences.",
+      "End your letter with your own verdict: is the mind a separate thing, something the brain does, or something else? Name the one question you would most like Descartes to answer."
+    ]
+  },
+  "summary": [
+    "Descartes' trademark argument claims that the idea of an infinite, perfect God could only have been caused by God; his ontological argument claims existence belongs to God's essence.",
+    "A God who is no deceiver guarantees clear and distinct perception and restores the physical world, understood as extension (size, shape and motion), while error comes from the will outrunning the intellect.",
+    "Arnauld's Cartesian circle objection asks how Descartes can use clear and distinct perception to prove the God who guarantees it; Descartes' reply appeals to the difference between present perception and memory.",
+    "Descartes' substance dualism holds that mind (thinking, unextended) and body (extended, unthinking) are distinct substances, supported by the conceivability and divisibility arguments.",
+    "Elisabeth of Bohemia's interaction problem, how an unextended mind can move a body, was never solved by Descartes' primitive notion or the pineal gland, and inspired alternatives from Malebranche, Spinoza and Leibniz to modern materialism."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "In the trademark argument, why does Descartes think he could not have produced the idea of God himself?",
+      "options": ["Because he had never read the Bible", "Because a finite, imperfect being cannot be the cause of an idea representing infinite perfection", "Because the idea came to him in a dream", "Because his parents taught it to him"],
+      "answer": 1,
+      "explanation": "The argument relies on the principle that a cause must have at least as much reality as its effect, including what an idea represents."
+    },
+    {
+      "type": "mc",
+      "question": "According to the Fourth Meditation, why do human beings make mistakes?",
+      "options": ["Because God deceives them for their own good", "Because the senses are always false", "Because the evil demon still interferes", "Because the will, which is unlimited, affirms things the limited intellect does not clearly perceive"],
+      "answer": 3,
+      "explanation": "Error is our fault: we let the will run ahead of the intellect instead of assenting only to clear and distinct ideas."
+    },
+    {
+      "type": "tf",
+      "question": "When Descartes regains the physical world, he concludes that colors and tastes exist in bodies exactly as we perceive them.",
+      "answer": false,
+      "explanation": "Bodies, for Descartes, are essentially extension: size, shape and motion. Colors and tastes are effects in the mind, as Galileo had argued."
+    },
+    {
+      "type": "mc",
+      "question": "What is the Cartesian circle?",
+      "options": ["The charge that Descartes relies on clear and distinct perception to prove God, and on God to guarantee clear and distinct perception", "Descartes' theory that planets move in circles", "The idea that the mind and body form a single loop of cause and effect", "Descartes' habit of returning to the cogito in every Meditation"],
+      "answer": 0,
+      "explanation": "Arnauld pointed out the apparent circularity; Descartes replied that God guarantees our memory of past clear perceptions, not present ones."
+    },
+    {
+      "type": "mc",
+      "question": "Which argument for dualism claims that the mind has no parts while every body can be divided?",
+      "options": ["The trademark argument", "The wax argument", "The divisibility argument", "The dream argument"],
+      "answer": 2,
+      "explanation": "The divisibility argument says minds and bodies have opposite natures, since bodies are divisible and the mind is not."
+    },
+    {
+      "type": "mc",
+      "question": "What was the core of Elisabeth of Bohemia's objection to Descartes?",
+      "options": ["Descartes had not proved that God exists", "Women were excluded from philosophy", "The pineal gland is too small to matter", "If movement requires contact and extension, an unextended mind could not move the body"],
+      "answer": 3,
+      "explanation": "Elisabeth asked how a purely thinking, unextended substance could push the body's spirits, since pushing seems to require contact."
+    },
+    {
+      "type": "tf",
+      "question": "Elisabeth told Descartes she would find it easier to attribute matter and extension to the soul than to accept that an immaterial being could move a body.",
+      "answer": true,
+      "explanation": "Unsatisfied by Descartes' replies, she leaned toward a more materialist view of the soul rather than accept unexplained interaction."
+    },
+    {
+      "type": "mc",
+      "question": "Why did Descartes choose the pineal gland as the seat of the soul's interaction with the body?",
+      "options": ["Because it is the largest part of the brain", "Because it is single rather than paired, matching our unified experience, and he thought it was positioned to affect the animal spirits", "Because animals lack one", "Because Aristotle had located the soul there"],
+      "answer": 1,
+      "explanation": "Most brain structures are doubled, so a single gland seemed the right place for unified experience to meet the body's hydraulic spirits."
+    },
+    {
+      "type": "mc",
+      "question": "Gilbert Ryle's phrase the ghost in the machine was meant to:",
+      "options": ["Defend Descartes' dualism against materialism", "Describe the pineal gland", "Mock dualism as a category mistake that treats the mind as a hidden extra thing inside the body", "Praise Elisabeth of Bohemia"],
+      "answer": 2,
+      "explanation": "Ryle argued that mind is not a separate inner object but a way of describing what intelligent beings do."
+    },
+    {
+      "type": "tf",
+      "question": "Descartes thought his two tests, flexible use of language and versatile intelligent action, could tell real minds apart from machines, anticipating the Turing test.",
+      "answer": true,
+      "explanation": "In Part 5 of the Discourse he argued that no machine could reply meaningfully to whatever is said or act intelligently across all situations."
+    }
+  ],
+  "goDeeper": {
+    "body": "Elisabeth's reputation has undergone a remarkable revival. Older histories mentioned her as a royal pupil; modern scholars, including Lisa Shapiro, who edited and translated the full correspondence, argue that she held a philosophical position of her own. She seems to have pressed toward a view in which the mind, though not reducible to matter, must have some features of physical things to act on them, and her later letters push Descartes on free will, the passions and the practical question of how to live well amid misfortune. She also challenged his view that a strong mind can always master grief, citing the effects of illness and bodily weakness on reason. Some scholars see her as an early naturalist about the mind; others see her as raising a methodological objection: Descartes' definitions should be revised if they make obvious facts inexplicable.\n\nThere is also debate over what Descartes himself meant by calling the union a primitive notion. On one reading, he is admitting defeat, conceding that metaphysics cannot explain interaction. On another, he is making a subtle point: just as we do not explain extension in terms of thought or thought in terms of extension, the union is a third basic category, understood through lived experience rather than by reduction. Some interpreters, sometimes called trialists, credit Descartes with three primitive notions rather than a strict two-substance dualism.\n\nFinally, the conceivability argument has had a long afterlife. Contemporary philosophers like David Chalmers (Day 84) use a modernized version: if we can coherently conceive of a zombie, a physical duplicate of you with no inner experience, then consciousness is not simply physical. Critics reply that what we can conceive is a poor guide to what is possible, a worry Arnauld already raised against Descartes in 1641.",
+    "readings": [
+      { "title": "Meditations on First Philosophy, with Selections from the Objections and Replies", "author": "René Descartes (trans. John Cottingham)", "note": "Read the Third, Fifth and Sixth Meditations, and Arnauld's objection about the circle." },
+      { "title": "The Correspondence between Princess Elisabeth of Bohemia and René Descartes", "author": "Elisabeth of Bohemia and René Descartes (ed. and trans. Lisa Shapiro)", "note": "The letters of May and June 1643 contain the interaction problem; the whole collection is lively and humane." },
+      { "title": "The Concept of Mind", "author": "Gilbert Ryle", "note": "Chapter 1, “Descartes' Myth,” introduces the ghost in the machine." },
+      { "title": "Descartes' Error: Emotion, Reason, and the Human Brain", "author": "Antonio Damasio", "note": "A neuroscientist's argument that reason depends on emotion and the body." }
+    ],
+    "questions": [
+      "Is the interaction problem a decisive objection to dualism, or just a sign that we do not yet understand causation well enough?",
+      "If you could be uploaded to a computer, would the result be you? What does your answer reveal about whether you are, at heart, a Cartesian?",
+      "Can God really serve as a guarantee for knowledge? What would a philosopher who does not believe in God need to put in God's place?"
+    ]
+  }
+}

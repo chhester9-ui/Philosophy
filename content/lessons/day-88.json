@@ -1,0 +1,244 @@
+{
+  "id": "day-88",
+  "day": 88,
+  "title": "Environmental Ethics and Obligations to the Future",
+  "subtitle": "Do we owe anything to forests, species, or people who do not yet exist?",
+  "philosophers": ["Aldo Leopold", "Arne Naess", "Richard Routley (Sylvan)", "Stephen Gardiner", "Derek Parfit", "William MacAskill"],
+  "era": "1949–present",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to distinguish anthropocentric, biocentric and ecocentric views of moral status.",
+    "By the end you will be able to explain Leopold's land ethic and Naess' distinction between shallow and deep ecology.",
+    "By the end you will be able to describe why climate change is a 'perfect moral storm' and outline competing principles for sharing its burdens.",
+    "By the end you will be able to state Parfit's non-identity problem and explain why it puzzles theories of harm.",
+    "By the end you will be able to summarize longtermism and the main objections raised by its critics."
+  ],
+  "hook": "Imagine you are the last human being on Earth. A disaster has wiped out everyone else, and you know you will die soon too. Before you go, you walk into the last surviving forest with a chainsaw and, for no reason at all, start cutting down every tree. No person will ever be harmed: there is no one left to enjoy the forest or miss it. Have you done something wrong?\n\nThe Australian philosopher Richard Routley (who later took the name Richard Sylvan) posed this **last man** thought experiment in 1973. Most people feel strongly that the last man is doing something wrong. But nearly every ethical theory we have studied struggles to say why. For Kant (Day 56), duties are owed to rational beings. For Bentham and Mill (Day 61), what matters is the pleasure and pain of sentient creatures. Even the social contract (Days 42, 52, 82) is an agreement among people. If the intuition is right, Western ethics may have been missing something enormous. Today we ask how far moral concern extends: to animals, to plants, to ecosystems, and to the billions of people who have not been born yet.",
+  "sections": [
+    {
+      "heading": "Widening the Circle",
+      "body": "Environmental ethics as an academic field took off in the early 1970s, a few years after Rachel Carson's *Silent Spring* (1962) exposed the effects of pesticides and around the time of the first Earth Day in 1970. Its first question is about **moral status**: which beings count, morally, in their own right?\n\nThree broad answers dominate.\n\n- **Anthropocentrism** holds that only human beings have moral status. Nature matters, but only instrumentally, because we depend on it for food, clean air, medicine and beauty. A careful anthropocentrist can still be a strong environmentalist: destroying the climate harms people.\n- **Biocentrism** extends moral status to every living thing. Paul Taylor, in *Respect for Nature* (1986), argued that each organism is a teleological center of life, with a good of its own that can go better or worse. You may recall Aristotle's teleology (Day 19): an acorn has its own natural end, to become an oak.\n- **Ecocentrism** goes further and gives moral standing to wholes: species, ecosystems, rivers, the biosphere itself.\n\nYou met one widening of the circle on Day 83: Peter Singer's argument that the capacity to suffer, not species membership, is what matters, so animals deserve equal consideration of their interests. Singer's view is sentientist, not biocentric; a tree cannot suffer, so on his view it has no interests of its own. Notice how each step outward makes it harder to say what we owe. Avoiding pain is fairly clear. But what does it mean to respect a wetland?\n\nThe historian Lynn White Jr. added a provocative twist in a famous 1967 essay, arguing that Western Christianity's picture of humans as having dominion over nature helped cause the ecological crisis. Others answered that the same tradition also contains ideals of stewardship and the example of Francis of Assisi, whom White himself proposed as a patron saint for ecologists."
+    },
+    {
+      "heading": "Leopold: Thinking Like a Mountain",
+      "body": "**Aldo Leopold** (1887–1948) was not a professional philosopher but an American forester, wildlife manager and professor at the University of Wisconsin. In the 1930s he bought a worn-out farm in Sauk County, Wisconsin, and spent weekends restoring it with his family, living in a converted chicken coop they called \"the shack.\" His reflections became *A Sand County Almanac*, published in 1949, the year after Leopold died of a heart attack while helping neighbors fight a grass fire.\n\nIn one essay, \"Thinking Like a Mountain,\" Leopold recalls shooting a wolf as a young forester, believing that fewer wolves meant more deer and a hunter's paradise. He reached the dying wolf in time to watch a fierce green fire fade from her eyes, and sensed that neither the wolf nor the mountain agreed with him. Later he saw the result of wolf extermination: deer populations exploded, stripped the mountainsides bare, and then starved. The mountain, he wrote, had understood the long-run web of relationships better than he had.\n\nThe book's final essay, \"The Land Ethic,\" proposes enlarging the boundaries of the moral community to include soils, waters, plants and animals, or collectively, the land. Leopold summed it up in what may be the most quoted sentence in environmental ethics:\n\n> A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise.\n\nThis is ecocentrism: the good of the whole community is the measure of right action. It also reflects the science of **ecology**, the study of how organisms and environments depend on each other. Leopold saw humans not as conquerors of the land but as plain members and citizens of it.\n\nThe land ethic faces a serious objection. If the integrity of the biotic community is the highest standard, might it justify sacrificing individuals, even human individuals, for the good of the ecosystem? The philosopher Tom Regan, a defender of animal rights, called this \"environmental fascism.\" Leopold's defender J. Baird Callicott replied that the land ethic is meant to add to our existing duties toward people, not replace them: our older obligations to family and fellow humans still generally take priority."
+    },
+    {
+      "heading": "Naess and Deep Ecology",
+      "body": "The Norwegian philosopher **Arne Naess** (1912–2009) was a scholar of Spinoza (Day 45), a keen mountaineer, and an activist who in 1970 joined a protest against a hydroelectric dam at the Mardøla waterfall, where demonstrators chained themselves to the rocks. In a short 1973 paper he distinguished two kinds of environmentalism.\n\n**Shallow ecology** fights pollution and resource depletion mainly for the health and wealth of people in developed countries. It is the environmentalism of better filters and cleaner technology. **Deep ecology** asks deeper questions about our values and way of life. Naess and George Sessions later drew up a platform whose first principle states that the flourishing of human and nonhuman life on Earth has value in itself, independent of its usefulness to humans. Deep ecologists also called for reduced human interference with the natural world and for changes in economic and ideological structures.\n\nNaess was inspired by Spinoza's vision of one substance, God or Nature (Day 45), in which everything is part of a single whole. He spoke of **Self-realization** with a capital S: as we mature, we identify with ever wider circles of life, until protecting a forest feels less like a sacrifice and more like protecting part of ourselves. Compare the Buddhist idea of no separate self and Nagarjuna's dependent origination (Day 87).\n\nCritics came from several directions. Some found deep ecology misanthropic, since a few activists in the 1980s spoke of human population as a disease on the planet. The Indian historian Ramachandra Guha argued in 1989 that deep ecology reflected the concerns of wealthy Western nature-lovers, and that in countries like India, creating wilderness reserves had sometimes meant expelling poor farmers and forest peoples. Ecofeminists such as Val Plumwood argued that the deeper problem was a set of dualisms that ranked reason over nature, man over woman and mind over body, and that merging the self with nature did not dissolve those hierarchies."
+    },
+    {
+      "heading": "Climate Change: A Perfect Moral Storm",
+      "body": "Climate change brings these debates down to earth. Burning fossil fuels releases greenhouse gases that warm the planet, with effects including heat waves, rising seas and changing rainfall that fall hardest on people who did least to cause them. The scientific basis is extremely well established. The ethical questions are harder.\n\nThe philosopher **Stephen Gardiner** calls climate change a **perfect moral storm**, because three challenges converge:\n\n1. **The global storm.** Emissions anywhere affect everyone, so every country is tempted to let others cut first. This is a version of the **tragedy of the commons**, described by Garrett Hardin in 1968: when a resource is shared, each user gains by taking more, while the costs are spread over everyone. Hobbes (Day 42) would recognize the problem: without an enforcing authority, rational individuals can produce a collectively disastrous result.\n2. **The intergenerational storm.** Much of the damage from today's emissions falls decades or centuries later, on people who have no vote and no voice. Each generation is tempted to pass the costs forward.\n3. **The theoretical storm.** Our moral theories are poorly equipped for problems involving billions of people, vast time spans and tiny individual contributions.\n\nWho should pay to cut emissions and adapt? Philosophers have proposed several principles. The **polluter pays** principle points to historical emissions, which come disproportionately from industrialized nations. The **beneficiary pays** principle notes that people today benefit from past emissions even if they did not cause them. The **ability to pay** principle asks those with the most resources to contribute most. The philosopher Henry Shue drew a sharp distinction between **subsistence emissions**, needed to meet basic needs, and **luxury emissions**, arguing that it is unjust to ask the poor to give up the former while the rich keep the latter."
+    },
+    {
+      "heading": "Parfit's Puzzle: The Non-Identity Problem",
+      "body": "The intergenerational storm hides a deep puzzle, discovered by the British philosopher **Derek Parfit** (1942–2017) and set out in *Reasons and Persons* (1984).\n\nStart with an ordinary thought: an action is wrong because it harms someone, making them worse off than they would otherwise have been. Now consider Parfit's example. A society must choose between two policies. **Conservation** keeps resources for the future. **Depletion** uses them up for a higher standard of living now, so that in a few centuries the quality of life will be much lower.\n\nHere is the twist. Which people are born depends on exactly when and with whom their parents conceive them. A different policy changes jobs, travel, where people meet and when they have children. Within a few generations, completely different people will exist under each policy. So the people born under Depletion would not have existed under Conservation. If their lives are still worth living, Depletion has not made them worse off than they would otherwise have been; for them, the alternative was never existing at all.\n\nThis is the **non-identity problem**. It seems to show that Depletion harms no one, yet almost everyone believes it is wrong. The same structure applies to climate change. Parfit concluded that our ordinary **person-affecting** view of morality, which says something is bad only if it is bad for someone, cannot be the whole story. We need impersonal principles, such as: it is worse if the people who exist are worse off than different people would have been.\n\nParfit's search for such a principle led him into **population ethics**, where he found more puzzles, most famously the **Repugnant Conclusion**: some simple ways of adding up wellbeing imply that a vast population of people whose lives are barely worth living would be better than a smaller, flourishing one. Parfit spent decades trying to avoid it. The Ethics track's lesson on population ethics takes these puzzles further."
+    },
+    {
+      "heading": "Longtermism and Its Critics",
+      "body": "Building partly on Parfit, philosophers at Oxford in the 2010s developed **longtermism**, the view that positively influencing the long-term future is a key moral priority of our time. William MacAskill's *What We Owe the Future* (2022) and Toby Ord's *The Precipice* (2020) set out the argument:\n\n1. Future people count morally just as much as present people; being born later is no more relevant than being born far away.\n2. If humanity survives, there could be vastly more people in the future than have ever lived.\n3. Some actions today, especially reducing **existential risks** that could end or permanently cripple civilization, such as engineered pandemics or nuclear war, could affect all of them.\n\nSo, longtermists conclude, such work may be among the most valuable things we can do. They distinguish a weaker claim (the long term is *a* key priority) from a stronger one (it is *the* most important consideration in many choices).\n\nThe critics raise several powerful objections. First, **uncertainty**: we have little idea what will help people thousands of years from now, a problem sometimes called cluelessness. Second, **fanaticism**: if the stakes are astronomically large, even tiny probabilities of affecting them can swamp everything else, a structure resembling Pascal's wager and inviting the same worries. Third, **present injustice**: critics argue that focusing on hypothetical trillions can distract from poverty and climate harms happening now, and that the movement's priorities reflect the perspective of a small, privileged group, a point Day 86's standpoint theorists would press. Fourth, some ask whether bringing more happy people into existence is a moral goal at all, or whether, as one slogan by the philosopher Jan Narveson puts it, we should be in favor of making people happy, not making happy people.\n\nLongtermists respond that many existential risks are also threats to people alive now, so the practical disagreements may be smaller than the theoretical ones."
+    }
+  ],
+  "keyQuote": {
+    "text": "A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise.",
+    "source": "Aldo Leopold, A Sand County Almanac (1949), 'The Land Ethic'"
+  },
+  "modernConnection": {
+    "title": "Courts, Commissioners and the Rights of Future Generations",
+    "body": "Can the law speak for people not yet born? In recent years, governments and courts have begun to try, and their efforts show both the power and the puzzles of today's ideas.\n\nIn 2015 Wales passed the Well-being of Future Generations Act, which requires public bodies to consider the long-term impact of their decisions and created a Future Generations Commissioner to hold them to account. The commissioner is, in effect, an official advocate for people who cannot yet speak.\n\nIn 2021 Germany's Federal Constitutional Court ruled that parts of the country's climate protection law were unconstitutional. The court reasoned that by allowing generous emissions now and postponing the hard cuts, the law shifted an unfair burden onto young people, whose future freedoms would be drastically restricted. In the United States, young plaintiffs in *Held v. Montana* won a 2023 trial ruling, later upheld by the Montana Supreme Court, that the state's failure to consider climate impacts violated their constitutional right to a clean and healthful environment. Around the world, similar lawsuits have been brought, with mixed success.\n\nNotice how these cases are framed. They are mostly brought on behalf of children and young people who already exist. That is no accident. It sidesteps Parfit's non-identity problem: a court can easily say that a living teenager will be harmed by future heat waves, but it is much harder to say that people who would not otherwise exist are harmed by the policy that led to their existence. The law, in other words, has stayed largely within a person-affecting framework.\n\nThe bridge also breaks down in other ways. Courts and commissioners operate within nations, while Gardiner's global storm crosses borders. A Welsh commissioner cannot cut Chinese or American emissions. And the land ethic sits uneasily with law built around human rights; only a few places, such as Ecuador, whose 2008 constitution recognizes rights of nature, and New Zealand, which granted legal personhood to the Whanganui River in 2017, have tried to give natural entities legal standing of their own. Still, the trend is clear: institutions are starting to take seriously the ethical idea that the future has a claim on the present."
+  },
+  "vocabulary": [
+    {
+      "term": "Anthropocentrism",
+      "definition": "The view that only human beings have moral status in their own right, so nature matters only through its effects on humans.",
+      "example": "Protecting a wetland only because it filters our drinking water is an anthropocentric reason."
+    },
+    {
+      "term": "Ecocentrism",
+      "definition": "The view that ecological wholes, such as species, ecosystems and the biosphere, have moral standing in their own right.",
+      "example": "Leopold's land ethic, which measures right action by the good of the biotic community, is ecocentric."
+    },
+    {
+      "term": "Land ethic",
+      "definition": "Aldo Leopold's proposal to enlarge the moral community to include soils, waters, plants and animals, judging actions by whether they preserve the integrity, stability and beauty of the biotic community.",
+      "example": "A farmer who restores a prairie rather than draining it for one more crop is following the land ethic."
+    },
+    {
+      "term": "Deep ecology",
+      "definition": "Arne Naess' movement holding that all life has value in itself and calling for deep changes in values and ways of living, as opposed to 'shallow' environmentalism focused on human welfare.",
+      "example": "A deep ecologist would object to a dam even if it produced clean energy, if it destroyed a wild river valued for its own sake."
+    },
+    {
+      "term": "Tragedy of the commons",
+      "definition": "A situation in which individuals sharing a resource each gain by using more of it, so that together they deplete or ruin it.",
+      "example": "Overfishing in international waters, where no one owns the fish, is a classic tragedy of the commons."
+    },
+    {
+      "term": "Non-identity problem",
+      "definition": "Parfit's puzzle that policies affecting the distant future also change which people will exist, so those people seemingly cannot be made worse off than they would otherwise have been.",
+      "example": "Because of the non-identity problem, it is hard to say whom a centuries-long depletion policy harms."
+    },
+    {
+      "term": "Person-affecting view",
+      "definition": "The principle that an outcome can only be bad if it is bad for some particular person.",
+      "example": "The non-identity problem challenges the person-affecting view by describing a wrong that seems to be bad for no one."
+    },
+    {
+      "term": "Longtermism",
+      "definition": "The view that positively influencing the long-term future, for example by reducing existential risks, is a key moral priority of our time.",
+      "example": "A longtermist might donate to pandemic preparedness research because it could protect countless future generations."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "A Letter to 2126",
+    "prompt": "Write to someone who will be alive a century from now, and use today's ideas to examine what you owe them.",
+    "steps": [
+      "Begin a short letter to an imagined person living in 2126. Describe one thing about the natural world you love that you hope still exists in their time.",
+      "Name one choice you or your society is making today that may affect them. Which principle (polluter pays, beneficiary pays, ability to pay) do you think should decide who bears its costs?",
+      "Apply the non-identity problem: the person reading your letter might not have existed if history had gone differently. Does that change whether you owe them anything? Explain why or why not in a few sentences.",
+      "End the letter with one concrete commitment, personal or political, and note whether your reason is anthropocentric, biocentric, ecocentric or longtermist."
+    ]
+  },
+  "summary": [
+    "Environmental ethics asks who has moral status: anthropocentrism says only humans, biocentrism all living things, and ecocentrism ecological wholes.",
+    "Leopold's land ethic judges actions by whether they preserve the integrity, stability and beauty of the biotic community; critics worry it could sacrifice individuals to the whole.",
+    "Naess distinguished shallow from deep ecology and grounded the latter in Spinoza-inspired Self-realization; critics like Guha and Plumwood challenged its perspective.",
+    "Gardiner calls climate change a perfect moral storm (global, intergenerational and theoretical), and philosophers debate polluter pays, beneficiary pays and ability to pay principles.",
+    "Parfit's non-identity problem shows that policies shaping the future change who exists, challenging person-affecting ethics; longtermism builds on such ideas but faces objections about uncertainty, fanaticism and present injustice."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What is the point of Routley's 'last man' thought experiment?",
+      "options": [
+        "To prove that all trees are conscious",
+        "To show that nature has no value without humans",
+        "To test whether nature has value beyond its usefulness to humans or other sentient beings",
+        "To argue that the human species should die out"
+      ],
+      "answer": 2,
+      "explanation": "If destroying a forest that no one will ever experience still seems wrong, that suggests nature may have value in itself, which human-centered theories struggle to explain."
+    },
+    {
+      "type": "mc",
+      "question": "Which view does Leopold's land ethic best represent?",
+      "options": [
+        "Anthropocentrism",
+        "Ecocentrism",
+        "Egoism",
+        "Sentientism"
+      ],
+      "answer": 1,
+      "explanation": "The land ethic measures right action by the good of the whole biotic community, the defining feature of ecocentrism."
+    },
+    {
+      "type": "mc",
+      "question": "What did Tom Regan mean by calling the land ethic 'environmental fascism'?",
+      "options": [
+        "That Leopold supported authoritarian governments",
+        "That the land ethic forbids all hunting",
+        "That environmentalists want to control the economy",
+        "That putting the good of the ecosystem first could justify sacrificing individuals for the whole"
+      ],
+      "answer": 3,
+      "explanation": "Regan, a defender of individual animal rights, worried that a holistic ethic subordinates individuals to the community."
+    },
+    {
+      "type": "mc",
+      "question": "According to Arne Naess, what distinguishes 'shallow' from 'deep' ecology?",
+      "options": [
+        "Shallow ecology focuses on pollution and resources mainly for human welfare; deep ecology holds that all life has value in itself and questions our basic values",
+        "Shallow ecology studies lakes; deep ecology studies oceans",
+        "Shallow ecology is scientific; deep ecology rejects science entirely",
+        "Shallow ecology is ecocentric; deep ecology is anthropocentric"
+      ],
+      "answer": 0,
+      "explanation": "Naess contrasted reformist, human-centered environmentalism with a deeper questioning grounded in the intrinsic value of all life."
+    },
+    {
+      "type": "mc",
+      "question": "Neighboring villages share a lake. Each household profits by catching extra fish, but together they wipe out the fish population. This is an example of:",
+      "options": [
+        "The non-identity problem",
+        "The Repugnant Conclusion",
+        "The tragedy of the commons",
+        "Self-realization"
+      ],
+      "answer": 2,
+      "explanation": "In a tragedy of the commons, individually rational use of a shared resource leads to its collective ruin."
+    },
+    {
+      "type": "mc",
+      "question": "Why does Parfit's non-identity problem make it hard to say that a depletion policy harms future people?",
+      "options": [
+        "Because future people will not care about the environment",
+        "Because the policy changes which people are born, so those people would not otherwise have existed and are not worse off than they would have been",
+        "Because future people have no moral status at all",
+        "Because economists apply discount rates"
+      ],
+      "answer": 1,
+      "explanation": "Different policies lead to different people being born; if their lives are worth living, they seem not to be made worse off by the policy that caused them to exist."
+    },
+    {
+      "type": "mc",
+      "question": "Which is a central objection to strong longtermism?",
+      "options": [
+        "It denies that future people exist",
+        "It claims climate change is not real",
+        "It is a purely religious doctrine",
+        "Tiny probabilities of astronomically large effects can swamp all other considerations, a problem called fanaticism"
+      ],
+      "answer": 3,
+      "explanation": "Critics worry that multiplying huge stakes by tiny probabilities can justify almost anything, much like Pascal's wager."
+    },
+    {
+      "type": "tf",
+      "question": "Henry Shue argued that subsistence emissions needed to meet basic needs should be treated differently from luxury emissions.",
+      "answer": true,
+      "explanation": "Shue held it is unjust to ask the poor to give up emissions needed for survival while the rich keep emissions for luxuries."
+    },
+    {
+      "type": "tf",
+      "question": "Peter Singer's sentientism gives trees and ecosystems the same moral status as animals that can suffer.",
+      "answer": false,
+      "explanation": "Singer grounds moral consideration in the capacity to suffer, so non-sentient beings like trees do not have interests of their own on his view."
+    },
+    {
+      "type": "tf",
+      "question": "A Sand County Almanac was published after Aldo Leopold's death.",
+      "answer": true,
+      "explanation": "Leopold died in 1948 while helping fight a neighbor's grass fire; the book appeared in 1949."
+    }
+  ],
+  "goDeeper": {
+    "body": "A technical debate that touches everyday policy concerns the **social discount rate**. When economists compare costs today with benefits in the future, they usually discount future benefits, treating a benefit a century from now as worth less than the same benefit today. There are two reasons for doing this. One is growth: if future people will be richer, an extra dollar matters less to them. The other is **pure time preference**: valuing future wellbeing less simply because it is in the future.\n\nPhilosophers from Henry Sidgwick to Frank Ramsey argued that pure time preference is ethically indefensible; Ramsey called it a practice arising from a weakness of imagination. The choice matters enormously. The 2006 *Stern Review* on the economics of climate change used a near-zero rate of pure time preference and concluded that strong, early action was justified. William Nordhaus, who later won a Nobel Prize for his climate economics, criticized Stern and favored higher discount rates based on observed market behavior, recommending a more gradual path. Much of their disagreement turned on ethics, not economics.\n\nA second frontier concerns **moral uncertainty and population ethics**. Every known theory of population ethics has at least one implication most people find unacceptable: the Repugnant Conclusion for total views, odd results for average views, and so on. Gustaf Arrhenius proved a series of impossibility theorems showing that no theory can satisfy all of a small set of very plausible conditions. Some philosophers respond by accepting the Repugnant Conclusion; others argue that we should spread our credence across theories and act on the best compromise. These puzzles also bear on the longtermist argument, since its conclusions depend on how much value future lives add. The Ethics track's lesson on population ethics and effective altruism explores them in more depth.",
+    "readings": [
+      {
+        "title": "A Sand County Almanac",
+        "author": "Aldo Leopold",
+        "note": "Read 'Thinking Like a Mountain' and 'The Land Ethic'; both are short, beautifully written and still widely quoted."
+      },
+      {
+        "title": "A Perfect Moral Storm: The Ethical Tragedy of Climate Change",
+        "author": "Stephen M. Gardiner",
+        "note": "The fullest statement of the three storms and of why the problem invites moral corruption; the first chapters stand alone."
+      },
+      {
+        "title": "Reasons and Persons",
+        "author": "Derek Parfit",
+        "note": "Part Four, on future generations, introduces the non-identity problem and the Repugnant Conclusion; demanding but rewarding."
+      },
+      {
+        "title": "What We Owe the Future",
+        "author": "William MacAskill",
+        "note": "An accessible case for longtermism; read alongside critical reviews to weigh the objections discussed in this lesson."
+      }
+    ],
+    "questions": [
+      "Do you share the intuition that the last man does something wrong? If so, what theory best explains it?",
+      "Should a policy be judged wrong if it makes the future worse even though it harms no particular person?",
+      "How should we balance the needs of people suffering now against the interests of the very distant future?"
+    ]
+  }
+}

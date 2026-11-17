@@ -1,0 +1,240 @@
+{
+  "id": "day-32",
+  "day": 32,
+  "title": "The Islamic Golden Age: al-Kindi, al-Farabi and Avicenna",
+  "subtitle": "How Greek philosophy found a new home in Baghdad, and a man floating in the air found his soul",
+  "philosophers": ["al-Kindi", "al-Farabi", "Avicenna (Ibn Sina)"],
+  "era": "c. 750–1037 CE",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to explain how and why Greek philosophy was translated into Arabic in Abbasid Baghdad.",
+    "By the end you will be able to describe al-Kindi's case for learning truth from any source and al-Farabi's vision of the virtuous city.",
+    "By the end you will be able to reconstruct Avicenna's floating man thought experiment and say what it is meant to prove.",
+    "By the end you will be able to explain Avicenna's distinction between essence and existence and his argument for a necessary being."
+  ],
+  "hook": "Picture yourself created in a single instant, fully grown and with a fully working mind, but floating in empty air. Your eyes are covered. Your arms and legs are spread apart so that no part of your body touches any other. There is no sound, no breeze, no temperature, nothing to see or feel. You have never had a single experience. Now ask: in that state, would you know that you exist?\n\nAvicenna, a Persian physician and philosopher writing about a thousand years ago, thought the answer was obviously yes. You would be certain that you exist, even though you would know nothing at all about having a body. And from that he drew a dramatic conclusion: the self that knows it exists is not the same thing as the body. Six hundred years later, Descartes would make a strikingly similar move. But to understand how a Persian doctor came to be arguing about Aristotle's soul in Arabic, we have to begin with one of the great intellectual rescue operations in history.",
+  "sections": [
+    {
+      "heading": "Baghdad and the Translation Movement",
+      "body": "When we left the Latin West on Day 31, Boethius had just been executed and knowledge of Greek was fading in Western Europe. But in the eastern Mediterranean and the Middle East, Greek learning lived on. In the seventh century, the armies of the new Islamic state conquered lands from Spain to Central Asia, including cities like Alexandria and Damascus that had been centers of Greek scholarship for centuries.\n\nIn 750 a new dynasty, the **Abbasids**, took power, and in 762 the caliph al-Mansur founded a new capital, Baghdad, on the Tigris. Baghdad grew into one of the largest cities in the world, a crossroads of Arabs, Persians, Christians, Jews and many others. Paper-making, a technique that came from China, spread to Baghdad by the end of the eighth century and made books far cheaper than parchment had.\n\nOver roughly two centuries, from the mid-700s to the late 900s, an enormous **translation movement** turned much of Greek science and philosophy into Arabic: Aristotle, much of Plato's thought (often through summaries), Galen's medicine, Euclid's geometry, Ptolemy's astronomy. Caliphs, especially al-Ma'mun (reigned 813–833), courtiers and wealthy families paid handsomely for translations. Many translators were Syriac-speaking Christians; the most famous, Hunayn ibn Ishaq (809–873), was a Nestorian Christian physician who, with his son and nephew, translated scores of works, often via Syriac.\n\nYou may have heard of the **House of Wisdom** (*Bayt al-Hikma*) in Baghdad, often described as a grand academy. Historians today are more cautious. It was probably a palace library and translation office rather than a university, and the historian Dimitri Gutas has argued that the movement was driven by many patrons with practical needs: astronomy for calendars and astrology, medicine for health, logic for debate. Either way, the result was a library of Greek thought in Arabic that would later flow back into Europe.\n\nWhy does this matter? Because a new kind of thinker arose: the *faylasuf*, from Greek *philosophos*. **Falsafa**, as Greek-inspired philosophy in Arabic was called, existed alongside **kalam**, Islamic rational theology, and the relationship between them was sometimes friendly, sometimes tense. That tension will explode on Day 33."
+    },
+    {
+      "heading": "Al-Kindi: Truth from Any Source",
+      "body": "The first major *faylasuf* was Abu Yusuf Ya'qub ibn Ishaq **al-Kindi** (c. 801–c. 870), known as 'the philosopher of the Arabs' because, unlike most later philosophers in this tradition, he came from an Arab noble family, the tribe of Kinda. He worked in Baghdad under the patronage of the caliphs al-Ma'mun and al-Mu'tasim and tutored a caliph's son. He wrote on an astonishing range of subjects: optics, music, medicine, mathematics, cryptography and astrology as well as philosophy.\n\nAl-Kindi's most important philosophical work, *On First Philosophy*, was dedicated to the caliph al-Mu'tasim. It contains a famous defense of learning from foreigners. Paraphrased, he says that we should not be ashamed to recognize the truth and take it in from wherever it comes, even from distant peoples and nations unlike our own, because nothing is more fitting for a seeker of truth than truth itself. He was answering critics who thought Greek philosophy, the work of pagans, had no place in an Islamic society. His reply was that truth is truth, whoever first found it.\n\nBut al-Kindi was not a mere copier of Aristotle. On one big question he disagreed with him. Aristotle (Day 18) held that the world had no beginning; it has always existed. Al-Kindi argued that the world was created in time, partly by arguing that an actually infinite past is impossible: if infinitely many days had to pass before today, today could never arrive. He held that God, whom he called the True One, is absolutely simple and the cause of all being. This combination, Greek philosophical tools put to work for a monotheistic picture of creation, sets the pattern for much of what follows."
+    },
+    {
+      "heading": "Al-Farabi and the Virtuous City",
+      "body": "**Al-Farabi** (c. 870–950) was so admired that later writers called him 'the Second Teacher', second only to Aristotle, who was 'the First Teacher'. His origins are uncertain, probably Central Asia, and he spent most of his career in Baghdad before moving late in life to the court of Sayf al-Dawla in Aleppo; he died in Damascus. He was a superb logician, a musical theorist and, above all, a political philosopher.\n\nAl-Farabi took up the challenge of Plato's *Republic* (Days 13–14). His best-known work, usually called *The Virtuous City* (more fully, *The Principles of the Opinions of the Inhabitants of the Virtuous City*), begins with a picture of the whole universe flowing from God through a series of heavenly intellects, an idea adapted from Plotinus' emanation (Day 28). The lowest of these, the **Active Intellect**, illuminates human minds when we understand things.\n\nFrom this cosmos he moves to politics. A **virtuous city**, he says, is like a healthy body, in which every organ works together under the direction of the heart. Its citizens cooperate to reach true happiness, which for al-Farabi means the perfection of the intellect. The ideal first ruler is both philosopher and prophet: someone whose intellect is joined to the Active Intellect, who knows the truth through reason and who can also express it in vivid images and laws that ordinary people can live by.\n\nThis gives al-Farabi a bold theory of religion. Philosophy grasps truths in demonstrations; religion presents the same truths in symbols and stories suited to the many. Religion, in a phrase scholars often use to summarize his view, imitates philosophy. That makes the two complementary rather than rivals, though critics thought it ranked prophecy beneath philosophy.\n\nAl-Farabi also catalogued the ways cities go wrong. There are **ignorant cities**, which do not know true happiness and pursue something else: mere necessities, wealth, pleasure, honor or domination over others. There is a democratic city, where everyone does as they like; he notes that it is attractive and produces great variety, but that it struggles to agree on any shared good. And there are **wicked cities**, which know the good but choose otherwise, and **errant cities**, which have been misled by false teachers. Plato's list of degenerate constitutions is clearly in the background, but the categories are al-Farabi's own."
+    },
+    {
+      "heading": "Avicenna: The Prodigy of Bukhara",
+      "body": "Abu Ali al-Husayn **Ibn Sina** (980–1037), known in Latin Europe as **Avicenna**, is the towering figure of this story. He was born near Bukhara, in today's Uzbekistan, then ruled by the Persian Samanid dynasty. He left a short autobiography, and it is a remarkable document. He tells us he had learned the Qur'an and much literature by the age of ten, studied logic and mathematics, and then taught himself medicine, which he found easy.\n\nMetaphysics was another matter. He says he read Aristotle's *Metaphysics* some forty times, until he knew it by heart, and still did not understand its purpose. Then, in the booksellers' market, a dealer pressed on him a cheap little book. It was al-Farabi's essay on the aims of the *Metaphysics*. Reading it, everything fell into place, and he says he went home and gave alms to the poor in gratitude.\n\nAs a teenager he successfully treated the Samanid ruler and was given access to the royal library. The rest of his life was a whirl of political upheaval. He moved from court to court across Iran, served as a physician and as a vizier, was imprisoned at least once, and wrote constantly, sometimes on horseback during military campaigns, according to his student al-Juzjani, who completed the biography. He died in Hamadan in 1037.\n\nHis *Canon of Medicine* became a standard textbook in the Islamic world and, in Latin translation, in European medical schools into the seventeenth century. His philosophical encyclopedia, *The Healing* (*al-Shifa'*), covered logic, natural science, mathematics and metaphysics on a vast scale. In it Avicenna did not simply repeat Aristotle; he rebuilt Aristotelian philosophy with new ideas of his own. Three of them have had especially long lives."
+    },
+    {
+      "heading": "The Floating Man",
+      "body": "The first is the thought experiment from our hook, usually called the **floating man** (or flying man). It appears in the psychology section of *The Healing* and again in later works.\n\nAvicenna asks us to imagine a human being created all at once, mature and with a sound mind, suspended in the air or in a void, with sight veiled and limbs held apart so that he has no sensation of anything, not even his own body. Would this person affirm his own existence? Avicenna says he would, without a doubt. Yet he would not affirm the existence of any limb, any inner organ, or even a heart or brain. Indeed, if he imagined a hand, he would not take it to be part of himself.\n\nThe conclusion: the thing whose existence he affirms, his self or soul, is different from the thing whose existence he does not affirm, his body. What is known is not the same as what is not known. Avicenna adds that the thought experiment is meant to alert and remind us of something we already have, a direct awareness of our own existence, rather than to prove it from scratch.\n\nCompare Aristotle (Day 19), who defined the soul as the form of a living body, as inseparable from the body as the shape is from the wax. Avicenna keeps much of Aristotle's psychology, but he argues that the human rational soul is a substance in its own right, which can survive the death of the body. And notice the resemblance to Descartes (Day 43), who doubted everything bodily but found he could not doubt that he was thinking. Whether Descartes knew Avicenna's argument, perhaps through Latin authors who repeated it, is debated.\n\nThe main objection is the same one Descartes' critics raised. From the fact that I can be aware of myself without being aware of my body, does it follow that I *am* something other than my body? A person can know Superman exists without knowing Clark Kent exists, yet they are the same man. Being aware of one thing and unaware of another does not prove they are two things. Defenders reply that self-awareness is special: it is not knowledge of an object under one description, but the self's direct presence to itself."
+    },
+    {
+      "heading": "Essence, Existence and the Necessary Being",
+      "body": "Avicenna's second great idea is a distinction between **essence** and **existence**. The essence of a thing is *what* it is; existence is *that* it is. You can fully understand what a phoenix is, a bird that is reborn from its own ashes, without having any idea whether a phoenix exists. Knowing the definition of a triangle does not tell you whether any triangle is drawn anywhere. So, Avicenna concluded, for ordinary things, existence is not part of their essence. It is something added to them, given to them from outside, by a cause. Scholars still argue about exactly how he understood this addition; later critics such as Averroes (Day 33) accused him of treating existence as a mere accident, like a color.\n\nThis leads to his third idea, an argument for God sometimes called the **Proof of the Truthful**. Every existing thing, Avicenna says, is either:\n\n1. **Possible in itself** (contingent): its essence does not include existence, so it needs a cause to exist; or\n2. **Necessary in itself**: its existence is guaranteed by its own nature, needing no cause.\n\nEverything around us is contingent: trees, stars, you and me. Now consider the whole collection of contingent things. That whole is itself contingent, so it too needs a cause. That cause cannot be inside the collection, or it would be causing itself, and it cannot be another contingent thing. So there must be a **necessary being**, something whose essence simply *is* its existence. Avicenna then argues that such a being must be one, simple, without parts, and wholly good: the God of religion.\n\nNotice what the argument does not depend on. Avicenna, unlike al-Kindi, accepted that the world might be eternal, so he did not argue that time had a first moment. His point is about dependence: even an eternal world would need, at every moment, something that holds it in existence. Thomas Aquinas (Day 35) learned the essence-existence distinction from Avicenna, and his third way closely resembles this argument; Leibniz (Day 46) gave a famous later version.\n\nAvicenna's works were translated into Latin in twelfth-century Toledo and shaped Western philosophy deeply. But in the Islamic world his synthesis also provoked a powerful counterattack. Some of his views, such as that the world is eternal and that God knows particular things only in a universal way, struck a brilliant theologian named al-Ghazali as incompatible with Islam. That confrontation is the subject of Day 33."
+    }
+  ],
+  "modernConnection": {
+    "title": "Float Tanks, Rubber Hands and the Bodily Self",
+    "body": "Avicenna's floating man has a curious modern echo. In 1954 the neuroscientist John C. Lilly built the first sensory isolation tank, in which a person floats in body-temperature water in darkness and silence. Modern 'float tanks' sold as relaxation therapy come close to the floating man's situation. People who use them often report that the sense of where their body ends becomes vague, yet they never lose the sense that they themselves are there. That seems to support Avicenna: awareness of self survives the fading of awareness of the body.\n\nBut other research points the other way. In 1998 the psychologists Matthew Botvinick and Jonathan Cohen described the rubber hand illusion. A participant's real hand is hidden while a rubber hand sits in view; both are stroked at the same time with brushes. Within minutes many people feel the touch on the rubber hand and report that it feels like their own. Studies of interoception, our sense of heartbeat, breathing and gut, together with the work of neuroscientists such as Antonio Damasio, suggest that our basic sense of being a self is built from constant signals from the body. On this view, the floating man is not a pure mind discovering itself, but a brain still receiving signals from the heart and lungs Avicenna asked us to ignore.\n\nWho is right? The experiments do not settle the philosophical question. Avicenna was not claiming that we feel no bodily signals, but that self-awareness does not *consist* in awareness of the body. And neuroscience can show which brain processes accompany a sense of self without showing what the self ultimately is, a problem we will meet again on Day 84 as the 'hard problem' of consciousness. Still, the comparison shows how a thousand-year-old thought experiment set an agenda that labs are still exploring: is the self something we have prior to the body, or something the body continuously builds?"
+  },
+  "vocabulary": [
+    {
+      "term": "Translation movement",
+      "definition": "The large-scale translation of Greek scientific and philosophical works into Arabic, centered in Abbasid Baghdad from the mid-eighth to the late tenth century.",
+      "example": "Thanks to the translation movement, Aristotle's logic was studied in Baghdad centuries before it returned to Paris."
+    },
+    {
+      "term": "Falsafa",
+      "definition": "Philosophy in the Greek tradition written in Arabic, practiced by thinkers called faylasufs; distinct from kalam, Islamic rational theology.",
+      "example": "Al-Farabi and Avicenna are the classic figures of falsafa."
+    },
+    {
+      "term": "Virtuous city",
+      "definition": "Al-Farabi's ideal community, in which citizens cooperate toward true happiness under a ruler who is both philosopher and prophet.",
+      "example": "Unlike the city of wealth, the virtuous city aims at the perfection of its citizens' minds."
+    },
+    {
+      "term": "Active Intellect",
+      "definition": "In the Arabic philosophical tradition, the lowest of the heavenly intellects, which illuminates human minds and makes understanding possible.",
+      "example": "For al-Farabi, the prophet-ruler's mind is joined to the Active Intellect."
+    },
+    {
+      "term": "Floating man",
+      "definition": "Avicenna's thought experiment of a person created in mid-air without any sensation, meant to show that self-awareness does not depend on awareness of the body.",
+      "example": "The floating man would know that he exists without knowing that he has hands."
+    },
+    {
+      "term": "Essence and existence",
+      "definition": "The distinction between what a thing is (its essence) and the fact that it is (its existence); for created things, Avicenna held, existence is not part of the essence.",
+      "example": "You can know the essence of a unicorn perfectly well without knowing whether any unicorn exists."
+    },
+    {
+      "term": "Contingent (possible in itself)",
+      "definition": "Describes something that could fail to exist and so depends on a cause for its existence.",
+      "example": "You are contingent: your existence depended on your parents, and the world could have gone on without you."
+    },
+    {
+      "term": "Necessary being",
+      "definition": "A being whose existence follows from its own nature, so that it cannot fail to exist and depends on no cause; for Avicenna, God.",
+      "example": "Avicenna argued that a chain of contingent things must ultimately depend on a necessary being."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Float, Then Argue",
+    "prompt": "Try a version of Avicenna's thought experiment yourself, then test the argument he built on it.",
+    "steps": [
+      "Sit or lie still in a quiet, dim place for three minutes. Close your eyes and try to let go of awareness of your body: the chair, your hands, your breathing.",
+      "Afterward, write down honestly: did your sense of 'I am here' remain as bodily awareness faded? Did you ever lose track of the body completely?",
+      "Write Avicenna's argument as numbered premises and a conclusion. Then add the Superman objection. Which premise does it attack?",
+      "Turn to essence and existence. Pick three things, one real, one fictional and one you are unsure about, and describe each one's essence. Does knowing the essence ever tell you whether it exists?",
+      "Finish with a short paragraph: is the idea of a being whose essence includes its existence coherent, or does it smuggle in what it is meant to prove?"
+    ]
+  },
+  "summary": [
+    "Under the Abbasid caliphs, especially from the mid-eighth to the late tenth century, a translation movement centered in Baghdad turned much of Greek science and philosophy into Arabic.",
+    "Al-Kindi, 'the philosopher of the Arabs', defended learning truth from any source and argued, against Aristotle, that the world had a beginning.",
+    "Al-Farabi, 'the Second Teacher', described a virtuous city ruled by a philosopher-prophet and treated religion as presenting philosophical truths in symbols for the many.",
+    "Avicenna's floating man argues that we can be aware of ourselves without being aware of our bodies, so the soul is distinct from the body; critics say this confuses knowing with being.",
+    "Avicenna distinguished essence from existence and argued that contingent things depend on a necessary being whose essence is its existence, ideas that shaped Aquinas and later Western philosophy."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Which statement best describes the Abbasid translation movement?",
+      "options": [
+        "A single government office that translated only religious texts",
+        "A Christian monastic project in Western Europe",
+        "A short campaign of a few years under one caliph",
+        "A broad, long-lasting effort, backed by many patrons, to translate Greek science and philosophy into Arabic"
+      ],
+      "answer": 3,
+      "explanation": "The movement lasted about two centuries and was driven by caliphs, courtiers and wealthy families; many translators were Syriac-speaking Christians."
+    },
+    {
+      "type": "mc",
+      "question": "What was al-Kindi's main reply to critics who rejected Greek philosophy as foreign?",
+      "options": [
+        "We should accept truth wherever it comes from, even distant peoples",
+        "Greek philosophers were secretly Muslims",
+        "Philosophy is useful only for medicine",
+        "Only Arabs can understand philosophy properly"
+      ],
+      "answer": 0,
+      "explanation": "In On First Philosophy al-Kindi argued that a seeker of truth should not be ashamed to take truth from any source."
+    },
+    {
+      "type": "mc",
+      "question": "On which question did al-Kindi disagree with Aristotle?",
+      "options": [
+        "Whether logic is useful",
+        "Whether the world had a beginning in time",
+        "Whether humans have souls",
+        "Whether mathematics is worth studying"
+      ],
+      "answer": 1,
+      "explanation": "Aristotle held the world was eternal; al-Kindi argued that an actually infinite past is impossible, so the world was created in time."
+    },
+    {
+      "type": "mc",
+      "question": "According to al-Farabi, how are religion and philosophy related?",
+      "options": [
+        "They contradict each other, so one must be rejected",
+        "Religion is superior and philosophy should be banned",
+        "Religion presents the truths of philosophy in images and symbols suited to the many",
+        "They concern completely unrelated subjects"
+      ],
+      "answer": 2,
+      "explanation": "Al-Farabi's philosopher-prophet knows truths by reason and conveys them in symbols and laws; religion, in effect, imitates philosophy."
+    },
+    {
+      "type": "mc",
+      "question": "In al-Farabi's scheme, a city that knows what true happiness is but chooses to pursue something else is called...",
+      "options": [
+        "an ignorant city",
+        "an errant city",
+        "a democratic city",
+        "a wicked city"
+      ],
+      "answer": 3,
+      "explanation": "Ignorant cities do not know true happiness; wicked cities know it and act otherwise; errant cities have been misled."
+    },
+    {
+      "type": "mc",
+      "question": "What is Avicenna's floating man thought experiment meant to show?",
+      "options": [
+        "That the soul or self is distinct from the body",
+        "That humans can survive without food",
+        "That the senses are the only source of knowledge",
+        "That the world had a beginning in time"
+      ],
+      "answer": 0,
+      "explanation": "The floating man affirms his own existence without affirming the existence of any part of his body, so, Avicenna concludes, the self is not the body."
+    },
+    {
+      "type": "mc",
+      "question": "Which example best illustrates the distinction between essence and existence?",
+      "options": [
+        "A cat is both a mammal and a pet",
+        "You can know exactly what a phoenix is without knowing whether one exists",
+        "Water boils at 100 degrees Celsius at sea level",
+        "A triangle has three sides"
+      ],
+      "answer": 1,
+      "explanation": "Understanding what something is (essence) does not tell you that it is (existence); that is Avicenna's point."
+    },
+    {
+      "type": "tf",
+      "question": "Avicenna's argument for a necessary being depends on proving that the world had a first moment in time.",
+      "answer": false,
+      "explanation": "Avicenna accepted that the world might be eternal. His argument is about dependence: even an eternal chain of contingent things needs a necessary cause."
+    },
+    {
+      "type": "tf",
+      "question": "Avicenna says he understood Aristotle's Metaphysics only after reading a short work by al-Farabi bought cheaply in the booksellers' market.",
+      "answer": true,
+      "explanation": "This story comes from Avicenna's own autobiography."
+    },
+    {
+      "type": "tf",
+      "question": "Avicenna's Canon of Medicine was used as a textbook in European medical schools for centuries.",
+      "answer": true,
+      "explanation": "In Latin translation the Canon remained a standard text into the seventeenth century."
+    }
+  ],
+  "goDeeper": {
+    "body": "Scholars disagree sharply about how to read the floating man. On one reading it is a proof: it shows by conceivability that the soul is a separate substance, much as Descartes later argued. On another, defended by scholars who note Avicenna's own remark that the experiment is meant to 'alert and remind', it is not a proof at all but a way of drawing attention to a pre-reflective self-awareness that is always present, even when we are absorbed in other things. Avicenna elsewhere says that the soul is never unaware of itself, even in sleep or drunkenness. This second reading makes him look less like Descartes and more like twentieth-century phenomenologists (Day 75) who studied the minimal self-awareness built into all experience.\n\nThe essence-existence distinction has an equally rich afterlife. Averroes accused Avicenna of making existence an accident added to an essence, which seemed to imply that essences somehow are before they exist. Aquinas, in his early work *On Being and Essence*, adopted the distinction and made it the foundation of his metaphysics: in every creature essence and existence are really distinct, while in God they are identical. Later, Kant's slogan that existence is not a real predicate (Day 55) can be read as one more chapter in the same debate.\n\nFinally, historians have been rethinking the very idea of an 'Islamic Golden Age' followed by decline. The old story said philosophy in the Islamic world died after al-Ghazali and Averroes. Recent work, by scholars such as Peter Adamson and Robert Wisnovsky, shows that Avicenna's philosophy remained intensely studied and debated in Iran, Central Asia and the Ottoman world for centuries afterward.",
+    "readings": [
+      {
+        "title": "Philosophy in the Islamic World: A Very Short Introduction",
+        "author": "Peter Adamson",
+        "note": "A brisk, reliable overview from al-Kindi to the modern period, by the host of the History of Philosophy Without Any Gaps podcast."
+      },
+      {
+        "title": "Greek Thought, Arabic Culture",
+        "author": "Dimitri Gutas",
+        "note": "The standard scholarly account of the translation movement and its social causes."
+      },
+      {
+        "title": "Classical Arabic Philosophy: An Anthology of Sources",
+        "author": "Jon McGinnis and David C. Reisman (eds.)",
+        "note": "Contains translations of al-Kindi, al-Farabi and Avicenna, including the floating man and the proof of the necessary being."
+      },
+      {
+        "title": "Avicenna",
+        "author": "Jon McGinnis",
+        "note": "A clear introduction to Avicenna's whole system, from logic to metaphysics."
+      }
+    ],
+    "questions": [
+      "Al-Kindi said truth should be welcomed from any source. Are there limits to that principle, and do we live up to it today?",
+      "Al-Farabi thought religion presents philosophical truth in images for people who cannot follow demonstrations. Is that a respectful or a condescending view of religion?",
+      "Does the floating man show that the self is distinct from the body, or only that we can think about ourselves without thinking about our bodies?"
+    ]
+  }
+}

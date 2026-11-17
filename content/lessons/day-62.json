@@ -1,0 +1,246 @@
+{
+  "id": "day-62",
+  "day": 62,
+  "title": "Mill: On Liberty and the Subjection of Women",
+  "subtitle": "Your life, your mind and your body belong to you",
+  "philosophers": ["John Stuart Mill", "Harriet Taylor Mill"],
+  "era": "1851–1869",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to state Mill's harm principle and apply it to concrete cases.",
+    "By the end you will be able to reconstruct Mill's arguments for freedom of thought and discussion.",
+    "By the end you will be able to explain the idea of the tyranny of the majority and Mill's defense of individuality.",
+    "By the end you will be able to describe Harriet Taylor Mill's contribution and the main arguments of The Subjection of Women.",
+    "By the end you will be able to identify the limits and blind spots of Mill's liberalism."
+  ],
+  "hook": "In 1867 the British Parliament was debating a bill to extend the vote to more men. A member for Westminster rose to propose a small amendment: replace the word *man* with the word *person*. The change would have given women the vote on the same terms as men. Members laughed, and the amendment lost by 196 votes to 73. But it was the first time a proposal for women's suffrage had been formally debated in the House of Commons, and the man who proposed it was the most famous philosopher in Britain, John Stuart Mill.\n\nYesterday (Day 61) we met Mill the utilitarian, defending the greatest happiness principle. Today we meet Mill the champion of freedom, author of *On Liberty* (1859), perhaps the most influential defense of individual liberty ever written, and *The Subjection of Women* (1869), one of the founding texts of liberal feminism. Both books grew out of a twenty-eight-year partnership with Harriet Taylor, whom Mill credited as the joint author of much of his best work. Their questions are the questions of every modern democracy. When may society interfere with what you say, do or believe? And why were half of all human beings denied the freedoms that men took for granted?",
+  "sections": [
+    {
+      "heading": "Harriet Taylor and a Partnership of Minds",
+      "body": "In 1830 the twenty-four-year-old Mill met Harriet Taylor, a brilliant, unconventional woman who was married, with children, to a London merchant named John Taylor. The two formed an intense intellectual friendship that scandalized their social circle. For almost twenty years they wrote, traveled and argued together, while Harriet remained married to her husband. After John Taylor died in 1849, Mill and Harriet married in 1851. Mill, who disliked the legal powers that marriage gave husbands over wives, wrote a formal statement renouncing them.\n\nHarriet Taylor Mill was a thinker in her own right. In 1851 she published an essay, *The Enfranchisement of Women*, in the *Westminster Review*, arguing for women's full civil and political equality, including the right to vote, to enter the professions and to be educated as men were. Mill always insisted that his writings on liberty and on women owed an enormous debt to her. She died suddenly in Avignon, France, in 1858, while they were working on *On Liberty*. Mill dedicated the book, published the next year, to her memory, calling her the inspirer and in part the author of all that was best in his writings.\n\nHow much did she contribute? Scholars disagree. Some, for much of the twentieth century, treated Mill's tributes as the exaggerations of a grieving husband. More recent scholars, such as Jo Ellen Jacobs, have argued that Harriet's contribution was substantial and was long overlooked partly because she was a woman. Mill also worked closely with Harriet's daughter, Helen Taylor, who helped him with *The Subjection of Women* and became an activist herself. The honest conclusion is that these books came out of a genuinely collaborative intellectual life, and that our habit of crediting single male authors can hide that.\n\nOne more biographical fact matters. From 1823 to 1858 Mill worked for the **East India Company**, which governed much of India, rising to a senior position in its London office. This will come back when we consider the limits of his liberalism."
+    },
+    {
+      "heading": "The Harm Principle",
+      "body": "*On Liberty* begins by naming its subject: not the metaphysical freedom of the will (the Mind, Self and Free Will track deals with that), but civil or social liberty, the nature and limits of the power that society can legitimately exercise over the individual.\n\nMill's answer is a single principle, now known as the **harm principle**:\n\n> The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant.\n\nThe principle covers both kinds of power: legal penalties and also the moral pressure of public opinion. It draws a line around what Mill calls the **self-regarding** sphere of conduct, the part of life that concerns only oneself, or others only with their free consent. In that sphere, he writes, the individual's independence is absolute: over himself, over his own body and mind, the individual is sovereign.\n\nWhat does this rule out? Above all, **paternalism**: interfering with people for their own good. You may argue with someone who drinks too much, warn them, refuse to spend time with them. But society may not force them to stop, so long as they harm no one else. Mill gives an example: if someone is about to cross a bridge known to be unsafe and there is no time to warn them, you may seize them and turn them back, because no one really wants to fall into the river. But if they know the risk and choose it anyway, the choice is theirs.\n\nThe harm principle is also not a license for selfishness. A man who neglects to support his children, or a soldier drunk on duty, is causing harm to others and may be held to account. And Mill limits the principle to adults in possession of their faculties; children and those needing care may be protected from themselves.\n\nHow does this fit with utilitarianism? Mill insists that he does not rely on abstract natural rights (Bentham's “nonsense upon stilts”). He defends liberty on grounds of **utility in the largest sense**, grounded in the permanent interests of human beings as progressive beings. His bet is that, in the long run, a free society produces far more happiness than a controlled one."
+    },
+    {
+      "heading": "Freedom of Thought and Discussion",
+      "body": "The most celebrated chapter of *On Liberty* defends free expression. Its central claim is uncompromising: “If all mankind minus one were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person, than he, if he had the power, would be justified in silencing mankind.”\n\nMill offers several distinct arguments. It helps to keep them apart.\n\n1. **The silenced opinion may be true.** To suppress it is to assume that we are **infallible**. History is full of confident majorities who were wrong, and Mill's examples are pointed: Athens condemned Socrates (Day 10), and Christians were persecuted by Rome, even by the wise emperor Marcus Aurelius (Day 26).\n\n2. **It may be partly true.** Most controversies involve half-truths on each side. Only through the collision of opposing views does the rest of the truth come out.\n\n3. **Even if the received opinion is wholly true,** unless it is vigorously contested it will be held as a **dead dogma**, not a living truth. People will believe it as a prejudice, without understanding the reasons. He who knows only his own side of the case, Mill writes, knows little of that.\n\n4. **The meaning itself may be lost.** A doctrine never challenged loses its effect on character and conduct; it becomes a formula people repeat without feeling.\n\nThese arguments add up to a picture of knowledge as something tested, not inherited. It is Socrates' cross-examination (Day 9) turned into a social policy.\n\nDoes Mill allow any limits? Yes, where speech becomes a direct instigation to harm. His famous example: the opinion that corn dealers are starvers of the poor may be freely printed in a newspaper, but it may justly be punished when delivered orally to an excited mob gathered outside a corn dealer's house. The difference is not the content of the idea but the context, where words become a spark aimed at a powder keg. Modern debates over incitement, harassment and hate speech are, in large part, arguments over where to draw Mill's line."
+    },
+    {
+      "heading": "The Tyranny of the Majority and the Value of Individuality",
+      "body": "Why did Mill think liberty needed defending in a democratic age? Earlier struggles for freedom were against kings and aristocrats. Once the people rule themselves, one might think there is nothing left to fear. Mill disagreed. Borrowing a phrase from the French writer Alexis de Tocqueville, whose *Democracy in America* he had reviewed, he warned of the **tyranny of the majority**.\n\nThe danger is not only that majorities may pass oppressive laws. It is also **social tyranny**: the pressure of public opinion, custom and conformity, which Mill thought could be more formidable than many kinds of political oppression, because it leaves fewer means of escape and penetrates more deeply into the details of life, enslaving the soul itself. You do not need a law against eccentricity if everyone is afraid of being thought eccentric.\n\nAgainst this, Mill offers a passionate defense of **individuality**. Human beings are not machines to be built after a model and set to do exactly the work prescribed; human nature, he says, is like a tree, which needs to grow and develop itself on all sides according to the tendency of the inward forces that make it a living thing. He calls for **experiments in living**: people should be free to try different ways of life, so that everyone can see which ones work. Even when an experiment fails, others learn from it.\n\nNotice how this ties back to his higher pleasures (Day 61). Choosing for yourself exercises the capacities, judgment, discrimination, moral preference, that make human life distinctive. A person who lets the world choose his plan of life, Mill says, needs no faculty other than the ape-like one of imitation. Freedom is not just a means to happiness; it is part of what a fully human happiness consists in.\n\nThere is also a social argument. Societies progress because of original people who try something new. A society that crushes eccentricity, Mill warned, risks the fate he attributed to China: early brilliance followed by long stagnation under the weight of custom. (Today's historians would regard this picture of China as a stereotype; it shows how Mill's own culture shaped his examples.)"
+    },
+    {
+      "heading": "The Subjection of Women",
+      "body": "Mill wrote *The Subjection of Women* in 1861, drawing heavily on ideas he had developed with Harriet, and published it in 1869. Its opening thesis is blunt: the legal subordination of one sex to the other is wrong in itself and one of the chief hindrances to human improvement, and it should be replaced by a principle of **perfect equality**, admitting no power or privilege on the one side, nor disability on the other.\n\nIt helps to know the legal background. Under English **coverture**, a married woman's legal identity was largely absorbed into her husband's. Her property and earnings belonged to him, she could not easily leave him, and custody of children was his. Mill compared the position of wives, in law, to a form of slavery, noting that the wife was in some respects worse placed than a slave because she could not even refuse her master's bed.\n\nMill's most original argument concerns **women's nature**. Defenders of the status quo claimed that women were naturally suited to the home and unsuited to public life. Mill replied that no one could possibly know this. What is now called the nature of women, he wrote, is an eminently artificial thing, the result of forced repression in some directions and unnatural stimulation in others. You cannot study the nature of a plant raised half in a hothouse and half in the snow. Only when women are free to choose will anyone discover what they can do. If they are naturally unfit for some role, there is no need to forbid them from it; free competition will settle it.\n\nHe also argued from consequences, as a good utilitarian. Equality would double the talent available to society, improve marriages by making them partnerships of equals, and train men out of the habit of unearned domination, which he thought corrupted their characters from childhood.\n\nThe book drew both admiration and outrage. It was quickly translated into many languages and became a key text for suffrage movements around the world. Remember Mary Wollstonecraft on Day 54: Mill and Harriet Taylor carried her arguments into a new century, and the vote for women in Britain, first partial in 1918 and then equal in 1928, came half a century after the amendment that opened this lesson."
+    },
+    {
+      "heading": "Limits, Blind Spots and Lasting Questions",
+      "body": "Mill's liberalism has been criticized from several directions.\n\n**What counts as harm?** The harm principle is only as clear as the concept of harm. Is offense a harm? Is spreading a dangerous falsehood about medicine harm to others? Is one person's drug use self-regarding if it affects their family? Almost every conduct affects someone. Critics say the line between self-regarding and other-regarding conduct is much blurrier than Mill admits; defenders reply that Mill meant harm to definite interests, not mere dislike.\n\n**Is paternalism always wrong?** Modern laws on seat belts, motorcycle helmets and prescription drugs are paternalistic, and most people accept them. In the 1950s and 1960s the judge Patrick Devlin and the legal philosopher H. L. A. Hart debated whether the law may enforce shared morality, after a British government report recommended decriminalizing private homosexual acts between adults. Hart defended a broadly Millian position; Devlin argued that a society may protect its moral fabric. The debate still shapes arguments about drugs, gambling and assisted dying.\n\n**Who counts as civilized?** Mill applied the harm principle only to members of a **civilized community**. He wrote that despotism is a legitimate mode of government in dealing with barbarians, provided the end is their improvement. Writing as a senior official of the East India Company, he used this reasoning to justify British rule over India. Many scholars now see this as a deep contradiction: a philosophy of individual self-determination denied to whole peoples on the basis of a European ranking of civilizations.\n\n**Is free speech enough?** Some argue that Mill's marketplace of ideas assumes fair competition; in reality, wealth, power and media control mean some voices are amplified and others drowned out. Others ask whether the harms of hate speech fall unequally on vulnerable groups.\n\nNone of these objections has made Mill irrelevant. Courts, constitutions and ordinary debates still argue in his terms. When people say, “It's my life, I'm not hurting anyone,” they are, whether they know it or not, quoting the harm principle."
+    }
+  ],
+  "keyQuote": {
+    "text": "Over himself, over his own body and mind, the individual is sovereign.",
+    "source": "John Stuart Mill, On Liberty (1859), Chapter 1"
+  },
+  "modernConnection": {
+    "title": "Mill in the Age of Content Moderation",
+    "body": "Every day, social media companies make millions of decisions that Mill would recognize: should this post stay up or come down? Should this account be suspended? Platforms ban incitement to violence, harassment, and certain kinds of medical misinformation, while claiming to protect open debate. Critics on one side say they censor too much; critics on the other say they let dangerous lies spread too freely.\n\nMill's framework helps sort out the disagreement. His corn-dealer example draws the line at speech that directly instigates harm in a volatile context. A viral post naming a person's home address and urging followers to “pay them a visit” looks a lot like a speech to an angry mob outside a house. A sharply worded essay criticizing a public figure looks more like the newspaper article Mill would protect. His argument about dead dogma also bears on the push to remove misinformation: even when the consensus is right, he would say, people who never hear the opposing case hold the truth as a prejudice and are poorly equipped to defend it.\n\nHis worry about social tyranny is also strikingly modern. Online pile-ons and mass shaming can punish people for unpopular opinions without any law being involved, exactly the pressure of public opinion Mill feared might be more formidable than government. People across the political spectrum now argue about whether such pressure is legitimate accountability or a chilling enforcement of conformity.\n\nBut the analogy breaks down in important ways. Mill wrote about government and public opinion, not about private companies deciding what to host on their own property. Online speech moves at a speed and scale he could not imagine; a lie can reach millions before a correction is written, which strains his confidence that truth will win in open debate. Algorithms that reward outrage are not a neutral marketplace of ideas. Many free speech thinkers now argue that Mill's principles need supplementing with ideas about platform design, transparency and the quality of public discourse. The questions he asked are still the right ones; the answers need updating for a world of feeds and virality."
+  },
+  "vocabulary": [
+    {
+      "term": "Harm principle",
+      "definition": "Mill's principle that the only legitimate reason for exercising power over an adult against their will is to prevent harm to others, not to protect their own good.",
+      "example": "By the harm principle, the state may ban drunk driving but not drinking alone at home."
+    },
+    {
+      "term": "Self-regarding conduct",
+      "definition": "Actions that primarily affect only the agent, or others only with their free consent; for Mill, the sphere in which the individual is sovereign.",
+      "example": "Mill classed dangerous hobbies like mountaineering as self-regarding conduct, so long as no one else is endangered."
+    },
+    {
+      "term": "Paternalism",
+      "definition": "Interfering with a person's liberty for their own good, against their will.",
+      "example": "A law forcing adults to eat vegetables would be a clear case of paternalism."
+    },
+    {
+      "term": "Tyranny of the majority",
+      "definition": "The oppression of individuals or minorities by a democratic majority, through law or through the social pressure of public opinion and custom.",
+      "example": "Mill feared the tyranny of the majority would make people afraid to live unconventional lives."
+    },
+    {
+      "term": "Dead dogma",
+      "definition": "Mill's term for a belief, even a true one, that is held without understanding its grounds because it is never challenged.",
+      "example": "A student who can recite that the earth orbits the sun but cannot give a single reason for it holds a dead dogma."
+    },
+    {
+      "term": "Experiments in living",
+      "definition": "Mill's phrase for the freedom of individuals to try different ways of life, from which everyone can learn.",
+      "example": "Communes, unusual careers and nontraditional families can be seen as experiments in living."
+    },
+    {
+      "term": "Coverture",
+      "definition": "The legal doctrine in English common law under which a married woman's legal identity, property and earnings were largely absorbed into her husband's.",
+      "example": "Under coverture, a Victorian wife's wages legally belonged to her husband."
+    },
+    {
+      "term": "Liberal feminism",
+      "definition": "The tradition arguing for women's equality through equal legal rights, education and opportunities, as developed by Wollstonecraft, Harriet Taylor Mill and J. S. Mill.",
+      "example": "The Subjection of Women is a founding text of liberal feminism because it demands perfect legal equality between the sexes."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Drawing Mill's Line",
+    "prompt": "Mill's harm principle seems simple until you try to apply it. Spend 10–15 minutes deciding a set of cases and testing your own consistency.",
+    "steps": [
+      "For each case, decide whether Mill would allow society to interfere, and whether you agree: (a) a law requiring motorcyclists to wear helmets; (b) banning a public speech that denies a historical atrocity; (c) a ban on selling a recreational drug to adults; (d) removing a social media post that encourages people to harass a named individual.",
+      "For each case where you disagree with Mill, name the value you are relying on instead (safety, dignity, equality, community, something else).",
+      "Choose one belief you hold strongly. Write the best argument you can for the opposite view. Did this make your belief more of a living truth or less certain?",
+      "Reflect on a time you held back from saying or doing something because of social pressure rather than law. Was that pressure legitimate or a form of what Mill called social tyranny?",
+      "Write two or three sentences stating where you would draw the line between free expression and harm, and why."
+    ]
+  },
+  "summary": [
+    "On Liberty (1859) and The Subjection of Women (1869) grew out of Mill's long intellectual partnership with Harriet Taylor Mill, whose contribution scholars increasingly recognize.",
+    "The harm principle says that society may interfere with an adult's liberty only to prevent harm to others, never merely for that person's own good.",
+    "Mill defended free speech because silenced opinions may be true or partly true, and because unchallenged truths decay into dead dogma.",
+    "He warned against the tyranny of the majority, including social pressure, and praised individuality and experiments in living.",
+    "The Subjection of Women argued for perfect legal equality, attacking coverture and insisting that women's so-called nature was an artificial product of their circumstances.",
+    "Critics question the vagueness of harm, the rejection of all paternalism, and Mill's exclusion of supposedly uncivilized peoples, tied to his career with the East India Company."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "According to Mill's harm principle, when may society rightfully exercise power over an adult against their will?",
+      "options": [
+        "Whenever it would make that person happier",
+        "Whenever the majority disapproves of their behavior",
+        "Only to prevent harm to others",
+        "Only when religious authorities agree"
+      ],
+      "answer": 2,
+      "explanation": "Mill states that the only purpose for which power can rightfully be exercised is to prevent harm to others; the person's own good is not enough."
+    },
+    {
+      "type": "mc",
+      "question": "Which of the following is an argument Mill gives for allowing even false opinions to be expressed?",
+      "options": [
+        "Truths that are never challenged decay into dead dogma, held without understanding",
+        "False opinions are always more interesting than true ones",
+        "The government has no ability to tell truth from falsehood",
+        "Expressing false opinions makes people happier"
+      ],
+      "answer": 0,
+      "explanation": "Mill argues that contesting received truths keeps them alive and understood; otherwise they are held as prejudice."
+    },
+    {
+      "type": "mc",
+      "question": "In Mill's corn-dealer example, why may the same opinion be punished in one case but not the other?",
+      "options": [
+        "Because corn dealers are wealthy and powerful",
+        "Because newspapers are always more reliable than speeches",
+        "Because the opinion is false in one case and true in the other",
+        "Because spoken to an excited mob outside the dealer's house, it becomes a direct instigation to harm"
+      ],
+      "answer": 3,
+      "explanation": "The content is the same; the context, an angry crowd at the dealer's door, turns words into a direct incitement."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern law would Mill most likely object to under the harm principle?",
+      "options": [
+        "A law against assault",
+        "A law requiring parents to educate their children",
+        "A law forbidding fully informed adults from engaging in a risky sport that endangers only themselves",
+        "A law against driving while drunk"
+      ],
+      "answer": 2,
+      "explanation": "Restricting purely self-regarding risk for the person's own good is paternalism, which Mill rejects; the other laws prevent harm to others."
+    },
+    {
+      "type": "mc",
+      "question": "What did Mill mean by the “tyranny of the majority”?",
+      "options": [
+        "The oppression of individuals by majorities, including through the social pressure of public opinion and custom",
+        "The rule of a king who claims to speak for the majority",
+        "The tendency of majorities to vote for higher taxes",
+        "A military dictatorship supported by most citizens"
+      ],
+      "answer": 0,
+      "explanation": "Mill, borrowing from Tocqueville, feared that democratic majorities could oppress minorities through law and, even more deeply, through social conformity."
+    },
+    {
+      "type": "mc",
+      "question": "What was Mill's main argument about women's “nature” in The Subjection of Women?",
+      "options": [
+        "Women are naturally superior to men in every way",
+        "Women's nature is fixed and suited to domestic life",
+        "No one can know women's true nature, because what passes for it is an artificial product of their circumstances",
+        "Women's nature is identical to men's in every detail"
+      ],
+      "answer": 2,
+      "explanation": "Mill argued that women's apparent nature was shaped by repression and unnatural stimulation; only freedom would reveal what women could do."
+    },
+    {
+      "type": "mc",
+      "question": "Which criticism targets an exclusion that Mill built into the harm principle itself?",
+      "options": [
+        "He denied that words can ever cause harm",
+        "He limited it to members of civilized communities and defended despotism over peoples he called barbarians",
+        "He refused to apply it to men",
+        "He thought it applied only to religious speech"
+      ],
+      "answer": 1,
+      "explanation": "Mill excluded supposedly backward societies and used this reasoning to justify British rule in India, which many critics see as a deep contradiction."
+    },
+    {
+      "type": "tf",
+      "question": "Mill argued that, if he had the power, a single dissenter would be no more justified in silencing all of mankind than mankind would be in silencing him.",
+      "answer": true,
+      "explanation": "This symmetrical claim is one of the most famous passages in Chapter 2 of On Liberty."
+    },
+    {
+      "type": "tf",
+      "question": "Mill defended liberty mainly by appealing to natural rights that exist independently of any consequences.",
+      "answer": false,
+      "explanation": "Mill explicitly grounded liberty in utility in the largest sense, the permanent interests of humans as progressive beings, not in abstract natural rights."
+    },
+    {
+      "type": "tf",
+      "question": "Harriet Taylor Mill published her own essay arguing for women's political equality, The Enfranchisement of Women, in 1851.",
+      "answer": true,
+      "explanation": "Her essay appeared in the Westminster Review in 1851 and argued for women's full civil and political equality."
+    }
+  ],
+  "goDeeper": {
+    "body": "Scholars have long debated whether *On Liberty* is consistent with *Utilitarianism*. The puzzle is simple to state: if the only ultimate value is happiness, why should liberty be protected even in cases where interfering would produce more happiness? One family of readings, developed by John Gray and others, argues that Mill's utilitarianism is indirect: we best promote happiness by adopting a firm rule of liberty and not reopening it case by case, since case-by-case paternalism is error-prone and corrodes the capacities that happiness depends on. Another reading holds that Mill's conception of happiness already includes autonomy and individuality as essential ingredients, so the conflict largely disappears, though perhaps at the price of departing from Bentham's simple hedonism.\n\nA second debate concerns paternalism after Mill. Gerald Dworkin distinguished hard from soft paternalism: soft paternalism interferes only to make sure a choice is informed and voluntary (like Mill's bridge example), while hard paternalism overrides a fully informed choice. Behavioral economics added a new twist. Richard Thaler and Cass Sunstein's *Nudge* (2008) defended **libertarian paternalism**: designing choices, such as making pension saving the default, so that people tend to choose what benefits them while remaining free to opt out. Is that compatible with Mill's respect for individuality, or a subtler form of the social control he feared?\n\nFinally, feminist philosophers have revisited *The Subjection of Women*. Some praise its radical analysis of how power shapes character; others note that Mill largely accepted that most married women would choose domestic life, leaving the family's division of labor unchallenged. Compare this with Simone de Beauvoir on Day 78.",
+    "readings": [
+      {
+        "title": "On Liberty",
+        "author": "John Stuart Mill",
+        "note": "Read Chapter 1 for the harm principle, Chapter 2 on thought and discussion, and Chapter 3 on individuality."
+      },
+      {
+        "title": "The Subjection of Women",
+        "author": "John Stuart Mill",
+        "note": "Chapter 1 contains the argument about women's nature; Chapter 2 examines marriage law."
+      },
+      {
+        "title": "The Complete Works of Harriet Taylor Mill",
+        "author": "Harriet Taylor Mill (ed. Jo Ellen Jacobs)",
+        "note": "Includes The Enfranchisement of Women and lets you judge her contribution for yourself."
+      },
+      {
+        "title": "John Stuart Mill: Victorian Firebrand",
+        "author": "Richard Reeves",
+        "note": "A lively, well-researched biography covering his education, his partnership with Harriet and his years in Parliament."
+      }
+    ],
+    "questions": [
+      "Is the harm principle still a workable guide in a world where almost every action affects others through networks and shared systems?",
+      "Should private platforms be held to Mill's standards of free expression, or are they entitled to set their own rules?",
+      "Does Mill's exclusion of so-called uncivilized peoples undermine his whole theory, or can the theory be separated from his prejudices?"
+    ]
+  }
+}

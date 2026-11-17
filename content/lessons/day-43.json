@@ -1,0 +1,193 @@
+{
+  "id": "day-43",
+  "day": 43,
+  "title": "Descartes I: Radical Doubt and 'I Think, Therefore I Am'",
+  "subtitle": "Tear everything down, and see what is left standing",
+  "philosophers": ["René Descartes"],
+  "era": "1596–1650",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to describe Descartes' life and why he set out to rebuild knowledge on certain foundations.",
+    "Explain his method of doubt and the three escalating waves of doubt: the senses, the dream argument and the evil demon.",
+    "State and explain the cogito, “I think, therefore I am,” and why Descartes thought it could not be doubted.",
+    "Explain what Descartes meant by a thinking thing and by clear and distinct ideas, using the wax example.",
+    "Evaluate major objections to the cogito and compare Descartes' doubt with Montaigne's and the ancient skeptics'."
+  ],
+  "hook": "How do you know you are not dreaming right now?\n\nYou might pinch yourself. But you have surely had dreams in which you pinched yourself, or checked a clock, or read a page, and everything seemed perfectly real until you woke up. You might say the world feels too detailed and too consistent to be a dream. But in the dream, it felt that way too. Push a little further: how do you know that your whole life is not an elaborate simulation, fed into your mind by someone or something determined to fool you?\n\nThese questions sound like science fiction, but they were posed with complete seriousness in 1641 by a French mathematician and soldier-turned-philosopher. René Descartes decided to doubt absolutely everything that could possibly be doubted, not because he was a skeptic, but because he wanted to find something so certain that no doubt could touch it. What he found has become the most famous sentence in philosophy.",
+  "sections": [
+    {
+      "heading": "A Soldier, a Stove and a Dream",
+      "body": "**René Descartes** was born on 31 March 1596 in La Haye, a small town in Touraine, France (it is now named Descartes in his honor). His mother died when he was a baby. He was educated at the elite Jesuit college of La Flèche, where he studied classical languages, Aristotelian philosophy (the scholastic tradition of Day 35 and Day 36) and mathematics. In his *Discourse on the Method* (1637) he later wrote that he left school disappointed: only mathematics had given him certainty, and philosophy, after centuries of the best minds, contained nothing that was not still disputed.\n\nSo he decided to study the great book of the world. He took a law degree, then in 1618 joined the army of Maurice of Nassau in the Netherlands as a gentleman volunteer, more interested in travel and conversation than fighting. There he met the Dutch scientist Isaac Beeckman, who rekindled his passion for mathematics and physics.\n\nThen came a turning point. On the night of 10 November 1619, while with the army in Germany, Descartes spent the day shut alone in a stove-heated room, thinking. That night he had three vivid dreams which he took as a sign that he was called to found a new, unified science. We know of these from an early biography that drew on his lost notebook; the details may be embellished, but the sense of mission was real.\n\nDescartes spent most of his adult life in the Netherlands, then the freest country in Europe, moving house frequently to protect his privacy. He made major contributions to mathematics, inventing the coordinate system that lets us draw equations as curves on a graph (that is why we call them Cartesian coordinates), and to optics. He had nearly finished a treatise on physics, *The World*, when he heard in 1633 of Galileo's condemnation (Day 41). Since his book also made the Earth move, he cautiously withheld it.\n\nHis two great philosophical works were the *Discourse on the Method* (1637), written in French for a general audience, and the *Meditations on First Philosophy* (1641), written in Latin for scholars. The *Meditations* was published with sets of objections from leading thinkers, including Hobbes (Day 42), the theologian Antoine Arnauld and the philosopher Pierre Gassendi, along with Descartes' replies, a remarkable early example of open peer review."
+    },
+    {
+      "heading": "The Method: Tearing Down to Build Up",
+      "body": "In the *Discourse* Descartes set out four simple rules for thinking well:\n\n1. Never accept anything as true unless you clearly recognize it to be so, avoiding haste and prejudice.\n2. Divide each difficulty into as many parts as possible.\n3. Think in an orderly way, starting from the simplest things and rising step by step to the most complex.\n4. Make reviews so complete that you can be sure nothing has been left out.\n\nThese rules come from mathematics. In geometry, you begin with a few self-evident axioms and deduce everything else with certainty. Descartes wanted to do the same for all knowledge. This approach, which trusts reason more than the senses as the source of certain knowledge, is called **rationalism**, and Descartes is its founding modern figure. (Spinoza on Day 45 and Leibniz on Day 46 will follow him; the empiricists Locke, Berkeley and Hume, Days 47 to 49, will push back.)\n\nBut the first rule creates a problem. Since childhood, Descartes says at the start of the *Meditations*, he had accepted many false opinions, and everything he built on them was doubtful. The only remedy was to demolish everything once in his life and start again from the foundations. This picture of knowledge as a building that needs a firm base is called **foundationalism**.\n\nHe did not need to check his beliefs one by one, which would take forever. Instead he would attack the foundations on which they rested. And he set a very high bar: any belief open to the slightest doubt would be treated, for the time being, as if it were false. In his replies to objections he gave an analogy: if you had a basket of apples and feared some were rotten, you would tip them all out and put back only the ones you had checked.\n\nThis is the **method of doubt**, sometimes called methodical or hyperbolic (exaggerated) doubt. Notice the key difference from Montaigne (Day 40) and the ancient skeptics (Day 27). For Pyrrho and Montaigne, doubt was a way of life that brought tranquility and humility. For Descartes, doubt is a temporary tool, used once, in order to defeat skepticism and find certainty."
+    },
+    {
+      "heading": "Three Waves of Doubt",
+      "body": "The First Meditation unfolds like a horror story in three acts, each doubt more powerful than the last.\n\n**First wave: the senses deceive.** Everything I have accepted as most true, Descartes says, I got from or through the senses. But the senses sometimes deceive us. A tower that looks round from a distance turns out to be square; a stick looks bent in water. And it is prudent never to trust completely those who have deceived us even once. Still, he admits, this doubt is limited. It hardly seems reasonable to doubt that I am sitting here by the fire, wearing a winter dressing gown, holding this paper. Only madmen doubt such things.\n\n**Second wave: the dream argument.** But wait. How often, asleep at night, have I dreamed that I was sitting by the fire in my dressing gown, when in fact I was undressed in bed? There are no certain signs by which to distinguish being awake from being asleep. So any particular experience could be a dream. This is the **dream argument**.\n\nYet even dreams, Descartes notes, are like paintings: they are made out of simpler elements, colors, shapes, extension, quantity and number, that must be real. So sciences dealing with these simple things, like arithmetic and geometry, seem to survive. Whether I am awake or asleep, two and three make five, and a square has four sides.\n\n**Third wave: the evil demon.** Now the decisive blow. What if an all-powerful God had made me so that I go wrong every time I add two and three? To avoid seeming impious, Descartes switches to a fictional villain: a supremely powerful and cunning **evil demon** (in Latin, *genius malignus*) who employs all his energies to deceive me. Perhaps the sky, the earth, colors, shapes and sounds are all illusions the demon has devised to trap my judgment. Perhaps I have no hands, no eyes, no flesh, no blood, no senses at all. Even mathematics could be the demon's trick.\n\nDescartes ends the First Meditation feeling as if he had fallen into a deep whirlpool, unable to touch bottom or swim to the surface. Everything he believed is now in doubt. Is there anything left?"
+    },
+    {
+      "heading": "I Think, Therefore I Am",
+      "body": "In the Second Meditation, Descartes finds his footing. Suppose the demon is deceiving me about everything. Then I certainly exist, if he is deceiving me. Let him deceive me as much as he can, he will never bring it about that I am nothing so long as I think that I am something. So, Descartes concludes, the proposition I am, I exist is necessarily true whenever it is put forward by me or conceived in my mind.\n\nIn the *Discourse* (1637) he had put it in French: *je pense, donc je suis*. In his *Principles of Philosophy* (1644) he wrote it in Latin: ***cogito, ergo sum***, “I think, therefore I am.” Philosophers call this insight simply **the cogito**.\n\nWhy is it immune to doubt? Because doubting is itself a kind of thinking. If I try to doubt that I am thinking, I am thinking. If I am deceived, there must be an I who is deceived. The demon can fool me about what I think, but not about the fact that I am thinking. The cogito is self-verifying: the very act of considering it proves it.\n\nDescartes called this his **Archimedean point**. The ancient mathematician Archimedes said that if he had one firm and immovable point, he could move the whole Earth. Descartes hoped that from this one certainty he could rebuild all of knowledge.\n\nThe idea had a precedent, which Descartes' contemporaries quickly pointed out. Remember Augustine (Day 30)? Answering the Academic skeptics, he had argued that even if I am mistaken, I exist: *si fallor, sum*, “if I am deceived, I am.” Descartes acknowledged the resemblance politely but insisted he used the insight differently: Augustine used it in passing, whereas Descartes made it the foundation of an entire system.\n\nNotice how little the cogito establishes. It proves that I exist now, while I am thinking. It does not prove that I have a body, that I existed yesterday, that other people exist or that the world exists. Descartes is alone with his own mind, the only thing he can be sure of. Getting back out to the world will be the work of Day 44."
+    },
+    {
+      "heading": "What Am I? The Thinking Thing and the Piece of Wax",
+      "body": "Now Descartes asks: I know that I am, but what am I? Not a body, since I can still doubt whether I have one. Not a rational animal, the old Aristotelian definition, since that would just raise more questions. The only thing that cannot be separated from me is thought. So I am, strictly speaking, a **thinking thing** (*res cogitans*). And what is a thinking thing? A thing that doubts, understands, affirms, denies, wills, refuses, and also imagines and has sensory perceptions. For even if what I seem to see is unreal, it is certain that I *seem* to see.\n\nBut surely, you might object, we know physical things, like this desk, much better than this mysterious mind? Descartes answers with one of philosophy's most famous examples, the **wax argument**.\n\nTake a piece of beeswax freshly taken from the honeycomb. It still tastes of honey and smells of flowers; it has a definite color, shape and size; it is hard and cold; tap it and it makes a sound. Now bring it near the fire. The taste and smell vanish, the color changes, the shape is lost, it grows, it becomes liquid and hot, you can hardly touch it, and it no longer makes a sound. Is it still the same wax? Everyone agrees it is.\n\nSo what did we know about the wax? Not anything the senses delivered, since every sensory quality changed. Nor did imagination grasp it, since the wax could take on countless more shapes than I could ever picture. What remains is something extended, flexible and changeable, and this is grasped by the mind alone, by what Descartes calls a purely mental inspection. We say we see the wax, as we say we see people crossing the street from a window, when all we really see are hats and coats that might cover robots. We judge that they are people.\n\nThe lesson is double. First, even our knowledge of bodies comes from the intellect, not the senses, a rationalist conclusion. Second, every act of knowing the wax proves more clearly that I, the knower, exist. Nothing is easier for me to know, Descartes concludes, than my own mind."
+    },
+    {
+      "heading": "Clear and Distinct Ideas, and Some Objections",
+      "body": "What makes the cogito so certain? At the start of the Third Meditation, Descartes says that in it he perceives nothing but a **clear and distinct** perception of what he asserts. A perception is clear when it is present and evident to an attentive mind, like an object seen in good light; it is distinct when it is so sharply separated from everything else that it contains nothing unclear. So he proposes a general rule: whatever I perceive very clearly and distinctly is true. But he cannot yet fully trust the rule, because the evil demon still lurks. To secure it, he will need to prove that a perfect God exists who is no deceiver. That is the subject of Day 44, and it will raise a notorious problem of circular reasoning.\n\nThe cogito itself has faced sharp objections:\n\n- **Does the I follow?** The German scientist Georg Christoph Lichtenberg argued in the eighteenth century that we should only say it thinks, the way we say it rains. All we can be sure of is that thinking is going on, not that there is a single, lasting self doing it. Bertrand Russell made a similar point. Hume will develop this doubt on Day 50 with his bundle theory of the self.\n- **Is it an argument?** If the cogito is a syllogism, it needs a hidden premise, whatever thinks exists, which could itself be doubted. Descartes replied that it is not a syllogism but a single act of intuition, grasped all at once. The twentieth-century philosopher Jaakko Hintikka suggested it is a **performative** truth: like saying I am speaking, it is made true by the act of saying it.\n- **Why thinking?** Gassendi asked why Descartes could not equally say I walk, therefore I am. Descartes answered that I can doubt I am walking, since I may be dreaming, but not that I seem to myself to walk, which is a thought.\n- **The private mind.** Later philosophers, including the later Wittgenstein (Day 73), questioned the whole picture of a mind first certain of its own inner contents and only afterward wondering about the outer world. Perhaps we could not even have the concepts of thinking and doubting without a shared public world and language.\n\nWhatever its flaws, Descartes' method changed philosophy's starting point. Before him, philosophy usually began with the world, God or being. After him, for two centuries, it began with the question: what can I know, from inside my own mind? Philosophers call this the **epistemological turn**."
+    }
+  ],
+  "keyQuote": {
+    "text": "Cogito, ergo sum. (I think, therefore I am.)",
+    "source": "René Descartes, Principles of Philosophy (1644), Part I, article 7; in French, je pense, donc je suis, in the Discourse on the Method (1637), Part 4"
+  },
+  "modernConnection": {
+    "title": "Simulations, Brains in Vats and Deepfakes",
+    "body": "Descartes' evil demon has been upgraded for the computer age. In the 1999 film *The Matrix*, humanity lives inside a computer simulation while their real bodies lie in pods. The philosopher Hilary Putnam had already offered a version in 1981: how do you know you are not a **brain in a vat**, kept alive by scientists who feed electrical signals into your neurons to produce the experience of a normal life? In 2003 the philosopher Nick Bostrom published a **simulation argument**, claiming that if technologically mature civilizations tend to run many detailed simulations of their ancestors, then simulated minds would vastly outnumber real ones, and we should take seriously the possibility that we are among them. Some tech entrepreneurs have said publicly that they think this likely.\n\nThese are Cartesian scenarios: possibilities that are, apparently, impossible to rule out from the inside, because every experience you could use as evidence would be part of the simulation. And Descartes' answer still holds within them. Even a simulated mind that doubts is thinking, so it exists in some sense. The cogito survives the Matrix.\n\nThere is also a more everyday version. With deepfake videos, voice cloning and AI-generated images, we increasingly face a world in which our senses can be systematically fooled by powerful, cunning deceivers, a small-scale evil demon. Descartes' first wave of doubt, that we should never fully trust what has deceived us even once, now looks less like a philosopher's game and more like media literacy.\n\nBut the analogy can mislead. Descartes' doubt was a deliberate, one-time exercise designed to end in certainty, not a permanent suspicion of everything. Living in constant doubt about all evidence leads not to wisdom but to paralysis, or to the conspiracy-minded conclusion that, since anything could be fake, we may believe whatever we like. Putnam himself argued that the brain-in-a-vat hypothesis may be self-refuting, since a brain that had only ever experienced simulated trees could not even refer to real trees or vats. The practical lesson is not to doubt everything, but to know which sources have earned trust and how to check."
+  },
+  "vocabulary": [
+    {
+      "term": "Method of doubt",
+      "definition": "Descartes' strategy of temporarily treating any belief that can possibly be doubted as false, in order to discover what is absolutely certain.",
+      "example": "Using the method of doubt, Descartes set aside even his belief that he had a body."
+    },
+    {
+      "term": "Rationalism",
+      "definition": "The view that reason, rather than sense experience, is the primary source of certain knowledge, and that some knowledge is independent of experience.",
+      "example": "Descartes' rationalism led him to model all knowledge on the certainty of geometry."
+    },
+    {
+      "term": "Foundationalism",
+      "definition": "The view that knowledge is structured like a building, resting on a foundation of basic, certain beliefs from which all others are derived.",
+      "example": "Descartes' foundationalism made the cogito the cornerstone of all his knowledge."
+    },
+    {
+      "term": "Dream argument",
+      "definition": "The argument that because there are no certain signs to distinguish waking from dreaming, any particular sensory experience might be a dream.",
+      "example": "The dream argument casts doubt on Descartes' belief that he was sitting by the fire."
+    },
+    {
+      "term": "Evil demon",
+      "definition": "Descartes' hypothesis of a supremely powerful and cunning deceiver who might make all our beliefs, even mathematical ones, false.",
+      "example": "The brain-in-a-vat scenario is a modern version of Descartes' evil demon."
+    },
+    {
+      "term": "Cogito",
+      "definition": "Short for cogito, ergo sum, “I think, therefore I am”: the insight that one's own existence cannot be doubted while one is thinking.",
+      "example": "The cogito survives even the evil demon, because being deceived requires someone to be deceived."
+    },
+    {
+      "term": "Thinking thing",
+      "definition": "Descartes' description of the self (res cogitans): a thing that doubts, understands, affirms, denies, wills, refuses, imagines and senses.",
+      "example": "Before proving the existence of his body, Descartes knew himself only as a thinking thing."
+    },
+    {
+      "term": "Clear and distinct",
+      "definition": "Descartes' standard for certainty: an idea present and evident to an attentive mind (clear) and sharply separated from all others (distinct).",
+      "example": "Descartes proposed that whatever he perceived clearly and distinctly must be true."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Your Own First Meditation",
+    "prompt": "Set aside fifteen quiet minutes and try Descartes' experiment for yourself. Write in the first person, as he did, and be honest about where you feel real doubt and where you are just going through the motions.",
+    "steps": [
+      "List five things you are very confident of (for example, your name, that you have hands, that two plus two is four, that the Sun will rise tomorrow, that your best friend exists).",
+      "Apply the three waves of doubt to each one in turn: could the senses be deceiving you, could you be dreaming, could a powerful deceiver or simulation be producing the belief? Mark which beliefs survive each wave.",
+      "Try to state, in your own words, the one belief that survives everything. Is it exactly Descartes' cogito, or something slightly different, like thinking is happening?",
+      "Reflect: did the exercise make you less certain of anything in daily life? Is Descartes' standard of certainty, beyond all possible doubt, the right standard for knowledge, or is it too high?"
+    ]
+  },
+  "summary": [
+    "Descartes (1596–1650), a mathematician who founded modern rationalism, wanted to rebuild knowledge on foundations as certain as geometry.",
+    "His method of doubt treats every belief open to any doubt as false, using three escalating waves: deceptive senses, the dream argument and the evil demon.",
+    "The cogito, “I think, therefore I am,” survives all doubt because doubting is itself thinking, and being deceived requires someone to be deceived.",
+    "Descartes concluded that he is a thinking thing, and the wax argument suggests that even bodies are known by the intellect rather than the senses.",
+    "Critics question whether the cogito proves a lasting self or merely that thinking occurs; nonetheless, it turned philosophy toward the question of what the individual mind can know."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why did Descartes decide to doubt everything that could possibly be doubted?",
+      "options": ["Because he believed nothing could be known", "Because he wanted to find something absolutely certain on which to rebuild knowledge", "Because the Church ordered him to", "Because he wanted to prove that the senses are always reliable"],
+      "answer": 1,
+      "explanation": "Descartes' doubt was methodical: a temporary tool to clear away uncertain beliefs and find an unshakable foundation."
+    },
+    {
+      "type": "mc",
+      "question": "Which wave of doubt first casts doubt on mathematics, such as two plus three making five?",
+      "options": ["The argument from optical illusions", "The argument from madness", "The dream argument", "The evil demon hypothesis"],
+      "answer": 3,
+      "explanation": "Descartes thought arithmetic survives the dream argument, since it holds whether we are awake or asleep; only an all-powerful deceiver could undermine it."
+    },
+    {
+      "type": "tf",
+      "question": "Descartes thought the cogito proved that he had a body and that the external world exists.",
+      "answer": false,
+      "explanation": "The cogito proves only that he exists as a thinking thing while thinking; body and world must be proven later (Day 44)."
+    },
+    {
+      "type": "mc",
+      "question": "Why can't the evil demon deceive Descartes about his own existence?",
+      "options": ["Because the demon is not powerful enough", "Because God prevents it", "Because to be deceived, there must be someone who is deceived, and doubting is itself thinking", "Because Descartes can see his own body"],
+      "answer": 2,
+      "explanation": "Any deception presupposes a thinker being deceived, so the act of doubting proves the doubter exists."
+    },
+    {
+      "type": "mc",
+      "question": "What is the main lesson of the wax argument?",
+      "options": ["We know what the wax really is through the intellect, not the senses, since all its sensory qualities change", "Wax is not a real substance", "The senses give us perfect knowledge of bodies", "Heat destroys the essence of things"],
+      "answer": 0,
+      "explanation": "Though the wax's color, smell, shape and hardness all change, we judge it is the same wax, so our grasp of it comes from the mind."
+    },
+    {
+      "type": "mc",
+      "question": "How does Descartes' use of doubt differ from Montaigne's (Day 40)?",
+      "options": ["Montaigne doubted more radically than Descartes", "Descartes used doubt as a temporary method to reach certainty, while Montaigne lived with doubt as a lasting attitude of humility", "They both aimed to prove God exists by doubt", "Descartes rejected doubt entirely"],
+      "answer": 1,
+      "explanation": "Montaigne's “What do I know?” was a way of life; Descartes doubted once, systematically, in order to defeat doubt."
+    },
+    {
+      "type": "tf",
+      "question": "Augustine had made an argument similar to the cogito many centuries earlier, saying that if he is deceived, he exists.",
+      "answer": true,
+      "explanation": "Augustine's si fallor, sum answered the skeptics in a similar way, though Descartes made the insight the foundation of a whole system."
+    },
+    {
+      "type": "mc",
+      "question": "Lichtenberg's objection to the cogito is that:",
+      "options": ["Thinking is impossible without a body", "The cogito is circular because it assumes God", "Descartes was actually dreaming", "We can only be certain that thinking is occurring, not that a single lasting I is doing it"],
+      "answer": 3,
+      "explanation": "Lichtenberg suggested we should say “it thinks,” as we say “it rains,” challenging Descartes' leap to a self."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern scenario most closely matches Descartes' evil demon?",
+      "options": ["A brain in a vat fed electrical signals that create the experience of a normal life", "A person who forgets where they left their keys", "Two friends who disagree about a film", "A scientist repeating an experiment"],
+      "answer": 0,
+      "explanation": "Like the demon, the vat scenario imagines a powerful deceiver producing all our experiences, so nothing from the inside could reveal the trick."
+    },
+    {
+      "type": "tf",
+      "question": "Descartes held that whatever he perceived clearly and distinctly is true, but he believed he needed to prove that God is no deceiver to fully secure this rule.",
+      "answer": true,
+      "explanation": "As long as the demon hypothesis stands, even clear and distinct ideas might be doubted; Descartes' proof of God (Day 44) is meant to secure them."
+    }
+  ],
+  "goDeeper": {
+    "body": "How radical is Cartesian doubt really? One debate concerns whether Descartes' skepticism is sincere. Some readers see the First Meditation as a genuine confrontation with the skeptical crisis of Montaigne's generation (Day 40); Richard Popkin called Descartes a sceptic malgré lui, a skeptic despite himself, whose weapon turned out stronger than his cure. Others, like Bernard Williams in *Descartes: The Project of Pure Enquiry*, read the doubt as part of an idealized project: the search for knowledge by an inquirer with no practical pressures, who can afford to set aside anything less than certain.\n\nA second debate concerns what exactly the cogito delivers. Descartes wrote in the Second Meditation that the proposition I exist is necessarily true each time it is put forward or conceived. Hintikka's performative reading takes this seriously: the certainty belongs to the act of thinking it, not to a premise in an argument. But that raises the question whether the cogito yields anything beyond a fleeting present moment. Descartes needs much more, a persisting thinking substance, to build the rest of his system.\n\nA third debate is historical. Scholars have noticed how Descartes' strategy echoes earlier sources: Augustine's si fallor, sum, the floating man thought experiment of Avicenna (Day 32), and the meditative spiritual exercises of the Jesuit tradition in which Descartes was educated. The *Meditations* is structured as six days of meditation, perhaps deliberately recalling both the six days of creation and devotional practice, and it asks readers not just to follow an argument but to undergo a transformation. Read it slowly, as Descartes asked, in sequence, over several sittings.",
+    "readings": [
+      { "title": "Meditations on First Philosophy", "author": "René Descartes (trans. John Cottingham)", "note": "Read the First and Second Meditations; they are short and remarkably readable." },
+      { "title": "Discourse on the Method", "author": "René Descartes", "note": "Parts 1, 2 and 4 give the autobiography, the four rules and the first statement of “I think, therefore I am.”" },
+      { "title": "Descartes: The Project of Pure Enquiry", "author": "Bernard Williams", "note": "A demanding but brilliant analysis of Descartes' doubt and the cogito." },
+      { "title": "Descartes: A Biography", "author": "Desmond M. Clarke", "note": "A reliable modern account of Descartes' life, travels and controversies." }
+    ],
+    "questions": [
+      "Can you know anything at all if you cannot rule out that you are dreaming or in a simulation? Is certainty required for knowledge?",
+      "Does the cogito prove that there is a self, or only that thinking is happening? What difference would it make?",
+      "Descartes began philosophy from inside the individual mind. What might be lost by starting there instead of with other people, language or the world?"
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "id": "day-07",
+  "day": 7,
+  "title": "The Atomists: Leucippus and Democritus",
+  "subtitle": "Nothing but atoms and the void: the boldest guess in ancient science, and a cheerful way to live with it",
+  "philosophers": ["Leucippus", "Democritus"],
+  "era": "5th–early 4th century BCE (Democritus c. 460–c. 370 BCE)",
+  "estimatedMinutes": 45,
+  "objectives": [
+    "Explain how the atomists answered Parmenides by accepting the existence of the void",
+    "Describe the properties of atoms and how they produce the world we see",
+    "Explain the atomist distinction between what exists by convention and what exists in reality, and how it previews primary and secondary qualities",
+    "Describe the mechanistic, purpose-free picture of nature the atomists offered and its implications for necessity and chance",
+    "Explain Democritus’ ethics of cheerfulness and assess what atomism got right and wrong compared with modern physics"
+  ],
+  "hook": "Take a grain of sand and imagine cutting it in half. Then cut one of the halves in half again, and again, and again. Can you go on forever? Zeno and Anaxagoras, whom you met on Days 5 and 6, thought matter could be divided without end. But perhaps at some point the knife meets something that simply cannot be cut: a piece so small and so solid that it has no parts at all.\n\nAround 2,400 years ago, two thinkers in northern Greece made exactly that guess. Everything, they said, is made of tiny, indestructible, invisible particles moving through empty space. The color of a rose, the taste of honey, your thoughts as you read this sentence: all of it is just particles of different shapes bumping, bouncing and hooking together. There is no purpose behind it, no Mind, no Love and Strife. They called these particles *atoma*, “uncuttables.” We still use their word. Their theory was a speculation, not an experimental result, and it took more than two thousand years for science to catch up with it, and then to surprise it.",
+  "sections": [
+    {
+      "heading": "Two Men and an Idea",
+      "body": "Atomism began with **Leucippus**, about whom almost nothing is known. Ancient sources disagree about whether he came from Miletus, Elea or Abdera, and he was probably active around the middle of the 5th century BCE. One later report even says the philosopher Epicurus denied that Leucippus ever existed, though that may have been a typical bit of philosophical rivalry, since Epicurus liked to present himself as self-taught. Aristotle, our most careful early source, treats Leucippus as a real person and the founder of the theory. Only one sentence is generally accepted as his own: nothing happens at random, but everything for a reason and by necessity (Fragment B2).\n\nHis student, **Democritus** of Abdera, a town on the coast of Thrace in northern Greece, developed atomism into a complete system. He was born around 460 BCE, making him a younger contemporary of Socrates, and is said to have lived to a great age, perhaps dying around 370 BCE. Ancient writers credit him with some seventy works covering physics, mathematics, music, medicine, ethics, language and much more. Apart from a few hundred mostly short fragments, many of them ethical sayings whose authenticity is sometimes doubted, they are lost. Because Leucippus and Democritus are so hard to separate, scholars often simply speak of “the atomists.”\n\nDemocritus is said to have travelled widely, perhaps to Egypt and Persia, and to have spent an inheritance on research. One saying attributed to him captures his passion: he would rather discover a single causal explanation than become king of Persia (B118). He also had a famous temperament. Later writers called him “the laughing philosopher,” because he supposedly laughed at human folly, in contrast with the “weeping” Heraclitus of Day 4. That pairing is a later literary invention, but it reflects his ethical ideal of cheerfulness, which we will meet at the end of this lesson.\n\nCuriously, Plato never mentions Democritus in any of his dialogues, although they lived at the same time and disagreed profoundly. A later story claims Plato wished to burn all of Democritus’ books. Treat that as gossip. Aristotle, by contrast, discussed the atomists often and with respect."
+    },
+    {
+      "heading": "Saying Yes to Nothing: Atoms and the Void",
+      "body": "To understand atomism, recall the challenge of Parmenides (Day 5). What-is cannot come from what-is-not, and true being must be ungenerated, imperishable, indivisible and unchanging. His follower Melissus added that motion is impossible, because it would require empty space, and empty space would be what-is-not, which cannot exist.\n\nThe atomists accepted almost all of this. Their atoms have precisely the properties Parmenides demanded of Being: each one is ungenerated, indestructible, solid, indivisible and unchanging in itself. In effect, they shattered Parmenides’ single, motionless Being into countless tiny pieces.\n\nBut they made one daring move that Parmenides had forbidden. They said that what-is-not exists too. There really is empty space, which they called the **void**. Aristotle reports that they held that what-is is no more real than what-is-not. Democritus apparently put this in a pun: the “thing” (in Greek, *den*, a word he coined) exists no more than the “nothing” (*mēden*). The void is not a stuff, but it is real, and it is exactly what allows atoms to be separate from each other and to move.\n\nWas this cheating? Parmenides would say it is a contradiction to say that nothing is something. The atomists answered, in effect, that the evidence of motion is overwhelming, so if motion requires a void, then a void must exist. If a philosophical argument tells you that nothing moves, perhaps the problem is with one of its premises, and the premise they rejected was that non-being cannot be.\n\nWhy must atoms exist at all? Partly because of Zeno. If matter could be divided endlessly, as Anaxagoras thought, the atomists seem to have worried that it might divide into nothing, or into parts without size, from which nothing could be built. So division must stop somewhere. An **atom** is the smallest unit of body, uncuttable because it is completely solid and contains no void at all. That is a philosophical argument, not an experimental discovery, and you should keep that difference in mind when comparing ancient and modern atoms."
+    },
+    {
+      "heading": "Building a World From Shapes",
+      "body": "Atoms, according to the atomists, are infinitely many and moving in an infinite void. They have no color, taste, smell or temperature. They differ from each other only in a few ways. Aristotle, in his *Metaphysics* (Book I, chapter 4), reports three, using an analogy with the letters of the Greek alphabet:\n\n1. **Shape**: atoms differ as A differs from N.\n2. **Arrangement** (order): a group of atoms can differ as AN differs from NA.\n3. **Position**: an atom can be turned, as the letter Z is the letter N turned on its side.\n\nThey also differed in size, and later sources discuss whether they had weight. The letter analogy is illuminating. With twenty-odd letters you can write every word of a tragedy or a comedy. With atoms of different shapes, arranged and positioned differently, you can build every object in the world. Some atoms are smooth and round, some jagged, some with hooks that let them latch together, which explains why some materials are solid and others flow.\n\nHow does a world form? Atoms move in all directions in the void, collide and rebound. Sometimes a great mass of them forms a whirl, a vortex, in which like atoms tend to gather with like, as pebbles on a beach are sorted by the waves. The heavier collect at the center, forming an earth; the lighter are pushed outward. Since the void and atoms are infinite, the atomists concluded that there are innumerable **worlds**, some coming into being, others perishing, some without a sun or moon, some without living things. Our world is neither unique nor permanent.\n\nThe soul, too, is made of atoms: very small, smooth, round ones, like the atoms of fire, which move easily and spread through the body to give it life and thought. When the body dies, these atoms disperse. Sensation is explained physically as well. Objects constantly give off thin films of atoms, sometimes called **images** (*eidola*), which travel to the eye and strike it. Tastes depend on the shapes of atoms meeting the tongue: sweet tastes come from round, smooth atoms, bitter or sharp ones from jagged atoms.\n\nThis is a fully **mechanistic** picture of nature, meaning that everything is explained by matter in motion, by pushes and collisions, like the parts of a machine. Compare it with the pluralists of Day 6. Empedocles needed Love and Strife, and Anaxagoras needed Mind, to start things moving. The atomists needed no separate cause. Atoms have always been moving, and always will be. There is no designer, no cosmic purpose, no reason why the world exists for anyone’s benefit."
+    },
+    {
+      "heading": "By Convention Sweet: Appearance and Reality",
+      "body": "If atoms have no color or taste, where do the colors and tastes of the world come from? Democritus’ most famous fragment, preserved by the later writer Sextus Empiricus, answers bluntly:\n\n> By convention sweet, by convention bitter, by convention hot, by convention cold, by convention color; but in reality atoms and void. (Fragment B9)\n\nThe Greek word translated “convention” is *nomos*, which can mean custom, law or human agreement. Democritus seems to mean that sweetness and color are not features of things in themselves. They exist only in the interaction between atoms and our sense organs. Honey is sweet to me and may taste bitter to someone who is ill, but the atoms of the honey are just the same. Real properties belong to the atoms themselves: shape, size, arrangement, position and motion.\n\nThis distinction has a long future. In the 17th century, Galileo (Day 41) and John Locke (Day 47) distinguished **primary qualities**, which really belong to objects (such as size, shape, motion and number), from **secondary qualities**, such as color, taste, smell and warmth, which are powers in objects to produce sensations in us. The terms are Locke’s, not Democritus’, but the core idea traces back to Abdera.\n\nDemocritus saw that this creates a serious problem about knowledge. If the senses only give us “conventional” appearances, how can we know anything? He distinguished two kinds of cognition: a “bastard” kind, from sight, hearing, smell, taste and touch, and a “legitimate” kind, from reasoning, which grasps what is too fine for the senses (B11). Yet he also understood the trap this sets. In a brilliant fragment, the senses talk back to the mind: wretched mind, you take your evidence from us, and then you try to overthrow us? Our overthrow is your downfall (B125).\n\nThat is the dilemma in a nutshell. The atomist theory was built by reasoning from what the senses show, yet it concludes that the senses do not show reality as it is. If they are untrustworthy, why trust the theory built on them? Some fragments even sound skeptical: in reality we know nothing, for truth is in the depths (B117). Scholars disagree about how skeptical Democritus really was. But he had posed a question that philosophers and scientists still face: if our best science tells us the world is very different from how it appears, what is the status of the appearances, and of the senses that give us the evidence for that science?"
+    },
+    {
+      "heading": "Necessity, Chance and a Cheerful Life",
+      "body": "Remember Leucippus’ one surviving sentence: nothing happens at random, but everything for a reason and by **necessity**. In an atomist world, every event is the result of earlier collisions. This is an early version of what philosophers call **determinism**: the view that every event is fixed by prior causes according to fixed laws. Oddly, Aristotle and others sometimes accused the atomists of making the world a product of chance. Both descriptions can be true in different senses. Nothing is uncaused, but nothing is planned either. The world has causes but no purposes. Aristotle found this deeply unsatisfying, as you will see on Days 18 and 19.\n\nThe atomists’ picture later raised the question of human freedom. If my thoughts are just atoms in motion, determined by earlier collisions, am I ever really choosing? Epicurus, who adopted atomism a century later (Day 24), was troubled enough by this that he added a tiny, uncaused swerve to atomic motion. That debate between determinism and free will continues today.\n\nAnd yet Democritus was not gloomy. Many surviving fragments concern ethics, and their central ideal is **euthymia**, usually translated as cheerfulness, contentment or well-being of spirit. Democritus seems to have connected it with a calm, balanced soul, undisturbed by violent swings of desire or fear. Some readers link this to his physics: the soul’s atoms in a state of stable, moderate motion. The link is plausible but uncertain.\n\nHow do we reach cheerfulness? Through moderation and good judgment. One fragment advises that whoever wants to be cheerful should not take on too many activities, in private or in public, nor attempt more than his ability and nature allow (B3). Other sayings, if authentic, recommend comparing yourself with those worse off rather than envying those better off, and finding pleasure in measured things. He seems to have held that good and bad are matters of the soul, not of fortune. In an indifferent universe, happiness is up to us, and it comes from wisdom and self-control, not from wealth or luck.\n\nNotice the deep idea here. A cosmos without purpose does not have to mean a life without meaning. If no god or Mind arranges things for our benefit, then we must arrange our own lives well. The Epicureans would take this thought and build a whole philosophy of life on atomist foundations, and the Roman poet Lucretius would celebrate it in verse. Tomorrow, on Day 8, the focus of Greek philosophy shifts decisively from the cosmos to human beings, as the Sophists ask whether morality itself, like sweetness, exists only by convention."
+    }
+  ],
+  "keyQuote": {
+    "text": "By convention sweet, by convention bitter, by convention hot, by convention cold, by convention color; but in reality atoms and void.",
+    "source": "Democritus, Fragment B9 (DK 68B9), quoted by Sextus Empiricus"
+  },
+  "modernConnection": {
+    "title": "The Atom That Was Cut",
+    "body": "In 1808 the English chemist John Dalton proposed a scientific atomic theory to explain why chemical elements always combine in fixed proportions, and he deliberately borrowed Democritus’ word. During the 20th century, atoms were confirmed beyond doubt. In 1905 Einstein’s analysis of Brownian motion, the jittering of tiny particles in water, showed how atoms could be counted, and Jean Perrin’s experiments confirmed it a few years later. Democritus’ guess had become science.\n\nBut nature had a twist. The particles we now call atoms turned out not to be “uncuttable” at all. Ernest Rutherford’s experiments, published in 1911, revealed a tiny nucleus surrounded by mostly empty space; the nucleus is made of protons and neutrons, which are themselves made of quarks. The closest modern equivalents of Democritus’ atoms are the elementary particles of the Standard Model, such as quarks and electrons, which have no known internal parts. Even these are strange: quantum mechanics describes them in terms of probabilities and fields, not tiny hard pellets. And the void is not truly empty. Modern physics treats empty space as full of fields that are never perfectly still.\n\nDemocritus’ distinction between convention and reality, on the other hand, has aged remarkably well. Light has wavelengths, but color is something our brains construct. The same surface can look different shades under different lighting, and in 2015 a photograph of a dress went viral because millions of people saw it as blue and black while millions of others saw it as white and gold. The dress did not change; the viewers’ visual systems interpreted it differently. Taste and smell, likewise, depend on molecular shapes meeting receptors, an idea Democritus would have loved.\n\nWe should not overstate his achievement. He had no experiments, no measurements, and his reasons for atoms were philosophical. Many ancient speculations were wrong, and the atomists happened to be closer to the truth on this point than their rivals. The lasting lesson may be the one Democritus himself saw: science can reveal a reality very different from appearances, but it always rests on the evidence of those same appearances."
+  },
+  "vocabulary": [
+    {
+      "term": "Atom",
+      "definition": "From the Greek for “uncuttable”: for the ancient atomists, a tiny, solid, indivisible and indestructible particle of matter, differing from others only in shape, size, arrangement and position.",
+      "example": "For Democritus, a rose is nothing but a cluster of atoms that happen to be arranged in a certain way."
+    },
+    {
+      "term": "Void",
+      "definition": "Empty space; for the atomists, a real non-being that separates atoms and allows them to move.",
+      "example": "Against Parmenides, the atomists insisted that the void exists, because without it there could be no motion."
+    },
+    {
+      "term": "Mechanism",
+      "definition": "The view that natural events are fully explained by matter in motion, through contact and collision, without purposes or minds.",
+      "example": "Atomist mechanism explains a storm as atoms colliding, not as the act of a god."
+    },
+    {
+      "term": "Necessity",
+      "definition": "The fixed causal order by which every event follows from earlier events; in atomism, the result of prior collisions of atoms.",
+      "example": "Leucippus said nothing happens at random but everything by reason and necessity."
+    },
+    {
+      "term": "Determinism",
+      "definition": "The view that every event, including human choices, is fixed by prior causes according to unchanging laws.",
+      "example": "If the soul is just moving atoms, atomism seems to imply determinism about our decisions."
+    },
+    {
+      "term": "Convention (nomos)",
+      "definition": "Custom or human agreement; Democritus used it for qualities like color and taste that exist only in how things affect perceivers, in contrast with what exists in reality.",
+      "example": "By convention honey is sweet, but in reality there are only atoms and void."
+    },
+    {
+      "term": "Primary and secondary qualities",
+      "definition": "A later distinction (named by Locke) between properties that belong to objects themselves, like shape and motion, and those that exist as effects on perceivers, like color and taste.",
+      "example": "Shape is a primary quality of a coin, but its shiny color is a secondary quality."
+    },
+    {
+      "term": "Euthymia",
+      "definition": "Democritus’ ethical ideal of cheerfulness or contentment: a calm, balanced soul undisturbed by excessive desire and fear.",
+      "example": "Pursuing euthymia, Democritus advised not taking on more than one’s nature can handle."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "What Is Really There?",
+    "prompt": "Democritus claims that colors, tastes and temperatures exist only “by convention,” while reality is atoms and void. Test this against your own experience. Spend 10 to 15 minutes writing.",
+    "steps": [
+      "Pick an object near you (a mug of coffee, a piece of fruit, a houseplant). List every property you can perceive in it.",
+      "Sort your list into two columns: properties you think would still belong to it if no one ever perceived it (primary), and properties that depend on a perceiver (secondary). Note any you find hard to classify.",
+      "Imagine the senses speaking to the mind as in Democritus’ fragment B125. Write the mind’s best reply to the senses in three or four sentences.",
+      "Now consider Democritus’ ethics. If the universe has no purpose, does that make a good life harder, easier, or make no difference? Write a short paragraph.",
+      "Name one small change, in the spirit of euthymia, that might make your own week calmer. Keep it; you will meet the Epicurean version on Day 24."
+    ]
+  },
+  "summary": [
+    "Leucippus founded atomism in the 5th century BCE; Democritus of Abdera (c. 460–c. 370 BCE) developed it into a full system, though nearly all his works are lost.",
+    "The atomists answered Parmenides by breaking Being into countless indivisible, unchanging atoms, and by affirming that the void, what-is-not, really exists.",
+    "Atoms differ only in shape, arrangement, position and size; their collisions in the void produce everything, including countless worlds and the soul itself, with no purpose or designer.",
+    "By convention there are colors and tastes, in reality only atoms and void: an early form of the primary and secondary quality distinction that leads to a hard problem about trusting the senses.",
+    "Atomism implies that everything happens by necessity, raising early questions about determinism and freedom that Epicurus later tried to solve.",
+    "Democritus’ ethics centered on euthymia, a cheerful, balanced soul achieved through moderation; modern physics vindicated atoms but discovered they can be split."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "How did the atomists respond to Parmenides’ claim that there can be no motion because there is no empty space?",
+      "options": [
+        "They agreed that motion is an illusion",
+        "They argued that the void, or what-is-not, really exists",
+        "They said Mind moves everything without needing space",
+        "They claimed that matter is infinitely divisible"
+      ],
+      "answer": 1,
+      "explanation": "The atomists accepted many Parmenidean principles but affirmed the reality of the void, which allows atoms to be separate and to move."
+    },
+    {
+      "type": "mc",
+      "question": "Which set of properties did atoms have, according to the atomists?",
+      "options": [
+        "Color, taste and temperature",
+        "Love and Strife",
+        "Shape, size, arrangement and position",
+        "A portion of every other substance"
+      ],
+      "answer": 2,
+      "explanation": "Atoms differ only in features like shape, size, arrangement and position. Colors and tastes exist only by convention, Love and Strife are Empedocles’, and the last option is Anaxagoras’."
+    },
+    {
+      "type": "tf",
+      "question": "In the atomist picture, the cosmos was designed and set in motion by a divine Mind.",
+      "answer": false,
+      "explanation": "That is close to Anaxagoras’ view. The atomists held that atoms have always moved, and that the world arises from their collisions without any designer or purpose."
+    },
+    {
+      "type": "mc",
+      "question": "What did Democritus mean by saying “by convention sweet … but in reality atoms and void”?",
+      "options": [
+        "Sweetness is decided by a vote of citizens",
+        "Sweet things contain special sweet atoms that are colored",
+        "Honey is truly sweet, and the senses never deceive us",
+        "Qualities like sweetness exist only in the interaction between atoms and perceivers, not in things themselves"
+      ],
+      "answer": 3,
+      "explanation": "For Democritus, only atoms and void are real in themselves; sweetness and color arise from the way atoms affect our sense organs."
+    },
+    {
+      "type": "mc",
+      "question": "Which pair of thinkers in the 17th century developed the distinction that Democritus anticipated?",
+      "options": [
+        "Galileo and Locke, with primary and secondary qualities",
+        "Plato and Aristotle, with Forms and substances",
+        "Thales and Anaximander, with water and the boundless",
+        "Kant and Hegel, with categories and dialectic"
+      ],
+      "answer": 0,
+      "explanation": "Galileo and Locke distinguished properties belonging to objects from those that exist only as effects on perceivers. Locke coined the names primary and secondary qualities."
+    },
+    {
+      "type": "tf",
+      "question": "Democritus recognized that if the senses are unreliable, a theory built on sensory evidence might undermine itself.",
+      "answer": true,
+      "explanation": "In fragment B125 the senses tell the mind that their overthrow would be its downfall, showing Democritus saw the problem clearly."
+    },
+    {
+      "type": "mc",
+      "question": "What is euthymia in Democritus’ ethics?",
+      "options": [
+        "The pursuit of as much pleasure as possible",
+        "A cheerful, calm and balanced state of soul achieved through moderation",
+        "Obedience to the laws of the city",
+        "The belief that the soul survives death"
+      ],
+      "answer": 1,
+      "explanation": "Euthymia is cheerfulness or contentment, a well-balanced soul not disturbed by excessive desires or fears."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern discovery shows that the atoms of modern chemistry are not “atoms” in Democritus’ sense?",
+      "options": [
+        "The discovery that color depends on wavelength",
+        "Dalton’s law of fixed proportions",
+        "The discovery that atoms have a nucleus made of protons and neutrons, which contain quarks",
+        "The discovery of the planet Neptune"
+      ],
+      "answer": 2,
+      "explanation": "Democritus’ atoms were uncuttable. Rutherford and later physicists showed that chemical atoms have internal structure and can be split."
+    },
+    {
+      "type": "tf",
+      "question": "Plato discussed Democritus at length in several of his dialogues.",
+      "answer": false,
+      "explanation": "Plato never mentions Democritus by name, even though they were contemporaries. Aristotle, by contrast, discussed the atomists often."
+    },
+    {
+      "type": "mc",
+      "question": "Which situation best illustrates the atomist idea that the world has causes but no purposes?",
+      "options": [
+        "A river carves a canyon over millions of years simply because water and rock interact according to physical laws",
+        "An architect designs a building for a specific use",
+        "A gardener plants seeds to grow food",
+        "A teacher plans a lesson to help students learn"
+      ],
+      "answer": 0,
+      "explanation": "The canyon is fully explained by prior causes with no one intending it. The other examples involve agents acting for goals."
+    }
+  ],
+  "goDeeper": {
+    "body": "Why did the atomists believe in indivisible atoms? Aristotle, in *On Generation and Corruption* (I.2), preserves an argument that may come from Democritus. Suppose a body were divisible everywhere, and suppose the division were actually carried out at every point. What would be left? Either parts with some size, in which case the division was not complete; or parts with no size, in which case the body would be built from things with no size, which seems absurd; or nothing at all, in which case the body was made of nothing. So, the argument concludes, there must be indivisible bodies. This shows atomism was partly a response to Zeno’s puzzles about infinite divisibility, and scholars such as David Furley have explored that connection in depth. A related debate concerns whether the atomists distinguished physically uncuttable atoms from mathematically indivisible minimal magnitudes, a distinction that Epicurus later made explicit.\n\nA second debate concerns Democritus’ theory of knowledge. Was he a skeptic? Some fragments seem to say that we know nothing in reality; others clearly claim that reason gives “legitimate” knowledge of atoms and void. Interpreters such as C. C. W. Taylor have tried to reconcile these, perhaps by reading the skeptical fragments as describing the limits of sense perception rather than of all knowledge.\n\nFinally, there is the question of the ethical fragments. Many come to us through a later anthology compiled by Stobaeus, and some may have been wrongly attributed. How closely Democritus linked his ethics to his physics is uncertain. The connection matters, because it is a first attempt at a question that runs through the whole course, from Epicurus to modern naturalism: can a purely physical picture of the world support a rich account of how to live?",
+    "readings": [
+      {
+        "title": "The Atomists: Leucippus and Democritus. Fragments",
+        "author": "C. C. W. Taylor (translator and commentator)",
+        "note": "The standard English edition of the evidence, with a careful commentary on physics, knowledge and ethics."
+      },
+      {
+        "title": "The Presocratic Philosophers",
+        "author": "G. S. Kirk, J. E. Raven and M. Schofield",
+        "note": "The chapter on the atomists sets out the key texts and their relation to the Eleatics."
+      },
+      {
+        "title": "On the Nature of Things (De Rerum Natura)",
+        "author": "Lucretius",
+        "note": "The great Latin poem of Epicurean atomism; Books 1 and 2 give a vivid picture of atoms and void (preview of Day 24)."
+      },
+      {
+        "title": "The Swerve: How the World Became Modern",
+        "author": "Stephen Greenblatt",
+        "note": "A popular, prize-winning account of how Lucretius’ atomist poem was rediscovered in 1417; lively, though some historians think it overstates its case."
+      }
+    ],
+    "questions": [
+      "If color exists only in perceivers, is a ripe tomato really red? Does your answer change if every human sees it as red?",
+      "Can a purely mechanical universe, with no purpose in it, still contain genuine meaning and value in human lives?",
+      "Democritus reached a roughly correct conclusion by philosophical argument without experiments. Was he right for the right reasons, or simply lucky?"
+    ]
+  }
+}

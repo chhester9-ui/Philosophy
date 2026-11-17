@@ -1,0 +1,245 @@
+{
+  "id": "day-14",
+  "day": 14,
+  "title": "The Republic II: Philosopher-Kings and the Critique of Democracy",
+  "subtitle": "Who should steer the ship: the crowd, or those who know the stars?",
+  "philosophers": ["Plato", "Socrates"],
+  "era": "c. 375 BCE (Republic, Books II–IX)",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to describe the education, lifestyle and three classes of Plato's ideal city, including its startling proposals about property, family and women.",
+    "By the end you will be able to explain the noble lie (the myth of the metals) and why it troubles readers.",
+    "By the end you will be able to explain why Plato thinks philosophers should rule, using the ship of state analogy.",
+    "By the end you will be able to trace Plato's story of how regimes decline, from aristocracy down through democracy to tyranny.",
+    "By the end you will be able to weigh Plato's critique of democracy against the strongest modern objections, including Karl Popper's."
+  ],
+  "hook": "Imagine you are about to cross a stormy sea, and the passengers are arguing about who should steer. One man is popular; another is loud; a third promises everyone free wine. In the corner sits a quiet person who has spent years studying winds, currents and stars. Nobody votes for her. They think navigation is just common sense, and anyone who claims special knowledge must be a stargazing fool.\n\nThis little scene comes from Plato's *Republic*, and it is one of the most powerful attacks on democracy ever written. Yesterday (Day 13) we watched Plato build a city in words to find justice in the soul. Today we look at the city itself: who rules it, how they are trained, what they are allowed to own, the lie they are told, and why Plato thought the democracy that had executed his teacher was one short step away from tyranny. You may end up disagreeing with almost all of it. But you will find it much harder to explain *why* than you expect.",
+  "sections": [
+    {
+      "heading": "Why a Man Who Loved Athens Distrusted Its Democracy",
+      "body": "To understand Plato's politics, start with his life. He was born around 428/427 BCE into one of the most aristocratic families in Athens. He grew up during the long, exhausting **Peloponnesian War** against Sparta, which Athens lost in 404 BCE. After the defeat, a small pro-Spartan group seized power. History remembers them as the **Thirty Tyrants**, and their brief rule was a reign of terror. Two of its leading figures, Critias and Charmides, were Plato's own relatives.\n\nWhen democracy was restored in 403 BCE, things looked better. Then, in 399 BCE, the restored democracy put Socrates on trial and a jury of 501 citizens voted to execute him (Day 10). So Plato had seen both an oligarchy (rule by a few) and a democracy commit terrible crimes. A letter attributed to him, the *Seventh Letter*, describes how these events turned a young man eager for a political career into someone convinced that every existing city was badly governed. Scholars still argue about whether Plato really wrote that letter, but its account fits the *Republic* well.\n\nIt also helps to know what Athenian **democracy** was. It was a *direct* democracy: adult male citizens (not women, slaves or foreign residents) met in the Assembly and voted on laws, war and peace themselves. Many officials were chosen by lot. Juries were huge. Persuasive speakers, trained by the Sophists we met on Day 8, could sway thousands of people in an afternoon. When Plato criticizes democracy, this is the system he has in mind, not a modern parliament with courts, constitutions and a free press."
+    },
+    {
+      "heading": "Building the Guardians: Education, Censorship and the Noble Lie",
+      "body": "Recall the three classes of the ideal city from Day 13: **rulers**, **auxiliaries** and **producers**. Together, the rulers and auxiliaries are called **guardians**, and Plato spends much of Books II and III on how to raise them.\n\nTheir education begins with stories, music and poetry, followed by physical training. Plato thinks the stories children hear shape their souls like a seal pressed into soft wax. So he proposes strict **censorship**. Homer and Hesiod must be cleaned up: no tales of gods lying, quarreling, raping or changing shape, no heroes wailing in grief or terrified of death. Even certain musical modes are banned because they make listeners soft or wild. In Book X, Plato goes further and expels most imitative poetry from the city altogether. It is a deeply uncomfortable passage for anyone who loves literature, written by one of the finest literary artists who ever lived.\n\nThen comes the most notorious idea in the book. Socrates says the city needs one **noble lie** (Greek *gennaion pseudos*, sometimes translated ‘magnificent myth’) that everyone, ideally even the rulers, will come to believe. It is the **myth of the metals**. All citizens will be told that they were formed inside the earth, which is why they must defend the land as their mother and treat one another as siblings. But the god who made them mixed gold into the souls of those fit to rule, silver into the auxiliaries, and iron and bronze into the farmers and craftsmen. Usually children resemble their parents, but not always. A gold child born to bronze parents must be promoted; a bronze child born to rulers must be moved down.\n\nWhy does Plato do this? The myth aims at two things: loyalty to the city and acceptance of one's place in it. Notice that it is not a simple caste system, since talent can move people up or down. But it is still a deliberate deception, planned by those in power. Defenders say Plato means something like a founding story, the way nations tell myths about their origins. Critics reply that a state which lies to its citizens for their own good has already stopped treating them as adults."
+    },
+    {
+      "heading": "No Gold, No Families: The Three Waves",
+      "body": "Plato knows that power corrupts, so he tries to remove every private temptation from the guardians' lives. In Book III he says they will own no private property, no houses of their own, and no gold or silver. They will eat together in common mess halls, like soldiers, and receive a modest wage from the producers. If the rulers owned land and money, Plato warns, they would soon become masters and enemies of the citizens instead of their allies.\n\nIn Book V, Socrates says he must face three great ‘waves’ of ridicule, each bigger than the last.\n\n1. **Women guardians.** Women with the right nature should receive the same education as men, including physical training, and serve as guardians and even rulers. Plato says the difference that women bear children and men beget them is no more relevant to ruling than the difference between bald and long-haired men is to shoemaking. He also thought women were, on average, weaker, so this is not modern feminism. But in fourth-century Athens, where respectable women rarely left the house, it was radical.\n2. **No private families among the guardians.** Marriages will be arranged by the rulers at festivals, using a rigged lottery to breed the best with the best. Children will be raised in common nurseries, and no parent will know which child is theirs. The goal is a city where everyone says ‘mine’ about the same things, so that it feels pain and joy together like a single body.\n3. **Philosopher-kings.** The biggest wave of all, which we turn to next.\n\nThe second wave strikes most readers as chilling. Plato is treating human beings like a breeding program. It is worth noticing, though, that these rules apply only to the guardians. The producers, the large majority, keep their families and property."
+    },
+    {
+      "heading": "The Philosopher-King and the Ship of State",
+      "body": "Is such a city even possible? Socrates answers with the most famous sentence in the *Republic* (Book V, 473c–d). Cities will have no rest from evils, he says, until philosophers become kings, or those now called kings and rulers genuinely take up philosophy, so that political power and philosophy coincide in the same people.\n\nWhy philosophers? Remember the Cave and the Divided Line from Day 12. The philosopher is the person who has climbed out of the cave and seen the **Forms**, above all the **Form of the Good** (Day 11). Everyone else is arguing about shadows. If ruling is a skill, it requires knowing what is truly good for the city, not just what is popular. And the philosopher is the only one who has that knowledge.\n\nIn Book VI, Socrates illustrates this with the **ship of state**. Picture a shipowner who is large and strong but a bit deaf, short-sighted and ignorant of sailing. That is the people. The sailors quarrel over who should steer, though none has learned navigation, and they even claim it cannot be taught. They flatter the owner, drug him or get him drunk, take over the ship and treat the voyage as a party. Meanwhile the true navigator, who studies the seasons, sky, stars and winds, is dismissed as a useless stargazer. Plato's point: in a democracy, the skill that wins power (persuading the crowd) is completely different from the skill needed to use it well (knowing where to go).\n\nPlato also insists that the best rulers will be those who *do not want* to rule. Having seen the sunlit world of the Forms, philosophers would rather keep thinking. They rule as a duty, in turns, because they owe the city their education. Rulers who are hungry for power, by contrast, will fight over it and wreck the city. Their training is long: mathematics, astronomy and harmony, then **dialectic** (philosophical reasoning about the Forms) from about age 30, followed by fifteen years of practical service. Only at fifty are the best ready to govern."
+    },
+    {
+      "heading": "How Cities Decay: From Aristocracy to Tyranny",
+      "body": "In Books VIII and IX, Plato tells a story of political decline. Even the ideal city will eventually decay, he says, because the rulers will make mistakes in their breeding calculations. Then the city slides through four worse constitutions, each matching a type of person.\n\n- **Aristocracy** (rule of the best): the ideal city, ruled by reason.\n- **Timocracy** (rule of honor): something like Sparta. Spirit takes over. Rulers love victory and glory more than wisdom, and secretly begin to hoard money.\n- **Oligarchy** (rule of the few rich): wealth becomes the qualification for power. The city splits into two cities, the rich and the poor, plotting against each other.\n- **Democracy** (rule of the people): the poor win, kill or exile some of the rich, and give everyone an equal share in government, often by lot.\n- **Tyranny**: rule by one lawless man, the worst of all.\n\nPlato's description of democracy is witty, unfair and uncomfortably recognizable. It is the most attractive constitution, he says, like a cloak embroidered with every color. Everyone is free to say and do what they like. Nobody has to rule if they are able, or obey if they don't want to. The democratic person mirrors the city: he treats all desires as equal, drinking one day, dieting the next, dabbling in politics, then philosophy, living without order or necessity, and calling it freedom. Teachers fear their pupils, the young talk back to their elders, and Plato jokes that even the horses and donkeys strut down the street expecting everyone to make way.\n\nWhy does this lead to tyranny? Because extreme freedom tends to turn into extreme slavery. The people pick a champion to protect them against the rich. He gets a bodyguard, eliminates rivals, stirs up wars so that the people will need a leader, and at last becomes a tyrant. The tyrannical soul is ruled by a single master passion and is, Plato argues in Book IX, the most miserable of all, the final answer to Thrasymachus' praise of tyranny on Day 13."
+    },
+    {
+      "heading": "Plato's Critics: Utopia or Blueprint for Tyranny?",
+      "body": "Plato did try to influence real politics. According to the *Seventh Letter*, he traveled to Syracuse in Sicily several times, hoping to turn its young ruler Dionysius II into a philosopher-king. It went badly; Plato was effectively held captive for a time. Whatever the letter's authorship, ancient writers agreed that the Sicilian adventures failed. Later, in his last work, the *Laws*, Plato designed a more practical second-best city with written laws, private families and elected officials.\n\nThe strongest modern attack came from the philosopher **Karl Popper** (we meet him on Day 72). In *The Open Society and Its Enemies* (1945), written during the Second World War, Popper called Plato's ideal city a blueprint for totalitarianism: rule by an unaccountable elite, censorship, propaganda, state control of family life, all justified in the name of the good. Popper argued that the real question is not ‘Who should rule?’ but ‘How can we remove bad rulers without bloodshed?’ That, for him, is democracy's great advantage.\n\nPlato's defenders reply that Popper read him anachronistically. Plato wanted rulers with no wealth, no families and no wish for power, which is the opposite of a modern dictator. Some scholars even suggest the *Republic* is mainly about the soul, and that the city is a large-scale picture of it, not a practical manifesto.\n\nOther objections are worth remembering:\n\n- **Who decides who the philosophers are?** Every ruling group believes it knows best. A theory that hands power to the wise gives no protection against fools who think they are wise.\n- **Is there one expert answer in politics?** Navigation has a destination everyone agrees on. Politics is partly about choosing the destination, which may require the consent of the passengers.\n- **Even experts are biased.** Without accountability, knowledge tends to serve the interests of those who hold it.\n\nHis student Aristotle took a middle position (Day 21): he too distrusted pure democracy, but argued that a crowd can sometimes judge better than a single expert, the way a feast to which many contribute can be better than one person's dinner."
+    }
+  ],
+  "keyQuote": {
+    "text": "Until philosophers rule as kings or those who are now called kings and leading men genuinely and adequately philosophize, that is, until political power and philosophy entirely coincide... cities will have no rest from evils.",
+    "source": "Plato, Republic V, 473c–d (trans. G. M. A. Grube, rev. C. D. C. Reeve)"
+  },
+  "modernConnection": {
+    "title": "Epistocracy, Experts and the Wisdom of the Crowd",
+    "body": "Plato's ship of state is back in fashion. In 2016 the American philosopher Jason Brennan published *Against Democracy*, arguing for what he calls **epistocracy**: rule by the knowledgeable. Surveys regularly show that many voters cannot name their representatives or explain basic facts about the policies they vote on. Brennan proposed ideas like giving extra votes to people who pass a test of basic political knowledge. Others defend more technocratic arrangements: independent central banks setting interest rates, scientific panels guiding pandemic policy, unelected judges striking down popular laws.\n\nAt the same time, many people worry about the opposite danger Plato described: demagogues who win power by flattering the crowd, social media feeds that reward outrage over expertise, and the slide from elected strongman to something worse. Political scientists studying ‘democratic backsliding’ have documented how elected leaders in several countries have weakened courts and the press step by step, a modern version of the champion who acquires a bodyguard.\n\nBut the modern debate also shows where Plato's picture breaks down. Defenders of democracy, such as Hélène Landemore in *Democratic Reason* (2013), argue that diverse groups often outperform small groups of experts, because they bring more perspectives and catch more errors. Experts have blind spots and interests of their own. And the history of the twentieth century suggests Popper had a point: the ability to vote rulers out peacefully is precious, even when voters choose badly.\n\nThe honest takeaway is that modern democracies are already a mixture. We elect leaders, but we also rely on courts, civil servants, scientists and constitutions that are deliberately shielded from majority mood. Plato forces us to ask how much of that mixture should be knowledge and how much consent, and he reminds us that neither is safe without the other. Next time you hear a politician dismiss ‘so-called experts’, or an expert dismiss ‘ignorant voters’, you are watching the argument on Plato's ship continue."
+  },
+  "vocabulary": [
+    {
+      "term": "Guardians",
+      "definition": "In Plato's ideal city, the rulers and auxiliaries together: the classes trained to govern and defend the city, living without private property or families.",
+      "example": "Plato's guardians eat in common mess halls and own no gold, so that greed cannot corrupt them."
+    },
+    {
+      "term": "Noble lie",
+      "definition": "A founding myth that Plato's rulers would tell the citizens, the myth of the metals, to encourage loyalty to the city and acceptance of one's social role.",
+      "example": "Critics compare the noble lie to state propaganda; defenders compare it to a nation's founding story."
+    },
+    {
+      "term": "Philosopher-king",
+      "definition": "Plato's ideal ruler: someone who has knowledge of the Forms, especially the Good, and rules out of duty rather than desire for power.",
+      "example": "Plato thought a city would only be happy when a philosopher-king, not a popular orator, held power."
+    },
+    {
+      "term": "Ship of state",
+      "definition": "Plato's analogy in which the people are a strong but ignorant shipowner and politicians are quarreling sailors who ignore the true navigator, the philosopher.",
+      "example": "The ship of state suggests that winning votes and knowing how to govern are two different skills."
+    },
+    {
+      "term": "Timocracy",
+      "definition": "In Plato's scheme, rule by those who love honor and victory, modeled loosely on Sparta; the first step of decline from the ideal city.",
+      "example": "A society that values military glory above wisdom resembles Plato's timocracy."
+    },
+    {
+      "term": "Oligarchy",
+      "definition": "Rule by a few, especially the wealthy few, in which property becomes the qualification for power.",
+      "example": "Plato says an oligarchy becomes two cities, one of the rich and one of the poor, at war with each other."
+    },
+    {
+      "term": "Democracy",
+      "definition": "Rule by the people (Greek demos). In Athens this meant direct democracy, with citizens voting on laws themselves and many officials chosen by lot.",
+      "example": "Plato called democracy the most colorful constitution but warned that its excess of freedom could lead to tyranny."
+    },
+    {
+      "term": "Tyranny",
+      "definition": "Rule by one person who governs without law for his own benefit; for Plato, the worst constitution and the most miserable kind of soul.",
+      "example": "In Plato's story, tyranny begins when the people choose a champion who then refuses to give up power."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Design Your Own Ship",
+    "prompt": "Plato asks who should steer, and Popper asks how we can get rid of a bad steersman. Use both questions to test your own political views.",
+    "steps": [
+      "List three political decisions you think should be left mainly to experts (for example, interest rates or vaccine approval) and three you think should be decided by voters. What principle separates your two lists?",
+      "Pick one claim in Plato's portrait of democracy (for example, that it treats all desires as equal, or that it rewards flattery over knowledge) and write down one piece of evidence for it and one against it from your own society.",
+      "Imagine you are put in charge of choosing a city's rulers. Write a short procedure for selecting them. Then play the critic: how could a corrupt or foolish group capture your procedure?",
+      "Finish with a one-paragraph answer to Plato: is democracy the best form of government, the least bad, or something to be replaced? Say what would change your mind."
+    ]
+  },
+  "summary": [
+    "Plato's politics were shaped by war, the Thirty Tyrants and the democracy that executed Socrates; his target was direct Athenian democracy.",
+    "The guardians receive a censored education, live without private property, and (in Book V) share spouses and children; women of the right nature can be guardians too.",
+    "The noble lie, or myth of the metals, is meant to make citizens loyal and content with their roles, but it is a deliberate deception by rulers.",
+    "Philosophers should rule because only they know the Good; the ship of state shows that winning power and knowing how to use it are different skills.",
+    "Plato describes decline from aristocracy to timocracy, oligarchy, democracy and finally tyranny, arguing that extreme freedom breeds tyranny.",
+    "Critics, especially Karl Popper, see the Republic as a blueprint for authoritarian rule and argue that democracy's key virtue is removing rulers without violence."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "What is the 'noble lie' in Plato's Republic?",
+      "options": [
+        "A story Socrates told at his trial to win over the jury",
+        "The myth that citizens were formed in the earth with gold, silver, or iron and bronze mixed into their souls",
+        "The claim by Thrasymachus that justice is the advantage of the stronger",
+        "A lie the philosopher-king tells foreign enemies during wartime"
+      ],
+      "answer": 1,
+      "explanation": "The noble lie is the myth of the metals, meant to make citizens loyal to the city and accept their roles. The other options describe different episodes or are invented."
+    },
+    {
+      "type": "mc",
+      "question": "In the ship of state analogy, who does the shipowner represent?",
+      "options": [
+        "The philosopher-king",
+        "The Sophists",
+        "The tyrant",
+        "The people, strong but ignorant of navigation"
+      ],
+      "answer": 3,
+      "explanation": "The large, slightly deaf and short-sighted shipowner stands for the people; the quarreling sailors are politicians, and the ignored navigator is the philosopher."
+    },
+    {
+      "type": "mc",
+      "question": "Why does Plato forbid the guardians to own private property?",
+      "options": [
+        "So that greed and private interests do not turn them against the citizens they protect",
+        "Because he believed money was an illusion like the shadows in the cave",
+        "Because Athenian law already forbade soldiers from owning land",
+        "So that they would have more time to study poetry"
+      ],
+      "answer": 0,
+      "explanation": "Plato fears that rulers with land and money would become masters of the citizens rather than their allies, so he removes the temptation."
+    },
+    {
+      "type": "tf",
+      "question": "Plato argued that women with the right natural abilities could be educated as guardians and even serve as rulers.",
+      "answer": true,
+      "explanation": "This is the 'first wave' of Book V. Plato still thought women were on average weaker, but he held that sex was irrelevant to the capacity to rule."
+    },
+    {
+      "type": "mc",
+      "question": "What is the correct order of Plato's decline of regimes, starting from the ideal city?",
+      "options": [
+        "Aristocracy, democracy, oligarchy, timocracy, tyranny",
+        "Timocracy, aristocracy, democracy, oligarchy, tyranny",
+        "Aristocracy, timocracy, oligarchy, democracy, tyranny",
+        "Aristocracy, oligarchy, timocracy, tyranny, democracy"
+      ],
+      "answer": 2,
+      "explanation": "Rule of the best decays into rule of honor, then rule of the rich, then rule of the people, and finally tyranny."
+    },
+    {
+      "type": "mc",
+      "question": "According to Plato, why does democracy tend to lead to tyranny?",
+      "options": [
+        "Because voters always choose the wealthiest candidate",
+        "Because philosophers refuse to vote",
+        "Because democracies are always defeated in war by Sparta",
+        "Because extreme freedom breeds disorder, and the people pick a champion who seizes total power"
+      ],
+      "answer": 3,
+      "explanation": "Plato says excessive freedom turns into excessive slavery: the people's champion gains a bodyguard, eliminates rivals and becomes a tyrant."
+    },
+    {
+      "type": "tf",
+      "question": "Plato believed the best rulers would be those most eager to gain political power.",
+      "answer": false,
+      "explanation": "The reverse: the best rulers are philosophers who would rather think and rule only out of duty. Those hungry for power fight over it and ruin the city."
+    },
+    {
+      "type": "mc",
+      "question": "Karl Popper's main objection to Plato's political philosophy was that:",
+      "options": [
+        "Plato gave too much power to ordinary voters",
+        "It was a blueprint for totalitarian rule, and the key question is how to remove bad rulers without bloodshed",
+        "Plato's Forms were scientifically unprovable, so his politics were irrelevant",
+        "Plato ignored the importance of military education"
+      ],
+      "answer": 1,
+      "explanation": "In The Open Society and Its Enemies (1945), Popper argued that asking 'who should rule?' leads to authoritarianism; democracy's value lies in peaceful removal of rulers."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern proposal is closest to Plato's view that knowledge should be the qualification for ruling?",
+      "options": [
+        "Choosing members of parliament by random lottery",
+        "Lowering the voting age to sixteen",
+        "Holding more referendums on major issues",
+        "Epistocracy, in which political power is weighted toward those who pass a test of political knowledge"
+      ],
+      "answer": 3,
+      "explanation": "Epistocracy (as defended by Jason Brennan) ties power to knowledge, echoing the philosopher-king. Lotteries and referendums are more like Athenian democracy."
+    },
+    {
+      "type": "tf",
+      "question": "Plato's critique of democracy was aimed at a representative system with elected parliaments, independent courts and a free press, like most modern democracies.",
+      "answer": false,
+      "explanation": "Plato was criticizing Athenian direct democracy, where citizens voted on laws in the Assembly and many officials were chosen by lot. Applying his critique to modern systems requires care."
+    }
+  ],
+  "goDeeper": {
+    "body": "Scholars disagree sharply about how seriously to take the ideal city. One camp reads the *Republic* as a real political proposal, pointing to Plato's Sicilian journeys and the detailed institutions of Books III–V. Another camp, including some followers of Leo Strauss, argues the city is deliberately impossible and partly ironic: by showing what perfect justice in a city would require (abolishing families, censoring poets, lying to citizens), Plato reveals the limits of politics and points us back toward philosophy and the care of the individual soul. A middle view holds that the city is a serious ideal, a pattern laid up in heaven, as Socrates says at the end of Book IX, which a person can use to order their own soul whether or not it ever exists on earth.\n\nThere is also a lively debate about the noble lie. Is it really a lie? Plato distinguishes the 'true lie', ignorance in the soul about the most important things, which everyone hates, from useful falsehoods in words, such as myths that convey truths in story form. On this reading, the myth of the metals is false in its details but true in its message: people really do differ in their abilities, and citizens really are bound together like a family. Critics answer that this is exactly how every ideology justifies itself.\n\nFinally, compare Plato's account of regime change with Aristotle's *Politics* (Day 21), which studied over 150 actual constitutions, and with the 'mixed constitution' tradition running through Polybius to the American founders, which tried to combine monarchy, aristocracy and democracy so that each checks the others.",
+    "readings": [
+      {
+        "title": "Republic, Books V–VI and VIII",
+        "author": "Plato (trans. G. M. A. Grube, rev. C. D. C. Reeve)",
+        "note": "Book V for the three waves and the philosopher-king, Book VI (around 488a) for the ship of state, and Book VIII for the decline of regimes and the portrait of democracy."
+      },
+      {
+        "title": "The Open Society and Its Enemies, Volume 1: The Spell of Plato",
+        "author": "Karl Popper",
+        "note": "The most famous modern attack on Plato's politics; passionate, sometimes unfair, always provocative."
+      },
+      {
+        "title": "Against Democracy",
+        "author": "Jason Brennan",
+        "note": "A contemporary philosopher's case for epistocracy; read it alongside a defender of democracy to see Plato's debate continue."
+      },
+      {
+        "title": "Plato's Republic: A Biography",
+        "author": "Simon Blackburn",
+        "note": "Short and lively; especially good on how different eras have read the Republic's politics."
+      }
+    ],
+    "questions": [
+      "Is a society ever justified in telling its citizens a founding myth that is not literally true? Does every nation already do this?",
+      "Plato says the best rulers are those who do not want power. How could a modern society find and select such people?",
+      "Which part of Plato's portrait of the 'democratic person' do you recognize in yourself or your culture, and which seems most unfair?"
+    ]
+  }
+}
