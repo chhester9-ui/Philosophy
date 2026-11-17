@@ -1,0 +1,244 @@
+{
+  "id": "day-30",
+  "day": 30,
+  "title": "Augustine I: Restless Hearts, Evil and Free Will",
+  "subtitle": "Why did a good God make a world where we steal pears?",
+  "philosophers": ["Augustine of Hippo"],
+  "era": "354–430 CE",
+  "estimatedMinutes": 50,
+  "objectives": [
+    "By the end you will be able to tell the story of Augustine's life and conversion as he presents it in the Confessions.",
+    "By the end you will be able to explain the idea of 'faith seeking understanding' and how Augustine related belief to reason.",
+    "By the end you will be able to explain the theory of evil as privation and why Augustine adopted it after rejecting Manichaeism.",
+    "By the end you will be able to reconstruct the free will defense and evaluate the strongest objections to it."
+  ],
+  "hook": "One night in the North African town of Thagaste, a sixteen-year-old and his friends crept into a neighbor's orchard and shook down a pear tree. They were not hungry. The pears were not even good; Augustine says he had better ones at home. The boys took a load of them, ate a few and threw the rest to the pigs.\n\nAbout thirty years later, now a bishop, Augustine devoted much of Book II of his *Confessions* to this tiny crime. Why? Because it puzzled him. He could understand stealing out of need, or even out of greed. But he had stolen, he says, simply because it was forbidden, loving the wrongdoing itself. How could a creature made by a perfectly good God want something just because it was bad? Where does evil come from? That question drove Augustine through years of searching, and his answer shaped Western thought for more than a thousand years.",
+  "sections": [
+    {
+      "heading": "A Restless Life",
+      "body": "Aurelius Augustinus was born in 354 in Thagaste, a small town in the Roman province of Numidia, in today's Algeria. His father Patricius was a modest landowner and a pagan until late in life; his mother Monica was a devout Christian who prayed for her son relentlessly. The family scraped together money to send their clever boy to study rhetoric, the art of persuasive speaking that was the ticket to a career in the Roman Empire.\n\nAt about nineteen, while studying in Carthage, he read a now-lost dialogue by Cicero, the *Hortensius*, which urged readers to love wisdom itself. It set him on fire. But the Bible, when he tried it, seemed crude next to Cicero's polished Latin. Instead he joined the **Manichaeans**, a religion founded by the Persian prophet Mani in the third century. For about nine years Augustine was one of their 'hearers'. He also lived with a woman whose name he never tells us, and they had a son, Adeodatus.\n\nAugustine's career rose. He taught rhetoric in Carthage, then Rome, and in 384 won the prestigious post of official rhetorician in Milan, then an imperial capital. There he heard the sermons of Ambrose, the city's bishop, who read the Bible with philosophical subtlety. He also encountered what he calls 'books of the Platonists', almost certainly Latin translations of Plotinus and Porphyry (Day 28). Under pressure from his mother, he sent away the mother of his son to make way for a socially advantageous marriage; he records the grief of the separation honestly.\n\nIn the summer of 386, in a garden in Milan, came the crisis he describes in Book VIII. Weeping, torn between desire and the life he believed he should live, he heard a child's voice from a nearby house chanting *tolle lege*, 'take up and read'. He opened Paul's Letter to the Romans and read a passage telling him to put aside revelry and lust. He felt his doubts dissolve. He was baptized by Ambrose at Easter 387. Shortly after, Monica died at Ostia, the port of Rome.\n\nAugustine returned to Africa, was pressed into the priesthood in the port city of Hippo Regius and became its bishop around 395 or 396. He spent the rest of his life preaching, writing an astonishing quantity of books and letters, and fighting theological battles. He died in 430 while the Vandals besieged Hippo."
+    },
+    {
+      "heading": "The Confessions and the Restless Heart",
+      "body": "Augustine wrote the *Confessions* around 397–400. It is often called the first autobiography in the Western tradition, though that label is a little misleading. The whole book is addressed to God as a long prayer, and 'confession' means both admitting sins and praising God. Only the first nine books tell his life story; the last four turn to memory, time (Day 31) and the creation story in Genesis.\n\nThe opening contains one of the most quoted sentences in Christian literature: 'You have made us for yourself, and our heart is restless until it rests in you.' This is the key to Augustine's psychology. Human beings are not neutral calculating machines; we are lovers. We always love something, and what we love shapes who we become. The problem is not that we love too much but that our loves are **disordered**: we love lesser things such as money, sex, praise or power as if they could give us the complete happiness that only the highest good can give.\n\nYou can hear echoes of earlier philosophy here. Plato's ladder of love (Day 15) and Plotinus' ascent (Day 28) also describe the soul climbing from lower to higher objects of love. And like the Hellenistic schools (Day 29), Augustine wants to heal the soul. But his diagnosis is different. The Stoic thought correct judgments could free us. Augustine, looking honestly at his own life, concluded that knowing the good is not enough. He knew what he should do in the Milan garden and still could not do it. In one famous line he recalls praying, as a young man, 'Grant me chastity and continence, but not yet.' This split between knowing and willing is a direct challenge to Socrates' claim (Day 9) that no one does wrong knowingly."
+    },
+    {
+      "heading": "Faith Seeking Understanding",
+      "body": "How do faith and reason fit together? Augustine's answer can be summed up in a phrase he used repeatedly, borrowing from a Latin translation of Isaiah: unless you believe, you will not understand. In his sermons he puts it as *crede ut intelligas*, 'believe so that you may understand'.\n\nThe famous phrase **faith seeking understanding** (*fides quaerens intellectum*) was actually coined later by Anselm (Day 34), but it captures Augustine's approach perfectly. Faith is not the end of thinking but its starting point. We trust first, and then we use reason to explore, deepen and defend what we trust.\n\nThis may sound like a cop-out, but Augustine had a serious point. We believe countless things we cannot personally prove: who our parents are, that distant cities exist, what happened in history. Any learning begins with trusting a teacher. Augustine thought religious understanding works similarly: you must enter into a way of life before you can see from the inside why it makes sense.\n\nAugustine was also no enemy of reason. Years before Descartes (Day 43), he argued against the Academic Skeptics (Day 27) that some things are certain. Even if I am mistaken, he wrote, I must exist in order to be mistaken: *si fallor, sum*, 'if I am deceived, I am'. He also used reason to attack the Manichaeans, and his answer to the problem of evil, to which we now turn, is a philosophical argument, not just an appeal to scripture."
+    },
+    {
+      "heading": "Evil Is Not a Thing",
+      "body": "The Manichaeans had a simple, dramatic answer to the problem of evil. The universe is a battlefield between two equal and opposite powers, a kingdom of Light and a kingdom of Darkness. Evil is a real substance, a dark stuff mixed into the world and into us. This view, called **dualism**, appealed to young Augustine because it got God off the hook: God did not make evil; Darkness did. It also got Augustine off the hook: his sins were caused by the dark part of him, not his true self.\n\nOver time he found it unsatisfying. If God is powerless to stop the Darkness, he is hardly God. And blaming a foreign substance for one's sins began to look like an evasion of responsibility.\n\nThe Platonist books gave him a new idea. What if evil is not a thing at all? Augustine came to hold that everything that exists, insofar as it exists, is good, because it comes from a good God. Evil is a **privation**, a lack or absence of a good that ought to be there. The Latin phrase is *privatio boni*, privation of good.\n\nAn analogy he uses in his *Enchiridion*: in the body of an animal, diseases and wounds are nothing but the absence of health. When the body is healed, the disease does not go somewhere else; it simply ceases to be. Similarly, blindness is not a dark object in the eye but the absence of sight in something that should see. A rock is not blind, because sight is not its proper good. Darkness is not a substance but the absence of light.\n\nThis gave Augustine an answer to the question: did God create evil? No. God created only good things. Evil is a kind of hole, a falling short. This is the idea we first glimpsed in Plotinus' account of matter on Day 28, now turned into a pillar of Christian thought."
+    },
+    {
+      "heading": "The Free Will Defense",
+      "body": "Privation explains what evil *is*, but not why it happens. If God made only good things, how did they come to fall short? Augustine's answer centers on the will, especially in his dialogue *On Free Choice of the Will*, begun around 388 and finished in the mid-390s.\n\nThe argument, now called the **free will defense**, runs like this:\n\n1. God created rational beings, angels and humans, with free will.\n2. Free will is a great good. Without it, we could not act rightly in a way that deserves praise; we would be like stones or puppets.\n3. But a will that is genuinely free can turn away from the highest good toward lower goods.\n4. **Moral evil**, sin, is exactly this: the will freely turning away from God, the unchanging good, toward changeable goods, and loving them in the wrong order.\n5. So moral evil comes from the misuse of free will by creatures, not from God. God is responsible for giving the gift, not for its misuse.\n\nNote that sin is not loving bad things. Pears are good; gold is good; bodies are good. Sin is loving good things in the wrong way, preferring a lesser good over a greater one. That brings us back to the pears. What did the teenage Augustine love? Not the pears, he realized, but the companionship of his friends and a perverse imitation of freedom, the thrill of acting as if he answered to no one, as if he were God.\n\nWhy does a good will turn bad? In the *City of God* Augustine says there is no **efficient cause** of an evil choice, only a 'deficient' one. Looking for its cause, he says, is like trying to see darkness or hear silence. The bad will is a failure, and failures do not need causes the way achievements do."
+    },
+    {
+      "heading": "Objections, and the Later Augustine",
+      "body": "The free will defense remains one of the most discussed arguments in philosophy of religion, and it faces serious challenges.\n\n**Natural evil.** Earthquakes, cancers and plagues are not caused by human choices. Augustine traced them, ultimately, to the fall of angels and humans, which disordered creation. Many modern readers find it hard to blame a child's leukemia on Adam's sin.\n\n**Could God make free beings who always choose well?** In 1955 the Australian philosopher J. L. Mackie argued that if it is possible for a free person to choose good on one occasion, it is possible on every occasion, so an all-powerful God could have created people who freely always do right. Defenders reply that whether a free creature chooses rightly is not entirely up to God, or it would not be free.\n\n**Is privation just wordplay?** A torturer's cruelty does not feel like an absence. Critics say calling it a 'lack' renames the problem without solving it. Defenders answer that the point is metaphysical, not psychological: cruelty is the absence of the love and justice a person should have, and it is often horribly active precisely because it hijacks good powers such as intelligence and energy.\n\nFinally, Augustine himself complicated his early view. In his later controversy with the British monk Pelagius and his followers, Augustine came to stress that, since the fall, humans inherit a damaged will (**original sin**) and cannot choose the good without God's **grace**. He even hardened his view of predestination. Readers ever since have asked whether the later Augustine left any room for the free will that the earlier Augustine used to defend God's goodness. The Pelagian controversy echoed through the Reformation and still divides Christian traditions today."
+    }
+  ],
+  "keyQuote": {
+    "text": "You have made us for yourself, and our heart is restless until it rests in you.",
+    "source": "Augustine, Confessions I.1"
+  },
+  "modernConnection": {
+    "title": "Restless Hearts on the Hedonic Treadmill",
+    "body": "In 1971 the psychologists Philip Brickman and Donald Campbell coined the phrase 'hedonic treadmill'. Their idea, supported by later research, is that people adapt quickly to good fortune. A raise, a new car or a bigger house gives a burst of satisfaction, and then we return to roughly our previous level of happiness and start wanting the next thing. A famous 1978 study compared lottery winners with ordinary people and found the winners were not as much happier as one might expect, though later studies with larger samples suggest money does bring some lasting gains in life satisfaction.\n\nAugustine would recognize this immediately. His restless heart is the hedonic treadmill described from the inside. He thought we keep running because we are asking finite goods to deliver infinite satisfaction. The modern attention economy exploits exactly this restlessness: endless feeds and notifications are designed so that there is always one more thing to check. Augustine's account of his teenage theft also anticipates something psychologists study: the way peer approval and the thrill of transgression can drive behavior more than the object itself.\n\nBut the comparison has limits. Modern psychology describes adaptation as a mechanism; it does not say what, if anything, would end the restlessness. Some researchers suggest that relationships, meaning and purpose resist adaptation better than possessions, which is not far from Augustine's ordering of loves. But Augustine's own answer, rest in God, is a theological claim that no experiment can confirm or refute. A secular reader can accept his diagnosis while rejecting his cure, or might argue, with Nietzsche (Day 65), that restlessness is not a disease at all but the engine of human creativity. Still, it is striking that a bishop in fifth-century Africa described the treadmill so precisely, sixteen centuries before anyone gave it a name."
+  },
+  "vocabulary": [
+    {
+      "term": "Manichaeism",
+      "definition": "A religion founded by the prophet Mani in third-century Persia that taught a cosmic dualism between equal powers of Light and Darkness.",
+      "example": "As a young man Augustine accepted Manichaeism because it blamed evil on a separate power of Darkness."
+    },
+    {
+      "term": "Dualism (cosmic)",
+      "definition": "The view that the universe is governed by two opposed, independent principles, typically good and evil.",
+      "example": "Augustine rejected cosmic dualism because a God locked in an even battle with evil would not be all-powerful."
+    },
+    {
+      "term": "Faith seeking understanding",
+      "definition": "The approach, rooted in Augustine and named by Anselm, in which belief is the starting point for rational inquiry rather than its replacement.",
+      "example": "Faith seeking understanding means a believer uses reason to explore what she already trusts."
+    },
+    {
+      "term": "Privation (privatio boni)",
+      "definition": "The absence or lack of a good that ought to be present; for Augustine, evil is a privation rather than a substance.",
+      "example": "Blindness in a human is a privation of sight, but a stone's lack of sight is not, because seeing is not a stone's good."
+    },
+    {
+      "term": "Free will defense",
+      "definition": "The argument that moral evil results from the misuse of free will by creatures, and that free will is so valuable that God is justified in permitting its misuse.",
+      "example": "According to the free will defense, God gave humans freedom, and cruelty arises when they choose to misuse it."
+    },
+    {
+      "term": "Moral evil vs natural evil",
+      "definition": "Moral evil is wrongdoing caused by free agents; natural evil is suffering caused by natural processes such as disease or earthquakes.",
+      "example": "A murder is a moral evil; a tsunami is a natural evil, which is harder for the free will defense to explain."
+    },
+    {
+      "term": "Disordered love",
+      "definition": "Augustine's term for loving lesser goods more than greater ones, the root of sin and unhappiness.",
+      "example": "Valuing a promotion more than one's own family can be an example of disordered love."
+    },
+    {
+      "term": "Original sin and grace",
+      "definition": "Augustine's later doctrines that humans inherit a will damaged by the first sin and need God's freely given help (grace) to will the good.",
+      "example": "In his debate with the Pelagians, Augustine insisted that grace, not human effort alone, makes a good life possible."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Your Own Pear Tree",
+    "prompt": "Augustine examined a small, puzzling wrong from his youth to uncover something about human motivation. Try the same method on yourself, as honestly as you can.",
+    "steps": [
+      "Recall a time you did something you knew was wrong (it can be small) where the action itself did not obviously get you anything you needed.",
+      "Ask Augustine's question: what did I actually love in that moment? The object, the approval of others, the thrill of breaking a rule, a feeling of independence?",
+      "Test the privation theory: can you describe what went wrong as the absence of something that should have been there (care, honesty, attention)? Does that description capture what happened, or leave something out?",
+      "Consider the free will defense. Would you rather have been incapable of doing wrong? Write a short paragraph on whether the freedom was worth the risk.",
+      "Finally, name one 'disordered love' in your current life, a lesser good you sometimes rank above a greater one, and one concrete way to reorder it."
+    ]
+  },
+  "summary": [
+    "Augustine (354–430), born in Roman North Africa, moved from Cicero to Manichaeism to Platonism before his conversion in Milan in 386; he later became bishop of Hippo.",
+    "His Confessions, a book-length prayer, portrays humans as lovers with restless hearts whose unhappiness comes from disordered loves.",
+    "Augustine taught that faith is the starting point for understanding (the idea Anselm later named 'faith seeking understanding'), while still using rigorous argument.",
+    "Evil is not a substance but a privation, a lack of a good that should be present, so God creates only good things.",
+    "The free will defense locates moral evil in creatures' misuse of freedom, but faces objections about natural evil, about whether God could create free beings who always do good, and about Augustine's own later emphasis on grace."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why did the pear theft trouble Augustine so much?",
+      "options": [
+        "Because he was caught and punished severely",
+        "Because the pears belonged to the church",
+        "Because he seemed to have loved the wrongdoing itself rather than the pears",
+        "Because it caused his expulsion from school"
+      ],
+      "answer": 2,
+      "explanation": "The pears were worthless to him; what puzzled him was a desire for the forbidden act itself, which made the problem of evil personal."
+    },
+    {
+      "type": "mc",
+      "question": "What did the Manichaeans teach about evil?",
+      "options": [
+        "Evil is a privation of good",
+        "Evil is a real power or substance, Darkness, opposed to Light",
+        "Evil is caused only by free will",
+        "Evil is an illusion created by the senses"
+      ],
+      "answer": 1,
+      "explanation": "Manichaeism was a cosmic dualism with two opposed powers. Privation is the view Augustine adopted after leaving it."
+    },
+    {
+      "type": "mc",
+      "question": "According to the privation theory, which is the best example of evil?",
+      "options": [
+        "A rock's inability to see",
+        "A shark's sharp teeth",
+        "The darkness of a cave, considered as a substance",
+        "A parent's lack of the care a parent ought to have for a child"
+      ],
+      "answer": 3,
+      "explanation": "Privation is the absence of a good that ought to be there. A rock lacks sight but should not have it, and sharp teeth are a good for a shark."
+    },
+    {
+      "type": "mc",
+      "question": "For Augustine, what is sin fundamentally?",
+      "options": [
+        "Loving evil things created by an evil power",
+        "Loving good things in the wrong order, preferring lesser goods to greater ones",
+        "Any bodily pleasure",
+        "Failing to know the correct philosophical theory"
+      ],
+      "answer": 1,
+      "explanation": "Everything God made is good, so sin is a disordered love. Augustine rejected the Socratic idea that wrongdoing is just ignorance."
+    },
+    {
+      "type": "mc",
+      "question": "Which phrase was coined by Anselm but expresses Augustine's approach to faith and reason?",
+      "options": [
+        "Faith seeking understanding",
+        "The unexamined life is not worth living",
+        "Know thyself",
+        "I think, therefore I am"
+      ],
+      "answer": 0,
+      "explanation": "Anselm's 'fides quaerens intellectum' sums up Augustine's 'believe so that you may understand'. The others belong to Socrates, the Delphic tradition and Descartes."
+    },
+    {
+      "type": "mc",
+      "question": "Which objection to the free will defense focuses on earthquakes and diseases?",
+      "options": [
+        "The problem of natural evil",
+        "The problem of universals",
+        "The Third Man argument",
+        "The apraxia objection"
+      ],
+      "answer": 0,
+      "explanation": "Natural evils are not caused by human choices, so the free will defense does not obviously explain them."
+    },
+    {
+      "type": "mc",
+      "question": "What did J. L. Mackie argue in 1955?",
+      "options": [
+        "That evil is a privation of good",
+        "That free will is an illusion created by the brain",
+        "That an all-powerful God could have created free beings who always freely choose good",
+        "That Augustine never wrote the Confessions"
+      ],
+      "answer": 2,
+      "explanation": "Mackie challenged the free will defense: if a free being can choose good once, why not always? Defenders say God cannot guarantee free choices."
+    },
+    {
+      "type": "tf",
+      "question": "In the Confessions, Augustine admits that as a young man he prayed for chastity, but 'not yet'.",
+      "answer": true,
+      "explanation": "The line in Confessions VIII illustrates the split between knowing the good and willing it."
+    },
+    {
+      "type": "tf",
+      "question": "Augustine's conversion in the Milan garden was triggered when he heard a voice say 'take up and read' and opened Paul's Letter to the Romans.",
+      "answer": true,
+      "explanation": "This is the famous tolle lege scene in Confessions Book VIII, set in the summer of 386."
+    },
+    {
+      "type": "tf",
+      "question": "In his later writings against the Pelagians, Augustine placed even more emphasis on unaided human free will.",
+      "answer": false,
+      "explanation": "The opposite: he stressed original sin and the need for divine grace, raising questions about how much freedom remains."
+    }
+  ],
+  "goDeeper": {
+    "body": "The free will defense had a dramatic second life in the twentieth century. After Mackie argued in 'Evil and Omnipotence' (1955) that the existence of evil is logically inconsistent with an all-good, all-powerful God, Alvin Plantinga responded in *God, Freedom, and Evil* (1974). Plantinga distinguished a theodicy, which claims to give God's actual reasons, from a defense, which only shows that God and evil are logically consistent. Using modal logic, he argued that it is possible that every free creature God could create would go wrong at least once, a condition he called 'transworld depravity'. If that is even possible, there is no contradiction. Many philosophers, including many atheists, came to accept that the logical problem of evil had been answered, though the evidential problem, that so much evil makes God improbable, remains very much alive (see William Rowe's 1979 argument about a fawn burning in a forest fire).\n\nAnother line of thought is John Hick's 'soul-making' theodicy, which he contrasted with Augustine's. Hick, drawing on the second-century bishop Irenaeus, argued that the world is a place for growing into moral maturity, and suffering is part of what makes that growth possible. Hick thought Augustine's story of an original perfect creation that then fell was scientifically and morally implausible.\n\nFinally, scholars debate the privation theory itself. Some, like the philosopher Todd Calder, argue it cannot account for the 'positive' character of pain or malice. Others defend it as a claim about the metaphysics of goodness and being, closely tied to the Neoplatonic idea that being and goodness are convertible.",
+    "readings": [
+      {
+        "title": "Confessions (especially Books I–II and VII–VIII)",
+        "author": "Augustine, translated by Henry Chadwick or Sarah Ruden",
+        "note": "Book II has the pear theft, Book VII the Platonist books and evil as privation, Book VIII the garden conversion."
+      },
+      {
+        "title": "On Free Choice of the Will",
+        "author": "Augustine, translated by Thomas Williams",
+        "note": "A readable dialogue with Evodius that sets out the free will defense in Augustine's own words."
+      },
+      {
+        "title": "Augustine of Hippo: A Biography",
+        "author": "Peter Brown",
+        "note": "The classic biography, vivid on his world and his changing views."
+      },
+      {
+        "title": "God, Freedom, and Evil",
+        "author": "Alvin Plantinga",
+        "note": "A short, influential modern restatement of the free will defense."
+      }
+    ],
+    "questions": [
+      "Is the freedom to do evil worth the evil it makes possible? Would you give up your freedom to guarantee you never did wrong?",
+      "Does describing evil as an 'absence' help us understand cruelty, or does it make it sound less real than it is?",
+      "Augustine believed knowing the good is not enough to do it. Does your experience support him or Socrates?"
+    ]
+  }
+}

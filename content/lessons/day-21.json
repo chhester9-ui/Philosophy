@@ -1,0 +1,237 @@
+{
+  "id": "day-21",
+  "day": 21,
+  "title": "Politics and Poetics: The Political Animal and the Power of Tragedy",
+  "subtitle": "Why we need the city to be fully human, and why we pay to watch heroes fall",
+  "philosophers": ["Aristotle"],
+  "era": "384–322 BCE",
+  "estimatedMinutes": 55,
+  "objectives": [
+    "By the end you will be able to explain what Aristotle meant by calling humans 'political animals'",
+    "Describe his sixfold classification of constitutions and his case for a mixed 'polity'",
+    "Critically assess his defence of 'natural slavery' and his views on women",
+    "Explain mimesis, catharsis and hamartia in the Poetics and how they answer Plato's attack on poetry",
+    "Apply Aristotle's account of tragedy to modern films, series and stories"
+  ],
+  "hook": "In 1890, the British Museum acquired some papyrus rolls from Egypt. On the back of what turned out to be a farm account, someone in antiquity had copied out a text no one had read for well over a thousand years: *The Constitution of the Athenians*, a history and description of how Athens governed itself. It was one of the 158 studies of different Greek constitutions that Aristotle and his students at the Lyceum had compiled. Most scholars think it was written by a student rather than Aristotle himself, but it shows how his school worked: before theorising about the best government, they gathered data, city by city.\n\nThat combination of field research and big questions is what makes Aristotle's political thought distinctive. Today we look at two works that seem far apart but share a common root. The *Politics* asks how humans should live together. The *Poetics* asks why we are moved by tragic stories. Both rest on Aristotle's conviction, which you met on Days 19 and 20, that humans are a particular kind of animal with a particular way of flourishing.",
+  "sections": [
+    {
+      "heading": "The Political Animal",
+      "body": "The *Politics* opens with a natural history of human community. First comes the household, formed from the pairing of man and woman for reproduction and of master and slave for survival. Several households form a village. Several villages, joined together, form the **polis**, the self-governing city-state, which is the community that is self-sufficient. The polis comes into being for the sake of mere life, Aristotle says, but it exists for the sake of the good life.\n\nThen comes his most famous claim: that the human being is by nature a **political animal** (*zoon politikon*). Bees and herd animals are social too, but humans are political in a fuller sense, because we alone have *logos*, speech and reason. Animal cries can signal pleasure and pain; speech can express what is advantageous and harmful, and therefore what is just and unjust. A community that shares views about justice is what makes a household and a city.\n\nAnyone who cannot live in a community, or who has no need to because he is self-sufficient, is, says Aristotle, either a beast or a god. A human cut off from the polis is not a free individual but a stunted one, like a hand severed from a body, which is a hand only in name. (You saw this 'in name only' argument on Day 19 about the eye and the axe.)\n\nThis leads to a claim that sounds strange to modern liberal ears: the polis is prior by nature to the individual. Aristotle does not mean that cities existed before people. He means that the whole is prior to its parts in the order of explanation, because you cannot understand what a human is for without understanding the community in which human capacities are fulfilled.\n\nContrast this with Hobbes (Day 42) and Locke (Day 52), who will imagine individuals in a 'state of nature' choosing to form a government by contract. For Aristotle, there is no pre-political human nature to start from. Politics is not a deal we strike; it is part of being human, and the purpose of the city is the flourishing of its citizens, the eudaimonia of Day 20."
+    },
+    {
+      "heading": "Six Constitutions and the Best Practical City",
+      "body": "A **constitution** (*politeia*) for Aristotle is not a written document but the arrangement of offices in a city, above all who holds sovereign power. He classifies constitutions with two questions: how many rule, and in whose interest?\n\n- Rule by one: **kingship** if for the common good; **tyranny** if for the ruler's own interest.\n- Rule by a few: **aristocracy** (rule of the best) if for the common good; **oligarchy** if for the interest of the rich few.\n- Rule by the many: **polity** (*politeia*, the same word as 'constitution') if for the common good; **democracy** if for the interest of the poor majority.\n\nNotice that 'democracy' appears on the corrupt side of the list, as it did for Plato (Day 14). But Aristotle is much more sympathetic to popular government than his teacher. He also observes that, in practice, the real difference between oligarchy and democracy is wealth: oligarchy is rule by the rich, democracy rule by the poor, whatever the numbers.\n\nHe offers a famous argument for the **wisdom of the many**. The many, none of whom is individually excellent, may when they come together be better than the few best, just as a feast to which many contribute is better than one provided by a single host. Each person has some portion of virtue and practical wisdom, and pooled judgment can see more. This is one of the earliest arguments in history for collective decision-making.\n\nUnlike Plato's *Republic*, which sketched an ideal city ruled by philosopher-kings, Aristotle asks what is best for most cities given real human beings. His answer is a mixed constitution, the polity, which blends oligarchic and democratic elements, and which is most stable when there is a large **middle class**. Where there are only the very rich and the very poor, he warns, cities collapse into faction and revolution. The middle class is least inclined either to covet others' property or to have its own coveted. He also criticises Plato's proposal that guardians share property and children: what is common to the greatest number gets the least care."
+    },
+    {
+      "heading": "The Dark Side: Natural Slaves and Unequal Souls",
+      "body": "No honest account of the *Politics* can skip the opening of Book I, where Aristotle defends **natural slavery**.\n\nHe begins by reporting a view held by some of his contemporaries: that slavery is contrary to nature, existing only by convention (*nomos*, remember the Sophists' nomos-versus-physis debate on Day 8), and is therefore unjust because it rests on force. So already in the fourth century BCE, some Greeks were arguing that slavery was wrong. Aristotle sets out to answer them.\n\nHis argument is that some humans are 'slaves by nature': they can perceive reason in others but do not have the full capacity for deliberation themselves, so it benefits them to be ruled by a master, as the body benefits from being ruled by the soul. He concedes significant ground to the critics: many people actually enslaved, for example free people captured in war, are not natural slaves, and their enslavement is unjust. But he holds that the institution is just when applied to natural slaves.\n\nThe argument fails on its own terms. Aristotle himself admits that nature often fails to mark natural slaves by visible differences, so there is no reliable way to identify them. And his frequent suggestion that 'barbarians', non-Greeks, are slavish by nature is ethnic prejudice dressed as biology. Later generations used his words to justify the enslavement of Indigenous Americans; in the famous Valladolid debate of 1550–51, the scholar Juan Ginés de Sepúlveda appealed to Aristotle's natural slavery, and Bartolomé de las Casas argued against him.\n\nHis view of women is also troubling. He says the female has the deliberative faculty, but 'without authority' (*akuron*), and so men should rule in the household. Recall the biological errors of Day 19, where he called the female a kind of incomplete male.\n\nHow should we handle this? Not by pretending it isn't there, and not by throwing out everything else. A useful question to ask is whether these views follow from Aristotle's deepest principles or contradict them. Many philosophers argue that his ethics of rational agency, applied consistently, condemns his own conclusions, since women and enslaved people plainly deliberate and reason."
+    },
+    {
+      "heading": "Poetics: Imitation and the Answer to Plato",
+      "body": "Now we turn to a very different work. The *Poetics* is short, apparently a set of lecture notes, and it survives incomplete: a second book on comedy is lost. (Umberto Eco's novel *The Name of the Rose* builds a murder mystery around a fictional surviving copy.) Yet it is the founding text of literary criticism.\n\nTo understand its stakes, remember Plato. In *Republic* Book X, Plato banished most poets from his ideal city. Poetry, he argued, is **mimesis**, imitation, and an imitation of physical things that are themselves only copies of the Forms (Day 11), so it is two steps removed from truth. Worse, tragedy waters our emotions, encouraging us to wallow in grief and pity that a rational person should control.\n\nAristotle answers both charges without mentioning Plato by name.\n\nFirst, imitation is natural and a source of learning. Humans are the most imitative of animals, he says, and we learn our first lessons through imitation. We even take pleasure in looking at accurate images of things that are painful to see in reality, such as the forms of the lowest animals and of corpses, because in recognising them we learn and infer what each thing is. Mimesis is not a debased copy; it is a way of understanding.\n\nSecond, poetry can be more philosophical than history. History tells what *did* happen: what Alcibiades did or suffered. Poetry tells what *would* happen, the kind of thing a certain kind of person would probably or necessarily say or do. So poetry deals with universals, history with particulars. A great tragedy reveals how human action and suffering work, in a way a chronicle of facts cannot.\n\nThird, and most controversially, tragedy does something good with our emotions rather than something bad. That brings us to catharsis."
+    },
+    {
+      "heading": "Tragedy, Catharsis and the Hero's Error",
+      "body": "In chapter 6 of the *Poetics*, Aristotle defines tragedy. In paraphrase: tragedy is an imitation of an action that is serious and complete, with magnitude, in embellished language, performed by actors rather than narrated, and through pity and fear accomplishing the **catharsis** of such emotions.\n\nHe lists six elements of tragedy: plot, character, thought, diction, song and spectacle. The most important by far is **plot** (*mythos*), the arrangement of events, which he calls the soul of tragedy. A good plot is a unified whole with a beginning, middle and end, in which each event follows from the previous one by probability or necessity, not 'one thing after another'.\n\nThe best plots contain a **reversal** (*peripeteia*), when the action swings to its opposite, and a **recognition** (*anagnorisis*), a change from ignorance to knowledge. His favourite example is Sophocles' *Oedipus the King*: a messenger arrives to cheer Oedipus with news about his parents and instead reveals that Oedipus has killed his father and married his mother. Reversal and recognition strike at once.\n\nWho should the tragic hero be? Not a perfectly good person falling into misery, which is merely shocking. Not a villain rising to happiness, which is the least tragic of all. Not a villain falling, which may satisfy our sense of justice but arouses neither pity nor fear. The hero should be someone like us, though better than average, who falls not through vice but through some **hamartia**. The word is often translated 'tragic flaw', suggesting a character defect like pride. But it literally means 'missing the mark', and many scholars think Aristotle meant an error or mistake, often a mistake of fact: Oedipus does not know who his parents are.\n\nWhat is catharsis? Aristotle never explains it in the surviving text, and interpretations differ.\n\n1. **Purgation**: a medical metaphor, popularised by Jacob Bernays in 1857; tragedy releases built-up pity and fear, leaving us relieved.\n2. **Purification**: tragedy refines our emotions, training us to feel pity and fear toward the right objects in the right way, which echoes the 'mean' of Day 20.\n3. **Clarification**: tragedy brings understanding of what is pitiable and fearful in human life.\n\nWhichever it is, Aristotle's reply to Plato is clear: tragedy does not leave us emotionally weaker. It educates."
+    }
+  ],
+  "keyQuote": {
+    "text": "Man is by nature a political animal.",
+    "source": "Aristotle, Politics I.2 (1253a2–3)"
+  },
+  "modernConnection": {
+    "title": "From the Screenwriter's Manual to the True-Crime Binge",
+    "body": "Aristotle's *Poetics* may be the most practically influential book of philosophy ever written, because people who make stories still use it. Screenwriting manuals routinely cite it, and Robert McKee's widely used *Story* engages with it directly. The ideas that a plot needs a unified arc with a beginning, middle and end, that the best twist is both surprising and, in hindsight, inevitable, and that a protagonist should be flawed but sympathetic, are Aristotle's. When a series like *Breaking Bad* is praised for a reversal that changes everything, or a film critic complains that a sequel is just 'one thing after another', they are making Aristotelian judgments.\n\nHis questions about catharsis are also alive. Why do millions choose to watch harrowing dramas, true-crime documentaries and disaster films? Psychologists call this the 'paradox of tragedy' and propose answers that map onto the ancient interpretations: some research focuses on 'meaningful' entertainment that leaves viewers moved and reflective (close to the clarification reading), while others emphasise rehearsing fears in safety (closer to purification).\n\nHere, though, modern evidence complicates one popular version of catharsis. The idea that venting anger, by punching a pillow or watching violence, 'gets it out of your system' has fared poorly. Brad Bushman's well-known 2002 experiment found that people who hit a punching bag while thinking about someone who had provoked them became more aggressive, not less. If catharsis means simple purgation, the evidence is against it; if it means training emotions through understanding, Aristotle may still be right.\n\nThe *Politics* has its own modern echoes. His warning that cities polarised between the very rich and very poor fall into faction is regularly invoked in debates about inequality and a shrinking middle class. And his 'wisdom of the many' feast argument is cited by modern theorists of collective intelligence and deliberative democracy, including defenders of citizens' assemblies.\n\nBut beware the limits. Aristotle's polis was a city of tens of thousands of citizens, excluding women, slaves and resident foreigners. Applying his ideas to diverse nations of hundreds of millions requires rethinking, not copying."
+  },
+  "vocabulary": [
+    {
+      "term": "Zoon politikon (political animal)",
+      "definition": "Aristotle's description of humans as beings who, by nature, fulfil themselves only within a political community, thanks to their capacity for speech and reason.",
+      "example": "Aristotle would say that a person raised entirely alone could never develop as a zoon politikon should."
+    },
+    {
+      "term": "Polis",
+      "definition": "The Greek self-governing city-state; for Aristotle, the self-sufficient community that exists for the sake of the good life.",
+      "example": "Athens, Sparta and Corinth were each a separate polis with its own laws and constitution."
+    },
+    {
+      "term": "Polity",
+      "definition": "In Aristotle, the good form of rule by the many, typically a mixed constitution blending democratic and oligarchic elements, stabilised by a large middle class.",
+      "example": "Aristotle recommended a polity as the best constitution realistically available to most cities."
+    },
+    {
+      "term": "Natural slavery",
+      "definition": "Aristotle's indefensible claim that some people lack full deliberative capacity and so benefit from being ruled by masters; he admitted many actual slaves were unjustly enslaved.",
+      "example": "In 1550, Sepúlveda used Aristotle's theory of natural slavery to defend the conquest of the Americas."
+    },
+    {
+      "term": "Mimesis",
+      "definition": "Imitation or representation; Plato saw it as a copy far from truth, while Aristotle saw it as a natural human way of learning.",
+      "example": "A painting of a battle, a play about grief and a child pretending to be a doctor are all forms of mimesis."
+    },
+    {
+      "term": "Catharsis",
+      "definition": "The effect of tragedy on pity and fear; interpreted as purgation, purification or clarification of these emotions.",
+      "example": "Leaving the theatre drained but strangely calm after a tragic play is often described as catharsis."
+    },
+    {
+      "term": "Hamartia",
+      "definition": "Literally 'missing the mark'; the error or mistake that brings about a tragic hero's downfall, often loosely translated as 'tragic flaw'.",
+      "example": "Oedipus's hamartia lies in acting without knowing who his real parents are."
+    },
+    {
+      "term": "Peripeteia and anagnorisis",
+      "definition": "Reversal (a sudden swing of the action to its opposite) and recognition (a shift from ignorance to knowledge), the most powerful elements of a tragic plot.",
+      "example": "The moment a detective realises she is investigating her own crime combines peripeteia and anagnorisis."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Diagnose a Modern Tragedy",
+    "prompt": "Test the Poetics on a story you know well, then turn to one uncomfortable question from the Politics.",
+    "steps": [
+      "Choose a film, novel or series with a tragic or deeply sad ending. Summarise its plot in five sentences: beginning, middle and end.",
+      "Identify the moment of reversal (peripeteia) and the moment of recognition (anagnorisis). Do they coincide, as in Oedipus?",
+      "What is the protagonist's hamartia? Is it a moral flaw (like pride) or a mistake of knowledge? Which makes the story more powerful for you?",
+      "Describe how you felt at the end. Which interpretation of catharsis (purgation, purification or clarification) best matches your experience?",
+      "Now switch works: Aristotle thought humans are political animals who can only flourish in a community. Write a short paragraph on one community that has made you more fully yourself, and one you think a person might rightly leave."
+    ]
+  },
+  "summary": [
+    "Humans are 'political animals': because we have speech and reason, we fulfil our nature only in a polis, which exists for the sake of the good life.",
+    "Aristotle classifies constitutions by how many rule and in whose interest, and recommends a mixed polity with a strong middle class as best for most cities.",
+    "His 'wisdom of the many' argument, the pooled feast, is an early case for collective decision-making.",
+    "His defence of natural slavery and of male rule fails even by his own standards and was later used to justify colonial enslavement.",
+    "The Poetics answers Plato: imitation is a natural way of learning, poetry is more philosophical than history, and tragedy educates the emotions.",
+    "Tragedy works through plot, reversal and recognition, a hero who falls through hamartia, and catharsis of pity and fear, whose meaning is still debated."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why, according to Aristotle, are humans political in a fuller sense than bees?",
+      "options": [
+        "Because humans live in larger groups",
+        "Because humans have speech, which can express what is just and unjust",
+        "Because humans have a queen",
+        "Because humans alone feel pleasure and pain"
+      ],
+      "answer": 1,
+      "explanation": "Animal voices can signal pleasure and pain, but human logos can express what is advantageous and harmful, and so just and unjust, the basis of political community."
+    },
+    {
+      "type": "mc",
+      "question": "In Aristotle's classification, what is the corrupt form of rule by a few?",
+      "options": [
+        "Tyranny",
+        "Democracy",
+        "Polity",
+        "Oligarchy"
+      ],
+      "answer": 3,
+      "explanation": "Rule by the few for the common good is aristocracy; rule by the few for their own (usually wealthy) interest is oligarchy. Tyranny is the corrupt rule of one."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern practice best reflects Aristotle's 'feast' argument for the wisdom of the many?",
+      "options": [
+        "A citizens' assembly where randomly chosen ordinary people deliberate on a policy together",
+        "A king who consults no one",
+        "A panel of a single world-leading expert deciding alone",
+        "A company run by its wealthiest shareholder"
+      ],
+      "answer": 0,
+      "explanation": "The feast argument holds that many people pooling their partial wisdom may judge better than a few experts. A citizens' assembly is a direct modern application."
+    },
+    {
+      "type": "mc",
+      "question": "What does Aristotle say about the view that slavery is merely conventional and unjust?",
+      "options": [
+        "He never mentions such a view",
+        "He fully accepts it and calls for abolition",
+        "He reports it and argues against it, while conceding that many actual slaves are unjustly enslaved",
+        "He says it was invented by Plato"
+      ],
+      "answer": 2,
+      "explanation": "Politics Book I shows that some contemporaries condemned slavery as contrary to nature. Aristotle tries to answer them with his theory of natural slavery, but admits enslavement by war is often unjust."
+    },
+    {
+      "type": "mc",
+      "question": "Why does Aristotle say poetry is more philosophical than history?",
+      "options": [
+        "Because poetry uses rhyme and meter",
+        "Because poetry deals with universals, what a kind of person would probably do, while history deals with particulars",
+        "Because poets were better educated than historians",
+        "Because history is always false"
+      ],
+      "answer": 1,
+      "explanation": "In Poetics chapter 9, history tells what happened, while poetry tells what would happen according to probability or necessity, revealing general truths about human life."
+    },
+    {
+      "type": "mc",
+      "question": "Which element of tragedy does Aristotle call its 'soul'?",
+      "options": [
+        "Spectacle",
+        "Song",
+        "Character",
+        "Plot"
+      ],
+      "answer": 3,
+      "explanation": "Aristotle ranks plot (mythos), the arrangement of events, first among the six elements, ahead of character, thought, diction, song and spectacle."
+    },
+    {
+      "type": "mc",
+      "question": "Many scholars argue that 'tragic flaw' is a misleading translation of hamartia. Why?",
+      "options": [
+        "Because hamartia literally means 'missing the mark' and may refer to an error of knowledge rather than a vice",
+        "Because hamartia means 'divine punishment'",
+        "Because Aristotle said tragic heroes are perfectly good",
+        "Because hamartia refers to the audience, not the hero"
+      ],
+      "answer": 0,
+      "explanation": "Hamartia comes from an archery term for missing the target. Oedipus's downfall stems from ignorance of his parentage rather than from wickedness."
+    },
+    {
+      "type": "tf",
+      "question": "When Aristotle says the polis is 'prior by nature' to the individual, he means cities existed historically before any humans.",
+      "answer": false,
+      "explanation": "He means the whole is prior in explanation: humans can only be understood, and can only flourish, as parts of a political community."
+    },
+    {
+      "type": "tf",
+      "question": "Aristotle's Poetics originally included a discussion of comedy that has been lost.",
+      "answer": true,
+      "explanation": "The surviving Poetics focuses on tragedy and epic; a second book, generally thought to have covered comedy, is lost, a fact Umberto Eco used in The Name of the Rose."
+    },
+    {
+      "type": "tf",
+      "question": "Aristotle thought a story in which a thoroughly wicked person rises from misery to happiness is the most tragic plot.",
+      "answer": false,
+      "explanation": "He calls this the least tragic plot of all, since it arouses neither pity nor fear and offends our sense of justice."
+    }
+  ],
+  "goDeeper": {
+    "body": "Aristotle's politics has had two very different afterlives. One runs through medieval Europe and the Islamic world, where the *Politics* and *Ethics* shaped thinking about law and the common good; Aquinas (Days 35–36) built natural law on Aristotelian foundations. The other is a twentieth-century revival. Hannah Arendt (Day 80), in *The Human Condition* (1958), drew on Aristotle to argue that politics, speaking and acting together among equals in public, is a distinctive human activity that modern societies have neglected in favour of economics. Communitarian philosophers such as Alasdair MacIntyre (Day 85) and Michael Sandel invoked Aristotle against liberal theories, like Rawls's (Day 82), that try to stay neutral about the good life. They argue that you cannot define justice without asking what a community is for.\n\nOn natural slavery, the scholarly debate is about how deep the rot goes. Some argue that it is an isolated piece of ideology that the rest of the system can drop. Others, such as Malcolm Schofield, take the argument seriously as philosophy precisely to show where it breaks. The question generalises: when a great thinker's principles are entangled with the prejudices of their time, how do we tell which is which?\n\nOn the *Poetics*, the catharsis debate has generated a whole library. One influential alternative, associated with Leon Golden, reads catharsis as intellectual clarification, a kind of learning. Others connect it to Aristotle's remarks on music in *Politics* Book VIII, the only other place he uses the term in this way and which promises a fuller explanation in the Poetics, one that does not survive.",
+    "readings": [
+      {
+        "title": "Politics, Books I and III",
+        "author": "Aristotle",
+        "note": "Book I has the political animal and natural slavery; Book III has the classification of constitutions and the 'feast' argument. C. D. C. Reeve's Hackett translation is clear."
+      },
+      {
+        "title": "Poetics",
+        "author": "Aristotle",
+        "note": "Short enough to read in one sitting. Malcolm Heath's Penguin translation has an excellent introduction."
+      },
+      {
+        "title": "The Human Condition",
+        "author": "Hannah Arendt",
+        "note": "For the ambitious: chapter 2 on the public realm draws heavily on Aristotle's idea of political life."
+      }
+    ],
+    "questions": [
+      "Is Aristotle right that someone who needs no community must be 'a beast or a god'? What about hermits and monks?",
+      "Can we still learn from a philosopher who defended slavery? What principles should guide how we read him?",
+      "Do sad stories make us better people, or just make us feel better? What would count as evidence either way?"
+    ]
+  }
+}

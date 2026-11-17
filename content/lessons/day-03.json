@@ -1,0 +1,225 @@
+{
+  "id": "day-03",
+  "day": 3,
+  "title": "Pythagoras: Number, Harmony and the Soul",
+  "subtitle": "A mathematician, a mystic and a community that believed the universe was made of music",
+  "philosophers": ["Pythagoras", "Philolaus"],
+  "era": "c. 570–c. 495 BCE (the Pythagorean tradition continued for centuries)",
+  "estimatedMinutes": 45,
+  "objectives": [
+    "Separate what is reasonably known about Pythagoras from later legend",
+    "Describe the Pythagorean community and its way of life",
+    "Explain the discovery of musical ratios and why it suggested that reality is fundamentally numerical",
+    "Explain the doctrine of the transmigration of souls and how it connected to the Pythagorean way of life",
+    "Assess the lasting idea that mathematics is the language of nature, along with its limits"
+  ],
+  "hook": "Pluck a guitar string and listen. Now press the string down exactly at its midpoint and pluck again. The new note is higher, yet it sounds like the “same” note, only brighter. Musicians call it an octave. Press at two-thirds of the length and you get another sweet, stable sound, the interval called a fifth. Press at random, and you get something that clashes with the open string.\n\nWhy should beauty in sound follow simple whole-number ratios like 2:1 and 3:2? There is no obvious reason it must. Yet it does. Around 2,500 years ago, a community in southern Italy concluded from discoveries like this that number was not just a tool for counting sheep and coins. Number, they believed, was the hidden structure of the universe, and perhaps the key to the purification of the human soul. Their leader became one of the most famous and most mysterious figures in the history of thought.",
+  "sections": [
+    {
+      "heading": "The Man Behind the Legend",
+      "body": "Everyone has heard of **Pythagoras**, thanks to the theorem about right-angled triangles that bears his name. Almost everything else about him is uncertain, and it is worth understanding why before we go further.\n\nThe outline is reasonably secure. Pythagoras was born on the island of Samos, not far from Miletus, around 570 BCE. Around 530 BCE he left, according to tradition to escape the tyrant Polycrates, and settled in Croton, a Greek colony in southern Italy. There he founded a community that gained considerable political influence across the Greek cities of the region. He seems to have died around 495 BCE, probably at nearby Metapontum. Later, around the middle of the 5th century, violent uprisings against the Pythagoreans scattered the community, though Pythagorean groups survived.\n\nThe problem is the evidence. Pythagoras wrote nothing. His followers were known for secrecy and for crediting discoveries to the master. The earliest references to him, from his near-contemporaries Xenophanes and Heraclitus, are brief and often mocking. Most detailed accounts come from biographies written 700 to 800 years later by Neoplatonist philosophers such as Porphyry and Iamblichus, who revered him as a semi-divine sage. Those biographies say he had a golden thigh, was seen in two cities at the same moment, and was greeted by a river that spoke his name. Nobody needs to believe these tales.\n\nEven Aristotle, writing about 150 years after Pythagoras, was careful. He usually spoke of “the so-called Pythagoreans” rather than Pythagoras himself, because he could not tell which ideas went back to the founder. So when we speak of Pythagorean ideas, we usually mean ideas held by the school, especially by later members such as **Philolaus** of Croton (c. 470–c. 385 BCE), who was apparently the first Pythagorean to publish a book. Keep that caution in mind throughout this lesson."
+    },
+    {
+      "heading": "A Community With Rules",
+      "body": "The Milesians you met on Day 2 were individual thinkers. Pythagoras founded something more like a religious brotherhood combined with a school. Members shared a disciplined **way of life**: a code of conduct covering diet, dress, speech and daily routine. This is the first clear example in Greek history of philosophy as a whole way of living, an idea that will return powerfully with the Stoics and Epicureans in Unit 4.\n\nLater sources preserve lists of Pythagorean rules, called *akousmata* (“things heard”) or *symbola*. Some sound like ordinary folk taboos:\n\n- Abstain from beans.\n- Do not pick up what has fallen from the table.\n- Do not stir the fire with an iron.\n- Do not step over a crossbar.\n\nNobody, including the ancients, agreed on what these meant. Some later writers treated them as coded moral lessons; others took them literally. The ban on beans was especially notorious, and a later legend even claims Pythagoras died because he refused to escape his enemies across a bean field. Treat that as legend.\n\nAncient reports also describe a split among the followers. The *akousmatikoi* (“listeners”) followed the rules and sayings, while the *mathematikoi* (“learners”) pursued mathematical studies and the reasons behind the teachings. Whether this division is historical or a later reconstruction is debated, but it captures a real tension: was Pythagoreanism a religion of rules or a science of numbers? The honest answer seems to be that it was both at once, and that for its members there was no conflict. Studying the order of the universe was itself a way of purifying the soul.\n\nThe community also seems to have included women, which was unusual. Later tradition names several, most famously Theano, sometimes described as Pythagoras’ wife or student, though the writings attributed to her are much later. The stories at least suggest that the school had a reputation for admitting women to philosophical life."
+    },
+    {
+      "heading": "The Music Behind Everything",
+      "body": "The single most important Pythagorean discovery was probably the link between music and number. The basic intervals of Greek music correspond to simple ratios of string lengths:\n\n- The **octave** corresponds to 2:1 (half the string sounds an octave higher).\n- The **fifth** corresponds to 3:2.\n- The **fourth** corresponds to 4:3.\n\nLater writers tell a charming story that Pythagoras discovered this while passing a blacksmith’s shop and hearing hammers of different weights ring out in harmony. The story is physically false: hammers of proportional weights do not produce these intervals. The real discovery was more likely made with strings, perhaps on a one-stringed instrument called the monochord, which later Pythagoreans used. But the ratios themselves are real, and whoever first noticed them had found something remarkable.\n\nNotice which numbers appear: 1, 2, 3 and 4. The Pythagoreans treasured these, and noticed that they add up to 10, which they considered a perfect number. They arranged them as a triangle of dots (one dot, then two, then three, then four), a figure they called the **tetractys**, and members reportedly swore oaths by it.\n\nWhy was this so exciting? Because it showed that something we experience as pure feeling (the sweetness of a chord, the clash of a wrong note) has a hidden mathematical structure. **Harmony**, in Greek *harmonia*, originally meant a fitting together, like the joints in carpentry. The Pythagoreans came to see harmony as the fitting together of different elements in the right proportions. If music is number, perhaps everything else that is orderly and beautiful is number too.\n\nThey extended the idea to the heavens. Later Pythagoreans taught that the planets, moving at different speeds, produce musical notes, a **music of the spheres**. Aristotle reports their explanation of why we cannot hear it: we have heard it continuously since birth, so we cannot distinguish it from silence. Aristotle was unconvinced, but the idea inspired thinkers for two thousand years, including the astronomer Johannes Kepler, who in 1619 published a book titled *Harmonices Mundi*, “The Harmony of the World.”"
+    },
+    {
+      "heading": "All Is Number",
+      "body": "The Milesians asked what everything is made of and answered with a stuff: water, the boundless, air. The Pythagoreans gave a different kind of answer. According to Aristotle’s *Metaphysics*, they supposed that the principles of mathematics were the principles of all things, and that the whole heaven was a musical scale and a number. The slogan often attached to them is “**all is number**.”\n\nWhat could that mean? Scholars offer interpretations of varying strength:\n\n1. **A weak reading:** everything can be described or measured by numbers. This is true and important, but it would not have been very original.\n2. **A middle reading:** what makes a thing the kind of thing it is, is its **structure**, a ratio or proportion. A chord is a 3:2 relationship; a healthy body might be the right proportion of hot and cold, wet and dry. The stuff matters less than the pattern.\n3. **A strong reading:** things are literally made of numbers. The early Pythagoreans thought of numbers spatially, as arrangements of dots or units (which is why we still speak of “square” numbers: 4, 9 and 16 can be laid out as squares of dots). If points build lines, lines build surfaces, and surfaces build solids, then numbers might quite literally build bodies.\n\nAristotle seems to attribute something like the strong reading to them, and criticized it: how can abstract units have weight or be hot? Philolaus, in his surviving fragments, offers a subtler picture. He says the world is made from **limiters** and **unlimiteds** fitted together by harmony, and he claims that everything that is known has number, since without it nothing could be grasped or known. That last idea is especially important: number is what makes the world intelligible to a mind.\n\nThe Pythagoreans also drew up a list of ten pairs of opposites that Aristotle reports, including limit and unlimited, odd and even, one and many, right and left, male and female, rest and motion, straight and curved, light and darkness, good and bad, square and oblong. Notice that this table quietly lines up “male,” “light” and “good” on the same side, a reminder that ancient cosmic schemes often smuggled in social prejudices. You will see feminist philosophers analyze exactly this kind of pattern on Day 78."
+    },
+    {
+      "heading": "The Wandering Soul",
+      "body": "For the Pythagoreans, mathematics was not only about the cosmos. It was also about salvation. The best-attested belief associated with Pythagoras himself is the doctrine of **transmigration** of souls, also called **metempsychosis**: the soul is immortal, and after death it passes into another body, human or animal.\n\nOur earliest evidence is a mocking poem by Xenophanes, a contemporary. He tells how Pythagoras, passing a puppy being beaten, took pity and said: “Stop, do not beat it; for it is the soul of a friend, which I recognized when I heard it crying.” Xenophanes was joking, but the joke only works if people knew that Pythagoras taught reincarnation. The historian Herodotus also mentions Greeks who adopted the doctrine, and later sources claim Pythagoras could remember his own previous lives.\n\nThis belief had practical consequences. If the soul is the true self and the body is a temporary home, then the most important task in life is to care for the soul and **purify** it. The rules about food and conduct, and perhaps the vegetarianism that some sources attribute to the school (others deny it), make sense in this light: if animals may house human souls, how we treat them matters.\n\nAnd here mathematics re-enters. If the universe is ordered by number and harmony, then studying that order brings the soul into tune with it. Contemplating eternal mathematical truths, which never change or decay, was thought to make the soul more like what it contemplates. Some later Pythagoreans even used music as therapy, to calm or rebalance a disordered soul.\n\nThis combination of ideas (an immortal soul imprisoned in a body, purification through intellectual discipline, and mathematics as a path to eternal truth) had an enormous afterlife. Plato absorbed much of it. In the *Phaedo*, which you will read on Day 15, Socrates argues for the immortality of the soul in conversation with two young men who had studied with Philolaus. And Plato’s **Theory of Forms** (Day 11), with its unchanging realm known by reason, owes a deep debt to the Pythagorean vision."
+    },
+    {
+      "heading": "Myths, Crises and Critics",
+      "body": "Before we celebrate, three corrections and complications.\n\n**The theorem.** The relation we call the Pythagorean theorem (in a right triangle, the square on the longest side equals the sum of the squares on the other two) was known in Babylon more than a thousand years before Pythagoras; a famous clay tablet known as Plimpton 322, dated to around 1800 BCE, lists sets of numbers that fit it. Indian geometers also knew the relation. It is uncertain whether Pythagoras or his followers first *proved* it in general. The earliest surviving proof is in Euclid’s *Elements*, written around 300 BCE. The Greek contribution was not the fact but the ideal of **proof**: showing that something must be true for all cases.\n\n**The crisis of irrational numbers.** If everything is ratios of whole numbers, there is a problem. The diagonal of a square with sides of length 1 has length equal to the square root of 2, and that cannot be written as a ratio of whole numbers. Someone in the Pythagorean tradition apparently proved this. A later legend says the discoverer, often named as Hippasus of Metapontum, was drowned at sea for revealing the secret. This is almost certainly a legend, but the discovery was real and philosophically unsettling: the world contains magnitudes that ordinary counting numbers cannot capture.\n\n**The critics.** Heraclitus, whom you will meet tomorrow, was scathing. He wrote that much learning does not teach understanding, otherwise it would have taught Hesiod and Pythagoras. To Heraclitus, Pythagoras was a collector of facts and a self-promoter, not a wise man. Many ancient critics found the secret rules and claims of past lives faintly ridiculous.\n\nStill, the Pythagorean conviction that **mathematics is the language of nature** became one of the most successful ideas in history. Galileo, in *The Assayer* (1623), wrote that the book of nature is written in the language of mathematics, and its characters are triangles, circles and other geometric figures. From Newton’s laws to Einstein’s equations to the code inside your phone, the Pythagorean bet has paid off again and again. What the Pythagoreans got right was not the details but the direction."
+    }
+  ],
+  "keyQuote": {
+    "text": "Stop, do not beat it; for it is the soul of a friend, which I recognized when I heard it crying.",
+    "source": "Xenophanes, Fragment B7 (DK 21B7), describing Pythagoras"
+  },
+  "modernConnection": {
+    "title": "The Unreasonable Effectiveness of Mathematics",
+    "body": "In 1960 the physicist Eugene Wigner published an essay with a memorable title: “The Unreasonable Effectiveness of Mathematics in the Natural Sciences.” His puzzle was thoroughly Pythagorean. Mathematicians often invent structures purely for their beauty or internal interest, with no thought of application. Then, decades or centuries later, physicists discover that exactly those structures describe the world. Complex numbers, once considered “imaginary” curiosities, turned out to be essential to quantum mechanics. Non-Euclidean geometry, developed in the 19th century, turned out to be the geometry of spacetime in Einstein’s general relativity. Why should the free inventions of the human mind fit the universe so precisely? Wigner called it a wonderful gift that we neither understand nor deserve.\n\nSome contemporary thinkers push the Pythagorean idea even further. The physicist Max Tegmark has defended what he calls the Mathematical Universe Hypothesis: the claim that physical reality does not merely obey mathematics but *is* a mathematical structure. That is essentially the strong reading of “all is number,” updated for the age of quantum fields.\n\nYou also live in a Pythagorean world in a more everyday sense. The music you stream is stored as long lists of numbers sampling a sound wave thousands of times per second. Your photos are grids of numerical color values. Fitness trackers turn your body into step counts and heart-rate data; recommendation algorithms turn your tastes into vectors of numbers.\n\nHere the comparison should make us thoughtful rather than triumphant. The Pythagoreans thought number revealed the deepest truth of things and purified the soul. Today, quantifying everything can reveal hidden patterns, but it can also flatten what matters into what is easy to measure. Is your sleep score the same as being well rested? Is a song’s data file the same as the experience of hearing it? A further limit: modern science does not treat numbers as sacred or magical, and the Pythagorean slide into number mysticism (lucky numbers, cosmic oaths) is exactly what science learned to leave behind. The lasting question is whether mathematics describes the structure of reality, or whether reality simply is structure."
+  },
+  "vocabulary": [
+    {
+      "term": "Harmony (harmonia)",
+      "definition": "Originally a fitting together of parts; for the Pythagoreans, the right proportion among different elements, as in a musical chord, a healthy body or the cosmos.",
+      "example": "To a Pythagorean, a well-ordered soul has harmony just as a well-tuned lyre does."
+    },
+    {
+      "term": "Octave",
+      "definition": "The musical interval produced when one string is half the length of another, corresponding to the ratio 2:1.",
+      "example": "Halving a vibrating string produces the octave, the most consonant interval after the unison."
+    },
+    {
+      "term": "Tetractys",
+      "definition": "A triangular arrangement of ten dots in rows of one, two, three and four, sacred to the Pythagoreans because it contains the ratios of the basic musical intervals.",
+      "example": "The numbers in the tetractys (1, 2, 3, 4) generate the ratios of the octave, fifth and fourth."
+    },
+    {
+      "term": "Transmigration (metempsychosis)",
+      "definition": "The belief that the soul is immortal and passes after death into a new body, human or animal.",
+      "example": "Xenophanes mocked Pythagoras’ belief in transmigration by describing him recognizing a friend’s soul in a puppy."
+    },
+    {
+      "term": "Way of life",
+      "definition": "A disciplined set of practices governing diet, conduct and study, adopted as part of a philosophy rather than merely believing its doctrines.",
+      "example": "Joining the Pythagoreans meant adopting a whole way of life, including rules about food and speech."
+    },
+    {
+      "term": "Music of the spheres",
+      "definition": "The Pythagorean idea that the heavenly bodies produce harmonious sounds as they move, according to mathematical ratios.",
+      "example": "Kepler’s Harmony of the World tried to find mathematical ratios in planetary motions, echoing the music of the spheres."
+    },
+    {
+      "term": "Irrational number",
+      "definition": "A number that cannot be expressed as a ratio of two whole numbers, such as the square root of 2.",
+      "example": "The discovery that a square’s diagonal is an irrational number challenged the idea that everything is a ratio of whole numbers."
+    },
+    {
+      "term": "Proof",
+      "definition": "A demonstration by reasoning that a mathematical statement must be true in every case, not just in the cases checked.",
+      "example": "The Babylonians knew many triangles fitting the theorem, but a proof shows it holds for every right triangle."
+    }
+  ],
+  "thinkingExercise": {
+    "title": "Is Mathematics Invented or Discovered?",
+    "prompt": "The Pythagoreans believed numbers and their relations exist independently of us and structure reality. Many people today think mathematics is a human invention, like chess. Spend 10 to 15 minutes working out where you stand.",
+    "steps": [
+      "Consider the statement “2 + 3 = 5.” Was this true before any human existed? Write your answer and your reason.",
+      "List two things in your own life that you experience as beautiful or harmonious (a song, a building, a face, a garden). For each, ask: could a numerical pattern explain part of why it pleases you? What part would be left over?",
+      "Write the strongest argument for “mathematics is discovered” (hint: think of Wigner and the way mathematics predicts things nobody expected).",
+      "Write the strongest argument for “mathematics is invented” (hint: think of how different number systems and rules can be created at will).",
+      "Decide which view you find more convincing today and note it. You will revisit this when you meet Plato’s Forms on Day 11."
+    ]
+  },
+  "summary": [
+    "Pythagoras (c. 570–c. 495 BCE) moved from Samos to Croton and founded a community; almost everything about him is filtered through later legend, so scholars speak cautiously of “Pythagorean” ideas.",
+    "The Pythagoreans lived by a shared code of rules, making philosophy a whole way of life that combined religion and mathematics.",
+    "The discovery that musical consonances correspond to simple ratios (2:1, 3:2, 4:3) suggested that hidden numerical structure underlies the world.",
+    "“All is number” can be read weakly (everything is measurable), moderately (structure and proportion make things what they are) or strongly (things are made of numbers).",
+    "They believed the soul is immortal and transmigrates between bodies, so life should be devoted to purifying it, partly through contemplating mathematical order.",
+    "The theorem was known long before Pythagoras, but the Pythagorean conviction that mathematics is the language of nature shaped Plato, Kepler, Galileo and modern physics."
+  ],
+  "quiz": [
+    {
+      "type": "mc",
+      "question": "Why did Aristotle usually refer to “the so-called Pythagoreans” rather than to Pythagoras himself?",
+      "options": [
+        "Because he believed Pythagoras never existed",
+        "Because Pythagoras wrote nothing and it was hard to know which ideas came from him personally",
+        "Because Pythagoras had asked his followers not to use his name",
+        "Because Aristotle disliked Pythagoras and refused to name him"
+      ],
+      "answer": 1,
+      "explanation": "Pythagoras left no writings and his followers credited discoveries to the master, so careful writers like Aristotle attributed doctrines to the school rather than to the founder."
+    },
+    {
+      "type": "mc",
+      "question": "Which ratio corresponds to the musical interval of the fifth?",
+      "options": ["2:1", "4:3", "5:4", "3:2"],
+      "answer": 3,
+      "explanation": "The fifth corresponds to 3:2. The octave is 2:1 and the fourth is 4:3."
+    },
+    {
+      "type": "tf",
+      "question": "The story of Pythagoras discovering musical ratios by listening to blacksmiths’ hammers is physically accurate.",
+      "answer": false,
+      "explanation": "Hammers with proportional weights do not produce these intervals. The ratios hold for string lengths, which is probably how they were actually discovered."
+    },
+    {
+      "type": "mc",
+      "question": "How did the Pythagorean answer to “What is reality?” differ from the Milesian answers?",
+      "options": [
+        "The Pythagoreans pointed to structure and number rather than to a basic stuff like water or air",
+        "The Pythagoreans said reality is fire",
+        "The Pythagoreans refused to answer the question at all",
+        "The Pythagoreans said reality is whatever the gods decree"
+      ],
+      "answer": 0,
+      "explanation": "The Milesians named a material substance. The Pythagoreans claimed that number, ratio and harmony are the principles of things."
+    },
+    {
+      "type": "mc",
+      "question": "Xenophanes’ story of Pythagoras and the beaten puppy is evidence that Pythagoras taught which doctrine?",
+      "options": [
+        "That animals have no souls",
+        "That all is number",
+        "That the soul passes from body to body after death",
+        "That the Earth floats on water"
+      ],
+      "answer": 2,
+      "explanation": "Pythagoras supposedly recognized a dead friend’s soul in the puppy’s cry. The joke presupposes the doctrine of transmigration."
+    },
+    {
+      "type": "mc",
+      "question": "Why did the discovery of irrational numbers such as the square root of 2 pose a problem for Pythagoreans?",
+      "options": [
+        "It showed that triangles do not exist",
+        "It proved that music has no mathematical basis",
+        "It showed that the Babylonians were better mathematicians",
+        "It showed that some magnitudes cannot be expressed as ratios of whole numbers"
+      ],
+      "answer": 3,
+      "explanation": "If all things are ratios of whole numbers, a magnitude like a square’s diagonal that fits no such ratio is a serious challenge to that worldview."
+    },
+    {
+      "type": "tf",
+      "question": "The mathematical relationship known as the Pythagorean theorem was known in Babylon long before Pythagoras was born.",
+      "answer": true,
+      "explanation": "Babylonian tablets such as Plimpton 322 (c. 1800 BCE) show knowledge of the relationship. The Greek innovation was the ideal of general proof."
+    },
+    {
+      "type": "mc",
+      "question": "For the Pythagoreans, how was studying mathematics connected to the soul?",
+      "options": [
+        "Mathematics was a distraction from caring for the soul",
+        "Contemplating eternal mathematical order was thought to purify the soul and bring it into harmony",
+        "Mathematics proved that the soul dies with the body",
+        "Only slaves were allowed to study mathematics"
+      ],
+      "answer": 1,
+      "explanation": "Pythagoreanism fused science and religion: studying unchanging order made the soul more orderly and helped purify it across its many lives."
+    },
+    {
+      "type": "mc",
+      "question": "Which modern idea is the closest descendant of the strong reading of “all is number”?",
+      "options": [
+        "The Mathematical Universe Hypothesis, that physical reality is a mathematical structure",
+        "The use of calculators in schools",
+        "The belief that some numbers are lucky",
+        "Counting votes in an election"
+      ],
+      "answer": 0,
+      "explanation": "Max Tegmark’s hypothesis claims reality does not just obey mathematics but is mathematical, which updates the strong Pythagorean claim."
+    },
+    {
+      "type": "tf",
+      "question": "Heraclitus admired Pythagoras as the wisest of all Greeks.",
+      "answer": false,
+      "explanation": "Heraclitus criticized him, saying that much learning does not teach understanding, otherwise it would have taught Hesiod and Pythagoras."
+    }
+  ],
+  "goDeeper": {
+    "body": "Scholars have long argued about how “scientific” early Pythagoreanism really was. The German scholar Walter Burkert, in a landmark study first published in 1962, argued that Pythagoras himself was primarily a religious teacher, something like a shaman figure concerned with the fate of the soul, and that most of the mathematical achievements credited to him belong to later Pythagoreans, especially Philolaus and Archytas in the late 5th and early 4th centuries BCE. On this view, the image of Pythagoras the mathematician was largely built later by Plato’s Academy and by Neoplatonists who projected their own ideals back onto him.\n\nOther scholars, such as Leonid Zhmud, have argued that Burkert went too far, and that there is good reason to think mathematical and musical research did begin in Pythagoras’ own circle. The debate turns on how to weigh scarce early sources against abundant but late and idealizing ones, a methodological problem you will meet again with Socrates on Day 9.\n\nA second debate is philosophical: what is the relationship between mathematical structure and physical reality? Pythagoreanism raises the question of whether the structure we describe mathematically is all there is to physical things, or whether there must also be some “stuff” that has the structure. Contemporary philosophers of science discuss a view called structural realism, which holds that what our best theories reliably capture is the structure of the world rather than the intrinsic nature of the things that fill it. Some versions, called ontic structural realism, go further and say structure is all there is, a strikingly Pythagorean conclusion reached by people thinking about quantum physics.",
+    "readings": [
+      { "title": "Pythagoras and the Pythagoreans: A Brief History", "author": "Charles H. Kahn", "note": "A short, reliable scholarly introduction that carefully separates evidence from legend." },
+      { "title": "Lore and Science in Ancient Pythagoreanism", "author": "Walter Burkert", "note": "The classic, demanding study arguing that Pythagoras was more religious sage than mathematician." },
+      { "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences", "author": "Eugene Wigner", "note": "A famous 1960 essay, short and readable, posing the modern version of the Pythagorean puzzle." },
+      { "title": "Phaedo", "author": "Plato", "note": "See how Pythagorean themes of the soul’s purification shape Plato’s account of Socrates’ last day (preview of Day 15)." }
+    ],
+    "questions": [
+      "If a phenomenon can be completely described by mathematics, is there anything left to explain about it?",
+      "Should a philosophy also be a way of life with rules and practices, or should it be purely a set of ideas? What is gained or lost either way?",
+      "Why do you think simple numerical ratios sound pleasing to us? Is the answer about the world, about our brains, or both?"
+    ]
+  }
+}
