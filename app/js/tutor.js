@@ -202,7 +202,7 @@ function build() {
     if (b.dataset.q) { input.value = b.dataset.q; send(); return; }
     if (b.dataset.a === 'close') close();
     if (b.dataset.a === 'clear' && confirm('Clear this conversation?')) { abort?.abort(); deps.store.saveChat(chatKey(), []); draw(); }
-    if (b.dataset.a === 'settings') { close(); location.hash = '#/settings'; }
+    if (b.dataset.a === 'settings') { close(); location.hash = '#/settings/tutor'; }
   });
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && !sheet.hidden) close(); });
 }

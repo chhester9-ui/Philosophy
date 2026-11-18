@@ -83,9 +83,7 @@ try {
   check((await page.textContent('.player [data-a="end"]')).includes('Vocabulary'), 'player offers to continue to the next step');
   await page.click('.player [data-a="end"]');
   await page.waitForFunction(() => location.hash.endsWith('words'));
-  await page.waitForSelector('.vocab.reading');
-  check(true, 'continuing auto-plays the next step');
-  await page.click('.player [data-a="close"]');
+  check(true, 'continuing moves to the next step');
 
   for (const step of ['modern', 'words', 'reflect']) {
     await page.click(`.steps button[data-step="${step}"]`);
@@ -110,6 +108,7 @@ try {
   }
   await page.waitForSelector('.result');
   check(/Well reasoned/.test(await page.textContent('.result h3')), 'quiz passes and completes lesson');
+  check(await page.locator('.celebrate .wisdom-gain').count() === 1, 'first pass shows a wisdom celebration');
   await snap('05-quiz-result');
 
   const state = await page.evaluate(() => JSON.parse(localStorage.getItem('phil90:v1')));
@@ -156,6 +155,21 @@ try {
   await page.click('#askBtn');
   check(await page.locator('.msg.user').count() === 1, 'conversation is saved per lesson');
   await page.click('[data-a="close"]');
+
+  // Optional game layer: celebration was shown on first pass; strip, journey and off-switch.
+  await page.goto(base);
+  await page.waitForSelector('.game-strip');
+  check(/Curious Mind|Presocratic/.test(await page.textContent('.game-strip')), 'game strip shows a rank');
+  await page.click('.game-strip');
+  await page.waitForSelector('.rank-card');
+  check(await page.locator('.medal.earned').count() >= 1, 'journey shows earned milestones');
+  await snap('12-journey');
+  await page.goto(base + '#/settings');
+  await page.click('.switch');
+  await page.goto(base); await page.reload();
+  await page.waitForSelector('.hero');
+  check(await page.locator('.game-strip').count() === 0, 'turning the game layer off hides it');
+  await page.goto(base + '#/settings'); await page.click('.switch');
 
   await page.goto(base + '#/course');
   await page.waitForSelector('.lesson-row.done');

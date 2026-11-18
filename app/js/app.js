@@ -2,6 +2,7 @@ import { store, termKey, today } from './store.js';
 import { md, inline, esc } from './md.js';
 import * as tts from './speech.js';
 import * as tutor from './tutor.js';
+import { computeGame, newlyEarned, RANKS } from './game.js';
 
 /* ---------- Data ---------- */
 let INDEX = null;
@@ -39,6 +40,26 @@ const words = s => (s || '').split(/\s+/).filter(Boolean).length;
 const chev = '<svg class="chev" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 const pct = x => `${Math.round(x * 100)}%`;
 const label = meta => meta.track ? `${meta.track.title} · ${meta.order}` : `Day ${meta.day}`;
+const plural = (n, w) => `${n} ${w}${n === 1 ? '' : 's'}`;
+const shortEra = e => (e || '').replace(/\s*\(.*\)\s*$/, '');
+const gameOn = () => store.settings().game !== false;
+const game = () => computeGame(store.get(), INDEX);
+// Record milestones as seen without celebrating (used when the game layer is off or on first load).
+const markSeen = g => { const seen = { ...store.get().game.seen }; let ch = false; for (const m of newlyEarned(g, seen)) { seen[m.id] = today(); ch = true; } if (ch) store.setGame('seen', seen); if (g.longest > (store.get().game.longest || 0)) store.setGame('longest', g.longest); };
+const icon = (name) => ({
+  cards: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="3" y="6" width="14" height="14" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M7 3h11a3 3 0 0 1 3 3v11" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  quiz: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M9.6 9.4a2.5 2.5 0 1 1 3.3 2.4c-.6.3-.9.7-.9 1.3M12 16.3v.1" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  book: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M4 19V5a2 2 0 0 1 2-2h13v15H6a2 2 0 0 0-2 2zm0 0a2 2 0 0 0 2 2h13" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>',
+  chat: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>',
+  note: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 3h9l4 4v14H6z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 11h7M9 15h7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  gear: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 2.8v2.4M12 18.8v2.4M2.8 12h2.4M18.8 12h2.4M5.5 5.5l1.7 1.7M16.8 16.8l1.7 1.7M5.5 18.5l1.7-1.7M16.8 7.2l1.7-1.7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  info: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 11v5M12 8v.1" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
+  laurel: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M11 21.2C7.2 20 4.4 16.6 4.4 11.6c0-2.6.8-4.9 2.2-6.6M13 21.2c3.8-1.2 6.6-4.6 6.6-9.6 0-2.6-.8-4.9-2.2-6.6" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/><g fill="currentColor"><ellipse cx="5.4" cy="15.6" rx="1.25" ry="2.3" transform="rotate(-50 5.4 15.6)"/><ellipse cx="18.6" cy="15.6" rx="1.25" ry="2.3" transform="rotate(50 18.6 15.6)"/><ellipse cx="4.5" cy="12.2" rx="1.25" ry="2.3" transform="rotate(-25 4.5 12.2)"/><ellipse cx="19.5" cy="12.2" rx="1.25" ry="2.3" transform="rotate(25 19.5 12.2)"/><ellipse cx="4.6" cy="8.7" rx="1.25" ry="2.3" transform="rotate(0 4.6 8.7)"/><ellipse cx="19.4" cy="8.7" rx="1.25" ry="2.3" transform="rotate(0 19.4 8.7)"/><ellipse cx="5.8" cy="5.6" rx="1.25" ry="2.3" transform="rotate(25 5.8 5.6)"/><ellipse cx="18.2" cy="5.6" rx="1.25" ry="2.3" transform="rotate(-25 18.2 5.6)"/><ellipse cx="8.2" cy="18.4" rx="1.25" ry="2.3" transform="rotate(-70 8.2 18.4)"/><ellipse cx="15.8" cy="18.4" rx="1.25" ry="2.3" transform="rotate(70 15.8 18.4)"/></g></svg>',
+  flame: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 21c-3.9 0-6.5-2.6-6.5-6.1 0-3.3 2.3-5.2 3.6-7.4.3 1.6 1.2 2.6 2.1 3.1C11.4 7.2 12.7 4.6 15 3c-.2 2.6.9 4.4 2.2 6 1 1.3 1.3 2.6 1.3 4 0 4.6-2.7 8-6.5 8z" fill="currentColor"/></svg>',
+  trash: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  share: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 3v12M8 7l4-4 4 4M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+})[name];
+const tile = (name, cls = '') => `<span class="tile ${cls}">${icon(name)}</span>`;
 
 function toast(msg) {
   const t = $('#toast');
@@ -89,6 +110,8 @@ const routes = [
   [/^ask$/, () => { viewMore(); tutor.open(null); history.replaceState(null, '', '#/more'); }],
   [/^journal$/, viewJournal],
   [/^settings$/, viewSettings],
+  [/^settings\/tutor$/, viewTutorSettings],
+  [/^journey$/, viewJourney],
   [/^about$/, viewAbout],
 ];
 
@@ -103,12 +126,21 @@ function updateTopbar() {
   const t = view().querySelector('.page-title');
   const threshold = t ? t.offsetTop + t.offsetHeight - 50 : 4;
   $('#topbar').classList.toggle('scrolled', window.scrollY > threshold);
+  // Thin reading-progress line under the nav bar while reading a lesson.
+  const prose = view().querySelector('article.prose');
+  const bar = $('#readProgress');
+  if (prose) {
+    const r = prose.getBoundingClientRect();
+    const p = Math.min(1, Math.max(0, (window.innerHeight * 0.5 - r.top) / r.height));
+    bar.hidden = false; bar.style.transform = `scaleX(${p})`;
+  } else bar.hidden = true;
 }
 
 async function route() {
   const path = location.hash.replace(/^#\/?/, '');
   tts.stop();
   tutor.close();
+  document.body.classList.remove('quiz-mode', 'fb-open');
   for (const [re, fn] of routes) {
     const m = path.match(re);
     if (m) {
@@ -123,64 +155,108 @@ async function route() {
 
 /* ---------- Today ---------- */
 function viewToday() {
-  setChrome({ tab: 'today' });
+  setChrome({ title: 'Today', tab: 'today' });
   const n = nextDay();
   const done = doneCount();
   const total = INDEX.allDays.length;
-  const streak = store.streak();
-  const deck = Object.keys(store.get().cards).length;
   const due = store.dueCards().length;
   const hour = new Date().getHours();
-  const greet = hour < 12 ? 'Good morning' : hour < 18 ? 'Good afternoon' : 'Good evening';
+  const greet = hour < 5 ? 'Good evening' : hour < 12 ? 'Good morning' : hour < 18 ? 'Good afternoon' : 'Good evening';
+  const g = game();
+  if (!gameOn()) markSeen(g);
 
   let hero;
   if (!n) {
     const allDone = done === total;
-    hero = `<section class="card hero">
-      <div class="eyebrow">${allDone ? 'Course complete' : 'More lessons coming'}</div>
-      <h2>${allDone ? 'You finished all 90 days.' : 'You are all caught up.'}</h2>
-      <p>${allDone ? 'From Thales to today. Keep going with the Deep Dive tracks.' : 'New lessons will appear here when they are added.'}</p>
-      <a class="btn" href="#/advanced">Explore Deep Dives</a></section>`;
+    hero = `<section class="hero">
+      <div class="eyebrow">${allDone ? 'Course complete' : 'All caught up'}</div>
+      <h2>${allDone ? 'You finished all 90 days.' : 'New lessons are on the way.'}</h2>
+      <p>${allDone ? 'From Thales to today. Keep going with a Deep Dive.' : 'They will appear here when they are added.'}</p>
+      <a class="btn block" href="#/advanced">Explore Deep Dives</a></section>`;
   } else {
     const started = store.stepsVisited(n.id).size > 0;
-    hero = `<section class="card hero">
-      <div class="eyebrow">${store.doneToday() ? 'Up next · keep going?' : "Today's lesson"} · Day ${n.day} of ${total}</div>
+    hero = `<section class="hero">
+      <div class="eyebrow">${store.doneToday() ? 'Up next' : "Today's lesson"} · Day ${n.day}</div>
       <h2>${esc(n.title)}</h2>
-      <p>${esc(n.subtitle || '')}</p>
-      <div class="meta"><span>⏱ ~${n.minutes} min</span><span>${esc(n.unit.title)}</span>${n.era ? `<span>${esc(n.era)}</span>` : ''}</div>
-      <div class="progress" style="margin-bottom:16px" aria-label="Course progress"><i style="width:${(done / total) * 100}%"></i></div>
+      <p class="hero-sub">${esc(n.subtitle || '')}</p>
+      <div class="hero-meta">${n.minutes} min · Unit ${n.unit.id}: ${esc(n.unit.title.split(':')[0])}</div>
       <a class="btn block" href="#/lesson/${n.id}">${started ? 'Continue lesson' : 'Start lesson'}</a></section>`;
   }
 
-  const doneNote = store.doneToday() && n
-    ? `<div class="card flat" style="background:var(--good-soft);border-color:transparent"><b>Today's lesson is done.</b> <span class="muted">Nice work. Rest and let it sink in, or keep going if you're curious.</span></div>` : '';
+  const doneNote = store.doneToday() && n ? `<div class="note good"><b>Today's lesson is done.</b> Rest and let it sink in, or keep going if you're curious.</div>` : '';
+  const intro = gameOn() && !store.get().game.introDone && done >= 1
+    ? `<div class="card intro-card"><div class="row"><span class="tile">${icon('laurel')}</span><div class="grow"><b>Track Wisdom &amp; milestones?</b><div class="muted small">Earn points, ranks and badges as you learn. Purely optional, and nothing is locked behind it.</div></div></div>
+       <div class="btn-row" style="margin-top:14px"><button class="btn" data-intro="off">No thanks</button><button class="btn primary" data-intro="on">Keep it</button></div></div>` : '';
+  const flash = due ? `<div class="list"><a href="#/practice/cards">${tile('cards')}<div class="grow"><b>${plural(due, 'flashcard')} ready</b></div><span class="trail">Review</span>${chev}</a></div>` : '';
 
-  view().innerHTML = `<div class="stack">
-    <div><div class="muted small">${greet}</div><h1 class="page-title" style="margin-top:2px">Philosophy in 90 Days</h1></div>
-    ${doneNote}
-    ${hero}
-    <div class="stats">
-      <div class="stat"><b>${streak}</b><span>day streak</span></div>
-      <div class="stat"><b>${done}<small class="muted" style="font-size:.9rem">/${total}</small></b><span>lessons done</span></div>
-      <div class="stat"><b>${deck}</b><span>words learned</span></div>
-    </div>
-    ${due ? `<a class="card row" style="text-decoration:none;color:inherit" href="#/practice/cards"><div style="font-size:1.6rem">🗂️</div><div class="grow"><b>${due} flashcard${due > 1 ? 's' : ''} ready</b><div class="muted small">A quick review keeps vocabulary from fading.</div></div>${chev}</a>` : ''}
-    ${n ? `<section class="card"><h3>How today works</h3><p class="muted small" style="margin:0 0 4px">Work through each step in order. Pass the quiz (${pct(store.PASS)}+) to complete the day.</p><ul class="plan" id="plan"><li class="muted small">Loading plan…</li></ul></section>` : ''}
-  </div>`;
+  let strip;
+  if (gameOn()) {
+    const span = g.nextRank ? g.nextRank.min - g.rank.min : 1;
+    const into = g.nextRank ? (g.wisdom - g.rank.min) / span : 1;
+    const ring = g.goal !== 'off' ? `<svg class="goal-ring" viewBox="0 0 36 36" aria-hidden="true"><circle cx="18" cy="18" r="15.5" fill="none" stroke="var(--fill)" stroke-width="3"/><circle cx="18" cy="18" r="15.5" fill="none" stroke="var(--good)" stroke-width="3" stroke-linecap="round" stroke-dasharray="97.4" stroke-dashoffset="${97.4 * (1 - g.goalProgress)}" transform="rotate(-90 18 18)"/></svg>` : '';
+    strip = `<a class="list game-strip" href="#/journey"><div class="item">
+      <div class="grow"><div class="rank-name">${esc(g.rank.name)}</div>
+        <div class="progress thin"><i style="width:${into * 100}%"></i></div>
+        <small>${g.wisdom.toLocaleString()} wisdom${g.nextRank ? ` · ${(g.nextRank.min - g.wisdom).toLocaleString()} to ${esc(g.nextRank.name)}` : ''}</small></div>
+      <div class="streak ${g.streak ? '' : 'zero'}">${ring}<span class="flame">${icon('flame')}</span><b>${g.streak}</b></div>${chev}</div></a>`;
+  } else {
+    strip = `<div class="list"><div class="item"><div class="grow"><b>Day ${Math.min(done + 1, total)} of ${total}</b><small>${plural(done, 'lesson')} done</small>
+      <div class="progress thin" style="margin-top:8px"><i style="width:${(done / total) * 100}%"></i></div></div></div></div>`;
+  }
 
+  const showPlan = n && done < 3;
+  view().innerHTML = `<h1 class="page-title">${greet}</h1>
+    <div class="stack">
+      ${intro}${doneNote}${hero}${flash}${strip}
+      ${n ? `<details class="plan-box" ${showPlan ? 'open' : ''}><summary>${showPlan ? 'How each day works' : "What's in a lesson"}${chev}</summary><ul class="plan" id="plan"><li class="muted small">Loading…</li></ul>
+        <p class="footnote" style="margin:8px 0 0">Pass the quiz (${pct(store.PASS)}+) to complete the day.</p></details>` : ''}
+    </div>`;
+
+  view().querySelectorAll('[data-intro]').forEach(b => b.onclick = () => {
+    store.setGame('introDone', true);
+    if (b.dataset.intro === 'off') { store.setSetting('game', false); toast('Game layer off. Turn it on any time in Settings.'); }
+    viewToday(); afterRender();
+  });
   if (n) getLesson(n.id).then(L => {
     const m = stepMinutes(L);
-    const rows = [
-      ['Read', `${L.sections.length} short sections`, m.learn],
-      ['Modern Lens', esc(L.modernConnection.title), m.modern],
-      ['Vocabulary', `${L.vocabulary.length} key terms`, m.words],
-      ['Reflect', esc(L.thinkingExercise.title), m.reflect],
-      ['Quiz', `${L.quiz.length} questions`, m.quiz],
-    ];
+    const rows = [['Read', m.learn], ['Modern Lens', m.modern], ['Vocabulary', m.words], ['Reflect', m.reflect], ['Quiz', m.quiz], ['Go Deeper (optional)', m.deeper]];
     const plan = $('#plan');
-    if (plan) plan.innerHTML = rows.map((r, i) => `<li><span class="num">${i + 1}</span><div class="grow"><b>${r[0]}</b><div class="muted small">${r[1]}</div></div><span class="mins">${r[2]} min</span></li>`).join('')
-      + `<li><span class="num">+</span><div class="grow"><b>Go Deeper</b><div class="muted small">Optional advanced reading</div></div><span class="mins">${m.deeper}+ min</span></li>`;
+    if (plan) plan.innerHTML = rows.map((r, i) => `<li><span class="num">${i < 5 ? i + 1 : '+'}</span><span class="grow">${r[0]}</span><span class="mins">${r[1]} min</span></li>`).join('');
   }).catch(() => {});
+}
+
+/* ---------- Journey (game layer) ---------- */
+function viewJourney() {
+  if (!gameOn()) { location.hash = '#/'; return; }
+  setChrome({ title: 'Your Journey', back: true, tab: 'today' });
+  const g = game();
+  markSeen(g);
+  const span = g.nextRank ? g.nextRank.min - g.rank.min : 1;
+  const into = g.nextRank ? (g.wisdom - g.rank.min) / span : 1;
+  const cur = nextDay()?.unit.id;
+  const eras = ['c. 600–400 BCE', '470–347 BCE', '384–322 BCE', '300 BCE–270 CE', '354–1347', '1400–1650', '1596–1716', '1632–1776', '1689–1804', '1807–1900', '1879–1960', '1900–1990', '1970–today'];
+  view().innerHTML = `<h1 class="page-title">Your Journey</h1>
+    <section class="rank-card">
+      <div class="laurel">${icon('laurel')}</div>
+      <div class="eyebrow">Rank ${g.rankIndex + 1} of ${RANKS.length}</div>
+      <h2>${esc(g.rank.name)}</h2>
+      <div class="progress"><i style="width:${into * 100}%"></i></div>
+      <p class="muted small">${g.wisdom.toLocaleString()} wisdom${g.nextRank ? ` · ${(g.nextRank.min - g.wisdom).toLocaleString()} more to become <b>${esc(g.nextRank.name)}</b>` : ' · the highest rank'}</p>
+    </section>
+    <div class="list stats-list">
+      <div class="item"><div class="grow">Current streak</div><span class="trail">${plural(g.streak, 'day')}</span></div>
+      <div class="item"><div class="grow">Longest streak</div><span class="trail">${plural(g.longest, 'day')}</span></div>
+      <div class="item"><div class="grow">Rest days saved<small>Earned every 7 study days; they cover missed days automatically</small></div><span class="trail">${g.restDays}</span></div>
+    </div>
+    <h2 class="group-title">The Long Conversation</h2>
+    <ol class="timeline">${INDEX.units.map((u, i) => {
+      const d = u.days.filter(x => store.isDone(x.id)).length;
+      const state = d === u.days.length ? 'done' : u.id === cur ? 'current' : 'future';
+      return `<li class="${state}"><a href="#/course"><span class="node">${state === 'done' ? icon('laurel') : ''}</span><div class="grow"><small>${eras[i] || ''}</small><b>${esc(u.title)}</b><small>${d}/${u.days.length} days</small></div></a></li>`;
+    }).join('')}</ol>
+    <h2 class="group-title">Milestones <span class="muted small">${g.milestones.filter(m => m.earned).length} of ${g.milestones.length}</span></h2>
+    <div class="medals">${g.milestones.map(m => `<div class="medal ${m.earned ? 'earned' : ''}" title="${esc(m.desc)}"><span class="disc">${icon('laurel')}</span><b>${esc(m.title)}</b><small>${esc(m.desc)}</small></div>`).join('')}</div>
+    <p class="footnote">Wisdom comes from completing lessons (more for higher quiz scores), Deep Dives, reflections of 40+ words, mastered flashcards and practice quizzes. It never goes down. You can turn this off in Settings.</p>`;
 }
 
 /* ---------- Course ---------- */
@@ -188,27 +264,27 @@ function viewCourse() {
   setChrome({ title: 'Course', tab: 'course' });
   const n = nextDay();
   const openUnit = n ? n.unit.id : INDEX.units[0].id;
-  view().innerHTML = `<h1 class="page-title">The 90-Day Course</h1>
-    <p class="muted">From the first Greek philosophers to the questions of today, in ${INDEX.units.length} units.</p>
-    <div class="progress"><i style="width:${(doneCount() / INDEX.allDays.length) * 100}%"></i></div>
+  const done = doneCount();
+  const laurels = gameOn();
+  view().innerHTML = `<h1 class="page-title">Course</h1>
+    <div class="course-progress"><span>${done} of ${INDEX.allDays.length} days · Unit ${openUnit} of ${INDEX.units.length}</span><div class="progress thin"><i style="width:${(done / INDEX.allDays.length) * 100}%"></i></div></div>
     ${INDEX.units.map(u => {
       const d = u.days.filter(x => store.isDone(x.id)).length;
+      const complete = d === u.days.length;
       return `<details class="unit" ${u.id === openUnit ? 'open' : ''}>
-        <summary class="card flat" style="padding:14px 16px"><span class="unit-num">${u.id}</span><div class="grow"><h3>${esc(u.title)}</h3><div class="muted small">Days ${u.days[0].day}–${u.days.at(-1).day} · ${d}/${u.days.length} done</div></div><span class="chev">${chev}</span></summary>
-        <div class="card flat" style="margin-top:8px">${u.days.map(x => lessonRow(x, n)).join('')}</div>
+        <summary><span class="unit-num ${complete ? 'complete' : ''}">${complete && laurels ? icon('laurel') : u.id}</span><div class="grow"><h3>${esc(u.title)}</h3></div><span class="trail">${d}/${u.days.length}</span><span class="chev">${chev}</span></summary>
+        <div class="unit-body">${u.days.map(x => lessonRow(x, n)).join('')}</div>
       </details>`;
     }).join('')}`;
-  // border fix: first row has no top border
-  view().querySelectorAll('.unit .card:not(summary)').forEach(c => { const f = c.querySelector('.lesson-row'); if (f) f.style.borderTop = '0'; });
 }
 
 function lessonRow(x, next) {
   const c = store.get().completed[x.id];
   const cls = ['lesson-row', c ? 'done' : '', next && next.id === x.id ? 'current' : '', x.available ? '' : 'unavailable'].join(' ');
-  const badge = c ? '✓' : (x.day ?? x.order);
-  const tag = x.review ? '<span class="pill review">Review</span> ' : '';
-  const score = c ? `<span class="pill good">${pct(c.best)}</span>` : '';
-  const inner = `<span class="badge">${badge}</span><div class="grow"><div class="t">${esc(x.title)}</div><div class="s">${tag}${x.available ? `~${x.minutes} min` : 'Coming soon'}</div></div>${score}`;
+  const badge = c ? '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>' : (x.day ?? x.order);
+  const sub = x.review ? '<div class="s"><span class="pill review">Review</span></div>' : !x.available ? '<div class="s">Coming soon</div>' : '';
+  const score = c && c.best < 1 ? `<span class="score">${pct(c.best)}</span>` : '';
+  const inner = `<span class="badge">${badge}</span><div class="grow"><div class="t">${esc(x.title)}</div>${sub}</div>${score}`;
   return x.available ? `<a class="${cls}" href="#/lesson/${x.id}">${inner}</a>` : `<div class="${cls}">${inner}</div>`;
 }
 
@@ -233,58 +309,63 @@ async function viewLesson(id, step) {
   }
   const idx = STEPS.findIndex(s => s.key === step);
   const prev = STEPS[idx - 1], next = STEPS[idx + 1];
+  document.body.classList.toggle('quiz-mode', step === 'quiz');
 
-  const tabs = `<nav class="steps" aria-label="Lesson steps">${STEPS.map(s => {
+  const tabs = step === 'quiz' ? '' : `<nav class="steps" aria-label="Lesson steps">${STEPS.map(s => {
     const tick = (s.key === 'quiz' ? done : visited.has(s.key) && s.key !== step) ? '<span class="tick">✓</span>' : '';
     return `<button data-step="${s.key}" class="${s.key === step ? 'active' : ''}">${tick}${s.label}</button>`;
   }).join('')}</nav>`;
 
+  const listenable = (tts.supported || rec) && (step === 'learn' || step === 'modern');
+  const listen = listenable
+    ? `<button class="listen-btn" id="listen"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>${rec ? `Listen to narration · ${Math.round(rec.duration / 60)} min` : step === 'learn' ? `Listen · ~${Math.round(mins.learn * 1.15)} min` : 'Listen'}</button>` : '';
+
+  const metaLine = [`${L.estimatedMinutes} min`, shortEra(L.era), L.philosophers.slice(0, 2).join(', ')].filter(Boolean).join(' · ') + (done ? ' · <span class="done-mark">✓ Completed</span>' : '');
   const head = `<header class="lesson-head">
-    <div class="eyebrow">${meta.track ? esc(meta.track.title) + ' · Lesson ' + meta.order : `Day ${meta.day} · ${esc(meta.unit.title)}`}</div>
+    <div class="eyebrow">${meta.track ? esc(meta.track.title) + ' · Lesson ' + meta.order : `Day ${meta.day} · ${esc(meta.unit.title.split(':')[0])}`}</div>
     <h2>${esc(L.title)}</h2>
     <p class="subtitle">${esc(L.subtitle)}</p>
-    <div class="meta-row"><span class="pill">⏱ ~${L.estimatedMinutes} min</span>${L.era ? `<span class="pill">${esc(L.era)}</span>` : ''}${L.philosophers.slice(0, 4).map(p => `<span class="pill">${esc(p)}</span>`).join('')}${done ? '<span class="pill good">Completed</span>' : ''}</div>
+    <div class="lesson-meta">${metaLine.replace(/&(?!lt;|gt;|amp;|quot;)/g, '&amp;')}</div>
+    ${listen}
   </header>`;
 
   let body = '';
   if (step === 'learn') {
+    const N = L.sections.length;
     body = `${head}
-      <div class="objectives"><h4>What you'll learn</h4><ul>${L.objectives.map(o => `<li>${inline(o)}</li>`).join('')}</ul></div>
+      <details class="objectives"><summary>What you'll learn · ${L.objectives.length}${chev}</summary><ul>${L.objectives.map(o => `<li>${inline(o)}</li>`).join('')}</ul></details>
       <article class="prose"><div class="hook">${md(L.hook)}</div>
-      ${L.sections.map((s, i) => `<h3>${esc(s.heading)}</h3>${md(s.body)}${i === Math.floor(L.sections.length / 2) - 1 && L.keyQuote ? quoteBlock(L.keyQuote) : ''}`).join('')}
+      ${L.sections.map((s, i) => `<div class="part">Part ${i + 1} of ${N}</div><h3>${esc(s.heading)}</h3>${md(s.body)}${i === Math.floor(N / 2) - 1 && L.keyQuote ? quoteBlock(L.keyQuote) : ''}`).join('')}
       </article>
-      <section class="card flat" style="margin-top:24px"><h3>Key takeaways</h3><ul class="summary-list">${L.summary.map(s => `<li>${inline(s)}</li>`).join('')}</ul></section>`;
+      <section class="takeaways"><h3>Key takeaways</h3><ul class="summary-list">${L.summary.map(s => `<li>${inline(s)}</li>`).join('')}</ul></section>`;
   } else if (step === 'modern') {
-    body = `<div class="callout" style="margin-top:12px"><div class="eyebrow">Modern Lens · ~${mins.modern} min</div><h3>${esc(L.modernConnection.title)}</h3><div class="prose">${md(L.modernConnection.body)}</div></div>`;
+    body = `<header class="lesson-head"><div class="eyebrow modern">Modern Lens · ${mins.modern} min</div><h2>${esc(L.modernConnection.title)}</h2>${listen}</header>
+      <article class="prose">${md(L.modernConnection.body)}</article>`;
   } else if (step === 'words') {
-    body = `<h2 class="section-title">Key vocabulary</h2>
-      <p class="muted">Learn these terms before the quiz. Completing the lesson adds them to your flashcard deck for spaced review.</p>
-      <dl class="vocab-list">${L.vocabulary.map(v => `<div class="card flat vocab"><dt>${esc(v.term)}</dt><dd>${inline(v.definition)}</dd><div class="ex">“${inline(v.example)}”</div></div>`).join('')}</dl>
-      <a class="btn block" style="margin-top:16px" href="#/practice/cards/${id}">🗂️ Drill these as flashcards</a>`;
+    body = `<header class="lesson-head"><div class="eyebrow">Vocabulary · ${L.vocabulary.length} terms</div><h2>Key words</h2><p class="footnote" style="margin:0">Tap a term to see an example. They join your flashcards when you pass the quiz.</p></header>
+      <div class="list vocab-list">${L.vocabulary.map(v => `<details class="vocab"><summary><div class="grow"><dt>${esc(v.term)}</dt><dd>${inline(v.definition)}</dd></div>${chev}</summary><div class="ex">“${inline(v.example)}”</div></details>`).join('')}</div>
+      <a class="btn block" style="margin-top:20px" href="#/practice/cards/${id}">Drill these as flashcards</a>`;
   } else if (step === 'reflect') {
     const te = L.thinkingExercise;
-    body = `<h2 class="section-title">${esc(te.title)}</h2>
+    body = `<header class="lesson-head"><div class="eyebrow">Reflect · about 10 min</div><h2>${esc(te.title)}</h2></header>
       <div class="prose">${md(te.prompt)}</div>
       <ol class="steps-list">${te.steps.map(s => `<li>${inline(s)}</li>`).join('')}</ol>
-      <label class="eyebrow" for="journal" style="display:block;margin:20px 0 8px">Your notebook</label>
-      <textarea class="journal" id="journal" placeholder="Write your thoughts here. They are saved on this device automatically.">${esc(store.get().journal[id] || '')}</textarea>
-      <div class="muted small" id="saved" style="margin-top:6px">&nbsp;</div>`;
+      <label class="group-label" for="journal">Your notebook</label>
+      <textarea class="journal" id="journal" placeholder="Write your thoughts here. They're saved on this device automatically.">${esc(store.get().journal[id] || '')}</textarea>
+      <div class="footnote" id="saved">&nbsp;</div>`;
   } else if (step === 'quiz') {
-    body = `<h2 class="section-title">Check your understanding</h2>
-      <p class="muted">${L.quiz.length} questions. Score ${pct(store.PASS)} or more to complete this lesson.${done ? ` Your best so far: <b>${pct(store.get().completed[id].best)}</b>.` : ''}</p>
+    body = `<div class="quiz-head"><div class="eyebrow">${esc(label(meta))} · Quiz</div><p class="footnote" style="margin:2px 0 0">${L.quiz.length} questions · ${pct(store.PASS)} to pass${done ? ` · best ${pct(store.get().completed[id].best)}` : ''}</p></div>
       <div id="quiz"></div>`;
   } else if (step === 'deeper') {
     const g = L.goDeeper;
-    body = `<h2 class="section-title">Go deeper</h2><p class="muted small">Optional. For when you want more than the essentials.</p>
-      <div class="prose">${md(g.body)}</div>
-      <h3 class="section-title">Discuss or journal</h3><ul class="summary-list">${g.questions.map(q => `<li>${inline(q)}</li>`).join('')}</ul>
-      <h3 class="section-title">Further reading</h3><div class="list">${g.readings.map(r => `<div class="item"><div class="grow"><b>${inline(r.title)}</b><small>${esc(r.author)}${r.note ? ' — ' + inline(r.note) : ''}</small></div></div>`).join('')}</div>`;
+    body = `<header class="lesson-head"><div class="eyebrow">Go Deeper · optional</div><h2>Beyond the essentials</h2></header>
+      <article class="prose">${md(g.body)}</article>
+      <h3 class="group-title">Discuss or journal</h3><ul class="summary-list">${g.questions.map(q => `<li>${inline(q)}</li>`).join('')}</ul>
+      <h3 class="group-title">Further reading</h3><div class="list">${g.readings.map(r => `<div class="item"><div class="grow"><b>${inline(r.title)}</b><small>${esc(r.author)}${r.note ? ' — ' + inline(r.note) : ''}</small></div></div>`).join('')}</div>`;
   }
 
-  const listen = (tts.supported || rec) && step !== 'quiz'
-    ? `<button class="btn listen-btn" id="listen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>${rec ? 'Listen to narration' : 'Listen'}${step === 'learn' ? ` · ${rec ? Math.round(rec.duration / 60) : '~' + Math.round(mins.learn * 1.15)} min` : ''}</button>` : '';
-  const nav = `<div class="step-nav">${prev ? `<a class="btn" href="#/lesson/${id}/${prev.key}">← ${prev.label}</a>` : ''}${next ? `<a class="btn primary" href="#/lesson/${id}/${next.key}">${next.label} →</a>` : `<a class="btn primary" href="${nextAfter(meta)}">${meta.track ? 'Back to track' : 'Back to today'}</a>`}</div>`;
-  view().innerHTML = tabs + listen + body + (step === 'quiz' ? '' : nav);
+  const nav = `<div class="step-nav">${prev ? `<a class="btn ghost back-step" href="#/lesson/${id}/${prev.key}" aria-label="Back to ${prev.label}">←</a>` : ''}${next ? `<a class="btn primary" href="#/lesson/${id}/${next.key}">${next.label} →</a>` : `<a class="btn primary" href="${nextAfter(meta)}">${meta.track ? 'Back to track' : 'Done for today'}</a>`}</div>`;
+  view().innerHTML = tabs + body + (step === 'quiz' ? '' : nav);
 
   view().querySelectorAll('.steps button').forEach(b => b.addEventListener('click', () => { location.hash = `#/lesson/${id}/${b.dataset.step}`; window.scrollTo(0, 0); }));
   const active = view().querySelector('.steps button.active');
@@ -293,9 +374,10 @@ async function viewLesson(id, step) {
 
   if (listen) {
     const play = () => {
-      tts.setEndAction(next ? (next.key === 'quiz'
-        ? { label: 'Take the quiz', run: () => { location.hash = `#/lesson/${id}/quiz`; } }
-        : { label: `Listen: ${next.label}`, run: () => { autoplay = true; location.hash = `#/lesson/${id}/${next.key}`; } }) : null);
+      // Keep listening into the next step only if it can be read aloud; otherwise just go there.
+      tts.setEndAction(next ? (next.key === 'modern'
+        ? { label: `Listen: ${next.label}`, run: () => { autoplay = true; location.hash = `#/lesson/${id}/${next.key}`; } }
+        : { label: next.key === 'quiz' ? 'Take the quiz' : `Go to ${next.label}`, run: () => { location.hash = `#/lesson/${id}/${next.key}`; } }) : null);
       if (rec) {
         const ok = tts.startRecording(view(), {
           src: `audio/${id}.mp3`, meta: rec, title: L.title, album: label(meta),
@@ -318,14 +400,38 @@ async function viewLesson(id, step) {
   if (step === 'quiz') {
     runQuiz($('#quiz'), L.quiz, {
       onFinish(score) {
+        const before = game();
         const r = store.recordQuiz(id, score, L.vocabulary);
-        if (r.firstPass) toast(`${label(meta)} complete! ${L.vocabulary.length} words added to your deck.`);
-        return { passed: r.passed, actions: r.passed
-          ? `<a class="btn primary" href="#/lesson/${id}/deeper">Go Deeper →</a><a class="btn" href="${nextAfter(meta)}">Done</a>`
-          : `<a class="btn" href="#/lesson/${id}/learn">Review the lesson</a>` };
+        let extra = '';
+        if (r.firstPass) {
+          const after = game();
+          if (gameOn()) extra = celebration(before, after, meta);
+          else { markSeen(after); toast(`${label(meta)} complete. ${plural(L.vocabulary.length, 'word')} added to your flashcards.`); }
+        }
+        return { passed: r.passed, extra, actions: r.passed
+          ? `<a class="btn primary" href="${nextAfter(meta)}">Done</a><a class="btn" href="#/lesson/${id}/deeper">Go Deeper</a>`
+          : `<a class="btn primary" href="#/lesson/${id}/learn">Review the lesson</a>` };
       },
     });
   }
+}
+
+// Shown on the quiz results screen the first time a lesson is passed (game layer on).
+function celebration(before, after, meta) {
+  const gained = after.wisdom - before.wisdom;
+  const fresh = newlyEarned(after, store.get().game.seen);
+  markSeen(after);
+  const unit = fresh.find(m => m.unit);
+  const rankUp = after.rankIndex > before.rankIndex;
+  const confetti = Array.from({ length: 24 }, (_, i) => `<i style="--x:${(i * 37) % 100}%;--d:${(i % 6) * 60}ms;--c:${['var(--accent)', 'var(--accent-2)', 'var(--good)', '#e3b341'][i % 4]};--r:${(i * 53) % 360}deg"></i>`).join('');
+  return `<div class="celebrate">
+    <div class="confetti" aria-hidden="true">${confetti}</div>
+    ${unit ? `<div class="unit-done"><span class="disc">${icon('laurel')}</span><div class="eyebrow">Unit ${unit.unit} complete</div><h3>${esc(unit.title)}</h3></div>` : ''}
+    <div class="wisdom-gain">+<span data-count="${gained}">${gained}</span> wisdom</div>
+    <div class="rank-line"><span>${esc(after.rank.name)}</span>${rankUp ? '<span class="pill good">New rank!</span>' : ''}</div>
+    <div class="progress thin"><i style="width:${after.nextRank ? ((after.wisdom - after.rank.min) / (after.nextRank.min - after.rank.min)) * 100 : 100}%"></i></div>
+    ${fresh.filter(m => !m.unit).map(m => `<span class="medal-chip">${icon('laurel')} ${esc(m.title)}</span>`).join('')}
+  </div>`;
 }
 
 const nextAfter = meta => meta.track ? `#/advanced/${meta.track.id}` : '#/';
@@ -338,14 +444,16 @@ function quoteBlock(q) {
 function runQuiz(root, questions, { onFinish }) {
   let i = 0, results = [];
   const letters = ['A', 'B', 'C', 'D'];
+  const closeBar = () => { document.querySelector('.feedback-bar')?.remove(); document.body.classList.remove('fb-open'); };
   function render() {
+    closeBar();
     const q = questions[i];
     const bar = `<div class="q-progress">${questions.map((_, k) => `<i class="${k < results.length ? (results[k] ? 'right' : 'wrong') : k === i ? 'now' : ''}"></i>`).join('')}</div>`;
     const opts = q.type === 'tf'
-      ? [['True', true], ['False', false]].map(([t, v], k) => `<button class="option" data-v="${v}"><span class="letter">${t[0]}</span><span>${t}</span></button>`).join('')
+      ? [['True', true], ['False', false]].map(([t, v]) => `<button class="option" data-v="${v}"><span class="letter">${t[0]}</span><span>${t}</span></button>`).join('')
       : q.options.map((o, k) => `<button class="option" data-v="${k}"><span class="letter">${letters[k]}</span><span>${inline(o)}</span></button>`).join('');
-    root.innerHTML = `${bar}<div class="eyebrow">Question ${i + 1} of ${questions.length}${q.source ? ' · ' + esc(q.source) : ''}</div>
-      <p class="question">${inline(q.question)}</p><div class="options">${opts}</div><div id="fb"></div>`;
+    root.innerHTML = `${bar}<div class="q-count">Question ${i + 1} of ${questions.length}${q.source ? ' · ' + esc(q.source) : ''}</div>
+      <p class="question">${inline(q.question)}</p><div class="options">${opts}</div>`;
     root.querySelectorAll('.option').forEach(b => b.addEventListener('click', () => answer(b)));
   }
   function answer(btn) {
@@ -359,26 +467,41 @@ function runQuiz(root, questions, { onFinish }) {
       if (v === q.answer) b.classList.add('correct');
       else if (b === btn) b.classList.add('incorrect');
     });
+    root.querySelectorAll('.q-progress i')[i].className = right ? 'right' : 'wrong';
     const last = i === questions.length - 1;
-    $('#fb', root).innerHTML = `<div class="feedback ${right ? 'right' : 'wrong'}"><b>${right ? 'Correct' : 'Not quite'}</b>${inline(q.explanation)}</div>
-      <button class="btn primary block" style="margin-top:14px" id="nextQ">${last ? 'See results' : 'Next question'}</button>`;
-    $('#nextQ', root).addEventListener('click', () => { if (last) finish(); else { i++; render(); root.scrollIntoView({ block: 'start' }); window.scrollBy(0, -120); } });
-    $('#nextQ', root).scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    const fb = document.createElement('div');
+    fb.className = `feedback-bar ${right ? 'right' : 'wrong'}`;
+    fb.setAttribute('role', 'status');
+    fb.innerHTML = `<b>${right ? 'Correct' : 'Not quite'}</b><div class="fb-text">${inline(q.explanation)}</div><button class="fb-more" hidden>More</button>
+      <button class="btn primary block" id="nextQ">${last ? 'See results' : 'Next question'}</button>`;
+    root.appendChild(fb);
+    document.body.classList.add('fb-open');
+    const text = fb.querySelector('.fb-text'), more = fb.querySelector('.fb-more');
+    if (text.scrollHeight > text.clientHeight + 2) { more.hidden = false; more.onclick = () => { text.classList.add('open'); more.hidden = true; }; }
+    $('#nextQ', root).addEventListener('click', () => { if (last) finish(); else { i++; render(); window.scrollTo(0, 0); } });
   }
   function finish() {
+    closeBar();
     const score = results.filter(Boolean).length / questions.length;
-    const { passed, actions } = onFinish(score, results);
-    const r = 60, c = 2 * Math.PI * r;
+    const { passed, actions, extra = '' } = onFinish(score, results);
+    const r = 54, c = 2 * Math.PI * r;
     const missed = questions.map((q, k) => [q, k]).filter(([, k]) => !results[k]);
     root.innerHTML = `<div class="result">
-      <svg class="score-ring" viewBox="0 0 140 140"><circle cx="70" cy="70" r="${r}" fill="none" stroke="var(--surface-2)" stroke-width="12"/>
-        <circle cx="70" cy="70" r="${r}" fill="none" stroke="${passed ? 'var(--good)' : 'var(--accent)'}" stroke-width="12" stroke-linecap="round" stroke-dasharray="${c}" stroke-dashoffset="${c * (1 - score)}" transform="rotate(-90 70 70)"/>
-        <text x="70" y="78" text-anchor="middle" font-size="28" font-weight="700" fill="var(--ink)" font-family="Georgia, serif">${pct(score)}</text></svg>
+      <svg class="score-ring" viewBox="0 0 120 120"><circle cx="60" cy="60" r="${r}" fill="none" stroke="var(--fill)" stroke-width="10"/>
+        <circle cx="60" cy="60" r="${r}" fill="none" stroke="${passed !== false ? 'var(--good)' : 'var(--accent)'}" stroke-width="10" stroke-linecap="round" stroke-dasharray="${c}" stroke-dashoffset="${c * (1 - score)}" transform="rotate(-90 60 60)"/>
+        <text x="60" y="68" text-anchor="middle" font-size="24" font-weight="700" fill="var(--ink)" font-family="-apple-system, system-ui, sans-serif">${pct(score)}</text></svg>
       <h3>${passed === null ? 'Practice complete' : passed ? 'Well reasoned!' : 'Almost there'}</h3>
-      <p class="muted">${results.filter(Boolean).length} of ${questions.length} correct.${passed === false ? ` You need ${pct(store.PASS)} to complete the lesson. Review and try again; the explanations are the best teacher.` : ''}</p>
-      <div class="btn-row result-actions" style="margin:16px 0">${actions || ''}<button class="btn" id="retake">Retake quiz</button></div></div>
-      ${missed.length ? `<h3 class="section-title">Review what you missed</h3>${missed.map(([q]) => `<div class="card flat" style="margin-bottom:10px"><p style="margin:0 0 8px"><b>${inline(q.question)}</b></p><p class="small" style="margin:0 0 6px;color:var(--good)"><b>Answer:</b> ${q.type === 'tf' ? (q.answer ? 'True' : 'False') : inline(q.options[q.answer])}</p><p class="small muted" style="margin:0">${inline(q.explanation)}</p></div>`).join('')}` : ''}`;
+      <p class="muted">${results.filter(Boolean).length} of ${questions.length} correct.${passed === false ? ` You need ${pct(store.PASS)} to complete the lesson. The explanations below are the best teacher.` : ''}</p>
+      ${extra}
+      <div class="btn-row result-actions">${actions || ''}<button class="btn ghost" id="retake">Retake quiz</button></div></div>
+      ${missed.length ? `<details class="missed" ${passed === false ? 'open' : ''}><summary>Review what you missed · ${missed.length}${chev}</summary>${missed.map(([q]) => `<div class="missed-item"><p><b>${inline(q.question)}</b></p><p class="small" style="color:var(--good)"><b>Answer:</b> ${q.type === 'tf' ? (q.answer ? 'True' : 'False') : inline(q.options[q.answer])}</p><p class="small muted">${inline(q.explanation)}</p></div>`).join('')}</details>` : ''}`;
     $('#retake', root).addEventListener('click', () => { i = 0; results = []; render(); window.scrollTo(0, 0); });
+    const n = root.querySelector('[data-count]');
+    if (n && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      const to = Number(n.dataset.count), t0 = performance.now();
+      const step = t => { const k = Math.min(1, (t - t0) / 600); n.textContent = Math.round(to * k); if (k < 1) requestAnimationFrame(step); };
+      requestAnimationFrame(step);
+    }
     window.scrollTo(0, 0);
   }
   render();
@@ -390,15 +513,13 @@ function viewPractice() {
   const due = store.dueCards().length;
   const deck = Object.keys(store.get().cards).length;
   const completed = Object.keys(store.get().completed).length;
-  view().innerHTML = `<h1 class="page-title">Practice</h1><p class="muted">Short, regular review is how ideas stick.</p>
-    <div class="stack">
-      <a class="card track-card" href="#/practice/cards"><div class="eyebrow">Spaced repetition</div><h3>Vocabulary flashcards</h3>
-        <p class="muted" style="margin:0">${deck ? `${due} due today · ${deck} words in your deck` : 'Complete a lesson to start your deck.'}</p></a>
-      <a class="card track-card" href="#/practice/quiz"><div class="eyebrow">Mixed review</div><h3>Practice quiz</h3>
-        <p class="muted" style="margin:0">${completed ? `10 random questions from the ${completed} lesson${completed > 1 ? 's' : ''} you've completed.` : 'Complete a lesson to unlock mixed practice.'}</p></a>
-      <a class="card track-card" href="#/glossary"><div class="eyebrow">Reference</div><h3>Glossary</h3>
-        <p class="muted" style="margin:0">Every key term in the course (${INDEX.glossary.length}), searchable.</p></a>
-    </div>`;
+  view().innerHTML = `<h1 class="page-title">Practice</h1>
+    <div class="list">
+      <a href="#/practice/cards">${tile('cards')}<div class="grow"><b>Flashcards</b><small>${deck ? `${plural(deck, 'word')} in your deck` : 'Finish a lesson to start your deck'}</small></div><span class="trail ${due ? 'hot' : ''}">${due ? `${due} due` : ''}</span>${chev}</a>
+      <a href="#/practice/quiz">${tile('quiz')}<div class="grow"><b>Mixed review</b><small>${completed ? `From ${plural(completed, 'completed lesson')}` : 'Unlocks after your first lesson'}</small></div><span class="trail">10 Qs</span>${chev}</a>
+      <a href="#/glossary">${tile('book')}<div class="grow"><b>Glossary</b><small>Every key term, searchable</small></div><span class="trail">${INDEX.glossary.length}</span>${chev}</a>
+    </div>
+    <p class="footnote">Short, regular review is how ideas stick. Flashcards come back at growing intervals: 1, 3, 7, 14 and 30 days.</p>`;
 }
 
 async function viewCards(lessonId) {
@@ -459,8 +580,8 @@ async function viewPracticeQuiz() {
   const pool = lessons.filter(Boolean).flatMap(L => L.quiz.map(q => ({ ...q, source: L.day ? `Day ${L.day}` : L.title })));
   pool.sort(() => Math.random() - 0.5);
   const qs = pool.slice(0, 10);
-  view().innerHTML = `<h1 class="page-title">Mixed review</h1><p class="muted">${qs.length} questions drawn from your completed lessons.</p><div id="quiz"></div>`;
-  runQuiz($('#quiz'), qs, { onFinish: () => ({ passed: null, actions: '<a class="btn primary" href="#/practice">Done</a>' }) });
+  view().innerHTML = `<div class="quiz-head"><div class="eyebrow">Mixed review</div><p class="footnote" style="margin:2px 0 0">${qs.length} questions from your completed lessons</p></div><div id="quiz"></div>`;
+  runQuiz($('#quiz'), qs, { onFinish: score => { store.logPractice(score, qs.length); return { passed: null, actions: '<a class="btn primary" href="#/practice">Done</a>' }; } });
 }
 
 function viewGlossary() {
@@ -491,13 +612,16 @@ function viewGlossary() {
 /* ---------- Advanced ---------- */
 function viewAdvanced() {
   setChrome({ title: 'Deep Dives', tab: 'advanced' });
+  const dc = doneCount();
+  const tracks = [...INDEX.tracks].sort((a, b) => (dc >= b.recommendedAfterDay) - (dc >= a.recommendedAfterDay) || a.recommendedAfterDay - b.recommendedAfterDay);
   view().innerHTML = `<h1 class="page-title">Deep Dives</h1>
-    <p class="muted">Advanced tracks that go beyond the 90-day course. Each is five lessons in the same format. Start whenever you like; each one suggests a point in the course after which it will make the most sense.</p>
-    <div class="stack">${INDEX.tracks.map(t => {
+    <p class="lede">Five-lesson tracks that go beyond the course. Start any time.</p>
+    <div class="stack">${tracks.map(t => {
       const d = t.lessons.filter(l => store.isDone(l.id)).length;
-      const ready = doneCount() >= t.recommendedAfterDay;
-      return `<a class="card track-card" href="#/advanced/${t.id}"><div class="row"><div class="grow"><div class="eyebrow">${ready ? 'Ready for you' : `Best after Day ${t.recommendedAfterDay}`}</div><h3>${esc(t.title)}</h3></div>${chev}</div>
-        <p class="muted" style="margin:0 0 10px">${esc(t.description)}</p><div class="progress"><i style="width:${(d / t.lessons.length) * 100}%"></i></div><div class="muted small" style="margin-top:6px">${d}/${t.lessons.length} lessons</div></a>`;
+      const ready = dc >= t.recommendedAfterDay;
+      return `<a class="track-card" href="#/advanced/${t.id}"><div class="row"><div class="grow"><h3>${esc(t.title)}</h3><p>${esc(t.description)}</p></div>${chev}</div>
+        ${d ? `<div class="row" style="margin-top:12px"><div class="progress thin grow"><i style="width:${(d / t.lessons.length) * 100}%"></i></div><span class="trail">${d}/${t.lessons.length}</span></div>`
+          : `<div class="track-tag ${ready ? 'ready' : ''}">${ready ? 'Ready for you' : `Best after Day ${t.recommendedAfterDay}`} · 5 lessons</div>`}</a>`;
     }).join('')}</div>`;
 }
 
@@ -506,69 +630,122 @@ function viewTrack(trackId) {
   if (!t) throw new Error('Track not found');
   setChrome({ title: t.title, back: true, tab: 'advanced' });
   const next = t.lessons.find(l => l.available && !store.isDone(l.id));
-  view().innerHTML = `<div class="eyebrow" style="margin-top:12px">Deep Dive · best after Day ${t.recommendedAfterDay}</div><h1 class="page-title">${esc(t.title)}</h1>
-    <p class="muted">${esc(t.description)}</p><div class="card flat" style="padding:0;overflow:hidden">${t.lessons.map(l => lessonRow(l, next)).join('')}</div>`;
-  const f = view().querySelector('.lesson-row'); if (f) f.style.borderTop = '0';
+  view().innerHTML = `<h1 class="page-title">${esc(t.title)}</h1>
+    <p class="lede">${esc(t.description)} Best after Day ${t.recommendedAfterDay}.</p>
+    <div class="unit-body solo">${t.lessons.map(l => lessonRow(l, next)).join('')}</div>`;
 }
 
 /* ---------- More ---------- */
 function viewMore() {
   setChrome({ title: 'More', tab: 'more' });
   const n = Object.values(store.get().journal).filter(t => t && t.trim()).length;
-  view().innerHTML = `<h1 class="page-title">More</h1><div class="list">
-    <a href="#/ask"><span style="font-size:1.3rem">💬</span><div class="grow"><b>Ask the tutor</b><small class="muted" style="display:block">Questions about philosophy in general</small></div>${chev}</a>
-    <a href="#/journal"><span style="font-size:1.3rem">📓</span><div class="grow"><b>Notebook</b><small class="muted" style="display:block">${n} reflection${n === 1 ? '' : 's'} written</small></div>${chev}</a>
-    <a href="#/glossary"><span style="font-size:1.3rem">📖</span><div class="grow"><b>Glossary</b><small class="muted" style="display:block">${INDEX.glossary.length} terms</small></div>${chev}</a>
-    <a href="#/settings"><span style="font-size:1.3rem">⚙️</span><div class="grow"><b>Settings</b><small class="muted" style="display:block">Appearance, backup and reset</small></div>${chev}</a>
-    <a href="#/about"><span style="font-size:1.3rem">🏛️</span><div class="grow"><b>About & install</b><small class="muted" style="display:block">How the course works; add to your home screen</small></div>${chev}</a>
-  </div>`;
+  const g = gameOn() ? game() : null;
+  view().innerHTML = `<h1 class="page-title">More</h1>
+    ${g ? `<div class="list"><a href="#/journey">${tile('laurel', 'gold')}<div class="grow"><b>Your Journey</b></div><span class="trail">${esc(g.rank.name)}</span>${chev}</a></div>` : ''}
+    <div class="list">
+      <a href="#/ask">${tile('chat')}<div class="grow"><b>Ask the tutor</b></div>${chev}</a>
+      <a href="#/journal">${tile('note')}<div class="grow"><b>Notebook</b></div><span class="trail">${n || ''}</span>${chev}</a>
+      <a href="#/glossary">${tile('book')}<div class="grow"><b>Glossary</b></div><span class="trail">${INDEX.glossary.length}</span>${chev}</a>
+    </div>
+    <div class="list">
+      <a href="#/settings">${tile('gear', 'gray')}<div class="grow"><b>Settings</b></div>${chev}</a>
+      <a href="#/about">${tile('info', 'gray')}<div class="grow"><b>About &amp; install</b></div>${chev}</a>
+    </div>`;
 }
 
 function viewJournal() {
   setChrome({ title: 'Notebook', back: true, tab: 'more' });
   const entries = Object.entries(store.get().journal).filter(([, t]) => t && t.trim()).map(([id, t]) => [INDEX.byId.get(id), id, t]).filter(([m]) => m);
   entries.sort((a, b) => (a[0].day ?? 1000) - (b[0].day ?? 1000));
-  view().innerHTML = `<h1 class="page-title">Notebook</h1><p class="muted">Your reflections from each lesson's thinking exercise.</p>
-    ${entries.length ? entries.map(([m, id, t]) => `<div class="card flat" style="margin-bottom:12px"><a class="eyebrow" style="text-decoration:none" href="#/lesson/${id}/reflect">${esc(label(m))} · ${esc(m.title)}</a><div class="prose" style="font-size:1rem;margin-top:8px">${md(t)}</div></div>`).join('')
-      : '<div class="empty"><div class="big">📓</div><p>Nothing written yet. Each lesson has a Reflect step with a notebook.</p></div>'}`;
+  view().innerHTML = `<h1 class="page-title">Notebook</h1><p class="lede">Your reflections from each lesson.</p>
+    ${entries.length ? `<div class="stack">${entries.map(([m, id, t]) => `<a class="note-card" href="#/lesson/${id}/reflect"><div class="eyebrow">${esc(label(m))} · ${esc(m.title)}</div><div class="prose">${md(t)}</div></a>`).join('')}</div>`
+      : '<div class="empty"><p>Nothing written yet. Each lesson has a Reflect step with a notebook.</p></div>'}`;
 }
+
+const sw = (id, on) => `<label class="switch"><input type="checkbox" id="${id}" ${on ? 'checked' : ''}><span></span></label>`;
 
 function viewSettings() {
   setChrome({ title: 'Settings', back: true, tab: 'more' });
   const s = store.settings();
+  const segHtml = (id, opts, cur) => `<div class="seg" id="${id}">${opts.map(([v, l]) => `<button data-v="${v}" class="${String(cur) === String(v) ? 'on' : ''}">${l}</button>`).join('')}</div>`;
   view().innerHTML = `<h1 class="page-title">Settings</h1>
-    <h3 class="section-title">Appearance</h3>
+    <h2 class="group-label">Motivation</h2>
     <div class="list">
-      <div class="item"><div class="grow"><b>Theme</b></div><div class="seg" id="theme">${['auto', 'light', 'dark'].map(t => `<button data-v="${t}" class="${s.theme === t ? 'on' : ''}">${t[0].toUpperCase() + t.slice(1)}</button>`).join('')}</div></div>
-      <div class="item"><div class="grow"><b>Text size</b></div><div class="seg" id="scale">${[[0.9, 'S'], [1, 'M'], [1.12, 'L'], [1.25, 'XL']].map(([v, l]) => `<button data-v="${v}" class="${s.textScale === v ? 'on' : ''}">${l}</button>`).join('')}</div></div>
+      <div class="item"><div class="grow"><b>Wisdom &amp; milestones</b></div>${sw('gameToggle', s.game !== false)}</div>
+      ${s.game !== false ? `<div class="item"><div class="grow"><b>Daily goal</b></div>${segHtml('goal', [['off', 'Off'], ['light', 'Light'], ['lesson', 'Lesson']], s.dailyGoal || 'off')}</div>` : ''}
     </div>
-    <h3 class="section-title">Read aloud</h3>
+    <p class="footnote">Points, ranks, milestones and streaks are optional extras. Turning them off hides them everywhere; nothing in the course depends on them. Light goal: one lesson step or 10 flashcards.</p>
+    <h2 class="group-label">Appearance</h2>
     <div class="list">
-      <div class="item"><div class="grow"><b>Main reading</b><small>Recorded narrator (Lewis) or your device's voice</small></div><div class="seg" id="narrator">${[['recorded', 'Narrator'], ['device', 'Device']].map(([v, l]) => `<button data-v="${v}" class="${(s.narrator || 'recorded') === v ? 'on' : ''}">${l}</button>`).join('')}</div></div>
+      <div class="item"><div class="grow"><b>Theme</b></div>${segHtml('theme', [['auto', 'Auto'], ['light', 'Light'], ['dark', 'Dark']], s.theme)}</div>
+      <div class="item"><div class="grow"><b>Text size</b></div>${segHtml('scale', [[0.9, 'S'], [1, 'M'], [1.12, 'L'], [1.25, 'XL']], s.textScale)}</div>
     </div>
-    ${tts.supported ? `<div class="list" style="margin-top:10px">
-      <div class="item"><div class="grow"><b>Voice</b><small>Uses your device's built-in voices</small></div><select id="voice" class="select"></select></div>
-      <div class="item"><div class="grow"><b>Speed</b></div><div class="seg" id="rate">${[0.8, 1, 1.1, 1.2, 1.4].map(v => `<button data-v="${v}" class="${(s.ttsRate || 1) === v ? 'on' : ''}">${v}×</button>`).join('')}</div></div>
+    <h2 class="group-label">Read aloud</h2>
+    <div class="list">
+      <div class="item"><div class="grow"><b>Main reading</b></div>${segHtml('narrator', [['recorded', 'Narrator'], ['device', 'Device']], s.narrator || 'recorded')}</div>
+      <div class="item"><div class="grow"><b>Speed</b></div>${segHtml('rate', [[0.8, '0.8'], [1, '1'], [1.1, '1.1'], [1.2, '1.2'], [1.4, '1.4']], s.ttsRate || 1)}</div>
+      ${tts.supported ? `<div class="item"><div class="grow"><b>Device voice</b></div><select id="voice" class="select"></select></div>
+      <a href="#" id="testVoice"><div class="grow accent">Play a sample</div></a>` : ''}
     </div>
-    <button class="btn block" style="margin-top:10px" id="testVoice">Play a sample</button>
-    <p class="muted small">On iPhone you can download higher-quality voices in Settings → Accessibility → Spoken Content → Voices → English.</p>` : ''}
-    <h3 class="section-title">Philosophy tutor</h3>
-    <p class="muted small">The tutor (the 💬 button on every lesson) uses Google's Gemini AI with your own free API key. Get one at <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com/apikey</a>. The key is stored only on this device and questions go directly to Google. On the free tier, Google may use conversations to improve its products, so don't share anything private.</p>
-    <div class="list"><div class="item" style="flex-wrap:wrap"><input class="search" id="gkey" type="password" autocomplete="off" spellcheck="false" placeholder="Paste your Gemini API key" value="${esc(s.geminiKey || '')}">
-      <div class="btn-row" style="width:100%"><button class="btn" id="gsave">Save &amp; test</button>${s.geminiKey ? '<button class="btn danger" id="gremove">Remove key</button>' : ''}</div>
-      <small class="muted" id="gstatus">${s.geminiKey ? `Key saved${s.geminiModel ? ` · model ${esc(s.geminiModel)}` : ''}` : 'No key yet'}</small></div></div>
-    <h3 class="section-title">Your progress</h3>
-    <p class="muted small">Progress is saved privately on this device. Export a backup to move it to another phone or browser.</p>
-    <div class="btn-row"><button class="btn" id="export">Export backup</button><button class="btn" id="import">Import backup</button></div>
-    <input type="file" id="file" accept="application/json,.json" hidden>
-    <button class="btn block danger" style="margin-top:12px" id="reset">Reset all progress</button>`;
-  const seg = (id, key, parse) => $(id).addEventListener('click', e => {
+    <p class="footnote">"Narrator" plays the recorded voice (Lewis) where available. For better device voices on iPhone: Settings → Accessibility → Spoken Content → Voices → English.</p>
+    <h2 class="group-label">Philosophy tutor</h2>
+    <div class="list"><a href="#/settings/tutor"><div class="grow"><b>Gemini API key</b></div><span class="trail">${s.geminiKey ? 'Saved' : 'Not set'}</span>${chev}</a></div>
+    <h2 class="group-label">Your progress</h2>
+    <div class="list">
+      <a href="#" id="export"><div class="grow accent">Export backup</div>${icon('share')}</a>
+      <a href="#" id="import"><div class="grow accent">Import backup</div></a>
+    </div>
+    <p class="footnote">Progress is saved privately on this device. Export a backup to move it to another phone or browser.</p>
+    <div class="list" style="margin-top:28px"><a href="#" id="reset"><div class="grow danger-text">Reset all progress</div></a></div>
+    <input type="file" id="file" accept="application/json,.json" hidden>`;
+  const seg = (id, key, parse) => $(id)?.addEventListener('click', e => {
     const b = e.target.closest('button'); if (!b) return;
     store.setSetting(key, parse(b.dataset.v)); applySettings();
     $(id).querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
   });
-  seg('#theme', 'theme', String); seg('#scale', 'textScale', Number); seg('#narrator', 'narrator', String);
-  $('#gsave').onclick = async () => {
+  seg('#theme', 'theme', String); seg('#scale', 'textScale', Number); seg('#narrator', 'narrator', String); seg('#rate', 'ttsRate', Number); seg('#goal', 'dailyGoal', String);
+  $('#gameToggle').onchange = e => {
+    store.setSetting('game', e.target.checked); store.setGame('introDone', true);
+    if (!e.target.checked) markSeen(game());
+    const y = window.scrollY; viewSettings(); afterRender(); window.scrollTo(0, y);
+  };
+  if (tts.supported) {
+    const fill = () => {
+      const voices = tts.englishVoices();
+      $('#voice').innerHTML = `<option value="">Automatic</option>` + voices.map(v => `<option value="${esc(v.voiceURI)}" ${s.ttsVoice === v.voiceURI ? 'selected' : ''}>${esc(v.name)}</option>`).join('');
+    };
+    fill(); tts.onVoicesChanged(() => { if ($('#voice')) fill(); });
+    $('#voice').onchange = e => { store.setSetting('ttsVoice', e.target.value); applySettings(); };
+    $('#testVoice').onclick = e => { e.preventDefault(); tts.speakSample('The unexamined life is not worth living. Welcome to Philosophy in 90 Days.'); };
+  }
+  $('#export').onclick = e => {
+    e.preventDefault();
+    const blob = new Blob([store.exportJSON()], { type: 'application/json' });
+    const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: `philosophy90-backup-${today()}.json` });
+    a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  };
+  $('#import').onclick = e => { e.preventDefault(); $('#file').click(); };
+  $('#file').onchange = async e => {
+    const f = e.target.files[0]; if (!f) return;
+    try { store.importJSON(await f.text()); applySettings(); toast('Progress restored'); } catch { toast('That file is not a valid backup'); }
+  };
+  $('#reset').onclick = e => { e.preventDefault(); if (confirm('Erase all progress, flashcards and notebook entries? This cannot be undone.')) { store.reset(); toast('Progress reset'); } };
+}
+
+function viewTutorSettings() {
+  setChrome({ title: 'Tutor', back: true, tab: 'more' });
+  const s = store.settings();
+  view().innerHTML = `<h1 class="page-title">Tutor</h1>
+    <p class="lede">The tutor (the button at the top right of every lesson) uses Google's Gemini AI with your own free API key.</p>
+    <div class="list"><div class="item"><input class="search" id="gkey" type="password" autocomplete="off" spellcheck="false" placeholder="Paste your Gemini API key" value="${esc(s.geminiKey || '')}"></div>
+      <a href="#" id="gsave"><div class="grow accent">Save &amp; test key</div></a>
+      ${s.geminiKey ? '<a href="#" id="gremove"><div class="grow danger-text">Remove key</div></a>' : ''}</div>
+    <p class="footnote" id="gstatus">${s.geminiKey ? `Key saved${s.geminiModel ? ` · model ${esc(s.geminiModel)}` : ''}` : 'No key yet.'}</p>
+    <h2 class="group-label">Get a free key</h2>
+    <div class="list"><a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener"><div class="grow accent">aistudio.google.com/apikey</div>${chev}</a></div>
+    <p class="footnote">Sign in with a Google account and tap Create API key. The key is stored only on this device, and questions go directly to Google. On the free tier, Google may use conversations to improve its products, so don't share anything private.</p>`;
+  $('#gsave').onclick = async e => {
+    e.preventDefault();
     const key = $('#gkey').value.trim();
     if (!key) { $('#gstatus').textContent = 'Paste a key first.'; return; }
     store.setSetting('geminiKey', key); store.setSetting('geminiModel', '');
@@ -578,28 +755,7 @@ function viewSettings() {
       $('#gstatus').textContent = r.ok ? `✓ Key works · model ${store.settings().geminiModel}` : `✗ Google rejected the key (${r.status})${r.message ? ': ' + r.message : ''}`;
     } catch { $('#gstatus').textContent = "Saved, but couldn't reach Google to test it (are you offline?)."; }
   };
-  if ($('#gremove')) $('#gremove').onclick = () => { store.setSetting('geminiKey', ''); store.setSetting('geminiModel', ''); viewSettings(); toast('Key removed'); };
-  if (tts.supported) {
-    seg('#rate', 'ttsRate', Number);
-    const fill = () => {
-      const voices = tts.englishVoices();
-      $('#voice').innerHTML = `<option value="">Automatic</option>` + voices.map(v => `<option value="${esc(v.voiceURI)}" ${s.ttsVoice === v.voiceURI ? 'selected' : ''}>${esc(v.name)} (${esc(v.lang)})</option>`).join('');
-    };
-    fill(); tts.onVoicesChanged(() => { if ($('#voice')) fill(); });
-    $('#voice').onchange = e => { store.setSetting('ttsVoice', e.target.value); applySettings(); };
-    $('#testVoice').onclick = () => tts.speakSample('The unexamined life is not worth living. Welcome to Philosophy in 90 Days.');
-  }
-  $('#export').onclick = () => {
-    const blob = new Blob([store.exportJSON()], { type: 'application/json' });
-    const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: `philosophy90-backup-${today()}.json` });
-    a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
-  };
-  $('#import').onclick = () => $('#file').click();
-  $('#file').onchange = async e => {
-    const f = e.target.files[0]; if (!f) return;
-    try { store.importJSON(await f.text()); applySettings(); toast('Progress restored'); } catch { toast('That file is not a valid backup'); }
-  };
-  $('#reset').onclick = () => { if (confirm('Erase all progress, flashcards and notebook entries? This cannot be undone.')) { store.reset(); toast('Progress reset'); } };
+  if ($('#gremove')) $('#gremove').onclick = e => { e.preventDefault(); store.setSetting('geminiKey', ''); store.setSetting('geminiModel', ''); viewTutorSettings(); toast('Key removed'); };
 }
 
 function viewAbout() {
