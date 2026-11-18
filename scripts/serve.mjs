@@ -5,11 +5,17 @@ import { join, extname, dirname, normalize } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const app = join(dirname(fileURLToPath(import.meta.url)), '..', 'app');
-const port = Number(process.argv[2] || process.env.PORT || 8080);
+const port = Number(process.argv.find(a => /^\d+$/.test(a)) || process.env.PORT || 8080);
+const dev = process.argv.includes('--dev');
 const types = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.svg': 'image/svg+xml', '.png': 'image/png', '.webmanifest': 'application/manifest+json', '.mp3': 'audio/mpeg' };
 
 export const server = createServer(async (req, res) => {
   let p = decodeURIComponent(new URL(req.url, 'http://x').pathname);
+  if (dev && p.endsWith('/sw.js')) { // dev mode: no offline cache, so every refresh shows the latest files
+    res.writeHead(200, { 'Content-Type': 'text/javascript', 'Cache-Control': 'no-store' })
+      .end("self.addEventListener('install',()=>self.skipWaiting());self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.map(c=>caches.delete(c)))).then(()=>self.registration.unregister())));");
+    return;
+  }
   if (p.endsWith('/')) p += 'index.html';
   const file = normalize(join(app, p));
   if (!file.startsWith(app)) { res.writeHead(403).end(); return; }

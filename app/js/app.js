@@ -92,6 +92,19 @@ const routes = [
   [/^about$/, viewAbout],
 ];
 
+// iOS-style chrome: large titles collapse into the nav bar on scroll; screens slide in.
+function afterRender() {
+  document.body.classList.toggle('large-title', !!view().querySelector('.page-title'));
+  updateTopbar();
+  const v = view();
+  v.classList.remove('enter'); void v.offsetWidth; v.classList.add('enter');
+}
+function updateTopbar() {
+  const t = view().querySelector('.page-title');
+  const threshold = t ? t.offsetTop + t.offsetHeight - 50 : 4;
+  $('#topbar').classList.toggle('scrolled', window.scrollY > threshold);
+}
+
 async function route() {
   const path = location.hash.replace(/^#\/?/, '');
   tts.stop();
@@ -99,7 +112,7 @@ async function route() {
   for (const [re, fn] of routes) {
     const m = path.match(re);
     if (m) {
-      try { await fn(...m.slice(1)); }
+      try { await fn(...m.slice(1)); afterRender(); }
       catch (e) { console.error(e); view().innerHTML = `<div class="empty"><div class="big">🏛️</div><p>${esc(e.message || 'Something went wrong.')}</p><a class="btn" href="#/course">Back to course</a></div>`; }
       window.scrollTo(0, 0);
       return;
@@ -628,7 +641,7 @@ async function boot() {
     if (!tts.isActive() || e.target.closest('a, button, textarea, input, select')) return;
     tts.jumpTo(e.target);
   });
-  window.addEventListener('scroll', () => $('#topbar').classList.toggle('scrolled', window.scrollY > 4), { passive: true });
+  window.addEventListener('scroll', updateTopbar, { passive: true });
   window.addEventListener('hashchange', () => { navs++; route(); });
   try { await loadIndex(); tutor.init({ store, index: INDEX }); }
   catch { view().innerHTML = '<div class="empty"><div class="big">🏛️</div><p>Could not load the course. Check your connection and reload.</p></div>'; return; }

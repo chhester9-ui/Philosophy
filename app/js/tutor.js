@@ -11,6 +11,7 @@ const MAX_TURNS = 20; // messages of history sent with each question
 let deps = null;   // { store, getLesson, index }
 let ctx = null;    // { id, lesson, meta, label } or null for general questions
 let sheet = null;
+let scrim = null;
 let busy = false;
 let abort = null;
 
@@ -139,6 +140,7 @@ export function open(context, prefill = '') {
   if (!sheet) build();
   sheet.querySelector('.sheet-sub').textContent = ctx ? `${ctx.label}: ${ctx.lesson.title}` : 'General questions';
   sheet.hidden = false;
+  scrim.hidden = false;
   document.body.classList.add('sheet-open');
   draw();
   const input = sheet.querySelector('textarea');
@@ -151,6 +153,7 @@ export function close() {
   if (!sheet) return;
   abort?.abort();
   sheet.hidden = true;
+  scrim.hidden = true;
   document.body.classList.remove('sheet-open');
 }
 
@@ -184,6 +187,11 @@ function build() {
       <textarea rows="1" placeholder="Ask about this lesson…" aria-label="Your question"></textarea>
       <button class="send" type="submit" aria-label="Send"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 12l16-8-6 16-2-7-8-1z" fill="currentColor"/></svg></button>
     </form>`;
+  scrim = document.createElement('div');
+  scrim.className = 'sheet-scrim';
+  scrim.hidden = true;
+  scrim.addEventListener('click', close);
+  document.body.appendChild(scrim);
   document.body.appendChild(sheet);
   const input = sheet.querySelector('textarea');
   input.addEventListener('input', () => autoGrow(input));
@@ -208,7 +216,7 @@ function draw(streaming = null) {
   if (!hasKey()) {
     composer.hidden = true;
     chat.innerHTML = `<div class="chat-empty">
-      <div class="big">💬</div>
+      <div class="big"><svg viewBox="0 0 24 24" width="32" height="32" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9.5 9.2a2.5 2.5 0 1 1 3.4 2.3c-.6.3-.9.7-.9 1.3M12 14.6v.1" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></div>
       <h3>Set up your tutor</h3>
       <p>The tutor uses Google's Gemini AI. It's free, but you need your own key (about two minutes, no payment needed):</p>
       <ol><li>Open <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com/apikey</a> and sign in with a Google account.</li><li>Tap <b>Create API key</b> and copy it.</li><li>Paste it in <b>Settings → Philosophy tutor</b>.</li></ol>
