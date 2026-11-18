@@ -535,7 +535,7 @@ function viewSettings() {
     </div>
     ${tts.supported ? `<div class="list" style="margin-top:10px">
       <div class="item"><div class="grow"><b>Voice</b><small>Uses your device's built-in voices</small></div><select id="voice" class="select"></select></div>
-      <div class="item"><div class="grow"><b>Speed</b></div><div class="seg" id="rate">${[0.8, 1, 1.2, 1.4].map(v => `<button data-v="${v}" class="${(s.ttsRate || 1) === v ? 'on' : ''}">${v}×</button>`).join('')}</div></div>
+      <div class="item"><div class="grow"><b>Speed</b></div><div class="seg" id="rate">${[0.8, 1, 1.1, 1.2, 1.4].map(v => `<button data-v="${v}" class="${(s.ttsRate || 1) === v ? 'on' : ''}">${v}×</button>`).join('')}</div></div>
     </div>
     <button class="btn block" style="margin-top:10px" id="testVoice">Play a sample</button>
     <p class="muted small">On iPhone you can download higher-quality voices in Settings → Accessibility → Spoken Content → Voices → English.</p>` : ''}

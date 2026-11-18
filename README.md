@@ -15,7 +15,7 @@ It's an installable web app (PWA). Open it in your phone's browser and add it to
 | **Quiz** | 10 questions (15 on review days), each with an explanation. Score 70% to complete the day |
 | **Go Deeper** | Optional advanced material, discussion questions and real books to read next |
 
-**Listen mode:** tap **Listen** on any lesson step and the app reads it aloud. It highlights each paragraph as it goes, and you can pause, skip, change the speed (0.8×–1.4×), or tap a paragraph to jump there. When one step finishes, it offers to carry on into the next. It uses your phone's built-in voices, so it works offline; you can pick a voice under **More → Settings**.
+**Listen mode:** tap **Listen** on any lesson step and the app reads it aloud. It highlights each paragraph as it goes, and you can pause, skip, change the speed (0.8×, 1×, 1.1×, 1.2× or 1.4×), or tap a paragraph to jump there. When one step finishes, it offers to carry on into the next. It uses your phone's built-in voices, so it works offline; you can pick a voice under **More → Settings**.
 
 **Ask the tutor:** the 💬 button on every lesson opens a chat with an AI philosophy tutor that already knows the lesson you're on. Ask it to explain an idea more simply, give a modern example, raise objections or quiz you. Highlight a passage first to ask about it directly. It runs on Google's Gemini free tier with your own API key (get one at [aistudio.google.com/apikey](https://aistudio.google.com/apikey) and paste it in **More → Settings**). The key stays on your phone and questions go straight to Google. On the free tier, Google may use conversations to improve its products. The app as it was before the tutor is preserved on the `before-chatbot` branch.
 
