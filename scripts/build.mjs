@@ -72,7 +72,9 @@ self.addEventListener('activate', e => {
 });
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
-  if (new URL(e.request.url).pathname.includes('/audio/')) return; // stream narration straight from the network
+  const url = new URL(e.request.url);
+  if (url.origin !== location.origin) return;     // e.g. the tutor's calls to Google
+  if (url.pathname.includes('/audio/')) return;   // stream narration straight from the network
   e.respondWith(caches.match(e.request, { ignoreSearch: true }).then(hit => hit || fetch(e.request)));
 });
 `;

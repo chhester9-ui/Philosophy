@@ -9,6 +9,7 @@ const blank = () => ({
   steps: {},       // lessonId -> [visited step keys]
   cards: {},       // termKey -> { box, due }
   activity: [],    // ISO dates with any completed lesson
+  chats: {},       // lessonId (or 'general') -> [{ role: 'user'|'model', text }]
   settings: { theme: 'auto', textScale: 1 },
   startedAt: null,
 });
@@ -67,6 +68,9 @@ export const store = {
   },
 
   saveJournal(id, text) { state.journal[id] = text; save(); },
+
+  getChat: id => (state.chats || {})[id] || [],
+  saveChat(id, msgs) { state.chats = { ...(state.chats || {}), [id]: msgs.slice(-60) }; save(); },
 
   dueCards() { const t = today(); return Object.entries(state.cards).filter(([, c]) => c.due <= t).map(([k]) => k); },
   gradeCard(key, knewIt) {

@@ -1,6 +1,7 @@
 import { store, termKey, today } from './store.js';
 import { md, inline, esc } from './md.js';
 import * as tts from './speech.js';
+import * as tutor from './tutor.js';
 
 /* ---------- Data ---------- */
 let INDEX = null;
@@ -45,7 +46,11 @@ function toast(msg) {
   clearTimeout(toast.timer); toast.timer = setTimeout(() => (t.hidden = true), 2600);
 }
 
-function setChrome({ title = 'Philosophy in 90 Days', back = false, tab = null, immersive = false } = {}) {
+let askContext = undefined; // lesson context for the tutor button, or null for general questions
+function setChrome({ title = 'Philosophy in 90 Days', back = false, tab = null, immersive = false, ask = undefined } = {}) {
+  askContext = ask;
+  $('#askBtn').hidden = ask === undefined;
+  $('#topbarSpacer').hidden = ask !== undefined;
   $('#topbarTitle').textContent = title;
   $('#backBtn').hidden = !back;
   document.body.classList.toggle('immersive', immersive);
@@ -81,6 +86,7 @@ const routes = [
   [/^advanced$/, viewAdvanced],
   [/^advanced\/([\w-]+)$/, viewTrack],
   [/^more$/, viewMore],
+  [/^ask$/, () => { viewMore(); tutor.open(null); history.replaceState(null, '', '#/more'); }],
   [/^journal$/, viewJournal],
   [/^settings$/, viewSettings],
   [/^about$/, viewAbout],
@@ -89,6 +95,7 @@ const routes = [
 async function route() {
   const path = location.hash.replace(/^#\/?/, '');
   tts.stop();
+  tutor.close();
   for (const [re, fn] of routes) {
     const m = path.match(re);
     if (m) {
@@ -201,6 +208,7 @@ async function viewLesson(id, step) {
   setChrome({ title: label(meta), back: true, immersive: true });
   if (!lessonCache.has(id)) view().innerHTML = '<div class="loading">Loading lesson…</div>';
   const L = await getLesson(id);
+  setChrome({ title: label(meta), back: true, immersive: true, ask: { id, lesson: L, meta, label: label(meta) } });
   store.markStep(id, step);
   const visited = store.stepsVisited(id);
   const done = store.isDone(id);
@@ -495,6 +503,7 @@ function viewMore() {
   setChrome({ title: 'More', tab: 'more' });
   const n = Object.values(store.get().journal).filter(t => t && t.trim()).length;
   view().innerHTML = `<h1 class="page-title">More</h1><div class="list">
+    <a href="#/ask"><span style="font-size:1.3rem">💬</span><div class="grow"><b>Ask the tutor</b><small class="muted" style="display:block">Questions about philosophy in general</small></div>${chev}</a>
     <a href="#/journal"><span style="font-size:1.3rem">📓</span><div class="grow"><b>Notebook</b><small class="muted" style="display:block">${n} reflection${n === 1 ? '' : 's'} written</small></div>${chev}</a>
     <a href="#/glossary"><span style="font-size:1.3rem">📖</span><div class="grow"><b>Glossary</b><small class="muted" style="display:block">${INDEX.glossary.length} terms</small></div>${chev}</a>
     <a href="#/settings"><span style="font-size:1.3rem">⚙️</span><div class="grow"><b>Settings</b><small class="muted" style="display:block">Appearance, backup and reset</small></div>${chev}</a>
@@ -530,6 +539,11 @@ function viewSettings() {
     </div>
     <button class="btn block" style="margin-top:10px" id="testVoice">Play a sample</button>
     <p class="muted small">On iPhone you can download higher-quality voices in Settings → Accessibility → Spoken Content → Voices → English.</p>` : ''}
+    <h3 class="section-title">Philosophy tutor</h3>
+    <p class="muted small">The tutor (the 💬 button on every lesson) uses Google's Gemini AI with your own free API key. Get one at <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com/apikey</a>. The key is stored only on this device and questions go directly to Google. On the free tier, Google may use conversations to improve its products, so don't share anything private.</p>
+    <div class="list"><div class="item" style="flex-wrap:wrap"><input class="search" id="gkey" type="password" autocomplete="off" spellcheck="false" placeholder="Paste your Gemini API key" value="${esc(s.geminiKey || '')}">
+      <div class="btn-row" style="width:100%"><button class="btn" id="gsave">Save &amp; test</button>${s.geminiKey ? '<button class="btn danger" id="gremove">Remove key</button>' : ''}</div>
+      <small class="muted" id="gstatus">${s.geminiKey ? `Key saved${s.geminiModel ? ` · model ${esc(s.geminiModel)}` : ''}` : 'No key yet'}</small></div></div>
     <h3 class="section-title">Your progress</h3>
     <p class="muted small">Progress is saved privately on this device. Export a backup to move it to another phone or browser.</p>
     <div class="btn-row"><button class="btn" id="export">Export backup</button><button class="btn" id="import">Import backup</button></div>
@@ -541,6 +555,17 @@ function viewSettings() {
     $(id).querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
   });
   seg('#theme', 'theme', String); seg('#scale', 'textScale', Number); seg('#narrator', 'narrator', String);
+  $('#gsave').onclick = async () => {
+    const key = $('#gkey').value.trim();
+    if (!key) { $('#gstatus').textContent = 'Paste a key first.'; return; }
+    store.setSetting('geminiKey', key); store.setSetting('geminiModel', '');
+    $('#gstatus').textContent = 'Testing…';
+    try {
+      const r = await tutor.testKey(key);
+      $('#gstatus').textContent = r.ok ? `✓ Key works · model ${store.settings().geminiModel}` : `✗ Google rejected the key (${r.status})${r.message ? ': ' + r.message : ''}`;
+    } catch { $('#gstatus').textContent = "Saved, but couldn't reach Google to test it (are you offline?)."; }
+  };
+  if ($('#gremove')) $('#gremove').onclick = () => { store.setSetting('geminiKey', ''); store.setSetting('geminiModel', ''); viewSettings(); toast('Key removed'); };
   if (tts.supported) {
     seg('#rate', 'ttsRate', Number);
     const fill = () => {
@@ -590,6 +615,11 @@ function applySettings() {
 
 async function boot() {
   applySettings();
+  $('#askBtn').addEventListener('click', () => {
+    // If the learner has highlighted some lesson text, start the question with it.
+    const sel = (window.getSelection()?.toString() || '').trim().slice(0, 600);
+    tutor.open(askContext, sel ? `About this passage: "${sel}"\n\n` : '');
+  });
   let navs = 0;
   $('#backBtn').addEventListener('click', () => { if (navs > 0) history.back(); else location.hash = '#/'; });
   tts.setRateHandler(r => store.setSetting('ttsRate', r));
@@ -600,7 +630,7 @@ async function boot() {
   });
   window.addEventListener('scroll', () => $('#topbar').classList.toggle('scrolled', window.scrollY > 4), { passive: true });
   window.addEventListener('hashchange', () => { navs++; route(); });
-  try { await loadIndex(); }
+  try { await loadIndex(); tutor.init({ store, index: INDEX }); }
   catch { view().innerHTML = '<div class="empty"><div class="big">🏛️</div><p>Could not load the course. Check your connection and reload.</p></div>'; return; }
   route();
   if ('serviceWorker' in navigator && location.protocol !== 'file:') navigator.serviceWorker.register('sw.js').catch(() => {});

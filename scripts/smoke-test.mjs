@@ -117,6 +117,46 @@ try {
   check(state.journal[first.id] === 'My first reflection.', 'journal saved');
   check(Object.keys(state.cards).length > 0, 'vocabulary added to flashcard deck');
 
+  // Tutor chat, against a fake Gemini API.
+  let geminiBody = null;
+  await page.route('https://generativelanguage.googleapis.com/**', async route => {
+    const url = route.request().url();
+    if (url.includes('/models?')) return route.fulfill({ json: { models: [
+      { name: 'models/gemini-2.5-flash', supportedGenerationMethods: ['generateContent'] },
+      { name: 'models/gemini-3.0-flash', supportedGenerationMethods: ['generateContent'] },
+      { name: 'models/gemini-3.0-flash-lite', supportedGenerationMethods: ['generateContent'] },
+      { name: 'models/gemini-3.0-pro', supportedGenerationMethods: ['generateContent'] },
+    ] } });
+    geminiBody = { url, body: JSON.parse(route.request().postData()) };
+    const chunk = t => `data: ${JSON.stringify({ candidates: [{ content: { parts: [{ text: t }] } }] })}\r\n\r\n`;
+    return route.fulfill({ status: 200, contentType: 'text/event-stream', body: chunk('**Logos** means ') + chunk('reason or account.') });
+  });
+  await page.goto(base + `#/lesson/${first.id}/learn`);
+  await page.waitForSelector('#askBtn:not([hidden])');
+  await page.click('#askBtn');
+  check(await page.locator('.chat-empty h3').textContent() === 'Set up your tutor', 'tutor asks for a key when none is set');
+  await page.click('[data-a="settings"]');
+  await page.waitForSelector('#gkey');
+  await page.fill('#gkey', 'test-key');
+  await page.click('#gsave');
+  await page.waitForFunction(() => /Key works/.test(document.querySelector('#gstatus').textContent));
+  check((await page.textContent('#gstatus')).includes('gemini-3.0-flash'), 'tutor picks the newest Flash model');
+  await page.goto(base + `#/lesson/${first.id}/learn`);
+  await page.waitForSelector('#askBtn:not([hidden])');
+  await page.click('#askBtn');
+  await page.waitForSelector('.chip');
+  await snap('10-tutor-empty');
+  await page.click('.chip');
+  await page.waitForFunction(() => /reason or account/.test(document.querySelector('.msg.model:last-child')?.textContent || ''));
+  check(geminiBody.url.includes('gemini-3.0-flash:streamGenerateContent'), 'question is sent to Gemini (streaming)');
+  check(geminiBody.body.systemInstruction.parts[0].text.includes(lesson.title), 'tutor is given the current lesson as context');
+  check(await page.locator('.msg.model strong').count() === 1, 'answer renders formatting');
+  await snap('11-tutor-answer');
+  await page.reload();
+  await page.click('#askBtn');
+  check(await page.locator('.msg.user').count() === 1, 'conversation is saved per lesson');
+  await page.click('[data-a="close"]');
+
   await page.goto(base + '#/course');
   await page.waitForSelector('.lesson-row.done');
   check(true, 'course map shows completed lesson');
