@@ -15,6 +15,8 @@ It's an installable web app (PWA). Open it in your phone's browser and add it to
 | **Quiz** | 10 questions (15 on review days), each with an explanation. Score 70% to complete the day |
 | **Go Deeper** | Optional advanced material, discussion questions and real books to read next |
 
+**Listen mode:** tap **Listen** on any lesson step and the app reads it aloud. It highlights each paragraph as it goes, and you can pause, skip, change the speed (0.8×–1.4×), or tap a paragraph to jump there. When one step finishes, it offers to carry on into the next. It uses your phone's built-in voices, so it works offline; you can pick a voice under **More → Settings**.
+
 There are also review days at the end of each era, a spaced-repetition flashcard deck that grows as you finish lessons, a mixed practice quiz drawn from the lessons you've finished, a searchable glossary, streaks, dark mode, adjustable text size, and backup export/import.
 
 ## Course map

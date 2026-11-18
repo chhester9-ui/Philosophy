@@ -18,6 +18,19 @@ await new Promise(r => server.listen(0, r));
 const base = `http://localhost:${server.address().port}/`;
 const browser = await chromium.launch();
 const ctx = await browser.newContext({ ...devices['iPhone 13'] });
+// Headless Chromium has no voices, so stand in a fake speech engine that records what is spoken.
+await ctx.addInitScript(() => {
+  window.__spoken = [];
+  class U { constructor(t) { this.text = t; } }
+  window.SpeechSynthesisUtterance = U;
+  let timer = null, current = null;
+  Object.defineProperty(window, 'speechSynthesis', { value: {
+    speak(u) { current = u; window.__spoken.push(u.text); timer = setTimeout(() => { current = null; u.onend && u.onend(); }, 15); },
+    cancel() { clearTimeout(timer); if (current) { const u = current; current = null; u.onerror && u.onerror({ error: 'interrupted' }); } },
+    getVoices: () => [{ name: 'Test Voice', lang: 'en-US', voiceURI: 'test', localService: true }],
+    addEventListener() {}, onvoiceschanged: null,
+  } });
+});
 const page = await ctx.newPage();
 const errors = [];
 page.on('pageerror', e => errors.push(e.message));
@@ -36,6 +49,27 @@ try {
   await page.waitForSelector('.lesson-head h2');
   check((await page.locator('.prose h3').count()) === lesson.sections.length, 'lesson sections render');
   await snap('02-lesson');
+
+  // Read aloud: play, pause, then let it run to the end of the Modern Lens step.
+  await page.click('#listen');
+  await page.waitForSelector('.player .play-btn');
+  await page.waitForSelector('.reading');
+  check((await page.evaluate(() => window.__spoken[0])).includes(lesson.title), 'read-aloud starts with the lesson title');
+  await snap('02b-listening');
+  await page.click('.player [data-a="toggle"]');
+  check(/Paused/.test(await page.textContent('.player-label b')), 'read-aloud pauses');
+  await page.click('.player [data-a="close"]');
+  check(await page.locator('.player').isHidden(), 'player closes');
+  await page.click('.steps button[data-step="modern"]');
+  await page.waitForFunction(() => location.hash.endsWith('modern'));
+  await page.click('#listen');
+  await page.waitForSelector('.player [data-a="end"]', { timeout: 20000 });
+  check((await page.textContent('.player [data-a="end"]')).includes('Vocabulary'), 'player offers to continue to the next step');
+  await page.click('.player [data-a="end"]');
+  await page.waitForFunction(() => location.hash.endsWith('words'));
+  await page.waitForSelector('.vocab.reading');
+  check(true, 'continuing auto-plays the next step');
+  await page.click('.player [data-a="close"]');
 
   for (const step of ['modern', 'words', 'reflect']) {
     await page.click(`.steps button[data-step="${step}"]`);

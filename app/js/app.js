@@ -1,5 +1,6 @@
 import { store, termKey, today } from './store.js';
 import { md, inline, esc } from './md.js';
+import * as tts from './speech.js';
 
 /* ---------- Data ---------- */
 let INDEX = null;
@@ -87,6 +88,7 @@ const routes = [
 
 async function route() {
   const path = location.hash.replace(/^#\/?/, '');
+  tts.stop();
   for (const [re, fn] of routes) {
     const m = path.match(re);
     if (m) {
@@ -191,6 +193,7 @@ function lessonRow(x, next) {
 }
 
 /* ---------- Lesson ---------- */
+let autoplay = false; // set when the player continues into the next lesson step
 async function viewLesson(id, step) {
   const meta = INDEX.byId.get(id);
   if (!meta) throw new Error('Lesson not found');
@@ -252,13 +255,27 @@ async function viewLesson(id, step) {
       <h3 class="section-title">Further reading</h3><div class="list">${g.readings.map(r => `<div class="item"><div class="grow"><b>${inline(r.title)}</b><small>${esc(r.author)}${r.note ? ' — ' + inline(r.note) : ''}</small></div></div>`).join('')}</div>`;
   }
 
+  const listen = tts.supported && step !== 'quiz'
+    ? `<button class="btn listen-btn" id="listen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>Listen${step === 'learn' ? ` · ~${Math.round(mins.learn * 1.15)} min` : ''}</button>` : '';
   const nav = `<div class="step-nav">${prev ? `<a class="btn" href="#/lesson/${id}/${prev.key}">← ${prev.label}</a>` : ''}${next ? `<a class="btn primary" href="#/lesson/${id}/${next.key}">${next.label} →</a>` : `<a class="btn primary" href="${nextAfter(meta)}">${meta.track ? 'Back to track' : 'Back to today'}</a>`}</div>`;
-  view().innerHTML = tabs + body + (step === 'quiz' ? '' : nav);
+  view().innerHTML = tabs + listen + body + (step === 'quiz' ? '' : nav);
 
   view().querySelectorAll('.steps button').forEach(b => b.addEventListener('click', () => { location.hash = `#/lesson/${id}/${b.dataset.step}`; window.scrollTo(0, 0); }));
   const active = view().querySelector('.steps button.active');
   active?.scrollIntoView({ inline: 'center', block: 'nearest' });
   window.scrollTo(0, 0);
+
+  if (listen) {
+    const play = () => {
+      tts.setEndAction(next ? (next.key === 'quiz'
+        ? { label: 'Take the quiz', run: () => { location.hash = `#/lesson/${id}/quiz`; } }
+        : { label: `Listen: ${next.label}`, run: () => { autoplay = true; location.hash = `#/lesson/${id}/${next.key}`; } }) : null);
+      tts.start(view());
+    };
+    $('#listen').addEventListener('click', play);
+    if (autoplay) { autoplay = false; play(); }
+  }
+  autoplay = false;
 
   if (step === 'reflect') {
     const ta = $('#journal');
@@ -491,6 +508,13 @@ function viewSettings() {
       <div class="item"><div class="grow"><b>Theme</b></div><div class="seg" id="theme">${['auto', 'light', 'dark'].map(t => `<button data-v="${t}" class="${s.theme === t ? 'on' : ''}">${t[0].toUpperCase() + t.slice(1)}</button>`).join('')}</div></div>
       <div class="item"><div class="grow"><b>Text size</b></div><div class="seg" id="scale">${[[0.9, 'S'], [1, 'M'], [1.12, 'L'], [1.25, 'XL']].map(([v, l]) => `<button data-v="${v}" class="${s.textScale === v ? 'on' : ''}">${l}</button>`).join('')}</div></div>
     </div>
+    ${tts.supported ? `<h3 class="section-title">Read aloud</h3>
+    <div class="list">
+      <div class="item"><div class="grow"><b>Voice</b><small>Uses your device's built-in voices</small></div><select id="voice" class="select"></select></div>
+      <div class="item"><div class="grow"><b>Speed</b></div><div class="seg" id="rate">${[0.8, 1, 1.2, 1.4].map(v => `<button data-v="${v}" class="${(s.ttsRate || 1) === v ? 'on' : ''}">${v}×</button>`).join('')}</div></div>
+    </div>
+    <button class="btn block" style="margin-top:10px" id="testVoice">Play a sample</button>
+    <p class="muted small">On iPhone you can download higher-quality voices in Settings → Accessibility → Spoken Content → Voices → English.</p>` : ''}
     <h3 class="section-title">Your progress</h3>
     <p class="muted small">Progress is saved privately on this device. Export a backup to move it to another phone or browser.</p>
     <div class="btn-row"><button class="btn" id="export">Export backup</button><button class="btn" id="import">Import backup</button></div>
@@ -502,6 +526,16 @@ function viewSettings() {
     $(id).querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
   });
   seg('#theme', 'theme', String); seg('#scale', 'textScale', Number);
+  if (tts.supported) {
+    seg('#rate', 'ttsRate', Number);
+    const fill = () => {
+      const voices = tts.englishVoices();
+      $('#voice').innerHTML = `<option value="">Automatic</option>` + voices.map(v => `<option value="${esc(v.voiceURI)}" ${s.ttsVoice === v.voiceURI ? 'selected' : ''}>${esc(v.name)} (${esc(v.lang)})</option>`).join('');
+    };
+    fill(); tts.onVoicesChanged(() => { if ($('#voice')) fill(); });
+    $('#voice').onchange = e => { store.setSetting('ttsVoice', e.target.value); applySettings(); };
+    $('#testVoice').onclick = () => tts.speakSample('The unexamined life is not worth living. Welcome to Philosophy in 90 Days.');
+  }
   $('#export').onclick = () => {
     const blob = new Blob([store.exportJSON()], { type: 'application/json' });
     const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: `philosophy90-backup-${today()}.json` });
@@ -536,12 +570,19 @@ function applySettings() {
   if (s.theme === 'auto') document.documentElement.removeAttribute('data-theme');
   else document.documentElement.dataset.theme = s.theme;
   document.documentElement.style.setProperty('--text-scale', s.textScale || 1);
+  tts.configure({ rate: s.ttsRate || 1, voice: s.ttsVoice || '' });
 }
 
 async function boot() {
   applySettings();
   let navs = 0;
   $('#backBtn').addEventListener('click', () => { if (navs > 0) history.back(); else location.hash = '#/'; });
+  tts.setRateHandler(r => store.setSetting('ttsRate', r));
+  // While listening, tap any paragraph to jump the reader there.
+  view().addEventListener('click', e => {
+    if (!tts.isActive() || e.target.closest('a, button, textarea, input, select')) return;
+    tts.jumpTo(e.target);
+  });
   window.addEventListener('scroll', () => $('#topbar').classList.toggle('scrolled', window.scrollY > 4), { passive: true });
   window.addEventListener('hashchange', () => { navs++; route(); });
   try { await loadIndex(); }
