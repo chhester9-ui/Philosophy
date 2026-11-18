@@ -16,7 +16,7 @@ const lesson = JSON.parse(readFileSync(join(root, 'app/content/lessons', `${firs
 
 await new Promise(r => server.listen(0, r));
 const base = `http://localhost:${server.address().port}/`;
-const browser = await chromium.launch();
+const browser = await chromium.launch({ args: ['--autoplay-policy=no-user-gesture-required'] });
 const ctx = await browser.newContext({ ...devices['iPhone 13'] });
 // Headless Chromium has no voices, so stand in a fake speech engine that records what is spoken.
 await ctx.addInitScript(() => {
@@ -49,6 +49,22 @@ try {
   await page.waitForSelector('.lesson-head h2');
   check((await page.locator('.prose h3').count()) === lesson.sections.length, 'lesson sections render');
   await snap('02-lesson');
+
+  // Recorded narration (only if this lesson has been recorded).
+  if (first.audio) {
+    await page.click('#listen');
+    await page.waitForFunction(() => /Narration/.test(document.querySelector('.player-label b')?.textContent || ''));
+    await page.waitForFunction(() => /^0:0[1-9]/.test(document.querySelector('.player-label small')?.textContent || ''), null, { timeout: 15000 });
+    check(true, 'recorded narration plays and the clock advances');
+    await page.click('.player [data-a="next"]'); await page.click('.player [data-a="next"]'); await page.click('.player [data-a="next"]');
+    const sec = await page.evaluate(() => document.querySelector('.player-label small').textContent);
+    check(/^0:(0[5-9]|[1-5]\d)|^[1-9]:/.test(sec), `skip jumps ahead by paragraph (${sec})`);
+    check(await page.locator('.prose .reading').count() === 1, 'narrated paragraph is highlighted');
+    await snap('02a-narration');
+    await page.click('.player [data-a="close"]');
+    await page.evaluate(() => { const s = JSON.parse(localStorage.getItem('phil90:v1') || '{}'); s.settings = { ...(s.settings || {}), narrator: 'device' }; localStorage.setItem('phil90:v1', JSON.stringify(s)); });
+    await page.reload(); await page.waitForSelector('#listen');
+  }
 
   // Read aloud: play, pause, then let it run to the end of the Modern Lens step.
   await page.click('#listen');
