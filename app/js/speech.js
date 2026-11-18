@@ -1,11 +1,16 @@
-// Read-aloud for lessons, using the device's built-in text-to-speech (Web Speech API).
-// Works offline on iPhone, Android and desktop browsers. Text is spoken in short
-// chunks because some engines cut off long utterances.
+// Read-aloud for lessons. Two modes:
+//  - 'audio': a pre-recorded narration (app/audio/<id>.mp3 + timings JSON) for the main reading.
+//    Plays in the background and from the lock screen.
+//  - 'tts': the device's built-in text-to-speech (Web Speech API) for everything else, or as a
+//    fallback. Text is spoken in short chunks because some engines cut off long utterances.
 
 const synth = typeof window !== 'undefined' ? window.speechSynthesis : null;
 export const supported = !!(synth && typeof SpeechSynthesisUtterance !== 'undefined');
 
 // Elements that get read, in document order. Nested matches are skipped so text isn't read twice.
+// The main reading (what the recorded narration covers). Keep in sync with scripts/record_audio.py.
+const NARRATION = '.lesson-head h2, .lesson-head .subtitle, .prose h3, .prose p, .prose li, .prose .quote';
+
 const READABLE = [
   '.lesson-head h2', '.lesson-head .subtitle',
   '.objectives h4', '.objectives li',
@@ -21,10 +26,15 @@ let state = 'idle';      // idle | playing | paused
 let token = 0;           // invalidates callbacks from cancelled utterances
 let onEndCb = null;
 let bar = null;
+let mode = 'tts';        // 'tts' | 'audio'
+let audio = null;        // HTMLAudioElement for recorded narration
+let timings = [];        // start time (s) of each narration segment
+let media = null;        // { title, album } for the lock screen
 
 export function configure(s) {
   settings = { ...settings, ...s };
-  if (state === 'playing') { speakCurrent(); }
+  if (mode === 'audio') { if (audio) audio.playbackRate = settings.rate || 1; }
+  else if (state === 'playing') { speakCurrent(); }
 }
 
 export function englishVoices() {
@@ -73,14 +83,25 @@ function chunk(text, max = 220) {
   return out;
 }
 
-function collect(root) {
-  const all = [...root.querySelectorAll(READABLE)];
+function topLevel(root, sel) {
+  const all = [...root.querySelectorAll(sel)];
   const set = new Set(all);
-  return all
-    .filter(el => { for (let p = el.parentElement; p && p !== root; p = p.parentElement) if (set.has(p)) return false; return true; })
-    .map(el => ({ el, chunks: chunk(textOf(el)) }))
-    .filter(x => x.chunks.length);
+  return all.filter(el => { for (let p = el.parentElement; p && p !== root; p = p.parentElement) if (set.has(p)) return false; return true; })
+    .filter(el => textOf(el));
 }
+function collect(root) {
+  return topLevel(root, READABLE).map(el => ({ el, chunks: chunk(textOf(el)) })).filter(x => x.chunks.length);
+}
+
+// Segments of the main reading, used both to record narration and to line it up on playback.
+export function narrationSegments(root) {
+  return topLevel(root, NARRATION).map(el => ({
+    type: el.matches('h2') ? 'title' : el.matches('.subtitle') ? 'subtitle' : el.matches('h3') ? 'heading'
+      : el.matches('.quote') ? 'quote' : el.matches('li') ? 'item' : 'para',
+    text: textOf(el),
+  }));
+}
+if (typeof window !== 'undefined') window.__narration = () => narrationSegments(document.querySelector('#view'));
 
 function highlight() {
   document.querySelectorAll('.reading').forEach(e => e.classList.remove('reading'));
@@ -116,7 +137,9 @@ function advance() {
 
 function finish() {
   token++;
-  synth.cancel();
+  if (synth) synth.cancel();
+  if (audio) audio.pause();
+  mode = 'tts';
   state = 'idle';
   document.querySelectorAll('.reading').forEach(e => e.classList.remove('reading'));
   const cb = onEndCb;
@@ -127,6 +150,8 @@ function finish() {
 /* ---------- Public controls ---------- */
 export function start(root, { onEnd = null, fromEl = null } = {}) {
   if (!supported) return;
+  if (audio) audio.pause();
+  mode = 'tts';
   queue = collect(root);
   onEndCb = onEnd;
   pos = { i: 0, c: 0 };
@@ -135,27 +160,101 @@ export function start(root, { onEnd = null, fromEl = null } = {}) {
   speakCurrent();
 }
 export function toggle() {
+  if (mode === 'audio') {
+    if (state === 'playing') { audio.pause(); } else if (state === 'paused') { audio.play().catch(() => {}); }
+    return;
+  }
   if (state === 'playing') { state = 'paused'; token++; synth.cancel(); render(); }
   else if (state === 'paused') { state = 'playing'; speakCurrent(); }
 }
 export function skip(dir) {
   if (state === 'idle') return;
   pos = { i: Math.max(0, Math.min(queue.length - 1, pos.i + dir)), c: 0 };
+  if (mode === 'audio') { audio.currentTime = timings[pos.i] + 0.01; highlight(); render(); return; }
   if (state === 'playing') speakCurrent(); else { highlight(); render(); }
 }
 export function jumpTo(el) {
   const k = queue.findIndex(q => q.el === el || q.el.contains(el));
   if (k < 0) return false;
-  pos = { i: k, c: 0 }; state = 'playing'; speakCurrent();
+  pos = { i: k, c: 0 };
+  if (mode === 'audio') { audio.currentTime = timings[k] + 0.01; if (audio.paused) audio.play().catch(() => {}); highlight(); render(); return true; }
+  state = 'playing'; speakCurrent();
   return true;
 }
 export function stop() {
-  if (!supported) return;
-  token++; synth.cancel(); state = 'idle'; queue = []; onEndCb = null;
+  token++; if (synth) synth.cancel(); if (audio) audio.pause();
+  mode = 'tts'; state = 'idle'; queue = []; onEndCb = null;
   document.querySelectorAll('.reading').forEach(e => e.classList.remove('reading'));
   render();
 }
 export const isActive = () => state !== 'idle';
+
+/* ---------- Recorded narration ---------- */
+// Plays app/audio/<id>.mp3, highlighting paragraphs from its timings. Returns false if the
+// recording doesn't line up with the page (e.g. the lesson text changed), so the caller can
+// fall back to the device voice.
+export function startRecording(root, { src, meta, title, album, onEnd = null, onError = null }) {
+  const els = topLevel(root, NARRATION);
+  if (!meta || !Array.isArray(meta.segments) || meta.segments.length !== els.length) return false;
+  stop();
+  if (!audio) {
+    audio = new Audio();
+    audio.preload = 'auto';
+    audio.addEventListener('timeupdate', () => {
+      if (mode !== 'audio') return;
+      const t = audio.currentTime;
+      let i = 0; while (i + 1 < timings.length && timings[i + 1] <= t + 0.05) i++;
+      if (i !== pos.i) { pos.i = i; highlight(); }
+      render();
+    });
+    audio.addEventListener('play', () => { if (mode === 'audio') { state = 'playing'; render(); setMediaState(); } });
+    audio.addEventListener('pause', () => { if (mode === 'audio' && state !== 'idle' && !audio.ended) { state = 'paused'; render(); setMediaState(); } });
+    audio.addEventListener('ended', () => { if (mode === 'audio') finish(); });
+    audio.addEventListener('error', () => {
+      if (mode !== 'audio') return;
+      const at = pos.i, cb = audio.__onError; mode = 'tts'; state = 'idle'; render();
+      cb?.(at);
+    });
+  }
+  audio.__onError = onError;
+  mode = 'audio';
+  timings = meta.segments;
+  queue = els.map(el => ({ el, chunks: [] }));
+  pos = { i: 0, c: 0 };
+  onEndCb = onEnd;
+  media = { title, album };
+  audio.src = src;
+  audio.playbackRate = settings.rate || 1;
+  audio.defaultPlaybackRate = settings.rate || 1;
+  state = 'playing';
+  highlight(); render(); setupMediaSession();
+  audio.play().catch(() => { state = 'paused'; render(); });
+  return true;
+}
+// Continue with the device voice from a given paragraph (used when the recording can't load).
+export function startFrom(root, index, opts = {}) {
+  start(root, opts);
+  const el = topLevel(root, NARRATION)[index];
+  if (el) jumpTo(el);
+}
+
+function setupMediaSession() {
+  if (!('mediaSession' in navigator) || typeof MediaMetadata === 'undefined') return;
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: media?.title || 'Philosophy in 90 Days', artist: 'Philosophy in 90 Days', album: media?.album || '',
+    artwork: [{ src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' }],
+  });
+  const h = (a, f) => { try { navigator.mediaSession.setActionHandler(a, f); } catch { /* unsupported action */ } };
+  h('play', () => audio?.play());
+  h('pause', () => audio?.pause());
+  h('previoustrack', () => skip(-1));
+  h('nexttrack', () => skip(1));
+  h('seekbackward', e => { if (audio) audio.currentTime = Math.max(0, audio.currentTime - (e.seekOffset || 15)); });
+  h('seekforward', e => { if (audio) audio.currentTime = Math.min(audio.duration || 1e9, audio.currentTime + (e.seekOffset || 15)); });
+}
+function setMediaState() {
+  if ('mediaSession' in navigator) navigator.mediaSession.playbackState = state === 'playing' ? 'playing' : 'paused';
+}
 export function speakSample(text) {
   if (!supported) return;
   stop();
@@ -195,7 +294,8 @@ function render(ended = false) {
       else if (a === 'close') { endAction = null; stop(); }
       else if (a === 'rate') {
         const r = RATES[(RATES.indexOf(settings.rate) + 1) % RATES.length] || 1;
-        settings.rate = r; rateHandler?.(r); render(); if (state === 'playing') speakCurrent();
+        settings.rate = r; rateHandler?.(r); render();
+        if (mode === 'audio') audio.playbackRate = r; else if (state === 'playing') speakCurrent();
       } else if (a === 'end' && endAction) { const run = endAction.run; endAction = null; run(); }
     });
   }
@@ -222,9 +322,13 @@ function render(ended = false) {
   }
   // Update in place so buttons are never swapped out from under a tap.
   const total = queue.length, playing = state === 'playing';
-  bar.querySelector('.player-label b').textContent = playing ? 'Reading aloud' : 'Paused';
-  bar.querySelector('.player-label small').textContent = `${Math.min(pos.i + 1, total)} of ${total}`;
-  bar.querySelector('.player-progress i').style.width = `${total ? ((pos.i + 1) / total) * 100 : 0}%`;
+  const fmt = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
+  const rec = mode === 'audio' && audio;
+  bar.querySelector('.player-label b').textContent = playing ? (rec ? 'Narration' : 'Reading aloud') : 'Paused';
+  bar.querySelector('.player-label small').textContent = rec && audio.duration
+    ? `${fmt(audio.currentTime)} / ${fmt(audio.duration)}` : `${Math.min(pos.i + 1, total)} of ${total}`;
+  bar.querySelector('.player-progress i').style.width = rec && audio.duration
+    ? `${(audio.currentTime / audio.duration) * 100}%` : `${total ? ((pos.i + 1) / total) * 100 : 0}%`;
   const t = bar.querySelector('.play-btn');
   if (t.dataset.s !== state) { t.dataset.s = state; t.innerHTML = playing ? ICON.pause : ICON.play; t.setAttribute('aria-label', playing ? 'Pause' : 'Play'); }
   bar.querySelector('.rate-btn').textContent = `${settings.rate}×`;
@@ -232,5 +336,5 @@ function render(ended = false) {
 
 // Some engines (notably Chrome) stall if the page is hidden mid-speech; pause cleanly instead.
 if (supported) document.addEventListener('visibilitychange', () => {
-  if (document.hidden && state === 'playing' && !/iPhone|iPad|iPod/.test(navigator.userAgent)) toggle();
+  if (document.hidden && mode === 'tts' && state === 'playing' && !/iPhone|iPad|iPod/.test(navigator.userAgent)) toggle();
 });

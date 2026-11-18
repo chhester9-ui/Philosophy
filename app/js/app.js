@@ -205,6 +205,11 @@ async function viewLesson(id, step) {
   const visited = store.stepsVisited(id);
   const done = store.isDone(id);
   const mins = stepMinutes(L);
+  // Recorded narration for the main reading, if available and the narrator setting allows it.
+  let rec = null;
+  if (step === 'learn' && meta.audio && store.settings().narrator !== 'device') {
+    try { rec = await (await fetch(`audio/${id}.json`)).json(); } catch { rec = null; }
+  }
   const idx = STEPS.findIndex(s => s.key === step);
   const prev = STEPS[idx - 1], next = STEPS[idx + 1];
 
@@ -255,8 +260,8 @@ async function viewLesson(id, step) {
       <h3 class="section-title">Further reading</h3><div class="list">${g.readings.map(r => `<div class="item"><div class="grow"><b>${inline(r.title)}</b><small>${esc(r.author)}${r.note ? ' — ' + inline(r.note) : ''}</small></div></div>`).join('')}</div>`;
   }
 
-  const listen = tts.supported && step !== 'quiz'
-    ? `<button class="btn listen-btn" id="listen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>Listen${step === 'learn' ? ` · ~${Math.round(mins.learn * 1.15)} min` : ''}</button>` : '';
+  const listen = (tts.supported || rec) && step !== 'quiz'
+    ? `<button class="btn listen-btn" id="listen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>${rec ? 'Listen to narration' : 'Listen'}${step === 'learn' ? ` · ${rec ? Math.round(rec.duration / 60) : '~' + Math.round(mins.learn * 1.15)} min` : ''}</button>` : '';
   const nav = `<div class="step-nav">${prev ? `<a class="btn" href="#/lesson/${id}/${prev.key}">← ${prev.label}</a>` : ''}${next ? `<a class="btn primary" href="#/lesson/${id}/${next.key}">${next.label} →</a>` : `<a class="btn primary" href="${nextAfter(meta)}">${meta.track ? 'Back to track' : 'Back to today'}</a>`}</div>`;
   view().innerHTML = tabs + listen + body + (step === 'quiz' ? '' : nav);
 
@@ -270,6 +275,13 @@ async function viewLesson(id, step) {
       tts.setEndAction(next ? (next.key === 'quiz'
         ? { label: 'Take the quiz', run: () => { location.hash = `#/lesson/${id}/quiz`; } }
         : { label: `Listen: ${next.label}`, run: () => { autoplay = true; location.hash = `#/lesson/${id}/${next.key}`; } }) : null);
+      if (rec) {
+        const ok = tts.startRecording(view(), {
+          src: `audio/${id}.mp3`, meta: rec, title: L.title, album: label(meta),
+          onError: at => tts.startFrom(view(), at),
+        });
+        if (ok) return;
+      }
       tts.start(view());
     };
     $('#listen').addEventListener('click', play);
@@ -508,8 +520,11 @@ function viewSettings() {
       <div class="item"><div class="grow"><b>Theme</b></div><div class="seg" id="theme">${['auto', 'light', 'dark'].map(t => `<button data-v="${t}" class="${s.theme === t ? 'on' : ''}">${t[0].toUpperCase() + t.slice(1)}</button>`).join('')}</div></div>
       <div class="item"><div class="grow"><b>Text size</b></div><div class="seg" id="scale">${[[0.9, 'S'], [1, 'M'], [1.12, 'L'], [1.25, 'XL']].map(([v, l]) => `<button data-v="${v}" class="${s.textScale === v ? 'on' : ''}">${l}</button>`).join('')}</div></div>
     </div>
-    ${tts.supported ? `<h3 class="section-title">Read aloud</h3>
+    <h3 class="section-title">Read aloud</h3>
     <div class="list">
+      <div class="item"><div class="grow"><b>Main reading</b><small>Recorded narrator (Lewis) or your device's voice</small></div><div class="seg" id="narrator">${[['recorded', 'Narrator'], ['device', 'Device']].map(([v, l]) => `<button data-v="${v}" class="${(s.narrator || 'recorded') === v ? 'on' : ''}">${l}</button>`).join('')}</div></div>
+    </div>
+    ${tts.supported ? `<div class="list" style="margin-top:10px">
       <div class="item"><div class="grow"><b>Voice</b><small>Uses your device's built-in voices</small></div><select id="voice" class="select"></select></div>
       <div class="item"><div class="grow"><b>Speed</b></div><div class="seg" id="rate">${[0.8, 1, 1.2, 1.4].map(v => `<button data-v="${v}" class="${(s.ttsRate || 1) === v ? 'on' : ''}">${v}×</button>`).join('')}</div></div>
     </div>
@@ -525,7 +540,7 @@ function viewSettings() {
     store.setSetting(key, parse(b.dataset.v)); applySettings();
     $(id).querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
   });
-  seg('#theme', 'theme', String); seg('#scale', 'textScale', Number);
+  seg('#theme', 'theme', String); seg('#scale', 'textScale', Number); seg('#narrator', 'narrator', String);
   if (tts.supported) {
     seg('#rate', 'ttsRate', Number);
     const fill = () => {
